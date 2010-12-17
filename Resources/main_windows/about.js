@@ -1,5 +1,5 @@
 var win = Titanium.UI.currentWindow;
-win.backgroundColor = '#efefef';
+win.backgroundColor = '#dedede';
 //win.barColor = '#000';
 
 

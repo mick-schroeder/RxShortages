@@ -1,8 +1,8 @@
 var win = Titanium.UI.currentWindow;
-win.backgroundColor = '#efefef';
+win.backgroundColor = '#dedede';
 
 var fda = Titanium.UI.createLabel({
-	color:'#000',
+	color:'#666',
 	text:'Report to FDA:',
 	top:20,
 	left:10,
@@ -19,7 +19,8 @@ var b1 = Titanium.UI.createButton({
 	top:55,
 	borderWidth: 1,
 	borderRadius: 10,
-	borderColor: "#999"
+	color: '#323337',
+	borderColor: "#c1c1c1",
 });
 
 win.add(b1);
