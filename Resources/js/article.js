@@ -21,7 +21,7 @@ Titanium.Yahoo.yql('select * from html where url=\"' + win.theUrl + '\" and xpat
 	var button = Ti.UI.createButton({
 		title:'View Full Article'
 	});
-//	win.setToolbar([button]);
+	win.setToolbar([button]);
 
 	button.addEventListener('click', function() {
 		Titanium.Platform.openURL(win.theUrl);

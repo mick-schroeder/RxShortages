@@ -10,7 +10,7 @@ var homeWindow = Ti.UI.createWindow({
     title:'Rx Shortages',
 	//tabBarHidden: true, 
 	url : 'main_windows/blogs.js',
-	//barColor : '#333',
+	barColor:'#336699'
 	});
 
 var homeTab = Ti.UI.createTab({  
@@ -22,7 +22,8 @@ var homeTab = Ti.UI.createTab({
 // Report Tab
 var reportWindow = Ti.UI.createWindow({
 	title : "Report Drug Shortage",
-	url : 'main_windows/report.js'
+	url : 'main_windows/report.js',
+	barColor:'#336699'
 });
 
 var reportTab = Ti.UI.createTab({
@@ -34,7 +35,8 @@ var reportTab = Ti.UI.createTab({
 // About Tab
 var aboutWindow = Ti.UI.createWindow({
 	title : "About",
-	url : 'main_windows/about.js'
+	url : 'main_windows/about.js',
+	barColor:'#336699'
 });
 
 var aboutTab = Ti.UI.createTab({

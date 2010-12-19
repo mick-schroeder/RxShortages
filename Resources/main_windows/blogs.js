@@ -26,7 +26,8 @@ tableView.addEventListener('click', function(e) {
 		var newWindow = Titanium.UI.createWindow({
 			url : e.rowData.path,
 			title : e.rowData.title,
-			barColor : data[e.index].col,
+			barColor:'#336699'
+			
 	});
 	
 		Ti.App.Properties.setString('websiteName', e.rowData.title); 
