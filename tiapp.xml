@@ -2,7 +2,7 @@
 <ti:app xmlns:ti="http://ti.appcelerator.org">
 <id>com.mickschroeder.RxShortages</id>
 <name>RxShortages</name>
-<version>1.0</version>
+<version>1.01</version>
 <publisher>Michael Schroeder</publisher>
 <url>http://mickschroeder.com</url>
 <description>Rx Shortages is designed to help health care providers access information about drug shortages quickly and easily.</description>

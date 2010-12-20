@@ -2,6 +2,7 @@
  * This page lists all the Tuts sites. 
 */
 //Ti.UI.currentWindow.barColor = '#000000';
+Ti.UI.currentWindow.barColor  = '#dedede';
 
 // Rows for each of the Tuts sites. Also includes "col" property, which references that site's main color (for barcolor).
 var data = [

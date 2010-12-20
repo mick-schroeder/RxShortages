@@ -1,8 +1,26 @@
 <?php
 
-$origLink = $_GET['Link'];
 
-if ($origLink) {
+function replace_content_inside_delimiters($start, $end, $new, $source) {
+return preg_replace('#('.preg_quote($start).')(.*)('.preg_quote($end).')#si', '$1'.$new.'$3', $source);
+}
+
+$doc = new DOMDocument();
+  $doc->load('http://www.ashp.org/rss/shortages');
+  $arrFeeds = array();
+  foreach ($doc->getElementsByTagName('item') as $node) {
+    $itemRSS = array ( 
+      'title' => $node->getElementsByTagName('title')->item(0)->nodeValue,
+      'link' => $node->getElementsByTagName('link')->item(0)->nodeValue,
+      );
+    array_push($arrFeeds, $itemRSS);
+  }
+
+//print_r($arrFeeds);
+
+foreach ($arrFeeds as $k) {
+$origLink = $k[link];
+
 $path = "http://query.yahooapis.com/v1/public/yql?q=SELECT%20*%20FROM%20html%20WHERE%20url%3D%22$origLink%22%20AND%20xpath%3D%22%2F%2Fdiv%5B%40class%3D'Center'%5D%22";
 $feed = file_get_contents($path);
 
@@ -14,22 +32,27 @@ $feed = str_replace('<p>Back to Drug Shortage Product Bulletins</p>', '', $feed)
 $feed = preg_replace('/<a[^>]+href[^>]+>/', '', $feed);
 $feed = str_replace('<p>Back to Drug Shortage', '', $feed);
 $feed = str_replace('Product Bulletins</p>', '', $feed);
-function replace_content_inside_delimiters($start, $end, $new, $source) {
-return preg_replace('#('.preg_quote($start).')(.*)('.preg_quote($end).')#si', '$1'.$new.'$3', $source);
-}
 $feed = replace_content_inside_delimiters('<!-- Begin Related Shortages -->', '<!-- End Related Shortages -->', '', $feed);
 $feed = replace_content_inside_delimiters('<!-- Begin References -->', '<!-- End References -->', '', $feed);
-}
 
-else{
-$feed = "ERROR";
+
+$cache = $k[title];
+$cachefile = fopen($cache, 'wb');
+ fwrite($cachefile, $feed);
+ fclose($cachefile);
+echo $cache;
+echo "\n";
+
+sleep(1);
+
 }
 ?>
+
 <!DOCTYPE html>
 <html>
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"> 
-	<style type="text/css">
+	<style type="text/\css">
 		body { font-family: sans-serif; }
 		h1 {font-size: 1.5em;}
 	</style>
@@ -40,3 +63,5 @@ $feed = "ERROR";
 <?php echo $feed; ?>
 </body>
 </html>
+
+

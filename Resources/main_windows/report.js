@@ -3,7 +3,7 @@ win.backgroundColor = '#dedede';
 
 
 var fda = Titanium.UI.createLabel({
-	//color:'#666',
+	color:'#000',
 	text:'Report to FDA:',
 	top:20,
 	left:10,
