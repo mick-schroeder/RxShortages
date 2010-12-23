@@ -15,7 +15,7 @@ var homeWindow = Ti.UI.createWindow({
 
 var homeTab = Ti.UI.createTab({  
     title:'Shortages',
-	icon : 'images/home.png',
+	icon : 'images/light_home.png',
     window:homeWindow
 });
 
@@ -27,7 +27,7 @@ var reportWindow = Ti.UI.createWindow({
 });
 
 var reportTab = Ti.UI.createTab({
-	icon : 'images/report.png',
+	icon : 'images/light_phone.png',
 	title : 'Report Shortage',
 	window: reportWindow
 });
@@ -40,7 +40,7 @@ var aboutWindow = Ti.UI.createWindow({
 });
 
 var aboutTab = Ti.UI.createTab({
-	icon : 'images/about.png',
+	icon : 'images/light_info.png',
 	title : 'About',
 	window: aboutWindow
 });

@@ -28,7 +28,9 @@ Ti.Yahoo.yql(query, function(e) {
 			url : data.item[i].link,
 			desc : data.item[i].description,
 		    hasChild : true,
-			theTitle : data.item[i].title
+			theTitle : data.item[i].title,
+			className : 'drug_row'
+			
 		});
 	
 		// Need label in order to change the font size. (sucks)
@@ -39,7 +41,6 @@ Ti.Yahoo.yql(query, function(e) {
 			font : {fontSize : 15, fontWeight: 'bold'}
 		});
 		
-		newRow.className = 'drug_row';
 		newRow.add(articleTitleLabel);
 		tableView.appendRow(newRow);
 		

@@ -38,11 +38,9 @@ Ti.Yahoo.yql(query, function(e) {
 			path : 'article.js', 
 			url : data.item[i].link,
 		    hasChild : true,
-			theTitle : data.item[i].title
-		});
-
-
-			
+			theTitle : data.item[i].title,
+			className : 'drug_row'
+		});		
 		// Need label in order to change the font size. (sucks)
 		var articleTitleLabel = Ti.UI.createLabel({
 			text : data.item[i].title,
@@ -53,9 +51,7 @@ Ti.Yahoo.yql(query, function(e) {
 		});
 		
 		newRow.add(articleTitleLabel);
-		tableView.appendRow(newRow);
-		newRow.className = 'drug_row';
-		
+		tableView.appendRow(newRow);		
 	} // end YQL
 		
 	// Populate a tableview with the titles
