@@ -16,11 +16,9 @@ win.add(fda);
 var b1 = Titanium.UI.createButton({
 	title:'Email: drugshortages@fda.hhs.gov',
 	height:40,
-	width:275,
+	width:280,
 	top:55,
-	borderWidth: 1,
-	borderRadius: 10,
-	borderColor: "#999"
+
 });
 
 win.add(b1);
@@ -28,11 +26,9 @@ win.add(b1);
 var b2 = Titanium.UI.createButton({
 	title:'Call: (888) 463-6332',
 	height:40,
-	width:275,
+	width:280,
 	top:105,
-	borderWidth: 1,
-	borderRadius: 10,
-	borderColor: "#999"
+
 });
 
 win.add(b2);
@@ -51,11 +47,9 @@ win.add(ashp);
 var b3 = Titanium.UI.createButton({
 	title:'Drug Shortage Report Form',
 	height:40,
-	width:275,
+	width:280,
 	top:195,
-	borderWidth: 1,
-	borderRadius: 10,
-	borderColor: "#999"
+
 });
 
 win.add(b3);

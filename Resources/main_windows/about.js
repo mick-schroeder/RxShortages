@@ -21,23 +21,18 @@ win.add(l1);
 var b1 = Titanium.UI.createButton({
 	title:'Email: mschroeder@gmail.com',
 	height:40,
-	width:275,
+	width:280,
 	top:200,
-	borderWidth: 1,
-	borderRadius: 10,
-	borderColor: "#999"
 });
 
 win.add(b1);
 
 var b2 = Titanium.UI.createButton({
-	title:'http://mickschroeder.com',
+	title:'http://mickschroeder.com/rxshortages',
 	height:40,
-	width:275,
+	width:280,
 	top:250,
-	borderWidth: 1,
-	borderRadius: 10,
-	borderColor: "#999"
+
 });
 
 win.add(b2);
@@ -53,7 +48,7 @@ b1.addEventListener('click', function()
 
 b2.addEventListener('click', function()
 {
-	Titanium.Platform.openURL('http://mickschroeder.com');
+	Titanium.Platform.openURL('http://mickschroeder.com/rxshortages');
 });
 
 

@@ -2,7 +2,7 @@
  * This page lists all the Tuts sites. 
 */
 //Ti.UI.currentWindow.barColor = '#000000';
-Ti.UI.currentWindow.backgroundColor  = '#dedede';
+//Ti.UI.currentWindow.backgroundColor  = '#dedede';
 
 // Rows for each of the Tuts sites. Also includes "col" property, which references that site's main color (for barcolor).
 var data = [
@@ -22,7 +22,7 @@ Titanium.UI.currentWindow.add(tableView);
 // When item is clicked on, create new window.
 tableView.addEventListener('click', function(e) {
 
-	// If a path exists...
+	// If a path exists...	
 	if ( e.rowData.path ) {
 		var newWindow = Titanium.UI.createWindow({
 			url : e.rowData.path,
