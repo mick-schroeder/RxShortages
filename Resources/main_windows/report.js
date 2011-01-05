@@ -1,5 +1,6 @@
 var win = Titanium.UI.currentWindow;
 win.backgroundColor = '#dedede';
+win.layout = 'vertical';
 
 
 var fda = Titanium.UI.createLabel({
@@ -17,7 +18,7 @@ var b1 = Titanium.UI.createButton({
 	title:'Email: drugshortages@fda.hhs.gov',
 	height:40,
 	width:280,
-	top:55,
+	top:10,
 
 });
 
@@ -27,7 +28,7 @@ var b2 = Titanium.UI.createButton({
 	title:'Call: (888) 463-6332',
 	height:40,
 	width:280,
-	top:105,
+	top:10,
 
 });
 
@@ -36,7 +37,7 @@ win.add(b2);
 var ashp = Titanium.UI.createLabel({
 	color:'#000',
 	text:'Report to ASHP:',
-	top:160,
+	top:10,
 	left:10,
 	width: 'auto',
 	height: 'auto'
@@ -48,7 +49,7 @@ var b3 = Titanium.UI.createButton({
 	title:'Drug Shortage Report Form',
 	height:40,
 	width:280,
-	top:195,
+	top:10,
 
 });
 

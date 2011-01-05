@@ -65,7 +65,7 @@ Ti.Yahoo.yql(query, function(e) {
 		if ( e.rowData.path ) {
 			var newWin = Ti.UI.createWindow({
 				url : e.rowData.path,
-				title : 'RxShortages',
+				title : e.rowData.theTitle,
 				barColor : Ti.UI.currentWindow.barColor
 			});
 						

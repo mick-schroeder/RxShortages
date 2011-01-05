@@ -1,41 +1,43 @@
 <?php
 
-$origLink = $_GET['Link'];
+$target_url = $_GET['Link'];
 
-if ($origLink) {
-$path = "http://query.yahooapis.com/v1/public/yql?q=SELECT%20*%20FROM%20html%20WHERE%20url%3D%22$origLink%22%20AND%20xpath%3D%22%2F%2Fdiv%5B%40class%3D'Center'%5D%22";
-//$feed = file_get_contents($path);
+//$target_url = "http://www.ashp.org/Import/PRACTICEANDPOLICY/PracticeResourceCenters/DrugShortages/GettingStarted/CurrentShortages/Bulletin.aspx?id=573";
+
 $userAgent = 'Googlebot/2.1 (http://www.googlebot.com/bot.html)';
 
 // make the cURL request to 
 
-$ch = curl_init();
-curl_setopt($ch, CURLOPT_USERAGENT, $userAgent);
-curl_setopt($ch, CURLOPT_URL,$path);
+$ch = curl_init();curl_setopt($ch, CURLOPT_USERAGENT, $userAgent);
+curl_setopt($ch, CURLOPT_URL,$target_url);
 curl_setopt($ch, CURLOPT_FAILONERROR, true);
 curl_setopt($ch, CURLOPT_AUTOREFERER, true);
 curl_setopt($ch, CURLOPT_RETURNTRANSFER,true);
 curl_setopt($ch, CURLOPT_TIMEOUT, 10);
 
-$feed= curl_exec($ch);
-// Strip Links
-$feed = str_replace('</a>', '', $feed);
-$feed = str_replace('<br class="clear"/>', '', $feed);
-$feed = str_replace('<br/>', '', $feed);
-$feed = str_replace('<p>Back to Drug Shortage Product Bulletins</p>', '', $feed);
-$feed = preg_replace('/<a[^>]+href[^>]+>/', '', $feed);
-$feed = str_replace('<p>Back to Drug Shortage', '', $feed);
-$feed = str_replace('Product Bulletins</p>', '', $feed);
-function replace_content_inside_delimiters($start, $end, $new, $source) {
-return preg_replace('#('.preg_quote($start).')(.*)('.preg_quote($end).')#si', '$1'.$new.'$3', $source);
-}
-$feed = replace_content_inside_delimiters('<!-- Begin Related Shortages -->', '<!-- End Related Shortages -->', '', $feed);
-$feed = replace_content_inside_delimiters('<!-- Begin References -->', '<!-- End References -->', '', $feed);
+$html= curl_exec($ch);
+if (!$html) {	echo "cURL error number:" .curl_errno($ch);	echo "cURL error:" . curl_error($ch);	exit;}
+
+$dom = new DOMDocument();
+@$dom->loadHTML($html);
+$xpath = new DOMXPath($dom);
+$result = $xpath->query('//div[@class="Center"]');
+
+foreach($result as $node) { 
+	$feed .= $dom->saveXML($node);
 }
 
-else{
-$feed = "ERROR";
-}
+// Strip Links
+function replace_content_inside_delimiters($start, $end, $new, $source) { return preg_replace('#('.preg_quote($start).')(.*)('.preg_quote($end).')#si', '$1'.$new.'$3', $source); }
+$feed = replace_content_inside_delimiters('<!-- Begin Related Shortages -->', '<!-- End Related Shortages -->', '', $feed);
+$feed = replace_content_inside_delimiters('<!-- Begin References -->', '<!-- End References -->', '', $feed);
+$feed = str_replace('</a>', '', $feed);
+$feed = str_replace('<br class="clear" />', '', $feed);
+$feed = str_replace('<br/>', '', $feed);
+$feed = preg_replace('/<a[^>]+href[^>]+>/', '', $feed);
+$feed = str_replace('Back to Drug Shortage', '', $feed);
+$feed = str_replace('Product Bulletins</p>', '', $feed);
+$feed = str_replace("&#13;", '', $feed);
 ?>
 <!DOCTYPE html>
 <html>

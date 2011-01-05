@@ -28,7 +28,6 @@ tableView.addEventListener('click', function(e) {
 			url : e.rowData.path,
 			title : e.rowData.title,
 			barColor:'#336699'
-			
 	});
 	
 		Ti.App.Properties.setString('websiteName', e.rowData.title); 

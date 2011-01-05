@@ -1,5 +1,5 @@
 // this sets the background color of the master UIView (when there are no windows/tab groups on it)
-Ti.UI.setBackgroundColor('white');
+//Ti.UI.setBackgroundColor('white');
 
 
 // create tab group
