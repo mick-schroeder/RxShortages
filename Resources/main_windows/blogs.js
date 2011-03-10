@@ -1,8 +1,4 @@
-/*
- * This page lists all the Tuts sites. 
-*/
 //Ti.UI.currentWindow.barColor = '#000000';
-//Ti.UI.currentWindow.backgroundColor  = '#dedede';
 //Ti.UI.currentWindow.backgroundColor  = '#dedede';
 
 // Rows for each of the Tuts sites. Also includes "col" property, which references that site's main color (for barcolor).
@@ -10,13 +6,13 @@ var win = Ti.UI.currentWindow;
 
 
 var data = [
-    { title : 'Current Shortages', hasChild:true, path : '../js/getFeed.js', col : '#333', header:'ASHP Reported Drug Shortages'},
-	{ title : 'Resolved Shortages', hasChild:true, path : '../js/getFeed.js', col : '#333'},
-	{ title : 'Unavailable Drugs', hasChild:true, path : '../js/getFeed.js', col : '#333'},
-	{ title : 'Reported Shortages', hasChild:true, path : '../js/getFDA.js', col : '#333', header:'FDA Reported Drug Shortages'}
+    { title : 'Current Shortages', hasChild:true, path : '../js/getFeed.js', header:'ASHP Reported Drug Shortages'},
+	{ title : 'Resolved Shortages', hasChild:true, path : '../js/getFeed.js'},
+	{ title : 'Unavailable Drugs', hasChild:true, path : '../js/getFeed.js''},
+	{ title : 'Reported Shortages', hasChild:true, path : '../js/getFDA.js', header:'FDA Reported Drug Shortages'}
 ];
 
-// Create table and fill it with list of Tuts sites
+// Create table and fill it with list
 var tableView = Titanium.UI.createTableView({ 
 	data:data, 
 	style:Titanium.UI.iPhone.TableViewStyle.GROUPED,
