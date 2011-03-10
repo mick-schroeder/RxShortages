@@ -8,7 +8,7 @@ var win = Ti.UI.currentWindow;
 var data = [
     { title : 'Current Shortages', hasChild:true, path : '../js/getFeed.js', header:'ASHP Reported Drug Shortages'},
 	{ title : 'Resolved Shortages', hasChild:true, path : '../js/getFeed.js'},
-	{ title : 'Unavailable Drugs', hasChild:true, path : '../js/getFeed.js''},
+	{ title : 'Unavailable Drugs', hasChild:true, path : '../js/getFeed.js'},
 	{ title : 'Reported Shortages', hasChild:true, path : '../js/getFDA.js', header:'FDA Reported Drug Shortages'}
 ];
 
