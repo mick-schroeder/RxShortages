@@ -2,13 +2,13 @@
  * This page lists all the Tuts sites. 
 */
 //Ti.UI.currentWindow.barColor = '#000000';
-<<<<<<< HEAD
 //Ti.UI.currentWindow.backgroundColor  = '#dedede';
-=======
-Ti.UI.currentWindow.backgroundColor  = '#dedede';
->>>>>>> b5bc403b8f13cee2dac82210973091c68cb8e5ad
+//Ti.UI.currentWindow.backgroundColor  = '#dedede';
 
 // Rows for each of the Tuts sites. Also includes "col" property, which references that site's main color (for barcolor).
+var win = Ti.UI.currentWindow;
+
+
 var data = [
     { title : 'Current Shortages', hasChild:true, path : '../js/getFeed.js', col : '#333', header:'ASHP Reported Drug Shortages'},
 	{ title : 'Resolved Shortages', hasChild:true, path : '../js/getFeed.js', col : '#333'},
@@ -19,7 +19,8 @@ var data = [
 // Create table and fill it with list of Tuts sites
 var tableView = Titanium.UI.createTableView({ 
 	data:data, 
-	style:Titanium.UI.iPhone.TableViewStyle.GROUPED	
+	style:Titanium.UI.iPhone.TableViewStyle.GROUPED,
+	font : {fontSize : 15, fontWeight: 'bold'},
 }); 
 Titanium.UI.currentWindow.add(tableView);
 
@@ -40,4 +41,22 @@ tableView.addEventListener('click', function(e) {
 	}
 	
 });
+
+
+iads = Ti.UI.iOS.createAdView({
+    width: 'auto',
+    height: 'auto',
+    bottom: -100
+	});
+ 
+    t1 = Titanium.UI.createAnimation({bottom:0, duration:750});
+ 
+    iads.addEventListener('load', function(){
+		tableView.bottom = 50;
+	
+        iads.animate(t1);
+    });
+ 
+    Titanium.UI.currentWindow.add(iads);
+
 

@@ -2,22 +2,33 @@
 var win = Ti.UI.currentWindow,
 	query,
 	siteUrl;
-
+	win.backgroundColor = '#fff';
+	var actInd = Titanium.UI.createActivityIndicator({
+	    top : 'auto', 
+	    height : 50,
+	    width : 210,
+		color : 'black',
+		font : {fontFamily:'Helvetica Neue', fontSize:15,fontWeight:'bold'},
+		message : 'Loading...',
+	    style : Titanium.UI.iPhone.ActivityIndicatorStyle.DARK
+	});
+	win.add(actInd);
+	actInd.show();
 // Add loading icons. Note - needs to be removed after data is loaded, with loadingIcon.hide().
 if(Ti.Network.online){
 
-Ti.include('loading.js');
 
+	
  // YQL query to get feed. 
 
 if (Ti.App.Properties.getString('websiteName') == 'Current Shortages') {
-	siteUrl = "http://www.ashp.org/rss/shortages";
+	siteUrl = "http://www.ashp.org/rss/shortages/";
 }
 else if (Ti.App.Properties.getString('websiteName') == 'Resolved Shortages') {
-	siteUrl = "http://www.ashp.org/rss/resolved";
+	siteUrl = "http://www.ashp.org/rss/resolved/";
 }
 else if (Ti.App.Properties.getString('websiteName') == 'Unavailable Drugs') {
-	siteUrl = "http://www.ashp.org/rss/notavailable";
+	siteUrl = "http://www.ashp.org/rss/notavailable/";
 } 
 query = "Select link, title from rss where url='" + siteUrl + "'";
 
@@ -58,8 +69,7 @@ Ti.Yahoo.yql(query, function(e) {
 	Ti.UI.currentWindow.add(tableView);	
 	
 	// Data has been loaded/added, so remove the loading icon.
-	loadingIcon.hide();
-	
+	actInd.hide();	
 	// When a title is clicked, open a new window and pass the details of the selected posting.
 	tableView.addEventListener('click', function(e) {
 		if ( e.rowData.path ) {

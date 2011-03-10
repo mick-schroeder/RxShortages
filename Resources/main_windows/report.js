@@ -3,6 +3,7 @@ win.backgroundColor = '#dedede';
 win.layout = 'vertical';
 
 
+
 var fda = Titanium.UI.createLabel({
 	color:'#000',
 	text:'Report to FDA:',
@@ -23,6 +24,7 @@ var b1 = Titanium.UI.createButton({
 });
 
 win.add(b1);
+
 
 var b2 = Titanium.UI.createButton({
 	title:'Call: (888) 463-6332',
@@ -54,6 +56,7 @@ var b3 = Titanium.UI.createButton({
 });
 
 win.add(b3);
+
 
 b1.addEventListener('click', function()
 {

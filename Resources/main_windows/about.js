@@ -3,7 +3,6 @@ win.backgroundColor = '#dedede';
 //win.barColor = '#000';
 win.layout = 'vertical';
 
-
 var l1 = Titanium.UI.createLabel({
 	text:'Rx Shortages is designed to help health care providers access information about drug shortages quickly and easily.\n\nCreated By Mick Schroeder\nPharmD Candidate 2011',
 	top:30,

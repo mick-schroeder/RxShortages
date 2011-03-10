@@ -15,8 +15,21 @@ var homeWindow = Ti.UI.createWindow({
 
 var homeTab = Ti.UI.createTab({  
     title:'Shortages',
-	icon : 'images/light_home.png',
+	icon : 'images/home_24.png',
     window:homeWindow
+});
+
+// Home Tab
+var feedWindow = Ti.UI.createWindow({  
+    title:'Shortages Feed',
+	url : 'js/feed.js',
+	barColor:'#336699'
+	});
+
+var feedTab = Ti.UI.createTab({  
+    title:'Feed',
+	icon : 'images/rss_24.png',
+    window:feedWindow
 });
 
 // Report Tab
@@ -27,8 +40,8 @@ var reportWindow = Ti.UI.createWindow({
 });
 
 var reportTab = Ti.UI.createTab({
-	icon : 'images/light_phone.png',
-	title : 'Report Shortage',
+	icon : 'images/phone_24.png',
+	title : 'Report',
 	window: reportWindow
 });
 
@@ -40,15 +53,18 @@ var aboutWindow = Ti.UI.createWindow({
 });
 
 var aboutTab = Ti.UI.createTab({
-	icon : 'images/light_info.png',
+	icon : 'images/info_24.png',
 	title : 'About',
 	window: aboutWindow
 });
 
+
 // add tabs
 tabGroup.addTab(homeTab);
+tabGroup.addTab(feedTab);
 tabGroup.addTab(reportTab);
 tabGroup.addTab(aboutTab);
+
 
 // open tab group
 tabGroup.open({

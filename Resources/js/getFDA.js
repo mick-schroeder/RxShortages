@@ -2,10 +2,20 @@
 var win = Ti.UI.currentWindow,
 	query,
 	siteUrl;
-
+	win.backgroundColor = '#fff';
+	var actInd = Titanium.UI.createActivityIndicator({
+	    top : 'auto', 
+	    height : 50,
+	    width : 210,
+		color : 'black',
+		font : {fontFamily:'Helvetica Neue', fontSize:15,fontWeight:'bold'},
+		message : 'Loading...',
+	    style : Titanium.UI.iPhone.ActivityIndicatorStyle.DARK
+	});
+	win.add(actInd);
+	actInd.show();
 if(Ti.Network.online){
 // Add loading icons. Note - needs to be removed after data is loaded, with loadingIcon.hide().
-Ti.include('loading.js');
 
  // YQL query to get feed. 
 siteUrl = "www.fda.gov/downloads/Drugs/DrugSafety/DrugShortages/UCM163172.xml";
@@ -50,7 +60,7 @@ Ti.Yahoo.yql(query, function(e) {
 	Ti.UI.currentWindow.add(tableView);	
 	
 	// Data has been loaded/added, so remove the loading icon.
-	loadingIcon.hide();
+	actInd.hide();
 	
 	// When a title is clicked, open a new window and pass the details of the selected posting.
 	tableView.addEventListener('click', function(e) {
