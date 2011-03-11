@@ -1,5 +1,5 @@
 var win = Titanium.UI.currentWindow;
-win.backgroundColor = '#dedede';
+win.backgroundColor = '#E8E8E8';
 win.layout = 'vertical';
 
 

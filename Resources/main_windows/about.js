@@ -1,5 +1,6 @@
 var win = Titanium.UI.currentWindow;
-win.backgroundColor = '#dedede';
+win.backgroundColor = '#E8E8E8';
+
 //win.barColor = '#000';
 win.layout = 'vertical';
 
@@ -8,7 +9,6 @@ var l1 = Titanium.UI.createLabel({
 	top:30,
 	left:10,
 	right:10,
-	width:280,
 	color:'#000',
 	textAlign:'center',
 	height:'auto',
@@ -20,7 +20,7 @@ win.add(l1);
 var b1 = Titanium.UI.createButton({
 	title:'Email: mschroeder@gmail.com',
 	height:40,
-	width:280,
+	width:290,
 	top:10
 });
 
@@ -29,7 +29,7 @@ win.add(b1);
 var b2 = Titanium.UI.createButton({
 	title:'http://mickschroeder.com/rxshortages',
 	height:40,
-	width:280,
+	width:290,
 	top:10,
 
 });

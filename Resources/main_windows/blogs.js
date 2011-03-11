@@ -1,9 +1,7 @@
 //Ti.UI.currentWindow.barColor = '#000000';
 //Ti.UI.currentWindow.backgroundColor  = '#dedede';
 
-// Rows for each of the Tuts sites. Also includes "col" property, which references that site's main color (for barcolor).
 var win = Ti.UI.currentWindow;
-
 
 var data = [
     { title : 'Current Shortages', hasChild:true, path : '../js/getFeed.js', header:'ASHP Reported Drug Shortages'},

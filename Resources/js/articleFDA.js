@@ -18,6 +18,9 @@ button.addEventListener('click', function() {
 	Titanium.Platform.openURL(win.theUrl);
 });
 }
+
+if (Titanium.Platform.name == 'android') {
+
 var activity = Ti.Android.currentActivity;
 
 
@@ -29,6 +32,7 @@ activity.onCreateOptionsMenu = function(e) {
 		Titanium.Platform.openURL(win.theUrl);
     });
 };
+}
 
 // Add the webview (the original webpage article), and animate the page into view.
 win.add(webview);

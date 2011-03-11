@@ -8,7 +8,6 @@ var tabGroup = Ti.UI.createTabGroup();
 // Home Tab
 var homeWindow = Ti.UI.createWindow({  
     title:'Rx Shortages',
-	//tabBarHidden: true, 
 	url : 'main_windows/blogs.js',
 	barColor:'#336699'
 	});
@@ -58,7 +57,6 @@ var aboutTab = Ti.UI.createTab({
 	window: aboutWindow
 });
 
-
 // add tabs
 tabGroup.addTab(homeTab);
 tabGroup.addTab(feedTab);
@@ -70,3 +68,30 @@ tabGroup.addTab(aboutTab);
 tabGroup.open({
 	transition:Ti.UI.iPhone.AnimationStyle.CURL_UP
 });
+
+if(Ti.Network.online){
+	
+	var adwin = Titanium.UI.createWindow({
+		    width: 'auto',
+		    height: 'auto',
+	        bottom:49
+	    });
+
+	var iads = Ti.UI.iOS.createAdView({
+	        width: 'auto',
+	        height: 'auto',
+			zIndex: 2,
+	        bottom:0
+	    }); 
+
+	    iads.addEventListener('load', function(){
+	        Ti.API.info("LOADED");
+	    });
+
+	    iads.addEventListener('error', function(){
+	        Ti.API.info("ERROR LOADING iAd");
+	    }); 
+
+	    adwin.add(iads);
+	    adwin.open();
+}

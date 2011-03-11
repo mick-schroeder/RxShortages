@@ -1,4 +1,5 @@
 var win = Ti.UI.currentWindow;
+win.backgroundColor = '#ffffff';
 
 	
 	var webview = Ti.UI.createWebView({
@@ -37,20 +38,5 @@ var win = Ti.UI.currentWindow;
 	};
 	}
 	*/
-//	win.animate( { view : webview, transition : Ti.UI.iPhone.AnimationStyle.FLIP_FROM_LEFT } );
 	
-iads = Ti.UI.iOS.createAdView({
-    width: 'auto',
-    height: 'auto',
-    bottom: -100
-	});
- 
-    t1 = Titanium.UI.createAnimation({bottom:0, duration:750});
- 
-    iads.addEventListener('load', function(){
-		webview.bottom = 50;       
- 		iads.animate(t1);
 
-    });
- 
-    Titanium.UI.currentWindow.add(iads);
