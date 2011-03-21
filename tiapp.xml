@@ -7,7 +7,7 @@
 <url>http://mickschroeder.com/rxshortages</url>
 <description>Rx Shortages is designed to help health care providers access information about drug shortages quickly and easily.</description>
 <copyright>2011 Michael Schroeder</copyright>
-<icon>appicon.png</icon>
+<icon>default_app_logo.png</icon>
     <persistent-wifi>false</persistent-wifi>
     <prerendered-icon>true</prerendered-icon>
     <statusbar-style>opaque</statusbar-style>

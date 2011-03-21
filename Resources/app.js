@@ -1,97 +1,109 @@
 // this sets the background color of the master UIView (when there are no windows/tab groups on it)
 //Ti.UI.setBackgroundColor('white');
-
-
 // create tab group
 var tabGroup = Ti.UI.createTabGroup();
 
 // Home Tab
-var homeWindow = Ti.UI.createWindow({  
-    title:'Rx Shortages',
-	url : 'main_windows/blogs.js',
-	barColor:'#336699'
-	});
-
-var homeTab = Ti.UI.createTab({  
-    title:'Shortages',
-	icon : 'images/home_24.png',
-    window:homeWindow
+var homeWindow = Ti.UI.createWindow({
+	title: 'RxShortages',
+	url: 'main_windows/blogs.js',
+	barColor: '#336699'
 });
 
-// Home Tab
-var feedWindow = Ti.UI.createWindow({  
-    title:'Shortages Feed',
-	url : 'js/feed.js',
-	barColor:'#336699'
-	});
+var homeTab = Ti.UI.createTab({
+	title: 'Shortages',
+	icon: 'images/home_24.png',
+	window: homeWindow
+});
 
-var feedTab = Ti.UI.createTab({  
-    title:'Feed',
-	icon : 'images/rss_24.png',
-    window:feedWindow
+// Shortage Feed Tab
+var trendWindow = Ti.UI.createWindow({
+	title: 'Trends',
+	url: 'js/trends.js',
+	barColor: '#336699'
+});
+
+var trendTab = Ti.UI.createTab({
+	title: 'Trends',
+	icon: 'images/arrow_24.png',
+	window: trendWindow
+});
+
+// Shortage Feed Tab
+var feedWindow = Ti.UI.createWindow({
+	title: 'Shortages Feed',
+	url: 'js/feed.js',
+	barColor: '#336699'
+});
+
+var feedTab = Ti.UI.createTab({
+	title: 'Feed',
+	icon: 'images/rss_24.png',
+	window: feedWindow
 });
 
 // Report Tab
 var reportWindow = Ti.UI.createWindow({
-	title : "Report Drug Shortage",
-	url : 'main_windows/report.js',
-	barColor:'#336699'
+	title: "Report Drug Shortage",
+	url: 'main_windows/report.js',
+	barColor: '#336699'
 });
 
 var reportTab = Ti.UI.createTab({
-	icon : 'images/phone_24.png',
-	title : 'Report',
+	icon: 'images/phone_24.png',
+	title: 'Report',
 	window: reportWindow
 });
 
 // About Tab
 var aboutWindow = Ti.UI.createWindow({
-	title : "About",
-	url : 'main_windows/about.js',
-	barColor:'#336699'
+	title: "About",
+	url: 'main_windows/about.js',
+	barColor: '#336699'
 });
 
 var aboutTab = Ti.UI.createTab({
-	icon : 'images/info_24.png',
-	title : 'About',
+	icon: 'images/info_24.png',
+	title: 'About',
 	window: aboutWindow
 });
 
 // add tabs
 tabGroup.addTab(homeTab);
 tabGroup.addTab(feedTab);
+tabGroup.addTab(trendTab);
 tabGroup.addTab(reportTab);
 tabGroup.addTab(aboutTab);
 
 
 // open tab group
 tabGroup.open({
-	transition:Ti.UI.iPhone.AnimationStyle.CURL_UP
+	transition: Ti.UI.iPhone.AnimationStyle.CURL_UP
 });
 
-if(Ti.Network.online){
-	
+if (Ti.Network.online) {
+
 	var adwin = Titanium.UI.createWindow({
-		    width: 'auto',
-		    height: 'auto',
-	        bottom:49
-	    });
+		width: 'auto',
+		height: 'auto',
+		bottom: 49
+	});
 
 	var iads = Ti.UI.iOS.createAdView({
-	        width: 'auto',
-	        height: 'auto',
-			zIndex: 2,
-	        bottom:0
-	    }); 
+		width: 'auto',
+		height: 'auto',
+		zIndex: 1,
+		bottom: 0
+	});
 
-	    iads.addEventListener('load', function(){
-	        Ti.API.info("LOADED");
-	    });
+	iads.addEventListener('load', function () {
+		Ti.API.info("LOADED");
+	});
 
-	    iads.addEventListener('error', function(){
-	        Ti.API.info("ERROR LOADING iAd");
-	    }); 
+	iads.addEventListener('error', function () {
+		Ti.API.info("ERROR LOADING iAd");
+	});
 
-	    adwin.add(iads);
-	    adwin.open();
+	adwin.add(iads);
+	adwin.open();
 }
