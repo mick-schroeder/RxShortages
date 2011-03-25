@@ -3,27 +3,29 @@ var win = Ti.UI.currentWindow,
 	data, flagIcon, newRow, query, siteUrl;
 win.backgroundColor = '#fff';
 
-var actInd = Titanium.UI.createActivityIndicator({
-	zIndex: 1,
-	top: 'auto',
-	height: 100,
-	width: 210,
-	color: 'black',
-	font: {
-		fontFamily: 'Helvetica Neue',
-		fontSize: 15,
-		fontWeight: 'bold'
-	},
-	message: 'Loading...',
-	style: Titanium.UI.iPhone.ActivityIndicatorStyle.DARK
-});
+var tableView = Ti.UI.createTableView({});
 
-win.add(actInd);
+Ti.App.fireEvent("show_indicator");
 
-actInd.show();
+var indWin = null;
+var actInd = null;
+function showIndicator() {
+  indWin = Titanium.UI.createWindow({ height:150, width:150 });
+  var indView = Titanium.UI.createView({ height:150, width:150, backgroundColor:'#000', borderRadius:10, opacity:0.9 });
+  actInd = Titanium.UI.createActivityIndicator({ style:Titanium.UI.iPhone.ActivityIndicatorStyle.BIG, height:30, width:30 });
+  indWin.add(indView);
+  indWin.add(actInd);
+  indWin.open();
+  actInd.show();
+};
+
+function hideIndicator() {
+  actInd.hide();
+  indWin.close({opacity:0,duration:100});
+};
+showIndicator();
 
 // Create Tableview
-var tableView = Ti.UI.createTableView({});
 
 if (Ti.Network.online) {
 
@@ -35,9 +37,17 @@ if (Ti.Network.online) {
 	//YQL Feed
 
 
-	function setData() {
+	function setTableData() {
 		Ti.Yahoo.yql(query, function (e) {
 			data = e.data;
+			if (data == null)
+				{
+					Titanium.UI.createAlertDialog({
+						title: 'Error querying YQL',
+						message: 'No data could be retrieved using YQL' }).show();
+					Ti.App.fireEvent('hide_indicator');
+					return;
+				}
 			var tableData = [];
 
 			// For each item from the total number of postings returned from the query...
@@ -119,13 +129,16 @@ if (Ti.Network.online) {
 	}
 	
 	// Query
-	setData();
+	setTableData();
 	
 	// Populate a tableview with the titles
 	Ti.UI.currentWindow.add(tableView);
 
 	// Data has been loaded/added, so remove the loading icon.
 	actInd.hide();
+	Ti.App.fireEvent("hide_indicator");
+	
+	
 	
 	
 	// When a title is clicked, open a new window and pass the details of the selected posting.
@@ -162,7 +175,7 @@ if (Ti.Network.online) {
 		Ti.API.log('refreshing');
 		actInd.show();
 		tableView.setData(null);
-		setData();
+		setTableData();
 		actInd.hide();
 	});
 

@@ -29,7 +29,7 @@ var tableView = Ti.UI.createTableView({});
 
 if (Ti.Network.online) {
 
-	function setData() {
+	function setTableData() {
 			
 			var getJSON = Ti.Network.createHTTPClient();
 					var tableData = [];  
@@ -55,7 +55,7 @@ if (Ti.Network.online) {
 						font: {
 							fontSize: 15,
 							fontWeight: 'bold'
-							},
+							}
 
 						});
 						
@@ -69,7 +69,7 @@ if (Ti.Network.online) {
 }
 	
 	// Query
-	setData();
+	setTableData();
 	
 	// Populate a tableview with the titles
 	Ti.UI.currentWindow.add(tableView);
@@ -112,7 +112,7 @@ if (Ti.Network.online) {
 		Ti.API.log('refreshing');
 		actInd.show();
 		tableView.setData(null);
-		setData();
+		setTableData();
 		actInd.hide();
 	});
 

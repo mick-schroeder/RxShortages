@@ -3,24 +3,7 @@ var win = Ti.UI.currentWindow,
 	data, newRow, query, siteUrl;
 win.backgroundColor = '#fff';
 
-var actInd = Titanium.UI.createActivityIndicator({
-	zIndex: 1,
-	top: 'auto',
-	height: 100,
-	width: 210,
-	color: 'black',
-	font: {
-		fontFamily: 'Helvetica Neue',
-		fontSize: 15,
-		fontWeight: 'bold'
-	},
-	message: 'Loading...',
-	style: Titanium.UI.iPhone.ActivityIndicatorStyle.DARK
-});
 
-win.add(actInd);
-
-actInd.show();
 
 
 // Create search bar
@@ -33,6 +16,25 @@ var tableView = Ti.UI.createTableView({
 	search: search,
 	filterAttribute: 'theTitle'
 });
+
+var indWin = null;
+var actInd = null;
+function showIndicator() {
+  indWin = Titanium.UI.createWindow({ height:150, width:150 });
+  var indView = Titanium.UI.createView({ height:150, width:150, backgroundColor:'#000', borderRadius:10, opacity:0.9 });
+  actInd = Titanium.UI.createActivityIndicator({ style:Titanium.UI.iPhone.ActivityIndicatorStyle.BIG, height:30, width:30 });
+  indWin.add(indView);
+  indWin.add(actInd);
+  indWin.open();
+  actInd.show();
+};
+
+function hideIndicator() {
+  actInd.hide();
+  indWin.close({opacity:0,duration:200});
+};
+
+showIndicator();
 
 if (Ti.Network.online) {
 
@@ -51,7 +53,7 @@ if (Ti.Network.online) {
 	//YQL Feed
 
 
-	function setData() {
+	function setTableData() {
 		Ti.Yahoo.yql(query, function (e) {
 			data = e.data;
 			var tableData = [];
@@ -83,12 +85,12 @@ if (Ti.Network.online) {
 			tableView.setData(tableData);
 		});
 	}
-	setData();
+	setTableData();
 	// Populate a tableview with the titles
 	Ti.UI.currentWindow.add(tableView);
 
 	// Data has been loaded/added, so remove the loading icon.
-	actInd.hide();
+	hideIndicator();
 
 	// When a title is clicked, open a new window and pass the details of the selected posting.
 	tableView.addEventListener('click', function (e) {
@@ -122,10 +124,10 @@ if (Ti.Network.online) {
 
 	refresh.addEventListener('click', function () {
 		Ti.API.log('refreshing');
-		actInd.show();
+		showIndicator();
 		tableView.setData(null);
-		setData();
-		actInd.hide();
+		setTableData();
+		hideIndicator();
 	});
 
 } else {
