@@ -1,0 +1,2399 @@
+status: 200
+content-length: 91803
+content-location: http://www.thetvdb.com/api/9DAF49C96CBF8DAC/series/80379/all/en.xml
+expires: Tue, 22 Mar 2011 07:43:37 GMT
+vary: Accept-Encoding
+server: nginx
+last-modified: Tue, 22 Mar 2011 04:50:49 GMT
+connection: keep-alive
+-content-encoding: gzip
+cache-control: max-age=900
+date: Tue, 22 Mar 2011 07:28:37 GMT
+content-type: text/xml
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8" ?>
+<Data><Series>
+  <id>80379</id>
+  <Actors>|Jim Parsons|Johnny Galecki|Kaley Cuoco|Kunal Nayyar|Simon Helberg||</Actors>
+  <Airs_DayOfWeek>Thursday</Airs_DayOfWeek>
+  <Airs_Time>8:00 PM</Airs_Time>
+  <ContentRating>TV-PG</ContentRating>
+  <FirstAired>2007-09-01</FirstAired>
+  <Genre>|Comedy|</Genre>
+  <IMDB_ID>tt0898266</IMDB_ID>
+  <Language>en</Language>
+  <Network>CBS</Network>
+  <NetworkID></NetworkID>
+  <Overview>Leonard Hofstadter and Sheldon Cooper are brilliant physicists, the kind of &quot;beautiful minds&quot; that understand how the universe works. But none of that genius helps them interact with people, especially women. All this begins to change when a free-spirited beauty named Penny moves in next door. Sheldon, Leonard's roommate, is quite content spending his nights playing Klingon Boggle with their socially dysfunctional friends, fellow CalTech scientists Howard Wolowitz and Raj Koothrappali. However, Leonard sees in Penny a whole new universe of possibilities... including love.</Overview>
+  <Rating>9.2</Rating>
+  <RatingCount>443</RatingCount>
+  <Runtime>30</Runtime>
+  <SeriesID>58056</SeriesID>
+  <SeriesName>The Big Bang Theory</SeriesName>
+  <Status>Continuing</Status>
+  <added></added>
+  <addedBy></addedBy>
+  <banner>graphical/80379-g6.jpg</banner>
+  <fanart>fanart/original/80379-1.jpg</fanart>
+  <lastupdated>1300769203</lastupdated>
+  <poster>posters/80379-10.jpg</poster>
+  <zap2it_id>SH931182</zap2it_id>
+</Series>
+<Episode>
+  <id>2321301</id>
+  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Unaired Pilot</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>The very first pilot of The Big Bang Theory. With a person call Katie played by Amanda Walsh, and a female friend called Gilda (Iris Bahr)</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>6.8</Rating>
+  <RatingCount>10</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode>1</airsbefore_episode>
+  <airsbefore_season>1</airsbefore_season>
+  <filename>episodes/80379/2321301.jpg</filename>
+  <lastupdated>1276098013</lastupdated>
+  <seasonid>28046</seasonid>
+  <seriesid>80379</seriesid>
+</Episode>
+<Episode>
+  <id>332484</id>
+  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid>Disc 1</DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>James Burrows</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Pilot</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2007-09-24</FirstAired>
+  <GuestStars>Vernee Watson-Johnson|Brian Patrick Wade</GuestStars>
+  <IMDB_ID>tt0775431</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Brilliant physicist roommates Leonard and Sheldon meet their new neighbor Penny, who begins showing them that as much as they know about science, they know little about actual living.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>170</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Chuck Lorre|Bill Prady</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/80379/332484.jpg</filename>
+  <lastupdated>1280233996</lastupdated>
+  <seasonid>28047</seasonid>
+  <seriesid>80379</seriesid>
+</Episode>
+<Episode>
+  <id>337065</id>
+  <Combined_episodenumber>2</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid>Disc 1</DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Mark Cendrowski</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>The Big Bran Hypothesis</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2007-10-01</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1091289</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Leonard volunteers to sign for a package in an attempt to make a good impression on Penny, but when he enlists Sheldon for help, his attempt at chivalry goes terribly awry.</Overview>
+  <ProductionCode>3T6601</ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>131</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Chuck Lorre|Bill Prady</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/80379/337065.jpg</filename>
+  <lastupdated>1290635159</lastupdated>
+  <seasonid>28047</seasonid>
+  <seriesid>80379</seriesid>
+</Episode>
+<Episode>
+  <id>337249</id>
+  <Combined_episodenumber>3</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Mark Cendrowski</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>The Fuzzy Boots Corollary</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2007-10-08</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1091290</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Leonard asks a woman out after he finds out that Penny is seeing someone.</Overview>
+  <ProductionCode>3T6602</ProductionCode>
+  <Rating>7.3</Rating>
+  <RatingCount>125</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>|Chuck Lorre|Bill Prady|Steven Molaro|</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/80379/337249.jpg</filename>
+  <lastupdated>1290635179</lastupdated>
+  <seasonid>28047</seasonid>
+  <seriesid>80379</seriesid>
+</Episode>
+<Episode>
+  <id>338488</id>
+  <Combined_episodenumber>4</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Bob Koherr</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>The Luminous Fish Effect</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>2007-10-15</FirstAired>
+  <GuestStars>Laurie Metcalf|Mark Harelik|Sierra Edwards</GuestStars>
+  <IMDB_ID>tt1091291</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Sheldon's getting fired forces him to explore what life has to offer outside physics, leaving Leonard to take drastic action to snap his friend out of his funk.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>128</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>|Chuck Lorre|Bill Prady|David Litt|Lee Aronsohn|</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/80379/338488.jpg</filename>
+  <lastupdated>1290635199</lastupdated>
+  <seasonid>28047</seasonid>
+  <seriesid>80379</seriesid>
+</Episode>
+<Episode>
+  <id>339077</id>
+  <Combined_episodenumber>5</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Andrew D. Weyman</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>The Hamburger Postulate</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired>2007-10-22</FirstAired>
+  <GuestStars>Sara Gilbert</GuestStars>
+  <IMDB_ID>tt1091292</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Fearing he's wasting his time on Penny, Leonard ends up making a connection with Leslie.</Overview>
+  <ProductionCode>3T6604</ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>127</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Steven Molaro|Jennifer Glickman|David Goetsch</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/80379/339077.jpg</filename>
+  <lastupdated>1290635212</lastupdated>
+  <seasonid>28047</seasonid>
+  <seriesid>80379</seriesid>
+</Episode>
+<Episode>
+  <id>339895</id>
+  <Combined_episodenumber>6</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Mark Cendrowski</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>The Middle Earth Paradigm</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired>2007-10-29</FirstAired>
+  <GuestStars>Brian Patrick Wade|Rachel Cannon|Cynthia Holloway|Kimberly Kevon Williams|Erin Allin O'Reilly</GuestStars>
+  <IMDB_ID>tt1091293</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Penny hosts a Hallowe'en party, putting Leonard, Sheldon, Wolowitz, and Koothrappali through a new test of their social skills.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>137</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>David Goetsch</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/80379/339895.jpg</filename>
+  <lastupdated>1290635231</lastupdated>
+  <seasonid>28047</seasonid>
+  <seriesid>80379</seriesid>
+</Episode>
+<Episode>
+  <id>341166</id>
+  <Combined_episodenumber>7</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Mark Cendrowski</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>The Dumpling Paradox</EpisodeName>
+  <EpisodeNumber>7</EpisodeNumber>
+  <FirstAired>2007-11-05</FirstAired>
+  <GuestStars>Brooke D'Orsay|James Hong|Carol Ann Susi</GuestStars>
+  <IMDB_ID>tt1136041</IMDB_ID>
+  <Language>en</Language>
+  <Overview>With Wolowitz AWOL with one of her friends, Penny's recruited to fill in for him on the guys' Halo team</Overview>
+  <ProductionCode>3T6606</ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>119</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Bill Prady|Chuck Lorre</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/80379/341166.jpg</filename>
+  <lastupdated>1290635256</lastupdated>
+  <seasonid>28047</seasonid>
+  <seriesid>80379</seriesid>
+</Episode>
+<Episode>
+  <id>341996</id>
+  <Combined_episodenumber>8</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Ted Wass</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>The Grasshopper Experiment</EpisodeName>
+  <EpisodeNumber>8</EpisodeNumber>
+  <FirstAired>2007-11-12</FirstAired>
+  <GuestStars>Sarayu Rao|Brian George|Alice Amter</GuestStars>
+  <IMDB_ID>tt1127389</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Raj's parents set him up on a blind date, but just when he discovers he can talk to her, she shows interest in Sheldon.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>120</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>David Goetsch|Steven Molaro</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/80379/341996.jpg</filename>
+  <lastupdated>1280234132</lastupdated>
+  <seasonid>28047</seasonid>
+  <seriesid>80379</seriesid>
+</Episode>
+<Episode>
+  <id>342790</id>
+  <Combined_episodenumber>9</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Joel Murray</Director>
+  <EpImgFlag>7</EpImgFlag>
+  <EpisodeName>The Cooper-Hofstadter Polarization</EpisodeName>
+  <EpisodeNumber>9</EpisodeNumber>
+  <FirstAired>2008-03-17</FirstAired>
+  <GuestStars>Talbott Chin|Howard Chan</GuestStars>
+  <IMDB_ID>tt1127390</IMDB_ID>
+  <Language>en</Language>
+  <Overview>When they're invited to present at a physics conference, Sheldon's reluctance to share the credit leads to a tiff between him and  Leonard, and Penny's intervention only exacerbates the situation.</Overview>
+  <ProductionCode>3T6608</ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>124</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Bill Prady|Stephen Engel</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/80379/342790.jpg</filename>
+  <lastupdated>1290635282</lastupdated>
+  <seasonid>28047</seasonid>
+  <seriesid>80379</seriesid>
+</Episode>
+<Episode>
+  <id>356711</id>
+  <Combined_episodenumber>10</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Mark Cendrowski</Director>
+  <EpImgFlag>7</EpImgFlag>
+  <EpisodeName>The Loobenfeld Decay</EpisodeName>
+  <EpisodeNumber>10</EpisodeNumber>
+  <FirstAired>2008-03-24</FirstAired>
+  <GuestStars>DJ Qualls</GuestStars>
+  <IMDB_ID>tt1127384</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Leonard and Sheldon each lie to avoid seeing Penny's concert, but Sheldon's is a bit too complicated for his own good.</Overview>
+  <ProductionCode>3T6609</ProductionCode>
+  <Rating>7.3</Rating>
+  <RatingCount>126</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Chuck Lorre</Writer>
+  <absolute_number>10</absolute_number>
+  <filename>episodes/80379/356711.jpg</filename>
+  <lastupdated>1280234186</lastupdated>
+  <seasonid>28047</seasonid>
+  <seriesid>80379</seriesid>
+</Episode>
+<Episode>
+  <id>358455</id>
+  <Combined_episodenumber>11</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Mark Cendrowski</Director>
+  <EpImgFlag>7</EpImgFlag>
+  <EpisodeName>The Pancake Batter Anomaly</EpisodeName>
+  <EpisodeNumber>11</EpisodeNumber>
+  <FirstAired>2008-03-31</FirstAired>
+  <GuestStars>Carol Ann Susi|Erin Allin O'Reilly</GuestStars>
+  <IMDB_ID>tt1127385</IMDB_ID>
+  <Language>en</Language>
+  <Overview>With his friends knowing how sour he acts when sick—and avoiding him as a result—Sheldon is nursed by Penny, who hasn't a clue what she's in for.</Overview>
+  <ProductionCode>3T6610</ProductionCode>
+  <Rating>7.4</Rating>
+  <RatingCount>129</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Chuck Lorre|Lee Aronsohn</Writer>
+  <absolute_number>11</absolute_number>
+  <filename>episodes/80379/358455.jpg</filename>
+  <lastupdated>1290635341</lastupdated>
+  <seasonid>28047</seasonid>
+  <seriesid>80379</seriesid>
+</Episode>
+<Episode>
+  <id>360371</id>
+  <Combined_episodenumber>12</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Mark Cendrowski</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Jerusalem Duality</EpisodeName>
+  <EpisodeNumber>12</EpisodeNumber>
+  <FirstAired>2008-04-14</FirstAired>
+  <GuestStars>Mark Harelik|Joel Brooks|Austin Lee|Emma Degerstedt</GuestStars>
+  <IMDB_ID>tt1127386</IMDB_ID>
+  <Language>en</Language>
+  <Overview>With Sheldon rattled over meeting Dennis, a 15-year-old physicist who's smarter than he, Leonard helps him look for a way to debunk Dennis's research.</Overview>
+  <ProductionCode>3T6611</ProductionCode>
+  <Rating>7.4</Rating>
+  <RatingCount>134</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Jennifer Glickman|Stephen Engel</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/80379/360371.jpg</filename>
+  <lastupdated>1290635362</lastupdated>
+  <seasonid>28047</seasonid>
+  <seriesid>80379</seriesid>
+</Episode>
+<Episode>
+  <id>363199</id>
+  <Combined_episodenumber>13</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Mark Cendrowski</Director>
+  <EpImgFlag>7</EpImgFlag>
+  <EpisodeName>The Bat Jar Conjecture</EpisodeName>
+  <EpisodeNumber>13</EpisodeNumber>
+  <FirstAired>2008-04-21</FirstAired>
+  <GuestStars>Adam Gregor|Sandra Marquez|Mark Harelik|Sergio Enrique|</GuestStars>
+  <IMDB_ID>tt1127387</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Sheldon finds himself booted from the gang's Physics Bowl team and replaced with Leslie, so he forms his own team, hoping to prove he's superior.</Overview>
+  <ProductionCode>3T6612</ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>127</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Stephen Engel|Jennifer Glickman</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/80379/363199.jpg</filename>
+  <lastupdated>1290635400</lastupdated>
+  <seasonid>28047</seasonid>
+  <seriesid>80379</seriesid>
+</Episode>
+<Episode>
+  <id>364198</id>
+  <Combined_episodenumber>14</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Mark Cendrowski</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Nerdvana Annihilation</EpisodeName>
+  <EpisodeNumber>14</EpisodeNumber>
+  <FirstAired>2008-04-28</FirstAired>
+  <GuestStars>Andrew Walker</GuestStars>
+  <IMDB_ID>tt1127905</IMDB_ID>
+  <Language>en</Language>
+  <Overview>When delivery of another collectible leads to Penny's lashing out at Leonard, he decides it's time to give up his habit, much to his friends' protestation.</Overview>
+  <ProductionCode>3T6613</ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>116</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Bill Prady</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/80379/364198.jpg</filename>
+  <lastupdated>1290635473</lastupdated>
+  <seasonid>28047</seasonid>
+  <seriesid>80379</seriesid>
+</Episode>
+<Episode>
+  <id>365914</id>
+  <Combined_episodenumber>15</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Mark Cendrowski</Director>
+  <EpImgFlag>7</EpImgFlag>
+  <EpisodeName>The Pork Chop Indeterminacy</EpisodeName>
+  <EpisodeNumber>15</EpisodeNumber>
+  <FirstAired>2008-05-05</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1127906</IMDB_ID>
+  <Language>en</Language>
+  <Overview>The rest of the gang fall for Sheldon's twin sister, and Leonard's plan to win her heart is derailed when Sheldon declares he'll be the one to decide who can date her.</Overview>
+  <ProductionCode>3T6614</ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>122</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Chuck Lorre</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/80379/365914.jpg</filename>
+  <lastupdated>1290635508</lastupdated>
+  <seasonid>28047</seasonid>
+  <seriesid>80379</seriesid>
+</Episode>
+<Episode>
+  <id>365967</id>
+  <Combined_episodenumber>16</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Mark Cendrowski</Director>
+  <EpImgFlag>7</EpImgFlag>
+  <EpisodeName>The Peanut Reaction</EpisodeName>
+  <EpisodeNumber>16</EpisodeNumber>
+  <FirstAired>2008-05-12</FirstAired>
+  <GuestStars>|Vernee Watson-Johnson|Judith Moreland|Ronald Hunter|Chuck Carter|</GuestStars>
+  <IMDB_ID>tt1127907</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Penny wants to throw a surprise party for Leonard, but Sheldon's indulgence at an electronics store throws her off-track.
+</Overview>
+  <ProductionCode>3T6615</ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>125</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Lee Aronsohn, Bill Prady</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/80379/365967.jpg</filename>
+  <lastupdated>1280234284</lastupdated>
+  <seasonid>28047</seasonid>
+  <seriesid>80379</seriesid>
+</Episode>
+<Episode>
+  <id>367404</id>
+  <Combined_episodenumber>17</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Mark Cendrowski</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Tangerine Factor</EpisodeName>
+  <EpisodeNumber>17</EpisodeNumber>
+  <FirstAired>2008-05-19</FirstAired>
+  <GuestStars>James Hong</GuestStars>
+  <IMDB_ID>tt1127908</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Penny's break-up spurs Leonard to summon the courage to ask her out, and each goes to Sheldon for advice on their upcoming date.</Overview>
+  <ProductionCode>3T6616</ProductionCode>
+  <Rating>7.9</Rating>
+  <RatingCount>127</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Lee Aronsohn|Steven Molaro|Chuck Lorre|Bill Prady</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/80379/367404.jpg</filename>
+  <lastupdated>1280234299</lastupdated>
+  <seasonid>28047</seasonid>
+  <seriesid>80379</seriesid>
+</Episode>
+<Episode>
+  <id>387721</id>
+  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Mark Cendrowski</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Bad Fish Paradigm</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2008-09-22</FirstAired>
+  <GuestStars>Carol Ann Susi</GuestStars>
+  <IMDB_ID>tt1256599</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Penny's first date with Leonard goes awry; Penny finds Sheldon to be an unwilling confidant.</Overview>
+  <ProductionCode>3T7351</ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>138</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>|Bill Prady|Dave Goetsch|Steven Molaro|</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/80379/387721.jpg</filename>
+  <lastupdated>1287862138</lastupdated>
+  <seasonid>35155</seasonid>
+  <seriesid>80379</seriesid>
+</Episode>
+<Episode>
+  <id>389025</id>
+  <Combined_episodenumber>2</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Mark Cendrowski</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Codpiece Topology</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2008-09-29</FirstAired>
+  <GuestStars>Travis Schuldt</GuestStars>
+  <IMDB_ID>tt1256030</IMDB_ID>
+  <Language>en</Language>
+  <Overview>A jealous Leonard reacts to Penny's new guy by rebounding with Leslie.</Overview>
+  <ProductionCode>3T7352</ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>137</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>|Lee Aronsohn|Bill Prady|Chuck Lorre|</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/80379/389025.jpg</filename>
+  <lastupdated>1290634957</lastupdated>
+  <seasonid>35155</seasonid>
+  <seriesid>80379</seriesid>
+</Episode>
+<Episode>
+  <id>391204</id>
+  <Combined_episodenumber>3</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Mark Cendrowski</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Barbarian Sublimation</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2008-10-06</FirstAired>
+  <GuestStars>|Mark Harelik|Tyler Olson|Mark Hames|</GuestStars>
+  <IMDB_ID>tt1256034</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Sheldon creates a monster when he introduces Penny to online gaming.</Overview>
+  <ProductionCode>3T7353</ProductionCode>
+  <Rating>7.9</Rating>
+  <RatingCount>136</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>|Chuck Lorre|Steven Molaro|Eric Kaplan|</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/80379/391204.jpg</filename>
+  <lastupdated>1290634992</lastupdated>
+  <seasonid>35155</seasonid>
+  <seriesid>80379</seriesid>
+</Episode>
+<Episode>
+  <id>393953</id>
+  <Combined_episodenumber>4</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Mark Cendrowski</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Griffin Equivalency</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>2008-10-13</FirstAired>
+  <GuestStars>Mark Harelik</GuestStars>
+  <IMDB_ID>tt1256035</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Raj gets an inflated ego and makes a play for Penny after being referenced in a magazine article.</Overview>
+  <ProductionCode>3T7354</ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>130</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>|Bill Prady|Chuck Lorre|Stephen Engel|Tim Doyle|</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/80379/393953.jpg</filename>
+  <lastupdated>1290635011</lastupdated>
+  <seasonid>35155</seasonid>
+  <seriesid>80379</seriesid>
+</Episode>
+<Episode>
+  <id>396576</id>
+  <Combined_episodenumber>5</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Mark Cendrowski</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Euclid Alternative</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired>2008-10-20</FirstAired>
+  <GuestStars>|Octavia Spencer|Elena Campbell-Martinez|Livia Trevino|</GuestStars>
+  <IMDB_ID>tt1256036</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Leonard and his friends stage an intervention to force Sheldon to face his fear of driving.</Overview>
+  <ProductionCode>3T7355</ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>136</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>|Bill Prady|Steven Molaro|Lee Aronsohn|Dave Goetsch|</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/80379/396576.jpg</filename>
+  <lastupdated>1287862243</lastupdated>
+  <seasonid>35155</seasonid>
+  <seriesid>80379</seriesid>
+</Episode>
+<Episode>
+  <id>401078</id>
+  <Combined_episodenumber>6</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Mark Cendrowski</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Cooper-Nowitzki Theorem</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired>2008-11-03</FirstAired>
+  <GuestStars>|Riki Lindhome|Emily Happe|</GuestStars>
+  <IMDB_ID>tt1256037</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Sheldon and the gang are confused when a young grad student is attracted to him.</Overview>
+  <ProductionCode>3T7356</ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>129</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>|Stephen Engel|Daley Haggar|Tim Doyle|Richard Rosenstock|</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/80379/401078.jpg</filename>
+  <lastupdated>1287862263</lastupdated>
+  <seasonid>35155</seasonid>
+  <seriesid>80379</seriesid>
+</Episode>
+<Episode>
+  <id>402940</id>
+  <Combined_episodenumber>7</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Mark Cendrowski</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Panty Piñata Polarization</EpisodeName>
+  <EpisodeNumber>7</EpisodeNumber>
+  <FirstAired>2008-11-10</FirstAired>
+  <GuestStars>Analeigh Tipton</GuestStars>
+  <IMDB_ID>tt1256038</IMDB_ID>
+  <Language>en</Language>
+  <Overview>When Sheldon bans Penny from the apartment for numerous minor infractions, she decides to retaliate.</Overview>
+  <ProductionCode>3T7357</ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>133</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>|Bill Prady|Tim Doyle|Jennifer Glickman|Steven Molaro|</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/80379/402940.jpg</filename>
+  <lastupdated>1290635061</lastupdated>
+  <seasonid>35155</seasonid>
+  <seriesid>80379</seriesid>
+</Episode>
+<Episode>
+  <id>405395</id>
+  <Combined_episodenumber>8</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Mark Cendrowski</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Lizard-Spock Expansion</EpisodeName>
+  <EpisodeNumber>8</EpisodeNumber>
+  <FirstAired>2008-11-17</FirstAired>
+  <GuestStars>|Sara Rue|Carol Ann Susi|</GuestStars>
+  <IMDB_ID>tt1256039</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Leonard inadvertently steals away the new woman Wolowitz thinks is the love of his life.</Overview>
+  <ProductionCode>3T7358</ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>138</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>|Bill Prady|Dave Goetsch|Jennifer Glickman|</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/80379/405395.jpg</filename>
+  <lastupdated>1290635110</lastupdated>
+  <seasonid>35155</seasonid>
+  <seriesid>80379</seriesid>
+</Episode>
+<Episode>
+  <id>406628</id>
+  <Combined_episodenumber>9</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Mark Cendrowski</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The White Asparagus Triangulation</EpisodeName>
+  <EpisodeNumber>9</EpisodeNumber>
+  <FirstAired>2008-11-24</FirstAired>
+  <GuestStars>|Sara Rue|</GuestStars>
+  <IMDB_ID>tt1256040</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Sheldon is thrilled when Leonard starts dating a woman who meets Sheldon's stringent standards.</Overview>
+  <ProductionCode>3T7359</ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>129</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>|Dave Goetsch|Steven Molaro|Stephen Engel|Richard Rosenstock|</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/80379/406628.jpg</filename>
+  <lastupdated>1288900655</lastupdated>
+  <seasonid>35155</seasonid>
+  <seriesid>80379</seriesid>
+</Episode>
+<Episode>
+  <id>410324</id>
+  <Combined_episodenumber>10</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Mark Cendrowski</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Vartabedian Conundrum</EpisodeName>
+  <EpisodeNumber>10</EpisodeNumber>
+  <FirstAired>2008-12-08</FirstAired>
+  <GuestStars>|Sara Rue|</GuestStars>
+  <IMDB_ID>tt1256020</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Leonard asks Penny for advice when his new relationship starts moving too fast.</Overview>
+  <ProductionCode>3T7360</ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>122</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>|Chuck Lorre|Steven Molaro|Bill Prady|Richard Rosenstock|Mark Cendrowski|</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/80379/410324.jpg</filename>
+  <lastupdated>1289133531</lastupdated>
+  <seasonid>35155</seasonid>
+  <seriesid>80379</seriesid>
+</Episode>
+<Episode>
+  <id>413490</id>
+  <Combined_episodenumber>11</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Mark Cendrowski</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Bath Item Gift Hypothesis</EpisodeName>
+  <EpisodeNumber>11</EpisodeNumber>
+  <FirstAired>2008-12-15</FirstAired>
+  <GuestStars>|Michael Trucco|Michael Hyatt|</GuestStars>
+  <IMDB_ID>tt1256021</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Penny starts dating Leonard's handsome colleague; Leonard and his friends are tortured by Sheldon's obsession with gift-giving etiquette.</Overview>
+  <ProductionCode>3T7361</ProductionCode>
+  <Rating>8.4</Rating>
+  <RatingCount>145</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>|Bill Prady|Richard Rosenstock|Stephen Engel|Eric Kaplan|</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/80379/413490.jpg</filename>
+  <lastupdated>1289133310</lastupdated>
+  <seasonid>35155</seasonid>
+  <seriesid>80379</seriesid>
+</Episode>
+<Episode>
+  <id>420058</id>
+  <Combined_episodenumber>12</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Mark Cendrowski</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Killer Robot Instability</EpisodeName>
+  <EpisodeNumber>12</EpisodeNumber>
+  <FirstAired>2009-01-12</FirstAired>
+  <GuestStars>|Carol Ann Susi|John Ross Bowie|</GuestStars>
+  <IMDB_ID>tt1256022</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Penny's criticism of Wolowitz's romantic life pushes him into depression and AWOL for a fighting robot battle the rest of guys are depending on him for.</Overview>
+  <ProductionCode>3T7362</ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>135</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>|Daley Haggar|Steven Molaro|Richard Rosenstock|Bill Prady|</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/80379/420058.jpg</filename>
+  <lastupdated>1289133578</lastupdated>
+  <seasonid>35155</seasonid>
+  <seriesid>80379</seriesid>
+</Episode>
+<Episode>
+  <id>426681</id>
+  <Combined_episodenumber>13</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Mark Cendrowski</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Friendship Algorithm</EpisodeName>
+  <EpisodeNumber>13</EpisodeNumber>
+  <FirstAired>2009-01-19</FirstAired>
+  <GuestStars>|John Ross Bowie|Will Deutsch|Jane Galloway Heitz|Jade Zdanow|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Sheldon creates a scientific procedure for making friends.</Overview>
+  <ProductionCode>3T7363</ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>127</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>|Bill Prady|Richard Rosenstock|Chuck Lorre|Steven Molaro|</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/80379/426681.jpg</filename>
+  <lastupdated>1289133618</lastupdated>
+  <seasonid>35155</seasonid>
+  <seriesid>80379</seriesid>
+</Episode>
+<Episode>
+  <id>428394</id>
+  <Combined_episodenumber>14</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Mark Cendrowski</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Financial Permeability</EpisodeName>
+  <EpisodeNumber>14</EpisodeNumber>
+  <FirstAired>2009-02-02</FirstAired>
+  <GuestStars>Brian Patrick Wade</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Sheldon's solution to Penny's financial difficulty leads to a confrontation between Leonard and Penny's ex-boyfriend.</Overview>
+  <ProductionCode>3T7364</ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>134</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>|Chuck Lorre|Steven Molaro|Richard Rosenstock|Eric Kaplan|</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/80379/428394.jpg</filename>
+  <lastupdated>1289133656</lastupdated>
+  <seasonid>35155</seasonid>
+  <seriesid>80379</seriesid>
+</Episode>
+<Episode>
+  <id>431000</id>
+  <Combined_episodenumber>15</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Mark Cendrowski</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Maternal Capacitance</EpisodeName>
+  <EpisodeNumber>15</EpisodeNumber>
+  <FirstAired>2009-02-09</FirstAired>
+  <GuestStars>Christine Baranski</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Leonard and Penny are drawn together after a disastrous visit from Leonard's mother.</Overview>
+  <ProductionCode>3T7365</ProductionCode>
+  <Rating>7.8</Rating>
+  <RatingCount>133</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>|Chuck Lorre|Bill Prady|Richard Rosenstock|Steven Molaro|</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/80379/431000.jpg</filename>
+  <lastupdated>1289133701</lastupdated>
+  <seasonid>35155</seasonid>
+  <seriesid>80379</seriesid>
+</Episode>
+<Episode>
+  <id>439079</id>
+  <Combined_episodenumber>16</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Mark Cendrowski</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Cushion Saturation</EpisodeName>
+  <EpisodeNumber>16</EpisodeNumber>
+  <FirstAired>2009-03-02</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>A paintball game leads to a fight between Sheldon and Penny, and romance for Leslie and Wolowitz.</Overview>
+  <ProductionCode>3T7366</ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>126</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>|Chuck Lorre|Bill Prady|Lee Aronsohn|</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/80379/439079.jpg</filename>
+  <lastupdated>1289133748</lastupdated>
+  <seasonid>35155</seasonid>
+  <seriesid>80379</seriesid>
+</Episode>
+<Episode>
+  <id>439587</id>
+  <Combined_episodenumber>17</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Mark Cendrowski</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Terminator Decoupling</EpisodeName>
+  <EpisodeNumber>17</EpisodeNumber>
+  <FirstAired>2009-03-09</FirstAired>
+  <GuestStars>|Summer Glau|Dr. George Smoot|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Leonard, Sheldon and Wolowitz are ecstatic to learn that a famous science-fiction actress (Summer Glau) is on board the train they are taking to San Francisco.</Overview>
+  <ProductionCode>3T7367</ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>129</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>|Bill Prady|Dave Goetsch|Tim Doyle|Stephen Engel</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/80379/439587.jpg</filename>
+  <lastupdated>1289133806</lastupdated>
+  <seasonid>35155</seasonid>
+  <seriesid>80379</seriesid>
+</Episode>
+<Episode>
+  <id>443622</id>
+  <Combined_episodenumber>18</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Mark Cendrowski</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Work Song Nanocluster</EpisodeName>
+  <EpisodeNumber>18</EpisodeNumber>
+  <FirstAired>2009-03-16</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Penny's home business turns into a complete nightmare when Sheldon takes over.</Overview>
+  <ProductionCode>3T7368</ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>128</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>|Bill Prady|Lee Aronsohn|Dave Goetsch|Richard Rosenstock|</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/80379/443622.jpg</filename>
+  <lastupdated>1290016528</lastupdated>
+  <seasonid>35155</seasonid>
+  <seriesid>80379</seriesid>
+</Episode>
+<Episode>
+  <id>461831</id>
+  <Combined_episodenumber>19</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Mark Cendrowski</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Dead Hooker Juxtaposition</EpisodeName>
+  <EpisodeNumber>19</EpisodeNumber>
+  <FirstAired>2009-03-30</FirstAired>
+  <GuestStars>Carol Ann Susi | Valerie Azlynn</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Penny squares off with a new beautiful female neighbor who may become the building's &quot;new Penny.&quot; </Overview>
+  <ProductionCode>3T7369</ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>118</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Steven Molaro</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/80379/461831.jpg</filename>
+  <lastupdated>1290016547</lastupdated>
+  <seasonid>35155</seasonid>
+  <seriesid>80379</seriesid>
+</Episode>
+<Episode>
+  <id>461841</id>
+  <Combined_episodenumber>20</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Mark Cendrowski</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Hofstadter Isotope</EpisodeName>
+  <EpisodeNumber>20</EpisodeNumber>
+  <FirstAired>2009-04-13</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>A fellow comic book enthusiast's hitting on Penny leads to Leonard and Howard going to a bar's Ladies' Night.</Overview>
+  <ProductionCode>3T7370</ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>125</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>David Goetsch</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/80379/461841.jpg</filename>
+  <lastupdated>1290016565</lastupdated>
+  <seasonid>35155</seasonid>
+  <seriesid>80379</seriesid>
+</Episode>
+<Episode>
+  <id>588971</id>
+  <Combined_episodenumber>21</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Mark Cendrowski</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Vegas Renormalization</EpisodeName>
+  <EpisodeNumber>21</EpisodeNumber>
+  <FirstAired>2009-04-27</FirstAired>
+  <GuestStars>Jodi Lyn O'Keefe</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Leonard and Koothrappali escort a heartbroken Wolowitz to Las Vegas, and Sheldon becomes locked out of his apartment and must stay with Penny.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.9</Rating>
+  <RatingCount>123</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>|Jessica Ambrosetti|Nicole Lorre|Andrew Roth</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/80379/588971.jpg</filename>
+  <lastupdated>1290016588</lastupdated>
+  <seasonid>35155</seasonid>
+  <seriesid>80379</seriesid>
+</Episode>
+<Episode>
+  <id>588981</id>
+  <Combined_episodenumber>22</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Mark Cendrowski</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Classified Materials Turbulence</EpisodeName>
+  <EpisodeNumber>22</EpisodeNumber>
+  <FirstAired>2009-05-04</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Penny's second date with Stuart sees her making a comment that gives Leonard new hope for a relationship with her. Wolowitz realizes there's a crucial error in a NASA project he's working on.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.8</Rating>
+  <RatingCount>129</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>|Chuck Lorre|Lee Aronsohn</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/80379/588981.jpg</filename>
+  <lastupdated>1292607786</lastupdated>
+  <seasonid>35155</seasonid>
+  <seriesid>80379</seriesid>
+</Episode>
+<Episode>
+  <id>588991</id>
+  <Combined_episodenumber>23</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Mark Cendrowski</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Monopolar Expedition</EpisodeName>
+  <EpisodeNumber>23</EpisodeNumber>
+  <FirstAired>2009-05-11</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>The guys' plan to work over the summer at the North Pole makes Penny revaluate her feelings for Leonard.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>132</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>|Richard Rosenstock|Eric Kaplan|</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/80379/588991.jpg</filename>
+  <lastupdated>1292607821</lastupdated>
+  <seasonid>35155</seasonid>
+  <seriesid>80379</seriesid>
+</Episode>
+<Episode>
+  <id>795681</id>
+  <Combined_episodenumber>1.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>1.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Mark Cendrowski</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Electric Can Opener Fluctuation</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2009-09-21</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1487706</IMDB_ID>
+  <Language>en</Language>
+  <Overview>When Sheldon learns the guys tampered with his expedition data he got from the arctic, he leaves to Texas in disgrace. This results in the guys following him, which threatens Leonard's hope for some romantic time with Penny and the guys' friendship with Sheldon. </Overview>
+  <ProductionCode>301</ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>160</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Steven Molaro</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/80379/795681.jpg</filename>
+  <lastupdated>1293645354</lastupdated>
+  <seasonid>82831</seasonid>
+  <seriesid>80379</seriesid>
+</Episode>
+<Episode>
+  <id>1046141</id>
+  <Combined_episodenumber>2.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>2.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Mark Cendrowski</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Jiminy Conjecture</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2009-09-28</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1495238</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Leonard and Penny struggle to recover from an awkward first hookup while Sheldon and Howard stake their best comic books on a bet to determine the species of a cricket. </Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>150</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Jim Reynolds</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/80379/1046141.jpg</filename>
+  <lastupdated>1293645380</lastupdated>
+  <seasonid>82831</seasonid>
+  <seriesid>80379</seriesid>
+</Episode>
+<Episode>
+  <id>1101931</id>
+  <Combined_episodenumber>3.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>3.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Mark Cendrowski</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Gothowitz Deviation</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2009-10-05</FirstAired>
+  <GuestStars>Andy Mackenzie, Sarah Buehler, Molly Morgan</GuestStars>
+  <IMDB_ID>tt1494210</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Howard and Raj visit a Goth nightclub to pick up women while Sheldon attempts to build a better Penny using chocolate-based behavior modification. </Overview>
+  <ProductionCode>303</ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>145</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Maria Ferrari | Bill Prady</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/80379/1101931.jpg</filename>
+  <lastupdated>1293645434</lastupdated>
+  <seasonid>82831</seasonid>
+  <seriesid>80379</seriesid>
+</Episode>
+<Episode>
+  <id>1123661</id>
+  <Combined_episodenumber>4.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>4.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Mark Cendrowski</Director>
+  <EpImgFlag>7</EpImgFlag>
+  <EpisodeName>The Pirate Solution</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>2009-10-12</FirstAired>
+  <GuestStars>|Elizabeth Bogush|Oliver Muirhead|Elena Campbell-Martinez|</GuestStars>
+  <IMDB_ID>tt1523181</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Raj must find a new job or be sent back to India, but Sheldon has a solution, which leaves Leonard and Penny dealing with Howard as a third wheel.</Overview>
+  <ProductionCode>304</ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>129</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Steve Holland</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/80379/1123661.jpg</filename>
+  <lastupdated>1293645474</lastupdated>
+  <seasonid>82831</seasonid>
+  <seriesid>80379</seriesid>
+</Episode>
+<Episode>
+  <id>1175941</id>
+  <Combined_episodenumber>5.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>5.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Mark Cendrowski</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Creepy Candy Coating Corollary</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired>2009-10-19</FirstAired>
+  <GuestStars>Wil Wheaton</GuestStars>
+  <IMDB_ID>tt1528188</IMDB_ID>
+  <Language>en</Language>
+  <Overview>After overhearing that Wil Wheaton is entering a trading-card competition, Sheldon decides to enter it himself. Meanwhile, Penny sets up one of her friends on a date with Wolowitz.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>125</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Steven Molaro|Lee Aronsohn|Bill Prady|Chuck Lorre</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/80379/1175941.jpg</filename>
+  <lastupdated>1293645526</lastupdated>
+  <seasonid>82831</seasonid>
+  <seriesid>80379</seriesid>
+</Episode>
+<Episode>
+  <id>1175951</id>
+  <Combined_episodenumber>6.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>6.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Mark Cendrowski</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Cornhusker Vortex</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired>2009-11-02</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1523180</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Sheldon becomes Leonard's teacher in order to understand football, while an incident with flying a kite threatens Howard and Raj's friendship.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.3</Rating>
+  <RatingCount>139</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>|Richard Rosenstock|David Goetsch|Steven Molaro|Bill Prady|</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/80379/1175951.jpg</filename>
+  <lastupdated>1293645550</lastupdated>
+  <seasonid>82831</seasonid>
+  <seriesid>80379</seriesid>
+</Episode>
+<Episode>
+  <id>1205511</id>
+  <Combined_episodenumber>7.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>7.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Mark Cendrowski</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Guitarist Amplification</EpisodeName>
+  <EpisodeNumber>7</EpisodeNumber>
+  <FirstAired>2009-11-09</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1535334</IMDB_ID>
+  <Language>en</Language>
+  <Overview>A squabble between Leonard and Penny sees Sheldon playing mediator, though out of his own incovenience from the sitiation rather than altruism.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>135</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>|Jim Reynolds|Richard Rosenstock|Bill Prady|Lee Aronsohn|Chuck Lorre|</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/80379/1205511.jpg</filename>
+  <lastupdated>1293645791</lastupdated>
+  <seasonid>82831</seasonid>
+  <seriesid>80379</seriesid>
+</Episode>
+<Episode>
+  <id>1236491</id>
+  <Combined_episodenumber>8.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>8.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Mark Cendrowski</Director>
+  <EpImgFlag>7</EpImgFlag>
+  <EpisodeName>The Adhesive Duck Deficiency</EpisodeName>
+  <EpisodeNumber>8</EpisodeNumber>
+  <FirstAired>2009-11-16</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1536922</IMDB_ID>
+  <Language>en</Language>
+  <Overview>With Leonard, Howard and Raj away camping in the desert, an injured Penny has only Sheldon to rely on.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>138</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>|Chuck Lorre|Bill Prady|David Goetsch|</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/80379/1236491.jpg</filename>
+  <lastupdated>1293645808</lastupdated>
+  <seasonid>82831</seasonid>
+  <seriesid>80379</seriesid>
+</Episode>
+<Episode>
+  <id>1269601</id>
+  <Combined_episodenumber>9.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>9.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Mark Cendrowski</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Vengeance Formulation</EpisodeName>
+  <EpisodeNumber>9</EpisodeNumber>
+  <FirstAired>2009-11-23</FirstAired>
+  <GuestStars>Katee Sackhoff|Ira Flatow</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>After he's humiliated on National Public Radio, Sheldon vows to destroy Kripke, while Wolowitz tries not to destroy his new relationship with Bernadette.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.8</Rating>
+  <RatingCount>139</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Chuck Lorre|Maria Ferrari|</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/80379/1269601.jpg</filename>
+  <lastupdated>1293645868</lastupdated>
+  <seasonid>82831</seasonid>
+  <seriesid>80379</seriesid>
+</Episode>
+<Episode>
+  <id>1370211</id>
+  <Combined_episodenumber>10.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>10.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Mark Cendrowski</Director>
+  <EpImgFlag>7</EpImgFlag>
+  <EpisodeName>The Gorilla Experiment</EpisodeName>
+  <EpisodeNumber>10</EpisodeNumber>
+  <FirstAired>2009-12-07</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1558529</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Penny gets help from Sheldon in order to understand what Leonard's work is, while Wolowitz develops a jealousy when Leonard starts hanging out with his new girlfriend.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.8</Rating>
+  <RatingCount>144</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Chuck Lorre|Richard Rosenstock|Steve Holland|</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/80379/1370211.jpg</filename>
+  <lastupdated>1293645886</lastupdated>
+  <seasonid>82831</seasonid>
+  <seriesid>80379</seriesid>
+</Episode>
+<Episode>
+  <id>1309961</id>
+  <Combined_episodenumber>11.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>11.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Mark Cendrowski</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Maternal Congruence</EpisodeName>
+  <EpisodeNumber>11</EpisodeNumber>
+  <FirstAired>2009-12-14</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>A Christmas visit from his mother has Leonard discovering she's kept a lot of news from him that she shares with Sheldon and worrying if she'll approve of his romance with Penny.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>135</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>|Lee Aronsohn|Steven Molaro|Richard Rosenstock|Maria Ferrari|</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/80379/1309961.jpg</filename>
+  <lastupdated>1294568510</lastupdated>
+  <seasonid>82831</seasonid>
+  <seriesid>80379</seriesid>
+</Episode>
+<Episode>
+  <id>1313511</id>
+  <Combined_episodenumber>12.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>12.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Mark Cendrowski</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Psychic Vortex</EpisodeName>
+  <EpisodeNumber>12</EpisodeNumber>
+  <FirstAired>2010-01-11</FirstAired>
+  <GuestStars>|Melissa Rauch|Danica McKellar|Jen Drohan|David Trice| Jen Drohan</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Leonard is aghast to find out a secret of Penny's: she believes in psychics. Meanwhile, Sheldon tries to assist Koothrappali in picking up a girl at a university mixer.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.8</Rating>
+  <RatingCount>141</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>|Lee Aronsohn|Steven Molaro|</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/80379/1313511.jpg</filename>
+  <lastupdated>1294568544</lastupdated>
+  <seasonid>82831</seasonid>
+  <seriesid>80379</seriesid>
+</Episode>
+<Episode>
+  <id>1418721</id>
+  <Combined_episodenumber>13.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>13.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Mark Cendrowski</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Bozeman Reaction</EpisodeName>
+  <EpisodeNumber>13</EpisodeNumber>
+  <FirstAired>2010-01-18</FirstAired>
+  <GuestStars>|Julio Oscar Mechoso|Artie O'Daly|</GuestStars>
+  <IMDB_ID>tt1570312</IMDB_ID>
+  <Language>en</Language>
+  <Overview>When their apartment is robbed, Leonard and Sheldon turn to their friends to create a state-of-the-art security system.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>152</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>|Bill Prady|Lee Aronsohn|Jim Reynolds|</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/80379/1418721.jpg</filename>
+  <lastupdated>1294568717</lastupdated>
+  <seasonid>82831</seasonid>
+  <seriesid>80379</seriesid>
+</Episode>
+<Episode>
+  <id>1585301</id>
+  <Combined_episodenumber>14.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>14.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Mark Cendrowski</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Einstein Approximation</EpisodeName>
+  <EpisodeNumber>14</EpisodeNumber>
+  <FirstAired>2010-02-01</FirstAired>
+  <GuestStars>|Melissa Rauch|Yeardley Smith|Kevin Brief|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Sheldon's search for the answer to a physics problem leads him to work at the Cheesecake Factory with Penny.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.9</Rating>
+  <RatingCount>167</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>|Lee Aronsohn|Dave Goetsch|Steve Holland|</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/80379/1585301.jpg</filename>
+  <lastupdated>1294568737</lastupdated>
+  <seasonid>82831</seasonid>
+  <seriesid>80379</seriesid>
+</Episode>
+<Episode>
+  <id>1611971</id>
+  <Combined_episodenumber>15.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>15.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Mark Cendrowski</Director>
+  <EpImgFlag>7</EpImgFlag>
+  <EpisodeName>The Large Hadron Collision</EpisodeName>
+  <EpisodeNumber>15</EpisodeNumber>
+  <FirstAired>2010-02-08</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Leonard can only bring one guest on a trip to see CERN's Large Hadron Collider (the world's largest and highest energy particle accelerator) in Switzerland on Valentine's Day.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>155</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>|Chuck Lorre|Steven Molaro|Jim Reynolds|</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/80379/1611971.jpg</filename>
+  <lastupdated>1294568831</lastupdated>
+  <seasonid>82831</seasonid>
+  <seriesid>80379</seriesid>
+</Episode>
+<Episode>
+  <id>1670231</id>
+  <Combined_episodenumber>16.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>16.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Mark Cendrowski</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Excelsior Acquisition</EpisodeName>
+  <EpisodeNumber>16</EpisodeNumber>
+  <FirstAired>2010-03-01</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Sheldon winds up in traffic court when he gets a ticket because of Penny.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>162</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>|Bill Prady|Steve Holland|Maria Ferrari|</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/80379/1670231.jpg</filename>
+  <lastupdated>1294568848</lastupdated>
+  <seasonid>82831</seasonid>
+  <seriesid>80379</seriesid>
+</Episode>
+<Episode>
+  <id>1765801</id>
+  <Combined_episodenumber>17.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>17.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Mark Cendrowski</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Precious Fragmentation</EpisodeName>
+  <EpisodeNumber>17</EpisodeNumber>
+  <FirstAired>2010-03-08</FirstAired>
+  <GuestStars>Frank Maharajh</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>When the guys find a ring from &quot;The Lord of the Rings&quot; at a garage sale, it threatens to tear them apart.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>170</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>|Lee Aronsohn|Eric Kaplan|Maria Ferrari|</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/80379/1765801.jpg</filename>
+  <lastupdated>1294569200</lastupdated>
+  <seasonid>82831</seasonid>
+  <seriesid>80379</seriesid>
+</Episode>
+<Episode>
+  <id>1801741</id>
+  <Combined_episodenumber>18.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>18.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Mark Cendrowski</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Pants Alternative</EpisodeName>
+  <EpisodeNumber>18</EpisodeNumber>
+  <FirstAired>2010-03-22</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Sheldon's friends come to his aid when his fear of public speaking stands between him and a coveted award.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.1</Rating>
+  <RatingCount>175</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>|Chuck Lorre|Bill Prady|Steve Holland|</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/80379/1801741.jpg</filename>
+  <lastupdated>1294569217</lastupdated>
+  <seasonid>82831</seasonid>
+  <seriesid>80379</seriesid>
+</Episode>
+<Episode>
+  <id>1766111</id>
+  <Combined_episodenumber>19.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>19.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Mark Cendrowski</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Wheaton Recurrence</EpisodeName>
+  <EpisodeNumber>19</EpisodeNumber>
+  <FirstAired>2010-04-12</FirstAired>
+  <GuestStars>Wil Wheaton</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>A fight between Leonard and Penny threatens their relationship, while Sheldon battles Wil Wheaton in bowling.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>184</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>|Chuck Lorre|Steven Molaro|Nicole Lorre|Jessica Ambrosetti|</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/80379/1766111.jpg</filename>
+  <lastupdated>1294569328</lastupdated>
+  <seasonid>82831</seasonid>
+  <seriesid>80379</seriesid>
+</Episode>
+<Episode>
+  <id>1975621</id>
+  <Combined_episodenumber>20.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>20.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Anthony Rich</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Spaghetti Catalyst</EpisodeName>
+  <EpisodeNumber>20</EpisodeNumber>
+  <FirstAired>2010-05-03</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>When Leonard and Penny aren't speaking, Sheldon goes to extremes to keep them both happy.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>182</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>|Chuck Lorre|Bill Prady|Lee Aronsohn|Steven Molaro|</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/80379/1975621.jpg</filename>
+  <lastupdated>1294569345</lastupdated>
+  <seasonid>82831</seasonid>
+  <seriesid>80379</seriesid>
+</Episode>
+<Episode>
+  <id>2063651</id>
+  <Combined_episodenumber>21.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>21.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Mark Cendrowski</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Plimpton Stimulation</EpisodeName>
+  <EpisodeNumber>21</EpisodeNumber>
+  <FirstAired>2010-05-10</FirstAired>
+  <GuestStars>Judy Greer</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Leonard and Sheldon compete for the attention of a famous female physicist.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.8</Rating>
+  <RatingCount>181</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>|Chuck Lorre|Bill Prady|Lee Aronsohn|</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/80379/2063651.jpg</filename>
+  <lastupdated>1295038284</lastupdated>
+  <seasonid>82831</seasonid>
+  <seriesid>80379</seriesid>
+</Episode>
+<Episode>
+  <id>2063661</id>
+  <Combined_episodenumber>22.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>22.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Mark Cendrowski</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Staircase Implementation</EpisodeName>
+  <EpisodeNumber>22</EpisodeNumber>
+  <FirstAired>2010-05-17</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Leonard tells Penny about how he met Sheldon for the first time...and what happened to the elevator.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.0</Rating>
+  <RatingCount>196</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>|Lee Aronsohn|Steven Molaro|Steve Holland|</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/80379/2063661.jpg</filename>
+  <lastupdated>1295120270</lastupdated>
+  <seasonid>82831</seasonid>
+  <seriesid>80379</seriesid>
+</Episode>
+<Episode>
+  <id>2099491</id>
+  <Combined_episodenumber>23.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>23.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Peter Chakos</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Lunar Excitation</EpisodeName>
+  <EpisodeNumber>23</EpisodeNumber>
+  <FirstAired>2010-05-24</FirstAired>
+  <GuestStars>Mayim Bialik</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>While Penny worries that dating Leonard has ruined her for normal guys, Wolowitz and Koothrappali search for Sheldon's perfect match online.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.1</Rating>
+  <RatingCount>173</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>|Chuck Lorre|Bill Prady|Maria Ferrari|</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/80379/2099491.jpg</filename>
+  <lastupdated>1295120281</lastupdated>
+  <seasonid>82831</seasonid>
+  <seriesid>80379</seriesid>
+</Episode>
+<Episode>
+  <id>2405541</id>
+  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Mark Cendrowski</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Robotic Manipulation</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2010-09-23</FirstAired>
+  <GuestStars>|Mayim Bialik|Vernee Watson-Johnson|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Penny tags along on Sheldon's first ever date; Wolowitz finds a new use for a robotic arm.</Overview>
+  <ProductionCode>401</ProductionCode>
+  <Rating>7.9</Rating>
+  <RatingCount>211</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>|Steven Molaro|Eric Kaplan|Steve Holland|</Writer>
+  <absolute_number>64</absolute_number>
+  <filename>episodes/80379/2405541.jpg</filename>
+  <lastupdated>1300525348</lastupdated>
+  <seasonid>261421</seasonid>
+  <seriesid>80379</seriesid>
+</Episode>
+<Episode>
+  <id>2813551</id>
+  <Combined_episodenumber>2</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Mark Cendrowski</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Cruciferous Vegetable Amplification</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2010-09-30</FirstAired>
+  <GuestStars>Steve Wozniak</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Realizing he will not live long enough to download his consciousness into a robot body, Sheldon tries to extend his life span.</Overview>
+  <ProductionCode>402</ProductionCode>
+  <Rating>7.9</Rating>
+  <RatingCount>213</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>|Steven Molaro|Chuck Lorre|Jim Reynolds|</Writer>
+  <absolute_number>65</absolute_number>
+  <filename>episodes/80379/2813551.jpg</filename>
+  <lastupdated>1300055681</lastupdated>
+  <seasonid>261421</seasonid>
+  <seriesid>80379</seriesid>
+</Episode>
+<Episode>
+  <id>2828801</id>
+  <Combined_episodenumber>3</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Mark Cendrowski</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Zazzy Substitution</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2010-10-07</FirstAired>
+  <GuestStars>|Laurie Metcalf|Mayim Bialik|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>The guys are concerned as Sheldon searches for an alternative to human companionship.</Overview>
+  <ProductionCode>403</ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>198</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>|Lee Aronsohn|Steven Molaro|Maria Ferrari|</Writer>
+  <absolute_number>66</absolute_number>
+  <filename>episodes/80379/2828801.jpg</filename>
+  <lastupdated>1300655259</lastupdated>
+  <seasonid>261421</seasonid>
+  <seriesid>80379</seriesid>
+</Episode>
+<Episode>
+  <id>2828811</id>
+  <Combined_episodenumber>4</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Mark Cendrowski</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Hot Troll Deviation</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>2010-10-14</FirstAired>
+  <GuestStars>George Takei|Katee Sackhoff|Melissa Rauch</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>An embarrassing secret of Wolowitz's comes to light, while Sheldon and Raj have a small war at work.</Overview>
+  <ProductionCode>404</ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>193</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>Chuck Lorre|Steven Molaro|Adam Faberman|Bill Prady|Lee Aronsohn|Maria Ferrari</Writer>
+  <absolute_number>67</absolute_number>
+  <filename>episodes/80379/2828811.jpg</filename>
+  <lastupdated>1296743058</lastupdated>
+  <seasonid>261421</seasonid>
+  <seriesid>80379</seriesid>
+</Episode>
+<Episode>
+  <id>2903361</id>
+  <Combined_episodenumber>5</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Mark Cendrowski</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Desperation Emanation</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired>2010-10-21</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Leonard realizes he’s the only one without a girlfriend, while Sheldon wants to get rid of his.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>200</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>Lee Aronsohn, David Goetsch, Bill Prady</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/80379/2903361.jpg</filename>
+  <lastupdated>1296743086</lastupdated>
+  <seasonid>261421</seasonid>
+  <seriesid>80379</seriesid>
+</Episode>
+<Episode>
+  <id>2969761</id>
+  <Combined_episodenumber>6</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Mark Cendrowski</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Irish Pub Formulation</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired>2010-10-28</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Leonard keeps an affair a secret from Sheldon, Howard and Raj.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.9</Rating>
+  <RatingCount>198</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>Chuck Lorre|Lee Aronsohn|Steven Molaro|Maria Ferrari|Eric Kaplan|Bill Prady</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/80379/2969761.jpg</filename>
+  <lastupdated>1296743099</lastupdated>
+  <seasonid>261421</seasonid>
+  <seriesid>80379</seriesid>
+</Episode>
+<Episode>
+  <id>2995711</id>
+  <Combined_episodenumber>7</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Mark Cendrowski</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Apology Insufficiency</EpisodeName>
+  <EpisodeNumber>7</EpisodeNumber>
+  <FirstAired>2010-11-04</FirstAired>
+  <GuestStars>Eliza Dushku</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Sheldon's answers during an FBI interview put Wolowitz's security clearance in jeopardy.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.8</Rating>
+  <RatingCount>182</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>Chuck Lorre|Maria Ferrari|Lee Aronsohn|Steve Holland|Steven Molaro|Bill Prady</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/80379/2995711.jpg</filename>
+  <lastupdated>1296743115</lastupdated>
+  <seasonid>261421</seasonid>
+  <seriesid>80379</seriesid>
+</Episode>
+<Episode>
+  <id>3066471</id>
+  <Combined_episodenumber>8</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Mark Cendrowski</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The 21-Second Excitation</EpisodeName>
+  <EpisodeNumber>8</EpisodeNumber>
+  <FirstAired>2010-11-11</FirstAired>
+  <GuestStars>Melissa Rauch|Mayim Bialik|Wil Wheaton|Eric Andre</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>While the guys camp in line for a long-awaited movie screening, Penny and Bernadette invite Amy to her first slumber party.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.8</Rating>
+  <RatingCount>189</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>Chuck Lorre|Lee Aronsohn</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/80379/3066471.jpg</filename>
+  <lastupdated>1296743127</lastupdated>
+  <seasonid>261421</seasonid>
+  <seriesid>80379</seriesid>
+</Episode>
+<Episode>
+  <id>3110921</id>
+  <Combined_episodenumber>9</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Mark Cendrowski</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Boyfriend Complexity</EpisodeName>
+  <EpisodeNumber>9</EpisodeNumber>
+  <FirstAired>2010-11-18</FirstAired>
+  <GuestStars>Keith Carradine</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Penny asks Leonard to lie to her father, while Howard, Raj and Bernadette pull an all-nighter at a telescope.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.1</Rating>
+  <RatingCount>194</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>Lee Aronsohn|Jim Reynolds|Chuck Lorre|Steven Molaro|David Goetsch|Bill Prady</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/80379/3110921.jpg</filename>
+  <lastupdated>1296964378</lastupdated>
+  <seasonid>261421</seasonid>
+  <seriesid>80379</seriesid>
+</Episode>
+<Episode>
+  <id>3168381</id>
+  <Combined_episodenumber>10</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Mark Cendrowski</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Alien Parasite Hypothesis</EpisodeName>
+  <EpisodeNumber>10</EpisodeNumber>
+  <FirstAired>2010-12-09</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Amy finds she has sexual feelings for Penny's ex, while Koothrappali and Wolowitz try to prove who would be the better superhero.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>197</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>Chuck Lorre|Steven Molaro|Steve Holland|Lee Aronsohn|Jim Reynolds|Maria Ferrari</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/80379/3168381.jpg</filename>
+  <lastupdated>1299320837</lastupdated>
+  <seasonid>261421</seasonid>
+  <seriesid>80379</seriesid>
+</Episode>
+<Episode>
+  <id>3198011</id>
+  <Combined_episodenumber>11</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Mark Cendrowski</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Justice League Recombination</EpisodeName>
+  <EpisodeNumber>11</EpisodeNumber>
+  <FirstAired>2010-12-16</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>The guys find a &quot;super&quot; use for Penny's new boyfriend, Zack, when they enter a costume contest as the Justice League. </Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.0</Rating>
+  <RatingCount>202</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>Chuck Lorre|Lee Aronsohn|Maria Ferrari|Bill Prady|Steven Molaro|Steve Holland</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/80379/3198011.jpg</filename>
+  <lastupdated>1299320846</lastupdated>
+  <seasonid>261421</seasonid>
+  <seriesid>80379</seriesid>
+</Episode>
+<Episode>
+  <id>3270941</id>
+  <Combined_episodenumber>12</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Mark Cendrowski</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Bus Pants Utilization</EpisodeName>
+  <EpisodeNumber>12</EpisodeNumber>
+  <FirstAired>2011-01-06</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Leonard's idea for a smartphone app derails his friendship with Sheldon.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>194</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>Chuck Lorre|Steven Molaro|Maria Ferrari|Lee Aronsohn|Eric Kaplan|Bill Prady</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/80379/3270941.jpg</filename>
+  <lastupdated>1299320850</lastupdated>
+  <seasonid>261421</seasonid>
+  <seriesid>80379</seriesid>
+</Episode>
+<Episode>
+  <id>3392921</id>
+  <Combined_episodenumber>13</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Anthony Rich</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Love Car Displacement</EpisodeName>
+  <EpisodeNumber>13</EpisodeNumber>
+  <FirstAired>2011-01-20</FirstAired>
+  <GuestStars>Rick Fox</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Bernadette runs into her ex-boyfriend while attending a science event with Wolowitz.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.8</Rating>
+  <RatingCount>182</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>Steve Holland|Lee Aronsohn|Steven Molaro|Bill Prady|Chuck Lorre|David Goetsch</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/80379/3392921.jpg</filename>
+  <lastupdated>1299975813</lastupdated>
+  <seasonid>261421</seasonid>
+  <seriesid>80379</seriesid>
+</Episode>
+<Episode>
+  <id>3473151</id>
+  <Combined_episodenumber>14</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Mark Cendrowski</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Thespian Catalyst</EpisodeName>
+  <EpisodeNumber>14</EpisodeNumber>
+  <FirstAired>2011-02-03</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Hoping it will make him a better teacher, Sheldon has Penny give him acting lessons. Raj has fantasies about a friend's girlfriend.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>183</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>Chuck Lorre|Steven Molaro|Bill Prady|Jim Reynolds|Chuck Lorre|Lee Aronsohn</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/80379/3473151.jpg</filename>
+  <lastupdated>1299320868</lastupdated>
+  <seasonid>261421</seasonid>
+  <seriesid>80379</seriesid>
+</Episode>
+<Episode>
+  <id>3509831</id>
+  <Combined_episodenumber>15</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Mark Cendrowski</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Benefactor Factor</EpisodeName>
+  <EpisodeNumber>15</EpisodeNumber>
+  <FirstAired>2011-02-10</FirstAired>
+  <GuestStars>Jessica Walter|Joshua Malina</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>A wealthy donor to the university makes Leonard consider how far he's willing to go for the sake of science.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.9</Rating>
+  <RatingCount>174</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>David Goetsch|Steve Holland</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/80379/3509831.jpg</filename>
+  <lastupdated>1299320880</lastupdated>
+  <seasonid>261421</seasonid>
+  <seriesid>80379</seriesid>
+</Episode>
+<Episode>
+  <id>3616341</id>
+  <Combined_episodenumber>16</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Mark Cendrowski</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Cohabitation Formulation</EpisodeName>
+  <EpisodeNumber>16</EpisodeNumber>
+  <FirstAired>2011-02-17</FirstAired>
+  <GuestStars>Aarti Mann|Carol Ann Susi</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>As Wolowitz contemplates taking things with Bernadette to the next level, Leonard rekindles his relationship with Raj's sister.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.8</Rating>
+  <RatingCount>165</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>David Goetsch|Jim Reynolds</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/80379/3616341.jpg</filename>
+  <lastupdated>1299320887</lastupdated>
+  <seasonid>261421</seasonid>
+  <seriesid>80379</seriesid>
+</Episode>
+<Episode>
+  <id>3682891</id>
+  <Combined_episodenumber>17</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Mark Cendrowski</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Toast Derivation</EpisodeName>
+  <EpisodeNumber>17</EpisodeNumber>
+  <FirstAired>2011-02-24</FirstAired>
+  <GuestStars>Levar Burton</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Sheldon becomes concerned when everybody begins to hang out at Raj's apartment and discovers Leonard is the center of the group.</Overview>
+  <ProductionCode>3X6667</ProductionCode>
+  <Rating>8.0</Rating>
+  <RatingCount>147</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>David Goetsch|Jim Reynolds</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/80379/3682891.jpg</filename>
+  <lastupdated>1299320895</lastupdated>
+  <seasonid>261421</seasonid>
+  <seriesid>80379</seriesid>
+</Episode>
+<Episode>
+  <id>3770211</id>
+  <Combined_episodenumber>18</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Mark Cendrowski</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Prestidigitation Approximation</EpisodeName>
+  <EpisodeNumber>18</EpisodeNumber>
+  <FirstAired>2011-03-10</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Sheldon is baffled by Wolowitz's magic trick. Meanwhile, Leonard realizes dating Priya may make it impossible to continue being friends with Penny.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.0</Rating>
+  <RatingCount>117</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>Eddie Gorodetsky</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/80379/3770211.jpg</filename>
+  <lastupdated>1300524459</lastupdated>
+  <seasonid>261421</seasonid>
+  <seriesid>80379</seriesid>
+</Episode>
+<Episode>
+  <id>3892111</id>
+  <Combined_episodenumber>19</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Zarnecki Incursion</EpisodeName>
+  <EpisodeNumber>19</EpisodeNumber>
+  <FirstAired>2011-03-31</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Sheldon's online game account is hacked and he is determined to find out who did it. </Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/80379/3892111.jpg</filename>
+  <lastupdated>1300339497</lastupdated>
+  <seasonid>261421</seasonid>
+  <seriesid>80379</seriesid>
+</Episode>
+<Episode>
+  <id>3911231</id>
+  <Combined_episodenumber>20</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Herb Garden Germination</EpisodeName>
+  <EpisodeNumber>20</EpisodeNumber>
+  <FirstAired>2011-04-07</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Sheldon and Amy decide to start several rumors about the others as a test. Meanwhile, Howard takes his relationship with Bernadette to even higher level.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/80379/3911231.jpg</filename>
+  <lastupdated>1300339624</lastupdated>
+  <seasonid>261421</seasonid>
+  <seriesid>80379</seriesid>
+</Episode>
+</Data>

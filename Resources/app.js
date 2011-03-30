@@ -1,5 +1,8 @@
-// this sets the background color of the master UIView (when there are no windows/tab groups on it)
+// sets the background color
 Ti.UI.setBackgroundColor('#fff');
+
+Ti.include('js/util.js');
+
 
 // create tab group
 var tabGroup = Ti.UI.createTabGroup();
@@ -17,7 +20,7 @@ var homeTab = Ti.UI.createTab({
 	window: homeWindow
 });
 
-// Shortage Feed Tab
+// Trend Tab
 var trendWindow = Ti.UI.createWindow({
 	title: 'Trends',
 	url: 'js/trends.js',
@@ -38,7 +41,7 @@ var feedWindow = Ti.UI.createWindow({
 });
 
 var feedTab = Ti.UI.createTab({
-	title: 'Feed',
+	title: 'Latest Feed',
 	icon: 'images/rss_24.png',
 	window: feedWindow
 });
@@ -82,6 +85,8 @@ tabGroup.open({
 	transition: Ti.UI.iPhone.AnimationStyle.CURL_UP
 });
 
+
+// iAds
 if (Ti.Network.online) {
 
 	var adwin = Titanium.UI.createWindow({

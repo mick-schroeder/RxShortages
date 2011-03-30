@@ -1,0 +1,44 @@
+status: 200
+content-length: 1492
+content-location: http://www.thetvdb.com/api/9DAF49C96CBF8DAC/series/79349/en.xml
+expires: Tue, 22 Mar 2011 07:41:05 GMT
+vary: Accept-Encoding
+server: nginx
+last-modified: Mon, 21 Mar 2011 22:32:32 GMT
+connection: keep-alive
+-content-encoding: gzip
+cache-control: max-age=900
+date: Tue, 22 Mar 2011 07:26:05 GMT
+content-type: text/xml
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8" ?>
+<Data>
+  <Series>
+    <id>79349</id>
+    <Actors>|Michael C. Hall|Julie Benz|Julia Stiles|Jennifer Carpenter|Keith Carradine|C.S. Lee|Christina Robinson|James Remar|Lauren Vélez|David Zayas|Erik King|Jimmy Smits|Jaime Murray|John Lithgow|Desmond Harrington|</Actors>
+    <Airs_DayOfWeek>Sunday</Airs_DayOfWeek>
+    <Airs_Time>9:00 PM</Airs_Time>
+    <ContentRating>TV-MA</ContentRating>
+    <FirstAired>2006-10-01</FirstAired>
+    <Genre>|Action and Adventure|Drama|</Genre>
+    <IMDB_ID>tt0773262</IMDB_ID>
+    <Language>en</Language>
+    <Network>Showtime</Network>
+    <NetworkID></NetworkID>
+    <Overview>Based on Jeff Lindsay's novels Darkly Dreaming Dexter and Dearly Devoted Dexter this crime thriller follows Dexter Morgan. Dexter is a forensic blood spatter expert for the Miami Metro Police Department. Thanks to a code instilled in him by his foster father, Harry, he hunts down people who have escaped justice and makes sure they don't get away with a crime again.</Overview>
+    <Rating>9.3</Rating>
+    <RatingCount>726</RatingCount>
+    <Runtime>60</Runtime>
+    <SeriesID>62683</SeriesID>
+    <SeriesName>Dexter</SeriesName>
+    <Status>Continuing</Status>
+    <added></added>
+    <addedBy></addedBy>
+    <banner>graphical/79349-g7.jpg</banner>
+    <fanart>fanart/original/79349-16.jpg</fanart>
+    <lastupdated>1300746183</lastupdated>
+    <poster>posters/79349-2.jpg</poster>
+    <zap2it_id>SH859795</zap2it_id>
+  </Series>
+</Data>

@@ -1,0 +1,2840 @@
+status: 200
+content-length: 106683
+content-location: http://www.thetvdb.com/api/9DAF49C96CBF8DAC/series/75805/all/en.xml
+expires: Tue, 22 Mar 2011 07:38:01 GMT
+vary: Accept-Encoding
+server: nginx
+last-modified: Mon, 21 Mar 2011 07:21:33 GMT
+connection: keep-alive
+-content-encoding: gzip
+cache-control: max-age=900
+date: Tue, 22 Mar 2011 07:23:01 GMT
+content-type: text/xml
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8" ?>
+<Data><Series>
+  <id>75805</id>
+  <Actors>|Charlie Day|Rob McElhenney|Danny DeVito|Kaitlin Olson|Glenn Howerton|</Actors>
+  <Airs_DayOfWeek>Thursday</Airs_DayOfWeek>
+  <Airs_Time>10:00 PM</Airs_Time>
+  <ContentRating>TV-MA</ContentRating>
+  <FirstAired>2005-06-01</FirstAired>
+  <Genre>|Comedy|</Genre>
+  <IMDB_ID>tt0472954</IMDB_ID>
+  <Language>en</Language>
+  <Network>FX</Network>
+  <NetworkID></NetworkID>
+  <Overview>It's Always Sunny in Philadelphia revolves around four friends who own a bar in the City of Brotherly Love and have to overcome their relentless self-involvement to make their friendship and business work. </Overview>
+  <Rating>9.2</Rating>
+  <RatingCount>85</RatingCount>
+  <Runtime>30</Runtime>
+  <SeriesID>33928</SeriesID>
+  <SeriesName>It's Always Sunny in Philadelphia</SeriesName>
+  <Status>Continuing</Status>
+  <added></added>
+  <addedBy></addedBy>
+  <banner>graphical/75805-g3.jpg</banner>
+  <fanart>fanart/original/75805-16.jpg</fanart>
+  <lastupdated>1300691772</lastupdated>
+  <poster>posters/75805-1.jpg</poster>
+  <zap2it_id>SH762956</zap2it_id>
+</Series>
+<Episode>
+  <id>1291841</id>
+  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Fred Savage</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>A Very Sunny Christmas</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2009-11-17</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>1622262</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Christmas is nearly here and the Paddy's gang has got the spirit. For the gang the holidays have always been a time of trickery, backstabbing, and disappointment. But this year they are determined to rediscover the joy of Christmas. Mac, Charlie, Dennis, Dee, and Frank embark on a holiday adventure filled with stolen toys, incriminating childhood videos, naked elves, and a bloody run-in with Santa Claus that is guaranteed to blast Christmas spirit all over! </Overview>
+  <ProductionCode>1P05001</ProductionCode>
+  <Rating>8.8</Rating>
+  <RatingCount>4</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer>|Charlie Day|Rob McElhenney|</Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>5</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename>episodes/75805/1291841.jpg</filename>
+  <lastupdated>1291569608</lastupdated>
+  <seasonid>23264</seasonid>
+  <seriesid>75805</seriesid>
+</Episode>
+<Episode>
+  <id>2836701</id>
+  <Combined_episodenumber>8.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>8.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Charlie Has Cancer (Original Pilot)</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2007-09-04</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>These scenes came from the original pilot; the material was re-shot and used in other episodes.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number>1</absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1296003867</lastupdated>
+  <seasonid>23264</seasonid>
+  <seriesid>75805</seriesid>
+</Episode>
+<Episode>
+  <id>2836711</id>
+  <Combined_episodenumber>9.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>9.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Mac Meets Carmen (Original Pilot)</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2007-09-04</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>These scenes came from the original pilot; the material was re-shot and used in other episodes.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number>2</absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1296003884</lastupdated>
+  <seasonid>23264</seasonid>
+  <seriesid>75805</seriesid>
+</Episode>
+<Episode>
+  <id>2836721</id>
+  <Combined_episodenumber>4</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season>2</DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Sunny Side Up</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>2007-09-04</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>A &quot;making of&quot; featuring interviews with the cast and crew.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number>3</absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1292572809</lastupdated>
+  <seasonid>23264</seasonid>
+  <seriesid>75805</seriesid>
+</Episode>
+<Episode>
+  <id>2836731</id>
+  <Combined_episodenumber>5</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season>2</DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Kaitlin Audition Featurette</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired>2007-09-04</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>How did Kaitlin get hired for the show? Check out her audition tape, and the discussion of her character by the cast and producers.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number>4</absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1292572836</lastupdated>
+  <seasonid>23264</seasonid>
+  <seriesid>75805</seriesid>
+</Episode>
+<Episode>
+  <id>2836741</id>
+  <Combined_episodenumber>6</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season>2</DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>The Gang F-cks Up</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired>2007-09-04</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number>5</absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1292572595</lastupdated>
+  <seasonid>23264</seasonid>
+  <seriesid>75805</seriesid>
+</Episode>
+<Episode>
+  <id>2836751</id>
+  <Combined_episodenumber>7</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season>2</DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Making A Scene: It's Always Sunny In Philadelphia</EpisodeName>
+  <EpisodeNumber>7</EpisodeNumber>
+  <FirstAired>2007-09-04</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number>6</absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1292572614</lastupdated>
+  <seasonid>23264</seasonid>
+  <seriesid>75805</seriesid>
+</Episode>
+<Episode>
+  <id>2962651</id>
+  <Combined_episodenumber>8</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Sunny Side Up Volume 2</EpisodeName>
+  <EpisodeNumber>8</EpisodeNumber>
+  <FirstAired>2008-09-09</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number>7</absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1292572663</lastupdated>
+  <seasonid>23264</seasonid>
+  <seriesid>75805</seriesid>
+</Episode>
+<Episode>
+  <id>2962661</id>
+  <Combined_episodenumber>9</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Meet the McPoyles</EpisodeName>
+  <EpisodeNumber>9</EpisodeNumber>
+  <FirstAired>2008-09-09</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number>8</absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1292572671</lastupdated>
+  <seasonid>23264</seasonid>
+  <seriesid>75805</seriesid>
+</Episode>
+<Episode>
+  <id>2962671</id>
+  <Combined_episodenumber>10</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Dancing Guy</EpisodeName>
+  <EpisodeNumber>10</EpisodeNumber>
+  <FirstAired>2008-09-09</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number>9</absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1292572678</lastupdated>
+  <seasonid>23264</seasonid>
+  <seriesid>75805</seriesid>
+</Episode>
+<Episode>
+  <id>2962711</id>
+  <Combined_episodenumber>11</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season>4</DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>The Nightman Cometh…Live Performance!</EpisodeName>
+  <EpisodeNumber>11</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number>10</absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1286915872</lastupdated>
+  <seasonid>23264</seasonid>
+  <seriesid>75805</seriesid>
+</Episode>
+<Episode>
+  <id>2962731</id>
+  <Combined_episodenumber>12</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season>4</DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Dancing Guy</EpisodeName>
+  <EpisodeNumber>12</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number>11</absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1286915946</lastupdated>
+  <seasonid>23264</seasonid>
+  <seriesid>75805</seriesid>
+</Episode>
+<Episode>
+  <id>2962781</id>
+  <Combined_episodenumber>13</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season>4</DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Dennis Reynolds - An Erotic Life</EpisodeName>
+  <EpisodeNumber>13</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>12</IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1286915964</lastupdated>
+  <seasonid>23264</seasonid>
+  <seriesid>75805</seriesid>
+</Episode>
+<Episode>
+  <id>2962801</id>
+  <Combined_episodenumber>14</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season>4</DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Erotic Life Out-takes</EpisodeName>
+  <EpisodeNumber>14</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number>13</absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1286915999</lastupdated>
+  <seasonid>23264</seasonid>
+  <seriesid>75805</seriesid>
+</Episode>
+<Episode>
+  <id>2962811</id>
+  <Combined_episodenumber>15</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season>4</DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Season 4 Bloopers</EpisodeName>
+  <EpisodeNumber>15</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number>14</absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1286916024</lastupdated>
+  <seasonid>23264</seasonid>
+  <seriesid>75805</seriesid>
+</Episode>
+<Episode>
+  <id>3161311</id>
+  <Combined_episodenumber>16</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season>5</DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Season 5 Bloopers</EpisodeName>
+  <EpisodeNumber>16</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>5</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1290094223</lastupdated>
+  <seasonid>23264</seasonid>
+  <seriesid>75805</seriesid>
+</Episode>
+<Episode>
+  <id>3161321</id>
+  <Combined_episodenumber>17</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season>5</DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Kitten Mittens Endless Loop</EpisodeName>
+  <EpisodeNumber>17</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>5</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1290094216</lastupdated>
+  <seasonid>23264</seasonid>
+  <seriesid>75805</seriesid>
+</Episode>
+<Episode>
+  <id>3161331</id>
+  <Combined_episodenumber>18</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season>5</DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>SCHWEP Dream Sequence</EpisodeName>
+  <EpisodeNumber>18</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>5</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1292695093</lastupdated>
+  <seasonid>23264</seasonid>
+  <seriesid>75805</seriesid>
+</Episode>
+<Episode>
+  <id>3161341</id>
+  <Combined_episodenumber>19</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season>5</DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>The Gang's Dating Profile</EpisodeName>
+  <EpisodeNumber>19</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>5</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1290094237</lastupdated>
+  <seasonid>23264</seasonid>
+  <seriesid>75805</seriesid>
+</Episode>
+<Episode>
+  <id>3161351</id>
+  <Combined_episodenumber>20</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season>5</DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Season 5 Deleted and Extended Scenes</EpisodeName>
+  <EpisodeNumber>20</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>5</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1290094246</lastupdated>
+  <seasonid>23264</seasonid>
+  <seriesid>75805</seriesid>
+</Episode>
+<Episode>
+  <id>3168331</id>
+  <Combined_episodenumber>21</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season>5</DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>23,793 Photos in 5 Minutes</EpisodeName>
+  <EpisodeNumber>21</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1290185709</lastupdated>
+  <seasonid>23264</seasonid>
+  <seriesid>75805</seriesid>
+</Episode>
+<Episode>
+  <id>3168351</id>
+  <Combined_episodenumber>22</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season>5</DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Season 5 Bluray Disclaimer</EpisodeName>
+  <EpisodeNumber>22</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1290186720</lastupdated>
+  <seasonid>23264</seasonid>
+  <seriesid>75805</seriesid>
+</Episode>
+<Episode>
+  <id>3189981</id>
+  <Combined_episodenumber>23</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Blooper Reel: Season 2</EpisodeName>
+  <EpisodeNumber>23</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1290489799</lastupdated>
+  <seasonid>23264</seasonid>
+  <seriesid>75805</seriesid>
+</Episode>
+<Episode>
+  <id>3189991</id>
+  <Combined_episodenumber>24</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Blooper Reel: Season 3</EpisodeName>
+  <EpisodeNumber>24</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1290489809</lastupdated>
+  <seasonid>23264</seasonid>
+  <seriesid>75805</seriesid>
+</Episode>
+<Episode>
+  <id>3190001</id>
+  <Combined_episodenumber>25</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Making of the Sunny Pilot</EpisodeName>
+  <EpisodeNumber>25</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1290489862</lastupdated>
+  <seasonid>23264</seasonid>
+  <seriesid>75805</seriesid>
+</Episode>
+<Episode>
+  <id>3291711</id>
+  <Combined_episodenumber>26</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Life After Film School: Rob McElhenney</EpisodeName>
+  <EpisodeNumber>26</EpisodeNumber>
+  <FirstAired>2009-08-31</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Film students interview Rob McElhenney, creator and star of the outrageously funny FX series, It's Always Sunny in Philadelphia.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1292363652</lastupdated>
+  <seasonid>23264</seasonid>
+  <seriesid>75805</seriesid>
+</Episode>
+<Episode>
+  <id>3291721</id>
+  <Combined_episodenumber>27</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>The Best of Sunny Funnies</EpisodeName>
+  <EpisodeNumber>27</EpisodeNumber>
+  <FirstAired>2006-06-20</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>The funniest moments from Season 1 &amp; 2.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1292363730</lastupdated>
+  <seasonid>23264</seasonid>
+  <seriesid>75805</seriesid>
+</Episode>
+<Episode>
+  <id>296310</id>
+  <Combined_episodenumber>1.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>1.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>|John Fortenberry|</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>The Gang Gets Racist</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2008-09-28</FirstAired>
+  <GuestStars>|Montre Burton|George Weiss Vando|Jon Cellini|Sydney 'Big Dawg' Colston|Jesse C. Boyd|Aaron Hartzler|Ungenita Prevost|Sheldon Candis|Ian MacKinnon|Telisha Shaw|Malcolm Barrett|Mary Elizabeth Ellis|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>The guys hire Dee's friend, Terrell to promote the bar.  Meanwhile, Charlie tries to prove that he is not a racist.</Overview>
+  <ProductionCode>1P01001</ProductionCode>
+  <Rating>7.1</Rating>
+  <RatingCount>21</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>|Charlie Day|Rob McElhenney|</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/75805/296310.jpg</filename>
+  <lastupdated>1297784321</lastupdated>
+  <seasonid>9310</seasonid>
+  <seriesid>75805</seriesid>
+</Episode>
+<Episode>
+  <id>296311</id>
+  <Combined_episodenumber>2.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>2.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>|John Fortenberry|</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Charlie Wants an Abortion</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2008-09-28</FirstAired>
+  <GuestStars>|Mary Elizabeth Ellis|Spencer Daniels|Autumn Reeser|Heather Donahue|Amy Higgins|Esther Ellsworth|Sonia Jackson|Benton Jennings|Cormac Bluestone|Holly Reeser|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>A girl from Charlie's past reveals they have a child together.  Mac sees the benefits in being a pro-life advocate, while Dennis uses an abortion rally to meet women.</Overview>
+  <ProductionCode>1P01003</ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>19</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>|Chalie Day|Rob McElhenney|</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/75805/296311.jpg</filename>
+  <lastupdated>1297784360</lastupdated>
+  <seasonid>9310</seasonid>
+  <seriesid>75805</seriesid>
+</Episode>
+<Episode>
+  <id>296312</id>
+  <Combined_episodenumber>3.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>3.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>|Daniel Attias|Charlie Day|Rob McElhenney|</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Underage Drinking: A National Concern</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2008-10-05</FirstAired>
+  <GuestStars>|Kelsie Lynn|Robert Adamson|Katie Chonacas|Jaimie Alexander|Ryan Alvarez|Trish Coren|Brian McLaughlin|Greg Alba|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>In order to make a little more profit on the side and in their minds, provide a safe environment for teenagers to have a good time, the guys take it upon themselves to lower the legal drinking age at Paddyâ€™s Irish pub. Feeling that she missed out on a lot as a teenager due to having to wear a brace for her scoliosis, Dee begins dating a high school jock.</Overview>
+  <ProductionCode>1P01006</ProductionCode>
+  <Rating>7.2</Rating>
+  <RatingCount>17</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>|Rob McElhenney|</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/75805/296312.jpg</filename>
+  <lastupdated>1297784416</lastupdated>
+  <seasonid>9310</seasonid>
+  <seriesid>75805</seriesid>
+</Episode>
+<Episode>
+  <id>296313</id>
+  <Combined_episodenumber>4.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>4.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>|Rob McElhenney|</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Charlie Has Cancer</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>2008-10-05</FirstAired>
+  <GuestStars>|Artemis Pebdani|Brittany Daniel|Mary Elizabeth Ellis|Dennis Hogan|Dennis Hart|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>After discovering that he might have cancer, Mac and Dennis attempt to find a woman who will sleep with Charlie.  In the midst of their search, Mac falls in love with a transsexual he meets at the bar named Carmen.  Overwhelmed by the extra workload that she had to take on since Charlie has taken a leave of absence, Dee tries to get Dennis to hire a recently out of work actress friend to help out.</Overview>
+  <ProductionCode>1P01004</ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>14</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>|Rob McElhenney|</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/75805/296313.jpg</filename>
+  <lastupdated>1297784458</lastupdated>
+  <seasonid>9310</seasonid>
+  <seriesid>75805</seriesid>
+</Episode>
+<Episode>
+  <id>296314</id>
+  <Combined_episodenumber>5.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>5.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>Dan Attias</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Gun Fever</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired>2008-10-12</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>The guys buy a gun after the bar's safe is stolen.</Overview>
+  <ProductionCode>1P01005</ProductionCode>
+  <Rating>7.4</Rating>
+  <RatingCount>17</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Glenn Howerton</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/75805/296314.jpg</filename>
+  <lastupdated>1297784485</lastupdated>
+  <seasonid>9310</seasonid>
+  <seriesid>75805</seriesid>
+</Episode>
+<Episode>
+  <id>296315</id>
+  <Combined_episodenumber>6.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>6.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>Dan Attias</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>The Gang Finds a Dead Guy</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired>2008-10-12</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Mac and Dennis befriend a patron found dead at their bar in order to win the affection of his granddaughter.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.3</Rating>
+  <RatingCount>13</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Rob McElhenney</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/75805/296315.jpg</filename>
+  <lastupdated>1297784511</lastupdated>
+  <seasonid>9310</seasonid>
+  <seriesid>75805</seriesid>
+</Episode>
+<Episode>
+  <id>298883</id>
+  <Combined_episodenumber>7.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>7.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>|John Fortenberry|Charlie Day|Rob McElhenney|</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Charlie Got Molested</EpisodeName>
+  <EpisodeNumber>7</EpisodeNumber>
+  <FirstAired>2008-10-19</FirstAired>
+  <GuestStars>|Dennis Haskins|Lynne Marie Stewart|Nate Mooney|Jimmi Simpson|Andrew Friedman|Chris Hendrie|Don Scribner|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Charlie and Mac's old high school gym teacher is accused of molestation.</Overview>
+  <ProductionCode>1P01002</ProductionCode>
+  <Rating>7.4</Rating>
+  <RatingCount>13</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>|Rob McElhenney|</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/75805/298883.jpg</filename>
+  <lastupdated>1297784538</lastupdated>
+  <seasonid>9310</seasonid>
+  <seriesid>75805</seriesid>
+</Episode>
+<Episode>
+  <id>308471</id>
+  <Combined_episodenumber>1.0</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>1.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
+  <Director>Rob McElhenney</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Charlie Gets Crippled</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2008-10-19</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>An accident that puts Charlie in a wheelchair opens up a window of possibilities for the gang. Meanwhile, Dennis and Dee’s estranged father reenters their life in hopes of starting anew with his children and soon discovers that he enjoys the lifestyle of their friends.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>16</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Rob McElhenney|Charlie Day|Glenn Howerton</Writer>
+  <absolute_number>8</absolute_number>
+  <filename>episodes/75805/308471.jpg</filename>
+  <lastupdated>1299925091</lastupdated>
+  <seasonid>16384</seasonid>
+  <seriesid>75805</seriesid>
+</Episode>
+<Episode>
+  <id>308472</id>
+  <Combined_episodenumber>2.0</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>2.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
+  <Director>Dan Attias</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>The Gang Goes Jihad</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2008-10-26</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>When the gang learns that they are in danger of losing their bar due to a zoning mishap, they resort to some outlandish and extreme methods to prevent that from happening. Meanwhile, Frank isn’t too happy when his wife returns to town.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>14</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Rob McElhenney</Writer>
+  <absolute_number>9</absolute_number>
+  <filename>episodes/75805/308472.jpg</filename>
+  <lastupdated>1299925163</lastupdated>
+  <seasonid>16384</seasonid>
+  <seriesid>75805</seriesid>
+</Episode>
+<Episode>
+  <id>308473</id>
+  <Combined_episodenumber>4.0</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>4.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
+  <Director>Dan Attias</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Dennis and Dee Go on Welfare</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2008-10-26</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>After quitting their job due to Frank's continuing interference, Dennis and Dee decide to seek alternative income by going on welfare. Meanwhile, Mac and Charlie must now bear the consequences of their friends’ departures from the business.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.1</Rating>
+  <RatingCount>17</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Rob McElhenney</Writer>
+  <absolute_number>10</absolute_number>
+  <filename>episodes/75805/308473.jpg</filename>
+  <lastupdated>1299925236</lastupdated>
+  <seasonid>16384</seasonid>
+  <seriesid>75805</seriesid>
+</Episode>
+<Episode>
+  <id>308474</id>
+  <Combined_episodenumber>5.0</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>5.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
+  <Director>Dan Attias</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Mac Bangs Dennis' Mom</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>2008-11-02</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Barbara hooks up with Mac to make Frank jealous, which leads to retaliation from Dennis.</Overview>
+  <ProductionCode>1P02005R</ProductionCode>
+  <Rating>8.6</Rating>
+  <RatingCount>12</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Charlie Day|Glenn Howerton</Writer>
+  <absolute_number>11</absolute_number>
+  <filename>episodes/75805/308474.jpg</filename>
+  <lastupdated>1299926137</lastupdated>
+  <seasonid>16384</seasonid>
+  <seriesid>75805</seriesid>
+</Episode>
+<Episode>
+  <id>308475</id>
+  <Combined_episodenumber>7.0</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>7.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
+  <Director>Dan Attias</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Hundred Dollar Baby</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired>2008-11-02</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Frank runs into an old adversary at the gym when he begins teaching Dee to box after she was robbed. Hoping to make some extra money on the side, Mac and Dennis make preparations for Charlie to compete in an underground street fighting match.</Overview>
+  <ProductionCode>1P02007</ProductionCode>
+  <Rating>8.2</Rating>
+  <RatingCount>11</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Rob McElhenney|Charlie Day|Glenn Howerton</Writer>
+  <absolute_number>12</absolute_number>
+  <filename>episodes/75805/308475.jpg</filename>
+  <lastupdated>1299926732</lastupdated>
+  <seasonid>16384</seasonid>
+  <seriesid>75805</seriesid>
+</Episode>
+<Episode>
+  <id>308476</id>
+  <Combined_episodenumber>3.0</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>3.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
+  <Director>Dan Attias</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>The Gang Gives Back</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired>2008-11-09</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>After being arrested for arson the gang is sentenced to do community service. Frank makes an effort to connect more with Dennis. Meanwhile, Charlie is also ordered to attend AA where he makes a startling discovery that might be beneficial in his ongoing quest to hook up with the Waitress.</Overview>
+  <ProductionCode>1P02003</ProductionCode>
+  <Rating>8.2</Rating>
+  <RatingCount>9</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Charlie Day</Writer>
+  <absolute_number>13</absolute_number>
+  <filename>episodes/75805/308476.jpg</filename>
+  <lastupdated>1299925653</lastupdated>
+  <seasonid>16384</seasonid>
+  <seriesid>75805</seriesid>
+</Episode>
+<Episode>
+  <id>308477</id>
+  <Combined_episodenumber>9.0</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>9.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
+  <Director>Dan Attias</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>The Gang Exploits a Miracle</EpisodeName>
+  <EpisodeNumber>7</EpisodeNumber>
+  <FirstAired>2008-11-09</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Mac and Dee become uncomfortable when the rest of the guys decide to make some extra money by exploiting the similarities between a water stain and the Virgin Mary. A reunion with someone from the past, stirs up forbidden feelings within Dee.</Overview>
+  <ProductionCode>1P02009</ProductionCode>
+  <Rating>6.6</Rating>
+  <RatingCount>9</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Charlie Day|Chris Romano|Eric Falconer</Writer>
+  <absolute_number>14</absolute_number>
+  <filename>episodes/75805/308477.jpg</filename>
+  <lastupdated>1299927131</lastupdated>
+  <seasonid>16384</seasonid>
+  <seriesid>75805</seriesid>
+</Episode>
+<Episode>
+  <id>308478</id>
+  <Combined_episodenumber>6.0</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>6.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
+  <Director>Dan Attias</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>The Gang Runs for Office</EpisodeName>
+  <EpisodeNumber>8</EpisodeNumber>
+  <FirstAired>2008-11-16</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Driven by Frank's insight into the world of politics, Dennis pursues a political career by running for office.</Overview>
+  <ProductionCode>Thursday August 3, 2006</ProductionCode>
+  <Rating>7.1</Rating>
+  <RatingCount>9</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>David Hornsby</Writer>
+  <absolute_number>15</absolute_number>
+  <filename>episodes/75805/308478.jpg</filename>
+  <lastupdated>1299925844</lastupdated>
+  <seasonid>16384</seasonid>
+  <seriesid>75805</seriesid>
+</Episode>
+<Episode>
+  <id>308479</id>
+  <Combined_episodenumber>8.0</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>8.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
+  <Director>Dan Attias</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Charlie Goes America All Over Everybody's Ass</EpisodeName>
+  <EpisodeNumber>9</EpisodeNumber>
+  <FirstAired>2008-11-16</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Dennis and Mac make a decision to take away all rules concerning moral and behavioral etiquette at Paddy's after a argument about the Constitution. Frank uses the decision and it's following consequences to his own gain. Meanwhile, Charlie tries to convey his love for America by protesting while Dee attempts to reaffirm her goal of being an actress.</Overview>
+  <ProductionCode>1P02008</ProductionCode>
+  <Rating>7.1</Rating>
+  <RatingCount>9</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Rob McElhenney|Charlie Day</Writer>
+  <absolute_number>16</absolute_number>
+  <filename>episodes/75805/308479.jpg</filename>
+  <lastupdated>1299925933</lastupdated>
+  <seasonid>16384</seasonid>
+  <seriesid>75805</seriesid>
+</Episode>
+<Episode>
+  <id>308480</id>
+  <Combined_episodenumber>10.0</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>10.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
+  <Director>Dan Attias</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Dennis and Dee Get a New Dad</EpisodeName>
+  <EpisodeNumber>10</EpisodeNumber>
+  <FirstAired>2008-11-23</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Dee receives e-mails from a stranger claiming to be her and Dennis' real father. Meanwhile, Mac decides to visit his father who is in prison.</Overview>
+  <ProductionCode>1P02010</ProductionCode>
+  <Rating>7.4</Rating>
+  <RatingCount>7</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Rob McElhenney</Writer>
+  <absolute_number>17</absolute_number>
+  <filename>episodes/75805/308480.jpg</filename>
+  <lastupdated>1299926021</lastupdated>
+  <seasonid>16384</seasonid>
+  <seriesid>75805</seriesid>
+</Episode>
+<Episode>
+  <id>335475</id>
+  <Combined_episodenumber>1.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>1.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Jerry Levine</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>The Gang Finds a Dumpster Baby</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2008-11-23</FirstAired>
+  <GuestStars>Lynne Marie Stewart|Todd Grinnell|Jackie Tohn|Lucy DeVito|Danny Hill|Isaac Gabaeff|Kate Mulligan</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>The gang finds a baby in a dumpster, and Dee and Mac decide to raise him. Meanwhile, Dennis wants to join a group of environmental activists and Charlie attempts to learn the truth about his paternity.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.4</Rating>
+  <RatingCount>13</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Rob McElhenney|Charlie Day</Writer>
+  <absolute_number>18</absolute_number>
+  <filename>episodes/75805/335475.jpg</filename>
+  <lastupdated>1299935840</lastupdated>
+  <seasonid>28434</seasonid>
+  <seriesid>75805</seriesid>
+</Episode>
+<Episode>
+  <id>335476</id>
+  <Combined_episodenumber>2.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>2.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Fred Savage</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>The Gang Gets Invincible</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2008-11-30</FirstAired>
+  <GuestStars>Faizon Love|Jimmi Simpson|Nate Mooney|Bob Rusch|Artemis Pebdani|Geoffrey Owens|Steven Lee Allen|Philip Newby|Thesy Surface</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Mac, Dennis and Dee try out for the Philadelphia Eagles.  Also interested in becoming an Eagle is Liam and Ryan McPoyle's brother, Doyle.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.3</Rating>
+  <RatingCount>13</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Charlie Day|David Hornsby|Glenn Howerton</Writer>
+  <absolute_number>19</absolute_number>
+  <filename>episodes/75805/335476.jpg</filename>
+  <lastupdated>1299936012</lastupdated>
+  <seasonid>28434</seasonid>
+  <seriesid>75805</seriesid>
+</Episode>
+<Episode>
+  <id>335477</id>
+  <Combined_episodenumber>3.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>3.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Matt Shakman</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Dennis and Dee's Mom is Dead</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2008-11-30</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>After Barbara's death, Dee and Frank are unhappy to learn that she left them both out of the will, while Dennis inherits the mansion which he plans to turn into a party pad.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.3</Rating>
+  <RatingCount>10</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Rob McElhenney|David Hornsby</Writer>
+  <absolute_number>20</absolute_number>
+  <filename>episodes/75805/335477.jpg</filename>
+  <lastupdated>1299936279</lastupdated>
+  <seasonid>28434</seasonid>
+  <seriesid>75805</seriesid>
+</Episode>
+<Episode>
+  <id>335478</id>
+  <Combined_episodenumber>4.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>4.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Fred Savage</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>The Gang Gets Held Hostage</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>2008-12-07</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>The McPoyles hold the entire gang hostage at Paddys while Frank is busy searching for his will in the air ducts.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>12</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Rob McElhenney</Writer>
+  <absolute_number>21</absolute_number>
+  <filename>episodes/75805/335478.jpg</filename>
+  <lastupdated>1299936369</lastupdated>
+  <seasonid>28434</seasonid>
+  <seriesid>75805</seriesid>
+</Episode>
+<Episode>
+  <id>335479</id>
+  <Combined_episodenumber>5.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>5.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Fred Savage</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>The Aluminum Monster vs. Fatty Magoo</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired>2008-12-07</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Dee is shocked to learn that an overweight social outcast from her High School has become a rich and skinny fashion designer.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.1</Rating>
+  <RatingCount>13</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Charlie Day|Glenn Howerton</Writer>
+  <absolute_number>22</absolute_number>
+  <filename>episodes/75805/335479.jpg</filename>
+  <lastupdated>1299938262</lastupdated>
+  <seasonid>28434</seasonid>
+  <seriesid>75805</seriesid>
+</Episode>
+<Episode>
+  <id>336650</id>
+  <Combined_episodenumber>6.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>6.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Fred Savage</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>The Gang Solves the North Korea Situation</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired>2008-12-14</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>A Korean restaurant owner threatens to get Paddy's kicked off the route for the city's annual pub crawl. The gang's response: War.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.1</Rating>
+  <RatingCount>7</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Charlie Day|Scott Marder|Rob Rosell</Writer>
+  <absolute_number>23</absolute_number>
+  <filename>episodes/75805/336650.jpg</filename>
+  <lastupdated>1299938215</lastupdated>
+  <seasonid>28434</seasonid>
+  <seriesid>75805</seriesid>
+</Episode>
+<Episode>
+  <id>337192</id>
+  <Combined_episodenumber>7.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>7.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Matt Shakman</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>The Gang Sells Out</EpisodeName>
+  <EpisodeNumber>7</EpisodeNumber>
+  <FirstAired>2008-12-14</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>The gang agrees to sell Paddys when they get an offer that is too good to refuse, but it forces the bar's non-partners, Dee and Charlie to find new jobs.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>6</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Charlie Day|David Hornsby</Writer>
+  <absolute_number>24</absolute_number>
+  <filename>episodes/75805/337192.jpg</filename>
+  <lastupdated>1299938371</lastupdated>
+  <seasonid>28434</seasonid>
+  <seriesid>75805</seriesid>
+</Episode>
+<Episode>
+  <id>337193</id>
+  <Combined_episodenumber>8.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>8.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Fred Savage</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Frank Sets Sweet Dee On Fire</EpisodeName>
+  <EpisodeNumber>8</EpisodeNumber>
+  <FirstAired>2008-12-21</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Mac teams up with Frank and Charlie to create a public access newscast after he misses his chance at fame in the news. Meanwhile, Dennis and Dee try to make it big in the club scene.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>6</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Rob McElhenney|Scott Marder|Rob Rosell</Writer>
+  <absolute_number>25</absolute_number>
+  <filename>episodes/75805/337193.jpg</filename>
+  <lastupdated>1299938430</lastupdated>
+  <seasonid>28434</seasonid>
+  <seriesid>75805</seriesid>
+</Episode>
+<Episode>
+  <id>337194</id>
+  <Combined_episodenumber>9.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>9.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Jerry Levine</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Sweet Dee's Dating a Retarded Person</EpisodeName>
+  <EpisodeNumber>9</EpisodeNumber>
+  <FirstAired>2008-12-21</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Dee gets involved with a famous local rapper who might be mentally challenged, and whose success inspires the rest of the gang to start a band.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.3</Rating>
+  <RatingCount>7</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Glenn Howerton|Scott Marder|Rob Rosell</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/75805/337194.jpg</filename>
+  <lastupdated>1299938487</lastupdated>
+  <seasonid>28434</seasonid>
+  <seriesid>75805</seriesid>
+</Episode>
+<Episode>
+  <id>337195</id>
+  <Combined_episodenumber>10.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>10.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Jerry Levine</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Mac is a Serial Killer</EpisodeName>
+  <EpisodeNumber>10</EpisodeNumber>
+  <FirstAired>2008-12-28</FirstAired>
+  <GuestStars>|Mary Elizabeth Ellis|Brittany Daniel|Sandy Martin|Marcuis Harris|Bill Chott|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>After Mac arrives to the bar with scratches on his neck and exhibiting strange behavior, Frank comes to the conclusion that he is the serial killer terrorizing young women in Philadelphia. Frank sets out with his trusty chainsaw and a doubtful Charlie to find evidence to implicate Mac in the murders. In search of another suspect, Dennis and Dee do a little role-playing in order to help themselves better understand who they might be dealing with.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.3</Rating>
+  <RatingCount>9</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>David Hornsby</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/75805/337195.jpg</filename>
+  <lastupdated>1299938544</lastupdated>
+  <seasonid>28434</seasonid>
+  <seriesid>75805</seriesid>
+</Episode>
+<Episode>
+  <id>339382</id>
+  <Combined_episodenumber>11.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>11.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Jerry Levine</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Dennis Looks Like a Registered Sex Offender</EpisodeName>
+  <EpisodeNumber>11</EpisodeNumber>
+  <FirstAired>2008-12-28</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>When Dennis is mistaken for a recently released child molester, he is more bothered by the fact that the guy is overweight rather than him being a sex offender.  Meanwhile, Mac tries once again to bond with his ex-con father, who shows an interest in Dee.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.2</Rating>
+  <RatingCount>9</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Rob McElhenney</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/75805/339382.jpg</filename>
+  <lastupdated>1299938613</lastupdated>
+  <seasonid>28434</seasonid>
+  <seriesid>75805</seriesid>
+</Episode>
+<Episode>
+  <id>340074</id>
+  <Combined_episodenumber>12.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>12.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Matt Shakman</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>The Gang Gets Whacked (1)</EpisodeName>
+  <EpisodeNumber>12</EpisodeNumber>
+  <FirstAired>2009-01-04</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>After stumbling upon a kilo of cocaine, the gang is forced to pay off a $25,000 debt to the mob. Mac becomes a mob informant, while Frank pimps out Dennis as an escort at the local country club. Charlie stumbles upon an opportunity to sell illegal narcotics.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>7</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Glenn Howerton|Scott Marder|Rob Rosell</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/75805/340074.jpg</filename>
+  <lastupdated>1299938688</lastupdated>
+  <seasonid>28434</seasonid>
+  <seriesid>75805</seriesid>
+</Episode>
+<Episode>
+  <id>387009</id>
+  <Combined_episodenumber>13.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>13.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Matt Shakman</Director>
+  <EpImgFlag>1</EpImgFlag>
+  <EpisodeName>The Gang Gets Whacked (2)</EpisodeName>
+  <EpisodeNumber>13</EpisodeNumber>
+  <FirstAired>2009-01-04</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>While paying off their debt to the mob, Charlie and Dee try to find a way to make fake cocaine in order to fool them, while Dennis ranks in thousands of dollars being pimped out at the local country club. Mac realizes his position as a mob informant isn't being utilized to its full potential.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>7</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Glenn Howerton|Scott Marder|Rob Rosell</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/75805/387009.jpg</filename>
+  <lastupdated>1299938744</lastupdated>
+  <seasonid>28434</seasonid>
+  <seriesid>75805</seriesid>
+</Episode>
+<Episode>
+  <id>340215</id>
+  <Combined_episodenumber>14.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>14.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Jerry Levine</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Bums: Making a Mess All Over the City</EpisodeName>
+  <EpisodeNumber>14</EpisodeNumber>
+  <FirstAired>2009-01-11</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Mac and Dee become vigilantes in order to remove the homeless from their neighborhood, while Frank and Dennis impersonate police officers.</Overview>
+  <ProductionCode>IP03004</ProductionCode>
+  <Rating>8.0</Rating>
+  <RatingCount>6</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Charlie Day|David Hornsby</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/75805/340215.jpg</filename>
+  <lastupdated>1299938792</lastupdated>
+  <seasonid>28434</seasonid>
+  <seriesid>75805</seriesid>
+</Episode>
+<Episode>
+  <id>342319</id>
+  <Combined_episodenumber>15.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>15.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Matt Shakman</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>The Gang Dances Their Asses Off</EpisodeName>
+  <EpisodeNumber>15</EpisodeNumber>
+  <FirstAired>2009-01-11</FirstAired>
+  <GuestStars>|Mary Elizabeth Ellis|David Hornsby|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>In the season finale, Charlie accidentally puts Paddy's up as a prize for a dance marathon, which prompts the gang to enter the competition in order to save their bar.</Overview>
+  <ProductionCode>IP03015</ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>9</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>David Hornsby|Scott Marder|Rob Rosell</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/75805/342319.jpg</filename>
+  <lastupdated>1299939361</lastupdated>
+  <seasonid>28434</seasonid>
+  <seriesid>75805</seriesid>
+</Episode>
+<Episode>
+  <id>387149</id>
+  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Fred Savage</Director>
+  <EpImgFlag>1</EpImgFlag>
+  <EpisodeName>Mac and Dennis: Manhunters</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2009-10-13</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1265811</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Charlie and Dee have been stealing Frank's delicious meats, so Frank leaves out human meat to get back at them. Driven by their cannibalistic needs, Charlie and Dee go in search of human flesh. Mac and Dennis harass Frank for hunting defenseless animals and think it would be much more badass to hunt something that could fight back ... like a human. </Overview>
+  <ProductionCode>IP04002</ProductionCode>
+  <Rating>8.0</Rating>
+  <RatingCount>7</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>Charlie Day|Jordan Young|Elijah Aron</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/75805/387149.jpg</filename>
+  <lastupdated>1300556100</lastupdated>
+  <seasonid>35088</seasonid>
+  <seriesid>75805</seriesid>
+</Episode>
+<Episode>
+  <id>388882</id>
+  <Combined_episodenumber>2</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Matt Shakman</Director>
+  <EpImgFlag>1</EpImgFlag>
+  <EpisodeName>The Gang Solves The Gas Crisis</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2009-10-20</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1266369</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Charlie, Mac, and Dennis formulate a plan to take advantage of the rising gas prices. By purchasing excess amounts now, they can sell it in the future and profit. As usual, things don't go as planned. Dee is also out to make money when she learns that Bruce is going to give the family fortune to a Muslim cultural center. She and Frank try to stop him and get the cash for themselves. </Overview>
+  <ProductionCode>IP04009</ProductionCode>
+  <Rating>8.1</Rating>
+  <RatingCount>8</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>Charlie Day|Sonny Lee|Patrick Walsh</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/75805/388882.jpg</filename>
+  <lastupdated>1299939029</lastupdated>
+  <seasonid>35088</seasonid>
+  <seriesid>75805</seriesid>
+</Episode>
+<Episode>
+  <id>388884</id>
+  <Combined_episodenumber>3</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Fred Savage</Director>
+  <EpImgFlag>1</EpImgFlag>
+  <EpisodeName>America's Next Top Paddy's Billboard Model Contest</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2009-10-27</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1265810</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Due to the gang's latest &quot;business expenses,&quot; Paddy's is in dire need of money. Frank buys a billboard to advertise the bar, but Dee decides to create a viral video to post on YouTube for promotion. Charlie quickly joins her, leaving Frank and Mac to hold a contest for some hot models to feature on the billboard. Naturally, Dennis joins the competition to prove his worth. </Overview>
+  <ProductionCode>IP04005</ProductionCode>
+  <Rating>7.4</Rating>
+  <RatingCount>7</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>Charlie Day|Rob McElhenney|Adam Stein</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/75805/388884.jpg</filename>
+  <lastupdated>1299939089</lastupdated>
+  <seasonid>35088</seasonid>
+  <seriesid>75805</seriesid>
+</Episode>
+<Episode>
+  <id>388885</id>
+  <Combined_episodenumber>4</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Matt Shakman</Director>
+  <EpImgFlag>1</EpImgFlag>
+  <EpisodeName>Mac's Banging the Waitress</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>2009-11-03</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1265806</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Charlie finds out that the waitress has been seeing someone. He calls on Mac, his so-called best friend, to find out more information about the guy and to beat him up. However, it turns out that Mac is the guy the waitress has supposedly been seeing. Dennis, heartbroken that he's not Charlie's best friend, tries to win him over. </Overview>
+  <ProductionCode>IP04011</ProductionCode>
+  <Rating>6.4</Rating>
+  <RatingCount>5</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>David Hornsby</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/75805/388885.jpg</filename>
+  <lastupdated>1299939138</lastupdated>
+  <seasonid>35088</seasonid>
+  <seriesid>75805</seriesid>
+</Episode>
+<Episode>
+  <id>390920</id>
+  <Combined_episodenumber>5</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Fred Savage|Matt Shakman</Director>
+  <EpImgFlag>1</EpImgFlag>
+  <EpisodeName>Mac &amp; Charlie Die (1)</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired>2009-11-10</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1265807</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Part 1 of 2. Mac and Charlie fake their deaths to avoid the wrath of Mac's father who was released from prison and is out for vengeance.</Overview>
+  <ProductionCode>1P04003</ProductionCode>
+  <Rating>8.2</Rating>
+  <RatingCount>5</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>Charlie Day|Glenn Howerton|Rob McElhenney</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/75805/390920.jpg</filename>
+  <lastupdated>1299939210</lastupdated>
+  <seasonid>35088</seasonid>
+  <seriesid>75805</seriesid>
+</Episode>
+<Episode>
+  <id>393227</id>
+  <Combined_episodenumber>6</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Fred Savage|Matt Shakman</Director>
+  <EpImgFlag>1</EpImgFlag>
+  <EpisodeName>Mac &amp; Charlie Die (2)</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired>2009-11-17</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1265814</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Part 2 of 2. Dennis, Frank, and Dee find unique ways of coping with the apparent loss of their friends.</Overview>
+  <ProductionCode>1P04004</ProductionCode>
+  <Rating>8.5</Rating>
+  <RatingCount>4</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>Charlie Day|Glenn Howerton|Rob McElhenney</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/75805/393227.jpg</filename>
+  <lastupdated>1299939255</lastupdated>
+  <seasonid>35088</seasonid>
+  <seriesid>75805</seriesid>
+</Episode>
+<Episode>
+  <id>395314</id>
+  <Combined_episodenumber>7</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Fred Savage</Director>
+  <EpImgFlag>1</EpImgFlag>
+  <EpisodeName>Who Pooped the Bed? </EpisodeName>
+  <EpisodeNumber>7</EpisodeNumber>
+  <FirstAired>2009-11-24</FirstAired>
+  <GuestStars>Mary Elizabeth Ellis, David Hornsby, Artemis Pebdani,</GuestStars>
+  <IMDB_ID>tt1266368</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Charlie and Frank awake to find poop in their bed. Neither will confess to being the owner, so they, Mac, and Dennis try to scientifically deduce who dropped the deuce. Dee wants to do something a bit more sophisticated, so she invites the waitress and Artemis to a girls' night out. </Overview>
+  <ProductionCode>IP04007</ProductionCode>
+  <Rating>7.4</Rating>
+  <RatingCount>8</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>Rob McElhenney, Scott Marder, Rob Rosell</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/75805/395314.jpg</filename>
+  <lastupdated>1299939308</lastupdated>
+  <seasonid>35088</seasonid>
+  <seriesid>75805</seriesid>
+</Episode>
+<Episode>
+  <id>395315</id>
+  <Combined_episodenumber>8</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Matt Shakman</Director>
+  <EpImgFlag>1</EpImgFlag>
+  <EpisodeName>Paddy's Pub: The Worst Bar in Philadelphia </EpisodeName>
+  <EpisodeNumber>8</EpisodeNumber>
+  <FirstAired>2009-12-01</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1290724</IMDB_ID>
+  <Language>en</Language>
+  <Overview>A newspaper critic is kidnapped by the gang after he calls Paddy's pub the worst bar in Philadelphia.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>6</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>Scott Marder|Rob Rosell|David Hornsby</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/75805/395315.jpg</filename>
+  <lastupdated>1299939360</lastupdated>
+  <seasonid>35088</seasonid>
+  <seriesid>75805</seriesid>
+</Episode>
+<Episode>
+  <id>400452</id>
+  <Combined_episodenumber>9</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Fred Savage</Director>
+  <EpImgFlag>1</EpImgFlag>
+  <EpisodeName>Dennis Reynolds: An Erotic Life</EpisodeName>
+  <EpisodeNumber>9</EpisodeNumber>
+  <FirstAired>2009-12-08</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1302093</IMDB_ID>
+  <Language>en</Language>
+  <Overview>After discovering Dennis' erotic memoir, Mac and Frank attempt to make some money off of it. Meanwhile, Dee and Charlie decide to spend a day in each other's shoes.</Overview>
+  <ProductionCode>1P04005</ProductionCode>
+  <Rating>8.0</Rating>
+  <RatingCount>5</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>Glenn Howerton|Scott Marder|Rob Rosell</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/75805/400452.jpg</filename>
+  <lastupdated>1299939402</lastupdated>
+  <seasonid>35088</seasonid>
+  <seriesid>75805</seriesid>
+</Episode>
+<Episode>
+  <id>400453</id>
+  <Combined_episodenumber>10</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Matt Shakman</Director>
+  <EpImgFlag>1</EpImgFlag>
+  <EpisodeName>Sweet Dee Has A Heart Attack</EpisodeName>
+  <EpisodeNumber>10</EpisodeNumber>
+  <FirstAired>2009-12-15</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1290725</IMDB_ID>
+  <Language>en</Language>
+  <Overview>After Dee suffers a heart attack, she and Dennis try to live a healthier lifestyle. Meanwhile, Charlie and Mac take corporate jobs to get health insurance.</Overview>
+  <ProductionCode>1P04013</ProductionCode>
+  <Rating>8.7</Rating>
+  <RatingCount>7</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>Rob Rosell|Scott Marder</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/75805/400453.jpg</filename>
+  <lastupdated>1299939441</lastupdated>
+  <seasonid>35088</seasonid>
+  <seriesid>75805</seriesid>
+</Episode>
+<Episode>
+  <id>400454</id>
+  <Combined_episodenumber>11</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Matt Shakman</Director>
+  <EpImgFlag>1</EpImgFlag>
+  <EpisodeName>The Gang Cracks The Liberty Bell</EpisodeName>
+  <EpisodeNumber>11</EpisodeNumber>
+  <FirstAired>2009-12-22</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1265812</IMDB_ID>
+  <Language>en</Language>
+  <Overview>The gang fudge history by claiming that Paddy's Pub was responsible for cracking the Liberty Bell in an attempt to turn their dive into a Philadelphia landmark.</Overview>
+  <ProductionCode>1P04010</ProductionCode>
+  <Rating>6.8</Rating>
+  <RatingCount>6</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>Rob McElhenney|Glenn Howerton|David Hornsby</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/75805/400454.jpg</filename>
+  <lastupdated>1299939486</lastupdated>
+  <seasonid>35088</seasonid>
+  <seriesid>75805</seriesid>
+</Episode>
+<Episode>
+  <id>406039</id>
+  <Combined_episodenumber>12</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Fred Savage</Director>
+  <EpImgFlag>1</EpImgFlag>
+  <EpisodeName>The Gang Gets Extreme: Home Makeover Edition</EpisodeName>
+  <EpisodeNumber>12</EpisodeNumber>
+  <FirstAired>2009-12-29</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1265813</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Hoping to make their own dreams come true, the gang sets out to give an unexpected family an extreme home makeover.</Overview>
+  <ProductionCode>1P04001</ProductionCode>
+  <Rating>8.3</Rating>
+  <RatingCount>6</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>Charlie Day|Glenn Howerton|David Hornsby</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/75805/406039.jpg</filename>
+  <lastupdated>1299939531</lastupdated>
+  <seasonid>35088</seasonid>
+  <seriesid>75805</seriesid>
+</Episode>
+<Episode>
+  <id>407838</id>
+  <Combined_episodenumber>13</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Matt Shakman</Director>
+  <EpImgFlag>1</EpImgFlag>
+  <EpisodeName>The Nightman Cometh</EpisodeName>
+  <EpisodeNumber>13</EpisodeNumber>
+  <FirstAired>2010-01-05</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1319916</IMDB_ID>
+  <Language>en</Language>
+  <Overview>In the season finale, Charlie gets the gang to help him put together a rock opera based on his song &quot;Nightman.&quot;</Overview>
+  <ProductionCode>1P04008</ProductionCode>
+  <Rating>8.5</Rating>
+  <RatingCount>11</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>Charlie Day|Glenn Howerton|Rob McElhenney</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/75805/407838.jpg</filename>
+  <lastupdated>1299939572</lastupdated>
+  <seasonid>35088</seasonid>
+  <seriesid>75805</seriesid>
+</Episode>
+<Episode>
+  <id>1087211</id>
+  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Randall Einhorn</Director>
+  <EpImgFlag>1</EpImgFlag>
+  <EpisodeName>The Gang Exploits the Mortgage Crisis</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2009-09-17</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Dennis, Mac, and Frank go into real estate, while Dee sets out to be a surrogate for a wealthy couple. Charlie gets into it with an attorney over the law.</Overview>
+  <ProductionCode>1P05008</ProductionCode>
+  <Rating>7.4</Rating>
+  <RatingCount>12</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer>Becky Mann|Audra Sielaff</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/75805/1087211.jpg</filename>
+  <lastupdated>1290778277</lastupdated>
+  <seasonid>85131</seasonid>
+  <seriesid>75805</seriesid>
+</Episode>
+<Episode>
+  <id>1088081</id>
+  <Combined_episodenumber>2</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Fred Savage</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Gang Hits the Road</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2009-09-24</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>The gang tries to expand their horizons by going on a road trip to the Grand Canyon.</Overview>
+  <ProductionCode>1P05005</ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>12</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer>Charlie Day|Glenn Howerton</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/75805/1088081.jpg</filename>
+  <lastupdated>1290778299</lastupdated>
+  <seasonid>85131</seasonid>
+  <seriesid>75805</seriesid>
+</Episode>
+<Episode>
+  <id>1088131</id>
+  <Combined_episodenumber>3</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Fred Savage</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Great Recession</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2009-10-01</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>With a shantytown taking shape outside, Mac and Dennis try to keep Paddy's going in tough times. Meanwhile, Frank and Dee start a family business.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.4</Rating>
+  <RatingCount>8</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer>David Hornsby</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/75805/1088131.jpg</filename>
+  <lastupdated>1290778330</lastupdated>
+  <seasonid>85131</seasonid>
+  <seriesid>75805</seriesid>
+</Episode>
+<Episode>
+  <id>1088091</id>
+  <Combined_episodenumber>4</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Fred Savage</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Gang Gives Frank an Intervention</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>2009-10-08</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Frank's behavior is more bizarre than usual---so bizarre that even the gang notice---so they decide to stage an intervention.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>17</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer>Scott Marder|Rob Rosell</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/75805/1088091.jpg</filename>
+  <lastupdated>1290778358</lastupdated>
+  <seasonid>85131</seasonid>
+  <seriesid>75805</seriesid>
+</Episode>
+<Episode>
+  <id>1088101</id>
+  <Combined_episodenumber>5</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Fred Savage</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Waitress Is Getting Married</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired>2009-10-15</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>The waitress is getting married, Dee is jealous that she's beating her to the altar, so she tries to derail the wedding.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.9</Rating>
+  <RatingCount>13</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer>Charlie Day|Glenn Howerton</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/75805/1088101.jpg</filename>
+  <lastupdated>1292090060</lastupdated>
+  <seasonid>85131</seasonid>
+  <seriesid>75805</seriesid>
+</Episode>
+<Episode>
+  <id>1088111</id>
+  <Combined_episodenumber>6</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Randall Einhorn</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The World Series Defense</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired>2009-10-22</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>The gang describes the trials and tribulations they went through, during game five of the World Series, in hopes the judge will clear them of all the citations they received. </Overview>
+  <ProductionCode>1P05014</ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>10</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer>David Hornsby</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/75805/1088111.jpg</filename>
+  <lastupdated>1292090080</lastupdated>
+  <seasonid>85131</seasonid>
+  <seriesid>75805</seriesid>
+</Episode>
+<Episode>
+  <id>1088121</id>
+  <Combined_episodenumber>7</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Randall Einhorn</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Gang Wrestles for the Troops</EpisodeName>
+  <EpisodeNumber>7</EpisodeNumber>
+  <FirstAired>2009-10-29</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>The gang puts together a wrestling show for returning troops. Meanwhile, Dee finally meets the soldier that she has been communicating with over the internet.</Overview>
+  <ProductionCode>1P05012</ProductionCode>
+  <Rating>7.3</Rating>
+  <RatingCount>7</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer>Scott Marder|Rob Rosell</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/75805/1088121.jpg</filename>
+  <lastupdated>1292090274</lastupdated>
+  <seasonid>85131</seasonid>
+  <seriesid>75805</seriesid>
+</Episode>
+<Episode>
+  <id>1088141</id>
+  <Combined_episodenumber>8</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Randall Einhorn</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Paddy's Pub: Home of the Original Kitten Mittens</EpisodeName>
+  <EpisodeNumber>8</EpisodeNumber>
+  <FirstAired>2009-11-05</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>The gang decides to expand their business by developing a number of products that they could sell at Paddy's pub.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.1</Rating>
+  <RatingCount>9</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer>Sonny Lee|Patrick Walsh</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/75805/1088141.jpg</filename>
+  <lastupdated>1292090321</lastupdated>
+  <seasonid>85131</seasonid>
+  <seriesid>75805</seriesid>
+</Episode>
+<Episode>
+  <id>1088181</id>
+  <Combined_episodenumber>9</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Fred Savage</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Mac and Dennis Break Up</EpisodeName>
+  <EpisodeNumber>9</EpisodeNumber>
+  <FirstAired>2009-11-12</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Mac and Dennis decide that they need to spend some time away from each other. Meanwhile, Charlie helps Dee search for her cat.</Overview>
+  <ProductionCode>1P05003</ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>8</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer>Scott Marder|Rob Rosell</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/75805/1088181.jpg</filename>
+  <lastupdated>1295115078</lastupdated>
+  <seasonid>85131</seasonid>
+  <seriesid>75805</seriesid>
+</Episode>
+<Episode>
+  <id>1088151</id>
+  <Combined_episodenumber>10</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Randall Einhorn</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The D.E.N.N.I.S. System</EpisodeName>
+  <EpisodeNumber>10</EpisodeNumber>
+  <FirstAired>2009-11-19</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Dennis reveals his foolproof system for seducing any woman to the rest of the gang, but they don't grasp the concept. </Overview>
+  <ProductionCode>1P05013</ProductionCode>
+  <Rating>8.2</Rating>
+  <RatingCount>11</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer>David Hornsby|Scott Marder|Rob Rosell</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/75805/1088151.jpg</filename>
+  <lastupdated>1295115105</lastupdated>
+  <seasonid>85131</seasonid>
+  <seriesid>75805</seriesid>
+</Episode>
+<Episode>
+  <id>1088171</id>
+  <Combined_episodenumber>11</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Randall Einhorn</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Mac and Charlie Write a Movie</EpisodeName>
+  <EpisodeNumber>11</EpisodeNumber>
+  <FirstAired>2009-12-03</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>When Dee gets a part in the new M. Night Shyamalan film, Mac and Charlie seize a chance to pitch their movie script. </Overview>
+  <ProductionCode>1P05009</ProductionCode>
+  <Rating>8.3</Rating>
+  <RatingCount>7</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer>Glenn Howerton|Rob McElhenney</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/75805/1088171.jpg</filename>
+  <lastupdated>1295116365</lastupdated>
+  <seasonid>85131</seasonid>
+  <seriesid>75805</seriesid>
+</Episode>
+<Episode>
+  <id>1088161</id>
+  <Combined_episodenumber>12</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Randall Einhorn</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Gang Reignites the Rivalry</EpisodeName>
+  <EpisodeNumber>12</EpisodeNumber>
+  <FirstAired>2009-12-10</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>After being banned for 10 years from a local drinking competition appropriately named &quot;Flipadelphia,&quot; the gang tries to reignite their old rivalry with another local bar. Finding that they are in need of some serious practice, the guys head to Dennis' old fraternity house at the University of Pennsylvania to get their game up to speed while Dee hones her skills on her own. Frank wears skinny pants. </Overview>
+  <ProductionCode>1P05010</ProductionCode>
+  <Rating>7.8</Rating>
+  <RatingCount>9</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer>Dave Chernin|Charlie Day</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/75805/1088161.jpg</filename>
+  <lastupdated>1295116392</lastupdated>
+  <seasonid>85131</seasonid>
+  <seriesid>75805</seriesid>
+</Episode>
+<Episode>
+  <id>2405531</id>
+  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Randall Einhorn</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Mac Fights Gay Marriage</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2010-09-16</FirstAired>
+  <GuestStars>Brittany Daniel|Lance Barber</GuestStars>
+  <IMDB_ID>1636170</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Mac defends traditional marriage, while the rest of the gang reaps the rewards of wedded bliss.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>16</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer>Becky Mann|Audra Sielaff</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/75805/2405531.jpg</filename>
+  <lastupdated>1284857032</lastupdated>
+  <seasonid>268951</seasonid>
+  <seriesid>75805</seriesid>
+</Episode>
+<Episode>
+  <id>2819161</id>
+  <Combined_episodenumber>2</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Randall Einhorn</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Dennis Gets Divorced</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2010-09-23</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Marital bliss turns into business, as the gang experiences the emotional and economic hardships of divorce.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.0</Rating>
+  <RatingCount>11</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer>Dave Chernin|John Chernin</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/75805/2819161.jpg</filename>
+  <lastupdated>1285329757</lastupdated>
+  <seasonid>268951</seasonid>
+  <seriesid>75805</seriesid>
+</Episode>
+<Episode>
+  <id>2819171</id>
+  <Combined_episodenumber>3</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Randall Einhorn</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Gang Buys a Boat</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2010-09-30</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>The gang attempts to find adventure on the sea after they purchase their 'new' boat.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.8</Rating>
+  <RatingCount>14</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer>Charlie Day|Rob McElhenney</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/75805/2819171.jpg</filename>
+  <lastupdated>1285959014</lastupdated>
+  <seasonid>268951</seasonid>
+  <seriesid>75805</seriesid>
+</Episode>
+<Episode>
+  <id>2819181</id>
+  <Combined_episodenumber>4</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Randall Einhorn</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Mac's Big Break</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>2010-10-07</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Mac finally gets his big break after correctly answering a trivia question on the radio. While Frank, Dennis, and Dee take their bar-banter to the internet with their own podcast.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.3</Rating>
+  <RatingCount>11</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer>Rob Rosell</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/75805/2819181.jpg</filename>
+  <lastupdated>1286821795</lastupdated>
+  <seasonid>268951</seasonid>
+  <seriesid>75805</seriesid>
+</Episode>
+<Episode>
+  <id>2949951</id>
+  <Combined_episodenumber>5</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Randall Einhorn</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Mac and Charlie: White Trash</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired>2010-10-14</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Rejected from a pool club, Mac and Charlie set out fix an abandoned pool to help cope with the Philly heat wave. Meanwhile, Dennis and Dee go about dealing with the heat in a different way.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>9</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer>Luvh Rakhe</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/75805/2949951.jpg</filename>
+  <lastupdated>1287172593</lastupdated>
+  <seasonid>268951</seasonid>
+  <seriesid>75805</seriesid>
+</Episode>
+<Episode>
+  <id>2949961</id>
+  <Combined_episodenumber>6</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Matt Shakman</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Mac's Mom Burns Her House Down</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired>2010-10-21</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Mac's mother is left homeless after she burns down her house, which leaves Charlie and Mac with no choice but to make new living arrangements; when Dee feels under the weather, Frank tries to muster his paternal instincts to care for her.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.3</Rating>
+  <RatingCount>10</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer>Scott Marder|Rob Rosell</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/75805/2949961.jpg</filename>
+  <lastupdated>1287751737</lastupdated>
+  <seasonid>268951</seasonid>
+  <seriesid>75805</seriesid>
+</Episode>
+<Episode>
+  <id>2949971</id>
+  <Combined_episodenumber>7</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Randall Einhorn</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Who Got Dee Pregnant?</EpisodeName>
+  <EpisodeNumber>7</EpisodeNumber>
+  <FirstAired>2010-10-28</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>The gang gets a real scare after Dee reveals she's pregnant, forcing the guys to recall their last hazy Halloween party to determine who the father is.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>16</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer>Charlie Day|Rob McElhenney</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/75805/2949971.jpg</filename>
+  <lastupdated>1288359161</lastupdated>
+  <seasonid>268951</seasonid>
+  <seriesid>75805</seriesid>
+</Episode>
+<Episode>
+  <id>3019351</id>
+  <Combined_episodenumber>8</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Matt Shakman</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Gang Gets a New Member</EpisodeName>
+  <EpisodeNumber>8</EpisodeNumber>
+  <FirstAired>2010-11-04</FirstAired>
+  <GuestStars>Jason Sudeikis | Dave Foley | Rene Auberjonois</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>A blast from the past prompts the guys to expand membership, and Dee to re-consider her future.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>13</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer>David Hornsby</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/75805/3019351.jpg</filename>
+  <lastupdated>1288987179</lastupdated>
+  <seasonid>268951</seasonid>
+  <seriesid>75805</seriesid>
+</Episode>
+<Episode>
+  <id>3019361</id>
+  <Combined_episodenumber>9</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Matt Shakman</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Dee Reynolds: Shaping America's Youth</EpisodeName>
+  <EpisodeNumber>9</EpisodeNumber>
+  <FirstAired>2010-11-11</FirstAired>
+  <GuestStars>Dave Foley</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Motivated by the drama teacher who inspired her, Dee takes a job as a substitute teacher, and exposes her students to the culture of Paddy's with a field trip to see the Gang's take on the Lethal Weapon series: Lethal Weapon 5.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.1</Rating>
+  <RatingCount>14</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer>David Hornsby</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/75805/3019361.jpg</filename>
+  <lastupdated>1289616376</lastupdated>
+  <seasonid>268951</seasonid>
+  <seriesid>75805</seriesid>
+</Episode>
+<Episode>
+  <id>3019371</id>
+  <Combined_episodenumber>10</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Matt Shakman</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Charlie Kelly: King of the Rats</EpisodeName>
+  <EpisodeNumber>10</EpisodeNumber>
+  <FirstAired>2010-11-18</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Keeping the basement rodent-free drives Charlie to the brink. The gang throws Charlie a surprise party.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.0</Rating>
+  <RatingCount>12</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer>Scott Marder | Rob Rosell</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/75805/3019371.jpg</filename>
+  <lastupdated>1290394770</lastupdated>
+  <seasonid>268951</seasonid>
+  <seriesid>75805</seriesid>
+</Episode>
+<Episode>
+  <id>3164311</id>
+  <Combined_episodenumber>11</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Matt Shakman</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Gang Gets Stranded in the Woods</EpisodeName>
+  <EpisodeNumber>11</EpisodeNumber>
+  <FirstAired>2010-12-02</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>En route to Atlantic City for a charity event, Mac, Frank and Dee get lost. Meanwhile, Dennis and Charlie hitch a ride to town. </Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.0</Rating>
+  <RatingCount>15</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer>Scott Marder|Rob Rosell|Luvh Rakhe</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/75805/3164311.jpg</filename>
+  <lastupdated>1291404069</lastupdated>
+  <seasonid>268951</seasonid>
+  <seriesid>75805</seriesid>
+</Episode>
+<Episode>
+  <id>3164321</id>
+  <Combined_episodenumber>12</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Matt Shakman</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Dee Gives Birth</EpisodeName>
+  <EpisodeNumber>12</EpisodeNumber>
+  <FirstAired>2010-12-09</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Dee's blessed event is fast approaching but the father's identity remains a mystery---to the gang, at least. So they throw a party and invite all of Dee's former flings.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.2</Rating>
+  <RatingCount>15</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer>David Hornsby|Becky Mann|Audra Sielaff</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/75805/3164321.jpg</filename>
+  <lastupdated>1292008716</lastupdated>
+  <seasonid>268951</seasonid>
+  <seriesid>75805</seriesid>
+</Episode>
+<Episode>
+  <id>3358551</id>
+  <Combined_episodenumber>13</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Fred Savage</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>A Very Sunny Christmas</EpisodeName>
+  <EpisodeNumber>13</EpisodeNumber>
+  <FirstAired>2010-12-16</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>After years of being mistreated by Frank during the holiday season, Dennis and Dee decide to teach him a lesson. Meanwhile, Mac and Charlie reflect on their childhood Christmases, and realize that they were not as joyous and wonderful as they remembered.</Overview>
+  <ProductionCode>IP05001</ProductionCode>
+  <Rating>8.3</Rating>
+  <RatingCount>3</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer>Rob McElhenney|Charlie Day</Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1293437469</lastupdated>
+  <seasonid>268951</seasonid>
+  <seriesid>75805</seriesid>
+</Episode>
+</Data>

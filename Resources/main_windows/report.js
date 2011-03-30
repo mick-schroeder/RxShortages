@@ -30,8 +30,7 @@ var b2 = Titanium.UI.createButton({
 	title:'Call: (888) 463-6332',
 	height:40,
 	width:280,
-	top:10,
-
+	top:10
 });
 
 win.add(b2);
@@ -51,8 +50,7 @@ var b3 = Titanium.UI.createButton({
 	title:'Drug Shortage Report Form',
 	height:40,
 	width:280,
-	top:10,
-
+	top:10
 });
 
 win.add(b3);

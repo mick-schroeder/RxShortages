@@ -1,0 +1,4359 @@
+status: 200
+content-length: 181247
+content-location: http://www.thetvdb.com/api/9DAF49C96CBF8DAC/series/73244/all/en.xml
+expires: Tue, 22 Mar 2011 07:43:01 GMT
+vary: Accept-Encoding
+server: nginx
+last-modified: Tue, 22 Mar 2011 06:20:46 GMT
+connection: keep-alive
+-content-encoding: gzip
+cache-control: max-age=900
+date: Tue, 22 Mar 2011 07:28:01 GMT
+content-type: text/xml
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8" ?>
+<Data><Series>
+  <id>73244</id>
+  <Actors>|Steve Carell|John Krasinski|Jenna Fischer|Rainn Wilson|Craig Robinson|David Denman|Paul Lieberstein|Melora Hardin|Creed Bratton|Mindy Kaling|Kate Flannery|Ed Helms|Phyllis Smith|Angela Kinsey|B.J. Novak|Oscar Nuñez|Brian Baumgartner|Leslie David Baker|Ellie Kemper|</Actors>
+  <Airs_DayOfWeek>Thursday</Airs_DayOfWeek>
+  <Airs_Time>9:00 PM</Airs_Time>
+  <ContentRating>TV-14</ContentRating>
+  <FirstAired>2005-03-24</FirstAired>
+  <Genre>|Comedy|</Genre>
+  <IMDB_ID>tt0386676</IMDB_ID>
+  <Language>en</Language>
+  <Network>NBC</Network>
+  <NetworkID></NetworkID>
+  <Overview>Based on the popular British series of the same name, this faster-paced American version follows the daily interactions of a group of idiosyncratic office employees at paper company Dunder Mifflin's Scranton branch via a documentary film crew's cameras.</Overview>
+  <Rating>9.1</Rating>
+  <RatingCount>197</RatingCount>
+  <Runtime>30</Runtime>
+  <SeriesID>22343</SeriesID>
+  <SeriesName>The Office (US)</SeriesName>
+  <Status>Continuing</Status>
+  <added></added>
+  <addedBy></addedBy>
+  <banner>graphical/73244-g9.jpg</banner>
+  <fanart>fanart/original/73244-17.jpg</fanart>
+  <lastupdated>1300774509</lastupdated>
+  <poster>posters/73244-4.jpg</poster>
+  <zap2it_id>SH726133</zap2it_id>
+</Series>
+<Episode>
+  <id>309549</id>
+  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Randall Einhorn</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Webisodes: The Accountants</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2006-07-13</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Oscar, Angela and Kevin try to find $3000 missing from the office budget.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer>Michael Schur|Paul Lieberstein</Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>2</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename>episodes/73244/309549.jpg</filename>
+  <lastupdated>1275989533</lastupdated>
+  <seasonid>20709</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>385789</id>
+  <Combined_episodenumber>2</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Brent Forrester</Director>
+  <EpImgFlag>1</EpImgFlag>
+  <EpisodeName>Webisodes: Kevin's Bank Loan</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2008-07-10</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Kevin pursues a unique solution in an effort to pay back his looming gambling debts. Before embarking on his plan, he also asks Oscar if a number of other ideas are legal, and Oscar is exasperated after having to tell Kevin that all of these ideas are completely illegal.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer>Anthony Farrell|Ryan Koh</Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>4</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename>episodes/73244/385789.jpg</filename>
+  <lastupdated>1275989590</lastupdated>
+  <seasonid>20709</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>1068071</id>
+  <Combined_episodenumber>3</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Webisodes: The Outburst</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2008-11-20</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Oscar has an outburst in the middle of the office and his coworkers start an investigation.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode>11</airsbefore_episode>
+  <airsbefore_season>5</airsbefore_season>
+  <filename>episodes/73244/1068071.jpg</filename>
+  <lastupdated>1293502849</lastupdated>
+  <seasonid>20709</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>1718361</id>
+  <Combined_episodenumber>4</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Webisodes: Blackmail</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>2009-05-07</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Creed decides to take up blackmail, and attempts to get money out of Oscar, Andy, Kelly, Angela, and Meredith.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>5</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename>episodes/73244/1718361.jpg</filename>
+  <lastupdated>1293503760</lastupdated>
+  <seasonid>20709</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>1361611</id>
+  <Combined_episodenumber>5</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Mindy Kaling</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Webisodes: Subtle Sexuality</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired>2009-10-29</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Kelly and Erin form their own girl group, Subtle Sexuality, and get Ryan and Andy to assist them with their first music video, &quot;Male Prima Donna&quot;.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer>|Jonathan Hughes|Nate Federman|</Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode>7</airsbefore_episode>
+  <airsbefore_season>6</airsbefore_season>
+  <filename>episodes/73244/1361611.jpg</filename>
+  <lastupdated>1297784223</lastupdated>
+  <seasonid>20709</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>1944881</id>
+  <Combined_episodenumber>6</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Webisodes: The Mentor</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired>2010-03-04</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Erin wants to make a career change and finds herself a mentor, Angela.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode>16</airsbefore_episode>
+  <airsbefore_season>6</airsbefore_season>
+  <filename></filename>
+  <lastupdated>1275989743</lastupdated>
+  <seasonid>20709</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>2782811</id>
+  <Combined_episodenumber>7</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Pod Caster</EpisodeName>
+  <EpisodeNumber>7</EpisodeNumber>
+  <FirstAired>2010-09-07</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>What happens when the employees at Dunder-Mifflin get creative at work? Find out in this exclusive itunes episode.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>6.5</Rating>
+  <RatingCount>2</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode>1</airsbefore_episode>
+  <airsbefore_season>7</airsbefore_season>
+  <filename>episodes/73244/2782811.jpg</filename>
+  <lastupdated>1284322490</lastupdated>
+  <seasonid>20709</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>2782821</id>
+  <Combined_episodenumber>8</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Recap Special</EpisodeName>
+  <EpisodeNumber>8</EpisodeNumber>
+  <FirstAired>2010-09-08</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Before you dive into season 7, get caught up on everything that’s been going on at the office with this hilarious recap episode.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.0</Rating>
+  <RatingCount>1</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode>1</airsbefore_episode>
+  <airsbefore_season>7</airsbefore_season>
+  <filename>episodes/73244/2782821.jpg</filename>
+  <lastupdated>1284322503</lastupdated>
+  <seasonid>20709</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>3731721</id>
+  <Combined_episodenumber>9</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Threat Level Midnight: The Movie</EpisodeName>
+  <EpisodeNumber>9</EpisodeNumber>
+  <FirstAired>2011-02-18</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>After 11 years of filming, editing, re-shooting, and re-editing, Michael Scott finally screened his action magnum opus, “Threat Level Midnight”. The short film stars Michael as Agent Michael Scarn, Dwight as Scarn’s sidekick Samuel L. Chang and Jim as painted evil-doer “Goldenface.” It’s “Goldfinger” meets “Youngblood” meets “The Maltese Falcon,” with a twist of “Thriller.”</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.3</Rating>
+  <RatingCount>3</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>7</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename>episodes/73244/3731721.jpg</filename>
+  <lastupdated>1298248267</lastupdated>
+  <seasonid>20709</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>3783171</id>
+  <Combined_episodenumber>10</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Webisodes: The 3rd Floor</EpisodeName>
+  <EpisodeNumber>10</EpisodeNumber>
+  <FirstAired>2010-10-28</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>When Ryan decides his next great endeavor is a scary slasher movie, Kelly Kapoor, Erin, Kevin, Meredith, Creed, and Gabe all pitch in.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode>7</airsbefore_episode>
+  <airsbefore_season>7</airsbefore_season>
+  <filename>episodes/73244/3783171.jpg</filename>
+  <lastupdated>1299823801</lastupdated>
+  <seasonid>20709</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>110413</id>
+  <Combined_episodenumber>1.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>1.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>Ken Kwapis</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Pilot</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2005-03-24</FirstAired>
+  <GuestStars>|Melora Hardin|David Denman|Angela Kinsey|Brian Baumgartner|Leslie David Baker|Oscar Nuñez|Phyllis Smith|Henriette Mantel|Mike McCaul|</GuestStars>
+  <IMDB_ID>tt0664521</IMDB_ID>
+  <Language>en</Language>
+  <Overview>A documentary crew arrives at the offices of Dunder Mifflin to observe the employees and learn about modern management. Manager Michael Scott tries to paint a happy picture, while sales rep Jim fights with his nemesis Dwight and flirts with receptionist Pam.</Overview>
+  <ProductionCode>#RP006</ProductionCode>
+  <Rating>7.4</Rating>
+  <RatingCount>29</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>|Greg Daniels|Ricky Gervais|Stephen Merchant|</Writer>
+  <absolute_number>1</absolute_number>
+  <filename>episodes/73244/110413.jpg</filename>
+  <lastupdated>1299191966</lastupdated>
+  <seasonid>5511</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>110414</id>
+  <Combined_episodenumber>2.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>2.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>Ken Kwapis</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Diversity Day</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2005-03-29</FirstAired>
+  <GuestStars>|Larry Wilmore|Angela Kinsey|Brian Baumgartner|Kate Flannery|Leslie David Baker|Mindy Kaling|Oscar Nuñez|Paul Lieberstein|Phyllis Smith|</GuestStars>
+  <IMDB_ID>tt0664514</IMDB_ID>
+  <Language>en</Language>
+  <Overview>A consultant arrives to teach the staff about tolerance and diversity but Michael insists on imparting his own knowledge. Meanwhile, Jim struggles to keep hold of a lucrative contract extension.</Overview>
+  <ProductionCode>#R1101</ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>24</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>B.J. Novak</Writer>
+  <absolute_number>2</absolute_number>
+  <filename>episodes/73244/110414.jpg</filename>
+  <lastupdated>1289728437</lastupdated>
+  <seasonid>5511</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>110415</id>
+  <Combined_episodenumber>3.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>3.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>Ken Whittingham</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Health Care</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2005-04-05</FirstAired>
+  <GuestStars>|Melora Hardin|Angela Kinsey|Brian Baumgartner|Kate Flannery|Leslie David Baker|Mindy Kaling|Oscar Nuñez|Paul Lieberstein|Phyllis Smith|Charlie Hartsock|</GuestStars>
+  <IMDB_ID>tt0664517</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Michael doesn't want to upset the staff so he gets Dwight to pass on news about the company's reduced health provisions. Fed up with his nosiness, Jim and Pam pretend they are suffering from a variety of conditions including Ebola, Mad Cow Disease, spontaneous dentohydroplosion, hotdog fingers, nano-robot infection, inverted penis and anal fissures.</Overview>
+  <ProductionCode>#R1105</ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>25</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Paul Lieberstein</Writer>
+  <absolute_number>3</absolute_number>
+  <filename>episodes/73244/110415.jpg</filename>
+  <lastupdated>1289728452</lastupdated>
+  <seasonid>5511</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>110416</id>
+  <Combined_episodenumber>4.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>4.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>Bryan Gordon</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>The Alliance</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>2005-04-12</FirstAired>
+  <GuestStars>|David Denman|Craig Robinson|Angela Kinsey|Brian Baumgartner|Kate Flannery|Leslie David Baker|Oscar Nuñez|Paul Lieberstein|Phyllis Smith|</GuestStars>
+  <IMDB_ID>tt0664523</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Michael arranges a morale-boosting birthday party for Meredith and is determined to come up with the funniest message in her card. Dwight wants a pact with Jim to fight the downsizing, and Michael regrets showing off when Oscar asks for sponsorship for a charity walk being undertaken by his nephew, who has cerebral palsy.</Overview>
+  <ProductionCode>#R1103</ProductionCode>
+  <Rating>7.8</Rating>
+  <RatingCount>24</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Michael Schur</Writer>
+  <absolute_number>4</absolute_number>
+  <filename>episodes/73244/110416.jpg</filename>
+  <lastupdated>1289728463</lastupdated>
+  <seasonid>5511</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>110417</id>
+  <Combined_episodenumber>5.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>5.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>Greg Daniels</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Basketball</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired>2005-04-19</FirstAired>
+  <GuestStars>|David Denman|Patrice O'Neal|Craig Robinson|Angela Kinsey|Brian Baumgartner|Karly Rothenberg|Kate Flannery|Leslie David Baker|Oscar Nuñez|Phyllis Smith|Matt Decaro|</GuestStars>
+  <IMDB_ID>tt0664510</IMDB_ID>
+  <Language>en</Language>
+  <Overview>The office staff play a basketball game against the warehouse workers in which Jim shows off to impress Pam and upstage her fiancee who is on the opposing team.</Overview>
+  <ProductionCode>#R1104</ProductionCode>
+  <Rating>8.0</Rating>
+  <RatingCount>20</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Greg Daniels</Writer>
+  <absolute_number>5</absolute_number>
+  <filename>episodes/73244/110417.jpg</filename>
+  <lastupdated>1289728471</lastupdated>
+  <seasonid>5511</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>110418</id>
+  <Combined_episodenumber>6.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>6.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>Amy Heckerling</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Hot Girl</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired>2005-04-26</FirstAired>
+  <GuestStars>|Amy Adans|David Denman|Melora Hardin|Angela Kinsey|Brian Baumgartner|Kate Flannery|Leslie David Baker|Oscar Nuñez| Paul Lieberstein|Phyllis Smith|</GuestStars>
+  <IMDB_ID>tt0664518</IMDB_ID>
+  <Language>en</Language>
+  <Overview>A woman who comes to the office to sell purses gets the male members of staff excited. She rejects Dwight's advances, but Michael reckons he's still in with a chance.</Overview>
+  <ProductionCode>#R1102</ProductionCode>
+  <Rating>8.0</Rating>
+  <RatingCount>23</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Mindy Kaling</Writer>
+  <absolute_number>6</absolute_number>
+  <filename>episodes/73244/110418.jpg</filename>
+  <lastupdated>1289728482</lastupdated>
+  <seasonid>5511</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>306092</id>
+  <Combined_episodenumber>1.0</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>1.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
+  <Director>Greg Daniels</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>The Dundies</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2005-09-20</FirstAired>
+  <GuestStars>|Angela Kinsey|Brian Baumgartner|David Denman|Kate Flannery|Leslie David Baker|Oscar Nuñez|Phyllis Smith|Karly Rothenberg|Mindy Kaling|Paul Lieberstein|Devon Abner|</GuestStars>
+  <IMDB_ID>tt0664525</IMDB_ID>
+  <Language>en</Language>
+  <Overview>It's time for the &quot;&quot;Dundies,&quot;&quot; Dunder Mifflin's annual awards banquet (held at the neighborhood Chili's), and the staff must endure the excruciating performance of their inept emcee, boss Michael Scott.</Overview>
+  <ProductionCode>02003</ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>26</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Mindy Kaling</Writer>
+  <absolute_number>7</absolute_number>
+  <filename>episodes/73244/306092.jpg</filename>
+  <lastupdated>1289728783</lastupdated>
+  <seasonid>5512</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>306093</id>
+  <Combined_episodenumber>2.0</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>2.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
+  <Director>Ken Kwapis</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Sexual Harassment</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2005-09-27</FirstAired>
+  <GuestStars>|Karly Rothenberg|Andrew Donnelly|Dennis Garber|Keith Valcourt|Melinda Chilton|R. F. Daley|David Koechner|Angela Kinsey|Brian Baumgartner|Craig Robinson|David Denman|Kate Flannery|Leslie David Baker|Melora Hardin|Mindy Kaling|Oscar Nuñez|Paul Lieberstein|</GuestStars>
+  <IMDB_ID>tt0664522</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Just as corporate tells Toby, one of the workers at the Scranton branch, to give a seminar on sexual harassment issues, Michael receives a visit from his obnoxious sales-rep friend Todd Packer.  The two chauvinistic friends try to prove that the office is not in need of harassment counseling, but only wind up making the situation worse, causing yet another zany day at the office.</Overview>
+  <ProductionCode>02002</ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>23</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>B.J. Novak</Writer>
+  <absolute_number>8</absolute_number>
+  <filename>episodes/73244/306093.jpg</filename>
+  <lastupdated>1289733395</lastupdated>
+  <seasonid>5512</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>306094</id>
+  <Combined_episodenumber>3.0</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>3.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
+  <Director>Paul Feig</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Office Olympics</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2005-10-04</FirstAired>
+  <GuestStars>|Angela Kinsey|Brian Baumgartner|Kate Flannery|Leslie David Baker|Nancy Walls|Oscar Nuñez|Phyllis Smith|Mindy Kaling|Paul Lieberstein|John Harrington Bland|Creed Bratton|</GuestStars>
+  <IMDB_ID>tt0664519</IMDB_ID>
+  <Language>en</Language>
+  <Overview>While Michael and Dwight are out of the office for the day trying to close a deal on a new condo for Michael, Jim and Pam arrange for the staff to participate in an &quot;&quot;Office Olympics,&quot;&quot; where the workers play strange, invented games (among them, Dunderball, Hate Ball...and Pam Pong) that they usually play while the boss is out.  At the end of the day, the festivities cheer up everyone - even the oblivious Michael.</Overview>
+  <ProductionCode>02004</ProductionCode>
+  <Rating>7.9</Rating>
+  <RatingCount>22</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Michael Schur</Writer>
+  <absolute_number>9</absolute_number>
+  <filename>episodes/73244/306094.jpg</filename>
+  <lastupdated>1289729319</lastupdated>
+  <seasonid>5512</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>306095</id>
+  <Combined_episodenumber>4.0</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>4.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
+  <Director>Ken Kwapis</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>The Fire</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>2005-10-11</FirstAired>
+  <GuestStars>|Amy Adams|Angela Kinsey|Brian Baumgartner|David Denman|Kate Flannery|Leslie David Baker|Mindy Kaling|Oscar Nuñez|Paul Lieberstein|Phyllis Smith|Devon Abner|</GuestStars>
+  <IMDB_ID>tt0664527</IMDB_ID>
+  <Language>en</Language>
+  <Overview>The Office is forced into the parking lot for the day when a fire starts in the kitchen.  To ease everyone's boredom, Jim suggests a game of &quot;&quot;Desert Island&quot;&quot; and &quot;&quot;Who Would You Do?,&quot;&quot; where certain staff members reveal a little too much information about themselves. Throughout the day, Michael talks business with Ryan, leaving Dwight feeling left out.</Overview>
+  <ProductionCode>02001</ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>24</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>B.J. Novak</Writer>
+  <absolute_number>10</absolute_number>
+  <filename>episodes/73244/306095.jpg</filename>
+  <lastupdated>1289729410</lastupdated>
+  <seasonid>5512</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>306096</id>
+  <Combined_episodenumber>5.0</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>5.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
+  <Director>Paul Feig</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Halloween</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired>2005-10-18</FirstAired>
+  <GuestStars>|Alec Zbornak|Angela Kinsey|Brian Baumgartner|Kate Flannery|Leslie David Baker|Mindy Kaling|Oscar Nuñez|Paul Lieberstein|Phyllis Smith|Creed Bratton|Devon Abner|Hugh Dane|Annabelle Kopack|Ava Nisbet|George Gaus|</GuestStars>
+  <IMDB_ID>tt0664516</IMDB_ID>
+  <Language>en</Language>
+  <Overview>While everyone else in the office enjoys the spooky Halloween festivities and talks about the staff's costumes, Michael ponders who he should fire when the threat of downsizing becomes a reality and his boss orders him to fire one of his staff.  Meanwhile, Jim and Pam put Dwight's resume on job-searching websites, which may make Michael's job a little easier, and Pam encourages Jim to set his goals higher by applying for a better job, which makes Jim consider his friendship with Pam.</Overview>
+  <ProductionCode>02006</ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>26</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Greg Daniels</Writer>
+  <absolute_number>11</absolute_number>
+  <filename>episodes/73244/306096.jpg</filename>
+  <lastupdated>1289729567</lastupdated>
+  <seasonid>5512</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>306097</id>
+  <Combined_episodenumber>6.0</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>6.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
+  <Director>Ken Kwapis</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>The Fight</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired>2005-11-01</FirstAired>
+  <GuestStars>|Angela Kinsey|Brian Baumgartner|Kate Flannery|Leslie David Baker|Oscar Nuñez|Phyllis Smith|Lance Krall|Creed Bratton|Mindy Kaling|Paul Lieberstein|</GuestStars>
+  <IMDB_ID>tt0664526</IMDB_ID>
+  <Language>en</Language>
+  <Overview>When Dwight embarrasses Michael by punching him in the stomach at work, Jim organizes a lunchtime rematch at Dwight's Dojo.  Meanwhile, Pam becomes annoyed at Jim when he gets too physical with her, Ryan updates the emergency contact information on a secret mission, and Michael tantalizes Ryan when the boss gets a hold of Ryan's cell phone number.</Overview>
+  <ProductionCode>02007</ProductionCode>
+  <Rating>8.1</Rating>
+  <RatingCount>24</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>|Lee Eisenberg|Gene Stupnitsky|</Writer>
+  <absolute_number>12</absolute_number>
+  <filename>episodes/73244/306097.jpg</filename>
+  <lastupdated>1289730583</lastupdated>
+  <seasonid>5512</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>306098</id>
+  <Combined_episodenumber>7.0</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>7.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
+  <Director>Greg Daniels</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>The Client</EpisodeName>
+  <EpisodeNumber>7</EpisodeNumber>
+  <FirstAired>2005-11-08</FirstAired>
+  <GuestStars>|Angela Kinsey|Brian Baumgartner|David Denman|Kate Flannery|Leslie David Baker|Melora Hardin|Oscar Nuñez|Phyllis Smith|Tim Meadows|Creed Bratton|Mindy Kaling|</GuestStars>
+  <IMDB_ID>tt0664524</IMDB_ID>
+  <Language>en</Language>
+  <Overview>When Michael and Jan try to nail down a potential new client, Christian, by taking him out to Chili's, Michael surprises everyone with what - or who - he does.  Meanwhile, back at the office, Jim finds a semi-autobiographical script that Michael has written called Threat Level: Midnight, and he, Pam, Kevin, and the rest of the Dunder-Mifflin workers have a great time acting it out.  Later that night, Pam and Jim share their first unofficial date, complete with dinner (a sandwich), candlelight, and Dwight's pathetic fireworks display.</Overview>
+  <ProductionCode>02005</ProductionCode>
+  <Rating>7.9</Rating>
+  <RatingCount>18</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Paul Lieberstein</Writer>
+  <absolute_number>13</absolute_number>
+  <filename>episodes/73244/306098.jpg</filename>
+  <lastupdated>1289730652</lastupdated>
+  <seasonid>5512</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>306099</id>
+  <Combined_episodenumber>8.0</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>8.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
+  <Director>Paul Feig</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Performance Review</EpisodeName>
+  <EpisodeNumber>8</EpisodeNumber>
+  <FirstAired>2005-11-15</FirstAired>
+  <GuestStars>|Angela Kinsey|Brian Baumgartner|Leslie David Baker|Melora Hardin|Oscar Nuñez|Phyllis Smith|Creed Bratton|Mindy Kaling|Paul Lieberstein|</GuestStars>
+  <IMDB_ID>tt0664520</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Michael meets with all of his underlings to discuss their performance in the office so far.  However, Michael focuses more on getting feedback about his relationship with Jan than whether or not the workers are doing their job.  Later, a nervous Michael plans to shuffle through the employee suggestion box to steal exciting ideas for his imminent discussion with Jan about his own performance, but that falls apart when Jan asks to sit in on the discussion.  Meanwhile, Jim and Pam try to keep Dwight under the wrong impression that the day is Friday instead of Thursday.</Overview>
+  <ProductionCode>02009</ProductionCode>
+  <Rating>7.8</Rating>
+  <RatingCount>17</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Larry Wilmore</Writer>
+  <absolute_number>14</absolute_number>
+  <filename>episodes/73244/306099.jpg</filename>
+  <lastupdated>1289730705</lastupdated>
+  <seasonid>5512</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>306100</id>
+  <Combined_episodenumber>9.0</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>9.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
+  <Director>Paul Feig</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Email Surveillance</EpisodeName>
+  <EpisodeNumber>9</EpisodeNumber>
+  <FirstAired>2005-11-22</FirstAired>
+  <GuestStars>|Angela Kinsey|Brian Baumgartner|Kate Flannery|Leslie David Baker|Oscar Nuñez|Phyllis Smith|Michael Naughton|Mindy Kaling|Omi Vaidya|Paul Lieberstein|Trish Gates|Anderson Reid|Colleen Smith|Dee Ryan|Jeffrey Muller|Jonathan Browning|Ken Jeong|</GuestStars>
+  <IMDB_ID>tt0664515</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Michael starts monitoring the emails sent out in the Dunder-Mifflin workplace, upsetting the employees.  Meanwhile, Pam believes that the relationship between Dwight and Angela is more than just worker to worker, Jim throws an office BBQ at his house in order to show his roommate the kinds of people he deals with everyday, and Michael, after annoying everyone at his improv classes, crashes Jim's party with a terrible karaoke number.</Overview>
+  <ProductionCode>02008</ProductionCode>
+  <Rating>8.0</Rating>
+  <RatingCount>19</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Jennifer Celotta</Writer>
+  <absolute_number>15</absolute_number>
+  <filename>episodes/73244/306100.jpg</filename>
+  <lastupdated>1289730834</lastupdated>
+  <seasonid>5512</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>306101</id>
+  <Combined_episodenumber>10.0</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>10.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
+  <Director>Charles McDougall</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Christmas Party</EpisodeName>
+  <EpisodeNumber>10</EpisodeNumber>
+  <FirstAired>2005-12-06</FirstAired>
+  <GuestStars>|Angela Kinsey|Brian Baumgartner|Craig Robinson|David Denman|David Koechner|Kate Flannery|Leslie David Baker|Oscar Nuñez|Phyllis Smith|Robert R. Shafer|Creed Bratton|Mindy Kaling|Paul Lieberstein|</GuestStars>
+  <IMDB_ID>tt0664513</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Michael hosts a Christmas party at the office, but somehow manages to decrease the holiday cheer when he changes the arranged secret Santa pairs to a game of &quot;Yankee Swap,&quot; where everyone gives their pre-bought presents to a different, random worker.  To boost morale, Michael introduces vodka shots while the others compete for an iPod, Jim hopes that his sentimental present, meant for Pam, doesn't end up with Dwight, and Angela becomes enraged about Michael's party changes.</Overview>
+  <ProductionCode>02010</ProductionCode>
+  <Rating>8.2</Rating>
+  <RatingCount>18</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Michael Schur</Writer>
+  <absolute_number>16</absolute_number>
+  <filename>episodes/73244/306101.jpg</filename>
+  <lastupdated>1289730952</lastupdated>
+  <seasonid>5512</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>306102</id>
+  <Combined_episodenumber>11.0</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>11.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
+  <Director>Ken Kwapis</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Booze Cruise</EpisodeName>
+  <EpisodeNumber>11</EpisodeNumber>
+  <FirstAired>2006-01-05</FirstAired>
+  <GuestStars>|Amy Adams|Angela Kinsey|Brian Baumgartner|Craig Robinson|David Denman|Kate Flannery|Leslie David Baker|Oscar Nuñez|Phyllis Smith|Brenda Withers|Rob Riggle|Creed Bratton|Joanne Carlsen|Mindy Kaling|Paul Lieberstein|Eliza Coleman|R. C. Ormond|Roger Huse|</GuestStars>
+  <IMDB_ID>tt0664511</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Michael takes the entire Dunder-Mifflin staff on a motivational cruise aboard a party boat on Lake Wallenpaupack, but his planned presentation is bogged down by numerous distractions, including a dance contest, limbo, snorkel shots, and the pushy Captain Jack.  Also, Jim and Katy's relationship hits the rocks as Roy and Pam finally set a wedding date, which does more than disappoint Jim, and by the end of the night, Michael's motivational cruise doesn't go completely to waste when he shares a heart-to-heart with one of the workers.
+</Overview>
+  <ProductionCode>02013</ProductionCode>
+  <Rating>7.9</Rating>
+  <RatingCount>20</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Greg Daniels</Writer>
+  <absolute_number>17</absolute_number>
+  <filename>episodes/73244/306102.jpg</filename>
+  <lastupdated>1289731070</lastupdated>
+  <seasonid>5512</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>306103</id>
+  <Combined_episodenumber>12.0</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>12.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
+  <Director>Bryan Gordon</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>The Injury</EpisodeName>
+  <EpisodeNumber>12</EpisodeNumber>
+  <FirstAired>2006-01-12</FirstAired>
+  <GuestStars>|Angela Kinsey|Brian Baumgartner|Kate Flannery|Leslie David Baker|Marcus A. York|Oscar Nuñez|Phyllis Smith|Creed Bratton|Mindy Kaling|Paul Lieberstein|David Doty|Julia Prud'homme|</GuestStars>
+  <IMDB_ID>tt0664528</IMDB_ID>
+  <Language>en</Language>
+  <Overview>When Michael burns his foot with his George Foreman mini-grill, he requires the entire office staff to work around his new injury.  When the workers aren't so keen on obliging, Michael gets angry and calls in a man in a wheelchair to put out the message that disabled people are people too.  Meanwhile, Dwight acts stranger than usual, acting really nice and helpful towards Pam.  It isn't until the end of the day when everyone realizes that the car accident Dwight was in earlier that day gave him a concussion (but was overshadowed by Michael's dramatization of his own burn), and Jim and Michael immediately take him to the hospital.  Needless to say, Michael doesn't appreciate the extra attention that the doctors and nurses pay Dwight.
+</Overview>
+  <ProductionCode>02011</ProductionCode>
+  <Rating>8.3</Rating>
+  <RatingCount>20</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Mindy Kaling</Writer>
+  <absolute_number>18</absolute_number>
+  <filename>episodes/73244/306103.jpg</filename>
+  <lastupdated>1289731164</lastupdated>
+  <seasonid>5512</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>306104</id>
+  <Combined_episodenumber>13.0</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>13.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
+  <Director>Dennie Gordon</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>The Secret</EpisodeName>
+  <EpisodeNumber>13</EpisodeNumber>
+  <FirstAired>2006-01-19</FirstAired>
+  <GuestStars>|Creed Bratton|Mindy Kaling|Paul Lieberstein|Lindsey Stoddart|Tom W. Chick|</GuestStars>
+  <IMDB_ID>tt0756967</IMDB_ID>
+  <Language>en</Language>
+  <Overview>When Michael slips some sly references about Pam in his conversations with Jim, Jim quickly tries to do damage control to make sure that no one else in the office finds about his crush on Pam, all while slamming himself with regret for ever telling Michael in the first place.  Jim goes to drastic measures, even bonding with Michael at a Hooters restaurant for lunch.  Nonetheless, Jim's efforts do little to keep Michael from revealing the secret, but Jim smooths the situation over with Pam to make it seem like nothing more than a tiny crush in the past.  Meanwhile, Dwight conducts an investigation about Oscar's mysterious absence from work, and what Dwight finds, though it goes way over his head, is surprising.
+</Overview>
+  <ProductionCode>02014</ProductionCode>
+  <Rating>7.2</Rating>
+  <RatingCount>18</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>|Gene Stupnitsky|Lee  Eisenberg|</Writer>
+  <absolute_number>19</absolute_number>
+  <filename>episodes/73244/306104.jpg</filename>
+  <lastupdated>1289731200</lastupdated>
+  <seasonid>5512</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>306105</id>
+  <Combined_episodenumber>14.0</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>14.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
+  <Director>Victor Nelli Jr.</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>The Carpet</EpisodeName>
+  <EpisodeNumber>14</EpisodeNumber>
+  <FirstAired>2006-01-26</FirstAired>
+  <GuestStars>|Angela Kinsey|Brian Baumgartner|Craig Robinson|David Denman|David Koechner|Kate Flannery|Leslie David Baker|Oscar Nuñez|Phyllis Smith|Ken Howard|Creed Bratton|Mindy Kaling|Paul Lieberstein|</GuestStars>
+  <IMDB_ID>tt0756966</IMDB_ID>
+  <Language>en</Language>
+  <Overview>When someone soils the carpet in Michael's office, Michael sees it as a form of hatred towards him and realizes for the first time that not everyone may like him.  Due to the odor of his office, Michael temporarily switches workspaces with Jim, and while there, Michael reminisces of his pre-management days, reliving pranks with Dwight that he and Todd Packer played on the staff.  Meanwhile, Jim realizes why Kelly sits alone in the back of the office as he plays messenger for a childish flirtation between Kelly and Ryan, and Pam tries to cope with the day without Jim to make her laugh.
+</Overview>
+  <ProductionCode>02012</ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>19</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Paul Lieberstein</Writer>
+  <absolute_number>20</absolute_number>
+  <filename>episodes/73244/306105.jpg</filename>
+  <lastupdated>1289732843</lastupdated>
+  <seasonid>5512</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>306106</id>
+  <Combined_episodenumber>15.0</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>15.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
+  <Director>Dennie Gordon</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Boys And Girls</EpisodeName>
+  <EpisodeNumber>15</EpisodeNumber>
+  <FirstAired>2006-02-02</FirstAired>
+  <GuestStars>|Craig Robinson|Patrice O'Neal|Creed Bratton|Karly Rothenberg|Mindy Kaling|Paul Lieberstein|</GuestStars>
+  <IMDB_ID>tt0664512</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Jan holds a &quot;Women in the Workplace&quot; seminar at Dunder-Mifflin for the paper company's female employees.  Michael, feeling more than a bit left out, decides to have his own &quot;seminar&quot; when he takes the male workers down to the warehouse.</Overview>
+  <ProductionCode>02015</ProductionCode>
+  <Rating>7.9</Rating>
+  <RatingCount>18</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>B.J. Novak</Writer>
+  <absolute_number>21</absolute_number>
+  <filename>episodes/73244/306106.jpg</filename>
+  <lastupdated>1289732887</lastupdated>
+  <seasonid>5512</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>306107</id>
+  <Combined_episodenumber>16.0</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>16.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
+  <Director>Greg Daniels</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Valentine's Day</EpisodeName>
+  <EpisodeNumber>16</EpisodeNumber>
+  <FirstAired>2006-02-09</FirstAired>
+  <GuestStars>|Andy Buckley|Charles Esten|Craig Anton|Creed Bratton|Dan Cole|Gene Stupnitsky|Lee Eisenberg|Mindy Kaling|Jason Kessler|Jeremy Radin|Conan O'Brien|</GuestStars>
+  <IMDB_ID>tt0763221</IMDB_ID>
+  <Language>en</Language>
+  <Overview>The Dunder-Mifflin staffers join in kindergarten-like festivities for Valentine's Day while Michael heads to New York City for a conference with the corporate heads.  After showing the documenters a tour of his favorite city, Michael accidentally lets slip to the others at the conference that he and Jan hooked up, and he finds himself in hot water when Jan and the new CFO of Dunder-Mifflin hear the story.  Back in Scranton, Pam becomes irked when she discovers that Roy hasn't gotten her anything for Valentine's Day, Dwight struggles to find a gift for Angela, and Kelley talks off Jim's ear about her rather desperate affections for Ryan, who is less than interested.
+</Overview>
+  <ProductionCode>02016</ProductionCode>
+  <Rating>8.0</Rating>
+  <RatingCount>21</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Michael Schur</Writer>
+  <absolute_number>22</absolute_number>
+  <filename>episodes/73244/306107.jpg</filename>
+  <lastupdated>1289732972</lastupdated>
+  <seasonid>5512</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>306108</id>
+  <Combined_episodenumber>17.0</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>17.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
+  <Director>Charles McDougall</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Dwight's Speech</EpisodeName>
+  <EpisodeNumber>17</EpisodeNumber>
+  <FirstAired>2006-03-02</FirstAired>
+  <GuestStars>|Creed Bratton|Mindy Kaling|Paul Lieberstein|Benjamin S. Carroll|John Kelly|</GuestStars>
+  <IMDB_ID>tt0770626</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Dwight must confront his fear of public speaking when he is named Dunder-Mifflin's Salesman of the Year.  To prepare for a big convention where he is set to give a speech, Dwight turns to Michael to guide him in his quest to conquer the fear.  Meanwhile, Pam gets wrapped up with wedding plans, but Jim has plans of a different sort: an escape route out of Dunder-Mifflin and Scranton, at least for long enough so that he doesn't have to witness Pam's wedding.  While all of this is happening, the staffers battle it out over control of the thermostat.
+</Overview>
+  <ProductionCode>02017</ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>21</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Paul Lieberstein</Writer>
+  <absolute_number>23</absolute_number>
+  <filename>episodes/73244/306108.jpg</filename>
+  <lastupdated>1289733009</lastupdated>
+  <seasonid>5512</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>306109</id>
+  <Combined_episodenumber>18.0</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>18.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
+  <Director>Victor Nelli Jr.</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Take Your Daughter To Work Day</EpisodeName>
+  <EpisodeNumber>18</EpisodeNumber>
+  <FirstAired>2006-03-16</FirstAired>
+  <GuestStars>|Craig Robinson|Jazz Raycole|Spencer Daniels|Alec Zbornak|Creed Bratton|Jake Kalender|Mindy Kaling|Paul Lieberstein|Damani Roberts|Delaney Ruth Farrell|Haley Daniels|Kevin Carlson|Sue Nelson|</GuestStars>
+  <IMDB_ID>tt0779510</IMDB_ID>
+  <Language>en</Language>
+  <Overview>A routine office day is changed when children come to Dunder Mifflin for &quot;Take Your Daughter to Work Day.&quot; Michael is surprised when he strikes up a friendship with the five-year old daughter of his sworn enemy, Toby. Pam is desperate to befriend her colleagues' offspring and a misunderstanding puts Ryan under Stanley's thumb</Overview>
+  <ProductionCode>02018</ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>18</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Mindy Kaling</Writer>
+  <absolute_number>24</absolute_number>
+  <filename>episodes/73244/306109.jpg</filename>
+  <lastupdated>1289733084</lastupdated>
+  <seasonid>5512</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>306110</id>
+  <Combined_episodenumber>19.0</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>19.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
+  <Director>Ken Whittingham</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Michael's Birthday</EpisodeName>
+  <EpisodeNumber>19</EpisodeNumber>
+  <FirstAired>2006-03-30</FirstAired>
+  <GuestStars>|Nancy Walls|Eric La Barr|Creed Bratton|Mindy Kaling|Paul Lieberstein|Justin Meloni|Sara Van Horn|Susan Foley|</GuestStars>
+  <IMDB_ID>tt0776249</IMDB_ID>
+  <Language>en</Language>
+  <Overview>As Kevin and the rest of the crew worry about Kevin's medical test results to see whether or not he has skin cancer, Michael gets angry because no one seems to have fun at the birthday party he threw for himself.  Later, Michael takes everyone out to the skating rink to get their minds off of Kevin's possible complications, and Pam and Jim go to the supermarket to pick up some presents for Kevin.
+</Overview>
+  <ProductionCode>02019</ProductionCode>
+  <Rating>7.9</Rating>
+  <RatingCount>16</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>|Gene Stupnitsky|Lee  Eisenberg|</Writer>
+  <absolute_number>25</absolute_number>
+  <filename>episodes/73244/306110.jpg</filename>
+  <lastupdated>1289733135</lastupdated>
+  <seasonid>5512</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>306112</id>
+  <Combined_episodenumber>20.0</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>20.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
+  <Director>Greg Daniels</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Drug Testing</EpisodeName>
+  <EpisodeNumber>20</EpisodeNumber>
+  <FirstAired>2006-04-27</FirstAired>
+  <GuestStars>|Creed Bratton|Hugh Dane|Mindy Kaling|Paul Lieberstein|Marilyn Brett|</GuestStars>
+  <IMDB_ID>tt0795874</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Dwight plays the role of Volunteer Sheriff after finding half a joint in the Dunder Mifflin parking lot leading to an investigation. Pam gives Jim a play challenge where he must be silent until he gives Pam a can of Coke.
+</Overview>
+  <ProductionCode>02021</ProductionCode>
+  <Rating>7.9</Rating>
+  <RatingCount>19</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Jennifer Celotta</Writer>
+  <absolute_number>26</absolute_number>
+  <filename>episodes/73244/306112.jpg</filename>
+  <lastupdated>1289733169</lastupdated>
+  <seasonid>5512</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>306111</id>
+  <Combined_episodenumber>21.0</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>21.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
+  <Director>Charles McDougall</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Conflict Resolution</EpisodeName>
+  <EpisodeNumber>21</EpisodeNumber>
+  <FirstAired>2006-05-04</FirstAired>
+  <GuestStars>|Creed Bratton|Mindy Kaling|Paul Lieberstein|Vivianne Collins|Scott Adsit|</GuestStars>
+  <IMDB_ID>tt0796140</IMDB_ID>
+  <Language>en</Language>
+  <Overview>When Michael takes over conflict resolution duties from HR, chaos ensues at Dunder Mifflin.
+</Overview>
+  <ProductionCode>02020</ProductionCode>
+  <Rating>8.3</Rating>
+  <RatingCount>19</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Greg Daniels</Writer>
+  <absolute_number>27</absolute_number>
+  <filename>episodes/73244/306111.jpg</filename>
+  <lastupdated>1289733206</lastupdated>
+  <seasonid>5512</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>306289</id>
+  <Combined_episodenumber>22.0</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>22.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
+  <Director>Ken Kwapis</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Casino Night</EpisodeName>
+  <EpisodeNumber>22</EpisodeNumber>
+  <FirstAired>2006-05-11</FirstAired>
+  <GuestStars>|Craig Robinson|Creed Bratton|Marcus A. York|Mindy Kaling|Nancy Walls|Paul Lieberstein|Bob Harrell|Mike Kruzel|Robert R. Shafer|Amanda Warren|Britain Spellings|Bryan Spinell|</GuestStars>
+  <IMDB_ID>tt0800604</IMDB_ID>
+  <Language>en</Language>
+  <Overview>In the season finale, Dunder-Mifflin holds a Casino Night in the warehouse to benefit charity. While Michael faces the task of juggling two dates, Jim is forced to ponder the reality of transferring to the Stamford branch and what that means for his relationship with Pam.
+</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.5</Rating>
+  <RatingCount>15</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Steve Carell</Writer>
+  <absolute_number>28</absolute_number>
+  <filename>episodes/73244/306289.jpg</filename>
+  <lastupdated>1289733329</lastupdated>
+  <seasonid>5512</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>307725</id>
+  <Combined_episodenumber>1.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>1.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Ken Kwapis</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Gay Witch Hunt</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2006-09-21</FirstAired>
+  <GuestStars>|Larry Wilmore| Tom W. Chick|</GuestStars>
+  <IMDB_ID>1</IMDB_ID>
+  <Language>en</Language>
+  <Overview>On the heels of Casino Night, Michael inadvertently outs a gay employee; Jim adjusts to his promotion, new office, and life without Pam.
+</Overview>
+  <ProductionCode>3001</ProductionCode>
+  <Rating>8.2</Rating>
+  <RatingCount>29</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Greg Daniels</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73244/307725.jpg</filename>
+  <lastupdated>1289765976</lastupdated>
+  <seasonid>16312</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>307726</id>
+  <Combined_episodenumber>2.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>2.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Ken Whittingham</Director>
+  <EpImgFlag>7</EpImgFlag>
+  <EpisodeName>The Convention</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2006-09-28</FirstAired>
+  <GuestStars>|Roscoe Myrick| Matt Price| Robert Bagnell| Steve Little| Jerome Bettis|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Michael and Dwight head off to Philadelphia to meet Jan for the Northeastern Mid-Market Office Supply Convention. Michael, with the help of Dwight, sets up a party for fellow conventioneers while Ryan goes on a double date with Kelly back in Scranton
+</Overview>
+  <ProductionCode>3006</ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>22</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Gene Stupnitsky, Lee  Eisenberg</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73244/307726.jpg</filename>
+  <lastupdated>1289765992</lastupdated>
+  <seasonid>16312</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>307727</id>
+  <Combined_episodenumber>3.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>3.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Greg Daniels</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>The Coup</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2006-10-05</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Michael is in trouble once again as Jan busts him for declaring it's &quot;Movie Monday&quot; where everyone watches a movie and neglects work. Angela pushes Dwight to make a move on Michael's job while Pam and Jim find creative ways to waste time.
+</Overview>
+  <ProductionCode>3002</ProductionCode>
+  <Rating>8.1</Rating>
+  <RatingCount>26</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Paul Lieberstein</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73244/307727.jpg</filename>
+  <lastupdated>1289766009</lastupdated>
+  <seasonid>16312</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>307729</id>
+  <Combined_episodenumber>4.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>4.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Roger Nygard</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Grief Counseling</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>2006-10-12</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>After learning that his old boss, the former regional manager, has died, Michael attempts to guide the Dunder Mifflin staff through their grief as he searches for the right way to honor a company man.
+</Overview>
+  <ProductionCode>3003</ProductionCode>
+  <Rating>7.4</Rating>
+  <RatingCount>23</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Jennifer Celotta</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73244/307729.jpg</filename>
+  <lastupdated>1289766024</lastupdated>
+  <seasonid>16312</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>309550</id>
+  <Combined_episodenumber>5.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>5.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Randall Einhorn</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Initiation</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired>2006-10-19</FirstAired>
+  <GuestStars>|Thomas F Evans| Bobby Ray Shafer| Michael Schur|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>It's initiation time for the full timer Ryan as Dwight takes him out on his first sales call with a side trip to the Schrute family beet farm. Michael is ordered by corporate to log his work activity; and Jim tries to adapt to life at the Stamford branch.
+</Overview>
+  <ProductionCode>3005</ProductionCode>
+  <Rating>7.8</Rating>
+  <RatingCount>26</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>B.J. Novak</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73244/309550.jpg</filename>
+  <lastupdated>1289766041</lastupdated>
+  <seasonid>16312</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>309551</id>
+  <Combined_episodenumber>6.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>6.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Miguel Arteta</Director>
+  <EpImgFlag>7</EpImgFlag>
+  <EpisodeName>Diwali</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired>2006-11-02</FirstAired>
+  <GuestStars>|Nancy Walls| Mike Bruner| Avu Chokalingam| Swati Chokalingam| Jaysha Patel| Tanveer Atwal| Gagandeep Bedi|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>It's Diwali, The Hindu Festival of Lights, Michael encourages the entire Scranton branch to support Kelly and attend a local celebration of Diwali. Meanwhile Ryan faces Kelly's family at the event.
+</Overview>
+  <ProductionCode>3004</ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>24</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Mindy Kaling</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73244/309551.jpg</filename>
+  <lastupdated>1289766056</lastupdated>
+  <seasonid>16312</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>312503</id>
+  <Combined_episodenumber>7.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>7.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Tucker Gates</Director>
+  <EpImgFlag>7</EpImgFlag>
+  <EpisodeName>Branch Closing</EpisodeName>
+  <EpisodeNumber>7</EpisodeNumber>
+  <FirstAired>2006-11-09</FirstAired>
+  <GuestStars>|Craig Robinson|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Jan delivers the bad news to Michael that the Scranton Branch is closing. This leads Michael on a quest to keep up the staff's spirits. Meanwhile, everyone imagines what their lives will be like in the wake of the closure.
+</Overview>
+  <ProductionCode>3007</ProductionCode>
+  <Rating>7.8</Rating>
+  <RatingCount>28</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Michael Schur</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73244/312503.jpg</filename>
+  <lastupdated>1289766070</lastupdated>
+  <seasonid>16312</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>312504</id>
+  <Combined_episodenumber>8.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>8.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Ken Whittingham</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>The Merger</EpisodeName>
+  <EpisodeNumber>8</EpisodeNumber>
+  <FirstAired>2006-11-16</FirstAired>
+  <GuestStars>|Mike Bruner| Wayne Wilderson|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Old friends Jim and Pam are back together after months apart as the Scranton branch and Stamford branch are finally merged. Michael, Dwight and the other employees are faced with a variety of changes.
+
+</Overview>
+  <ProductionCode>3008</ProductionCode>
+  <Rating>8.2</Rating>
+  <RatingCount>23</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Brent Forrester</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73244/312504.jpg</filename>
+  <lastupdated>1289766084</lastupdated>
+  <seasonid>16312</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>312505</id>
+  <Combined_episodenumber>9.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>9.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Jeffrey Blitz</Director>
+  <EpImgFlag>7</EpImgFlag>
+  <EpisodeName>The Convict</EpisodeName>
+  <EpisodeNumber>9</EpisodeNumber>
+  <FirstAired>2006-11-30</FirstAired>
+  <GuestStars>|Wayne Wilderson|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Michael tries to be supportive when he finds out one of his new employees -- presumably someone from the Stamford branch -- has a prison record.
+</Overview>
+  <ProductionCode>3010</ProductionCode>
+  <Rating>7.9</Rating>
+  <RatingCount>23</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Ricky Gervais, Stephen Merchant</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73244/312505.jpg</filename>
+  <lastupdated>1289766101</lastupdated>
+  <seasonid>16312</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>323326</id>
+  <Combined_episodenumber>10.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>10.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Harold Ramis</Director>
+  <EpImgFlag>7</EpImgFlag>
+  <EpisodeName>A Benihana Christmas</EpisodeName>
+  <EpisodeNumber>10</EpisodeNumber>
+  <FirstAired>2006-12-14</FirstAired>
+  <GuestStars>|Stephen Saux|Brittany Ishibashi|Ed Helms|Nancy Walls|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>In a special one hour Christmas episode, Michael sends out an inappropriate photo Christmas Card which lands him in hot water with his girlfriend Carol (guest star Nancy Walls). Andy (guest star Ed Helms) takes Michael out drinking, with Dwight (Rainn Wilson) and Jim (John Krasinski). Tensions on the party planning committee between Angela (Angela Kinsey), Pam (Jenna Fischer) and Karen (Rashida Jones) results in two rival parties being thrown.</Overview>
+  <ProductionCode>3009</ProductionCode>
+  <Rating>8.3</Rating>
+  <RatingCount>26</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Jennifer Celotta</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73244/323326.jpg</filename>
+  <lastupdated>1289766116</lastupdated>
+  <seasonid>16312</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>316739</id>
+  <Combined_episodenumber>11.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>11.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Julian Farino</Director>
+  <EpImgFlag>7</EpImgFlag>
+  <EpisodeName>Back from Vacation</EpisodeName>
+  <EpisodeNumber>11</EpisodeNumber>
+  <FirstAired>2007-01-04</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>A refreshed and rejuvenated Michael returns from his Jamaican vacation with an interesting photograph which circulates around the office. Meanwhile an awkward moment arises when Pam is caught in the middle of an argument between Jim and Karen.
+</Overview>
+  <ProductionCode>3011</ProductionCode>
+  <Rating>8.2</Rating>
+  <RatingCount>17</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Justin Spitzer</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73244/316739.jpg</filename>
+  <lastupdated>1289766130</lastupdated>
+  <seasonid>16312</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>316740</id>
+  <Combined_episodenumber>12.1</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>12.1</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Greg Daniels</Director>
+  <EpImgFlag>7</EpImgFlag>
+  <EpisodeName>Traveling Salesmen</EpisodeName>
+  <EpisodeNumber>12</EpisodeNumber>
+  <FirstAired>2007-01-11</FirstAired>
+  <GuestStars>|Ed Helms|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>It's time for Michael to revisit his roots with the company as he hits the road for sales call duty. Meanwhile, Dwight attempts to cover up a crucial deadline missed by Angela while Karen is in for some surprising news.
+</Overview>
+  <ProductionCode>3012</ProductionCode>
+  <Rating>7.9</Rating>
+  <RatingCount>24</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Lee  Eisenberg, Michael Schur, Gene Stupnitsky</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73244/316740.jpg</filename>
+  <lastupdated>1289766145</lastupdated>
+  <seasonid>16312</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>316741</id>
+  <Combined_episodenumber>12.2</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>12.2</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Greg Daniels</Director>
+  <EpImgFlag>7</EpImgFlag>
+  <EpisodeName>The Return</EpisodeName>
+  <EpisodeNumber>13</EpisodeNumber>
+  <FirstAired>2007-01-18</FirstAired>
+  <GuestStars>|Yvette Nicole Brown| Ed Helms|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Oscar returns from his vacation and ponders his future with the company, while Andy takes advantage of the current state of the office to make a move towards becoming Michael's number two.
+</Overview>
+  <ProductionCode>3013</ProductionCode>
+  <Rating>8.2</Rating>
+  <RatingCount>20</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Michael Schur, Lee  Eisenberg, Gene Stupnitsky</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73244/316741.jpg</filename>
+  <lastupdated>1289766158</lastupdated>
+  <seasonid>16312</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>319008</id>
+  <Combined_episodenumber>13.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>13.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Randall Einhorn</Director>
+  <EpImgFlag>7</EpImgFlag>
+  <EpisodeName>Ben Franklin</EpisodeName>
+  <EpisodeNumber>14</EpisodeNumber>
+  <FirstAired>2007-02-01</FirstAired>
+  <GuestStars>|Jackie Debatin| David Koechner| Andrew Daly|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Michael celebrates Phyllis' wedding shower by bringing two adult performers into the office, a stripper and Ben Franklin.  Meanwhile, Karen confronts Pam about her past history with Jim.
+</Overview>
+  <ProductionCode>3015</ProductionCode>
+  <Rating>8.1</Rating>
+  <RatingCount>20</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Mindy Kaling</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73244/319008.jpg</filename>
+  <lastupdated>1289766172</lastupdated>
+  <seasonid>16312</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>319009</id>
+  <Combined_episodenumber>14.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>14.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Ken Whittingham</Director>
+  <EpImgFlag>7</EpImgFlag>
+  <EpisodeName>Phyllis' Wedding</EpisodeName>
+  <EpisodeNumber>15</EpisodeNumber>
+  <FirstAired>2007-02-08</FirstAired>
+  <GuestStars>|Robert Ray Shafer|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>While the office gets ready for Phyllis big day, an important task appointed to Michael goes embarrassingly wrong. Meanwhile Pam wonders what could have been with her called off wedding and Dwight searches for wedding crashers.
+</Overview>
+  <ProductionCode>3016</ProductionCode>
+  <Rating>7.8</Rating>
+  <RatingCount>24</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Caroline Williams</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73244/319009.jpg</filename>
+  <lastupdated>1289766186</lastupdated>
+  <seasonid>16312</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>319357</id>
+  <Combined_episodenumber>15.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>15.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Joss Whedon</Director>
+  <EpImgFlag>7</EpImgFlag>
+  <EpisodeName>Business School</EpisodeName>
+  <EpisodeNumber>16</EpisodeNumber>
+  <FirstAired>2007-02-15</FirstAired>
+  <GuestStars>|Tom W. Chick|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Michael accepts an invitation from Ryan to be a guest speaker at his business school. Meanwhile Dwight battles wits with a bat that gets loose in the office while Pam is entered in her first art show.
+</Overview>
+  <ProductionCode>3017</ProductionCode>
+  <Rating>8.0</Rating>
+  <RatingCount>23</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Brent Forrester</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73244/319357.jpg</filename>
+  <lastupdated>1289766202</lastupdated>
+  <seasonid>16312</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>319358</id>
+  <Combined_episodenumber>16.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>16.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>J.J. Abrams</Director>
+  <EpImgFlag>7</EpImgFlag>
+  <EpisodeName>Cocktails</EpisodeName>
+  <EpisodeNumber>17</EpisodeNumber>
+  <FirstAired>2007-02-22</FirstAired>
+  <GuestStars>|Andy Buckley|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Michael and Jan reveal their hushed romance while attending the Dunder Mifflin CFO party. During the party, Jim finally meets Karen's ex. Meanwhile, the rest of the office staff booze it up during happy hour.
+</Overview>
+  <ProductionCode>3018</ProductionCode>
+  <Rating>8.0</Rating>
+  <RatingCount>23</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Paul Lieberstein</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73244/319358.jpg</filename>
+  <lastupdated>1289766215</lastupdated>
+  <seasonid>16312</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>323107</id>
+  <Combined_episodenumber>17.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>17.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Jeffrey Blitz</Director>
+  <EpImgFlag>7</EpImgFlag>
+  <EpisodeName>The Negotiation</EpisodeName>
+  <EpisodeNumber>18</EpisodeNumber>
+  <FirstAired>2007-04-05</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Michael and Darryl head to Dunder Mifflen headquarters to lobby for a pay increase. Meanwhile, Jim must deal with the consequences of Pam's confession to Roy.
+</Overview>
+  <ProductionCode>3019</ProductionCode>
+  <Rating>8.1</Rating>
+  <RatingCount>22</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Michael Schur</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73244/323107.jpg</filename>
+  <lastupdated>1289766228</lastupdated>
+  <seasonid>16312</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>326695</id>
+  <Combined_episodenumber>18.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>18.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Harold Ramis</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Safety Training</EpisodeName>
+  <EpisodeNumber>19</EpisodeNumber>
+  <FirstAired>2007-04-12</FirstAired>
+  <GuestStars>Patrice ONeal|Karly Rothenberg</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Andy returns to the office after several weeks of anger management training, determined to make a fresh start with all the Dunder Mifflin employees. Meanwhile, it's safety training day in the office, and Michael and Dwight are on a mission to illuminate the true dangers of the workplace. Staff amuse themselves with a series of office-related bets.</Overview>
+  <ProductionCode>3020</ProductionCode>
+  <Rating>8.2</Rating>
+  <RatingCount>20</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>B.J. Novak</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73244/326695.jpg</filename>
+  <lastupdated>1289766243</lastupdated>
+  <seasonid>16312</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>328244</id>
+  <Combined_episodenumber>19.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>19.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Randall Einhorn</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Product Recall</EpisodeName>
+  <EpisodeNumber>20</EpisodeNumber>
+  <FirstAired>2007-04-26</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>It's crisis time at Dunder-Mifflin paper after a large quantity of paper is accidentally shipped out with an obscene watermark. Michael attempts to explain the situation to the media while Jim and Andy try to calm down the high school principal who has sent out prom invites on the affected stationary.</Overview>
+  <ProductionCode>3021</ProductionCode>
+  <Rating>8.4</Rating>
+  <RatingCount>21</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Justin Spitzer &amp; Brent Forrester</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73244/328244.jpg</filename>
+  <lastupdated>1289766257</lastupdated>
+  <seasonid>16312</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>328456</id>
+  <Combined_episodenumber>20.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>20.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Tucker Gates</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Women's Appreciation</EpisodeName>
+  <EpisodeNumber>21</EpisodeNumber>
+  <FirstAired>2007-05-03</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>When Phyllis gets an unexpected eyeful from a flasher. Michael decides to take the women of the office on a special outing. Meanwhile, Dwight and Andy work to track down the flasher.</Overview>
+  <ProductionCode>3022</ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>20</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Lee Eisenberg &amp; Gene Stupnitsky</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73244/328456.jpg</filename>
+  <lastupdated>1289766271</lastupdated>
+  <seasonid>16312</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>323311</id>
+  <Combined_episodenumber>21.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>21.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Harold Ramis</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Beach Games</EpisodeName>
+  <EpisodeNumber>22</EpisodeNumber>
+  <FirstAired>2007-05-10</FirstAired>
+  <GuestStars>|Rashida Jones|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Michael is being considered for a position in corporate, but also plans a day of &quot;Survivor&quot; like competitions while the office workers visit Lake Scranton. Pam is not asked to join in on any of the competitions and is forced to sit and watch Jim and Karen have fun.</Overview>
+  <ProductionCode>3023</ProductionCode>
+  <Rating>8.5</Rating>
+  <RatingCount>19</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Jennifer Celotta|Greg Daniels</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73244/323311.jpg</filename>
+  <lastupdated>1289766288</lastupdated>
+  <seasonid>16312</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>440313</id>
+  <Combined_episodenumber>22.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>22.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Ken Kwapis</Director>
+  <EpImgFlag>7</EpImgFlag>
+  <EpisodeName>The Job</EpisodeName>
+  <EpisodeNumber>23</EpisodeNumber>
+  <FirstAired>2007-05-17</FirstAired>
+  <GuestStars>|Nicholas D'Agosto|Vivianne Collins|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>A job opening at Dunder Mifflin's corporate offices has Michael, Jim, and Karen in New York City competing against one another, leaving Dwight in charge of the Scranton branch.</Overview>
+  <ProductionCode>3024</ProductionCode>
+  <Rating>8.6</Rating>
+  <RatingCount>17</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>|Michael Schur|Paul Lieberstein|</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73244/440313.jpg</filename>
+  <lastupdated>1289766301</lastupdated>
+  <seasonid>16312</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>335408</id>
+  <Combined_episodenumber>1.0</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>1.0</DVD_episodenumber>
+  <DVD_season>4</DVD_season>
+  <Director>Greg Daniels</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Fun Run</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2007-09-27</FirstAired>
+  <GuestStars>|Jackie Debatin|Marcus A. York|Rashida Jones|Robert R. Shafer|Omi Vaidya|Justin Spitzer|Silvia McClure|Takayo Fischer|</GuestStars>
+  <IMDB_ID>tt1026035</IMDB_ID>
+  <Language>en</Language>
+  <Overview>In the hour long season four premiere, Michael hosts a Fun Run for the Scranton Business Park. A freak accident leads him to believe the office is cursed, and he questions his employees' religious beliefs. The office relationships are also explored, with Pam and Jim's new romance and Dwight and Angela's continuing relationship.</Overview>
+  <ProductionCode>401/402</ProductionCode>
+  <Rating>8.6</Rating>
+  <RatingCount>20</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>Greg Daniels</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73244/335408.jpg</filename>
+  <lastupdated>1289877638</lastupdated>
+  <seasonid>28425</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>335409</id>
+  <Combined_episodenumber>2.0</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>2.0</DVD_episodenumber>
+  <DVD_season>4</DVD_season>
+  <Director>Craig Zisk</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Dunder Mifflin Infinity</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2007-10-04</FirstAired>
+  <GuestStars>|John Ingle|Edward James Gage|Kevin Dorff|</GuestStars>
+  <IMDB_ID>tt1031459</IMDB_ID>
+  <Language>en</Language>
+  <Overview>In a special hour long episode, Ryan returns to Scranton with a plan to bring Dunder Mifflin into the digital age by launching a new website - Dunder Mifflin Infinity. Michael is worried about ageism and attempts to win back clients using old fashion business skills. Relationships are on the forefront as Ryan returns to an eager Kelly, Jim and Pam are outed to the office, and Angela is still upset with Dwight about her cat.</Overview>
+  <ProductionCode>403/404</ProductionCode>
+  <Rating>8.5</Rating>
+  <RatingCount>17</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>Michael Schur</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73244/335409.jpg</filename>
+  <lastupdated>1289877664</lastupdated>
+  <seasonid>28425</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>337899</id>
+  <Combined_episodenumber>3.0</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>3.0</DVD_episodenumber>
+  <DVD_season>4</DVD_season>
+  <Director>Ken Whittingham</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Launch Party</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2007-10-11</FirstAired>
+  <GuestStars>|Kevin McHale|Dan Cole|Brad Graiff|Nick Armstrong|Scott Damian|</GuestStars>
+  <IMDB_ID>tt1031470</IMDB_ID>
+  <Language>en</Language>
+  <Overview>In this hour long special, its the launch of the new Dunder Mifflin Infinity website and Michael is anticipating going to the launch party in NYC. At the Scranton branch, Angela and the Party Planning Committee plan a satellite party. Meanwhile, Dwight competes against the website to be top seller of paper in a day.</Overview>
+  <ProductionCode>405/406</ProductionCode>
+  <Rating>8.3</Rating>
+  <RatingCount>22</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>Jennifer Celotta</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73244/337899.jpg</filename>
+  <lastupdated>1289877713</lastupdated>
+  <seasonid>28425</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>337900</id>
+  <Combined_episodenumber>4.0</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>4.0</DVD_episodenumber>
+  <DVD_season>4</DVD_season>
+  <Director>Paul Lieberstein</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Money</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>2007-10-18</FirstAired>
+  <GuestStars>|Ranjit Chowdhry|Allan Wasserman|Michael Schur|Daniel Lindsay|Mary Kathleen Gordon|Miki Ann Maddox|Nick Lashaway|</GuestStars>
+  <IMDB_ID>tt1031472</IMDB_ID>
+  <Language>en</Language>
+  <Overview>In this hour long special, Michael is quickly going into debt with Jan renovating his condo. He tries to get money anyway he can including asking his employees for a loan. Meanwhile, Jim and Pam spend the night at Dwight's farm - now a bed and breakfast.</Overview>
+  <ProductionCode>407/408</ProductionCode>
+  <Rating>8.0</Rating>
+  <RatingCount>23</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>Paul Lieberstein</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73244/337900.jpg</filename>
+  <lastupdated>1289877773</lastupdated>
+  <seasonid>28425</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>337901</id>
+  <Combined_episodenumber>5.0</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>5.0</DVD_episodenumber>
+  <DVD_season>4</DVD_season>
+  <Director>Jason Reitman</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Local Ad</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired>2007-10-25</FirstAired>
+  <GuestStars>|Andy Buckley|Kyle Bornheimer|Tim Kang|Drew Powell|Jeff Witzke|Virginia Newcomb|</GuestStars>
+  <IMDB_ID>tt1031473</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Dunder Mifflin decides to produce an ad, but things go awry when Michael hijacks the production. Dwight is busy also - exploring Second Life, an online website.</Overview>
+  <ProductionCode>409</ProductionCode>
+  <Rating>8.1</Rating>
+  <RatingCount>23</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>B.J. Novak</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73244/337901.jpg</filename>
+  <lastupdated>1289877814</lastupdated>
+  <seasonid>28425</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>337902</id>
+  <Combined_episodenumber>6.0</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>6.0</DVD_episodenumber>
+  <DVD_season>4</DVD_season>
+  <Director>Joss Whedon</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Branch Wars</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired>2007-11-01</FirstAired>
+  <GuestStars>|Rashida Jones|Adam Jamal Craig|Lester Lewis|</GuestStars>
+  <IMDB_ID>tt1031474</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Karen, now the regional manager of the Utica branch, attempts to lure Stanley away from Scranton. When Michael objects, he brings Jim and Dwight into his &quot;war.&quot; Meanwhile, the other office workers are disturbed by a &quot;Finer Things Club.&quot;</Overview>
+  <ProductionCode>410</ProductionCode>
+  <Rating>8.3</Rating>
+  <RatingCount>22</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>Mindy Kaling</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73244/337902.jpg</filename>
+  <lastupdated>1289877844</lastupdated>
+  <seasonid>28425</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>341491</id>
+  <Combined_episodenumber>7.0</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>7.0</DVD_episodenumber>
+  <DVD_season>4</DVD_season>
+  <Director>Paul Feig</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Survivor Man</EpisodeName>
+  <EpisodeNumber>7</EpisodeNumber>
+  <FirstAired>2007-11-08</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1031475</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Michael goes on a survival adventure into the woods - with nothing except the suit on his back - in retaliation of not getting an invite to a similar party from corporate. Back at the office, there is a birthday going on while Jim tries to revolutionize the party.</Overview>
+  <ProductionCode>411</ProductionCode>
+  <Rating>8.0</Rating>
+  <RatingCount>19</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>Steve Carell</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73244/341491.jpg</filename>
+  <lastupdated>1289877437</lastupdated>
+  <seasonid>28425</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>341492</id>
+  <Combined_episodenumber>8.0</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>8.0</DVD_episodenumber>
+  <DVD_season>4</DVD_season>
+  <Director>Julian Farino</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>The Deposition</EpisodeName>
+  <EpisodeNumber>8</EpisodeNumber>
+  <FirstAired>2007-11-15</FirstAired>
+  <GuestStars>|Andy Buckley|Holly Maples|Patrick O'Connor|Michael Schur|Michael Potter|Valeri Ross|</GuestStars>
+  <IMDB_ID>tt1031476</IMDB_ID>
+  <Language>en</Language>
+  <Overview>When Jan sues Dunder Mifflin, Michael is deposed as a witness. Kelly and Pam practice their trash talk when Darryl plays Jim at ping pong.</Overview>
+  <ProductionCode>412</ProductionCode>
+  <Rating>8.0</Rating>
+  <RatingCount>21</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>Lester Lewis</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73244/341492.jpg</filename>
+  <lastupdated>1289877892</lastupdated>
+  <seasonid>28425</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>360876</id>
+  <Combined_episodenumber>9.0</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>9.0</DVD_episodenumber>
+  <DVD_season>4</DVD_season>
+  <Director>Paul Feig</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Dinner Party</EpisodeName>
+  <EpisodeNumber>9</EpisodeNumber>
+  <FirstAired>2008-04-10</FirstAired>
+  <GuestStars>|Frederik Pohliv|Steve Seagren|Gary Weeks|Greg Daniels|Beth Grant|</GuestStars>
+  <IMDB_ID>tt1031477</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Out of excuses, Jim and Pam join Jan and Michael for a dinner party. Things get complicated when Andy and Angela are asked to join, and Dwight's jealousy gets the best of him.</Overview>
+  <ProductionCode>413</ProductionCode>
+  <Rating>8.6</Rating>
+  <RatingCount>26</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>|Gene Stupnitsky|Lee Eisenberg|</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73244/360876.jpg</filename>
+  <lastupdated>1289877459</lastupdated>
+  <seasonid>28425</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>361116</id>
+  <Combined_episodenumber>10.0</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>10.0</DVD_episodenumber>
+  <DVD_season>4</DVD_season>
+  <Director>Jeffrey Blitz</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Chair Model</EpisodeName>
+  <EpisodeNumber>10</EpisodeNumber>
+  <FirstAired>2008-04-17</FirstAired>
+  <GuestStars>|Barry Sigismondi|Brooke Dillman|Paul Faust|Terrence Beasor|Sean Bury|Robert R. Shafer|</GuestStars>
+  <IMDB_ID>tt1031449</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Michael gets fascinated by a chair model in a catalog, leading to a desire to move on from Jan. Kevin and Andy team up to gain parking spaces back for Dunder Mifflin lost during another complex tenant's construction work.</Overview>
+  <ProductionCode>414</ProductionCode>
+  <Rating>7.8</Rating>
+  <RatingCount>23</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>B.J. Novak</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73244/361116.jpg</filename>
+  <lastupdated>1289877985</lastupdated>
+  <seasonid>28425</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>361117</id>
+  <Combined_episodenumber>11.0</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>11.0</DVD_episodenumber>
+  <DVD_season>4</DVD_season>
+  <Director>Ken Whittingham</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Night Out</EpisodeName>
+  <EpisodeNumber>11</EpisodeNumber>
+  <FirstAired>2008-04-24</FirstAired>
+  <GuestStars>|Jennifer Peo|Noel Petok|Kim Stodel|Ashley Walsh|Cassie Fliegel|Kelsea Button|Taji Coleman|Hugh Dane|</GuestStars>
+  <IMDB_ID>tt1031450</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Ryan gets the surprise of his life when Michael and Dwight travel to NYC to go clubbing with him and his friends. Back in Scranton, the staffers are upset that they have to spend Saturday working on Dunder Mifflin Infinity, and Jim's attempt to rescue them doesn't go as planned.</Overview>
+  <ProductionCode>415</ProductionCode>
+  <Rating>8.1</Rating>
+  <RatingCount>22</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>Mindy Kaling</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73244/361117.jpg</filename>
+  <lastupdated>1289877479</lastupdated>
+  <seasonid>28425</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>361118</id>
+  <Combined_episodenumber>12.0</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>12.0</DVD_episodenumber>
+  <DVD_season>4</DVD_season>
+  <Director>Randall Einhorn</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Did I Stutter?</EpisodeName>
+  <EpisodeNumber>12</EpisodeNumber>
+  <FirstAired>2008-05-01</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1031451</IMDB_ID>
+  <Language>en</Language>
+  <Overview>After Stanley snaps at Michael during a meeting, Toby tries to convince him that Stanley needs to be dealt with. Dwight buys Andy's car. Pam's forced to wear old glasses instead of her contacts.</Overview>
+  <ProductionCode>416</ProductionCode>
+  <Rating>7.9</Rating>
+  <RatingCount>22</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>|Justin Spitzer|Brent Forrester|</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73244/361118.jpg</filename>
+  <lastupdated>1289877487</lastupdated>
+  <seasonid>28425</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>361119</id>
+  <Combined_episodenumber>13.0</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>13.0</DVD_episodenumber>
+  <DVD_season>4</DVD_season>
+  <Director>Tucker Gates</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Job Fair</EpisodeName>
+  <EpisodeNumber>13</EpisodeNumber>
+  <FirstAired>2008-05-08</FirstAired>
+  <GuestStars>|Phil Reeves|Charlie McDermott|Emerson Brooks|Lori Murphy Saux|Nelson Franklin|Trevor Einhorn|</GuestStars>
+  <IMDB_ID>tt1031452</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Michael is busy manning a job fair at Pam's alma mater, trying to find a summer intern. In an attempt to woo a major client, Jim, Andy, and Kevin go golfing.</Overview>
+  <ProductionCode>417</ProductionCode>
+  <Rating>7.9</Rating>
+  <RatingCount>23</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>|Gene Stupnitsky|Lee Eisenberg|</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73244/361119.jpg</filename>
+  <lastupdated>1289878083</lastupdated>
+  <seasonid>28425</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>363563</id>
+  <Combined_episodenumber>14.0</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>14.0</DVD_episodenumber>
+  <DVD_season>4</DVD_season>
+  <Director>Paul Feig</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Goodbye, Toby</EpisodeName>
+  <EpisodeNumber>14</EpisodeNumber>
+  <FirstAired>2008-05-15</FirstAired>
+  <GuestStars>|Amy Ryan|Hugh Dane|Robert R. Shafer|Gene Stupnitsky|Lee Eisenberg|Michael Schur|</GuestStars>
+  <IMDB_ID>tt1031453</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Toby leaves Dunder Mifflin, and Michael plans a huge goodbye party... out of joy. Angela refuses to help with it, so Michael turns to Phyllis. Dwight and Meredith harass Holly, their new HR representative.</Overview>
+  <ProductionCode>418</ProductionCode>
+  <Rating>8.5</Rating>
+  <RatingCount>21</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>|Paul Lieberstein|Jen Celotta|</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73244/363563.jpg</filename>
+  <lastupdated>1289878128</lastupdated>
+  <seasonid>28425</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>389875</id>
+  <Combined_episodenumber>1.0</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>1.0</DVD_episodenumber>
+  <DVD_season>5</DVD_season>
+  <Director>Paul Feig</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Weight Loss</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2008-09-25</FirstAired>
+  <GuestStars>Amy Ryan</GuestStars>
+  <IMDB_ID>tt1236462</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Michael tries to motivate the Scranton branch to lose weight as part of an interoffice competition. Jim is lost after Pam leaves for art school in New York, and Angela continues to see Dwight even though she is now engaged to Andy.</Overview>
+  <ProductionCode>501</ProductionCode>
+  <Rating>7.8</Rating>
+  <RatingCount>29</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer>|Lee Eisenberg|Gene Stupnitsky|</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73244/389875.jpg</filename>
+  <lastupdated>1290341798</lastupdated>
+  <seasonid>35087</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>390588</id>
+  <Combined_episodenumber>2.0</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>2.0</DVD_episodenumber>
+  <DVD_season>5</DVD_season>
+  <Director>Jeffrey Blitz</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Business Ethics</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2008-10-09</FirstAired>
+  <GuestStars>Amy Ryan</GuestStars>
+  <IMDB_ID>tt1248743</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Holly leads a business ethics seminar as a result of Ryan's scandal, and when Michael encourages everyone to share their own unethical work behaviors, things get out of hand. Meanwhile, Jim messes with Dwight by requiring him to follow the Dunder Mifflin &quot;Time Theft&quot; policy.</Overview>
+  <ProductionCode>502</ProductionCode>
+  <Rating>7.4</Rating>
+  <RatingCount>29</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer>Ryan Koh</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73244/390588.jpg</filename>
+  <lastupdated>1290341811</lastupdated>
+  <seasonid>35087</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>390589</id>
+  <Combined_episodenumber>3.0</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>3.0</DVD_episodenumber>
+  <DVD_season>5</DVD_season>
+  <Director>Greg Daniels</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Baby Shower</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2008-10-16</FirstAired>
+  <GuestStars>Amy Ryan</GuestStars>
+  <IMDB_ID>tt1248747</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Michael practices for the birth of Jan's baby by having Dwight go over possible birthing scenarios. Meanwhile, Michael tells Holly that he will pretend to dislike her for Jan's benefit. </Overview>
+  <ProductionCode>503</ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>24</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer>Aaron Shure</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73244/390589.jpg</filename>
+  <lastupdated>1290341821</lastupdated>
+  <seasonid>35087</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>398412</id>
+  <Combined_episodenumber>4.0</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>4.0</DVD_episodenumber>
+  <DVD_season>5</DVD_season>
+  <Director>Jennifer Celotta</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Crime Aid</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>2008-10-23</FirstAired>
+  <GuestStars>Amy Ryan</GuestStars>
+  <IMDB_ID>tt1248748</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Michael and Holly have sex for the first time, and Michael holds a fund-raiser for the office after it is burglarized. Dwight confides in Phyllis after Andy and Angela set a wedding date, and Jim runs into Pam's ex-fiancé Roy.</Overview>
+  <ProductionCode>504</ProductionCode>
+  <Rating>7.8</Rating>
+  <RatingCount>24</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer>Charles Grandy</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73244/398412.jpg</filename>
+  <lastupdated>1290341832</lastupdated>
+  <seasonid>35087</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>400456</id>
+  <Combined_episodenumber>5.0</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>5.0</DVD_episodenumber>
+  <DVD_season>5</DVD_season>
+  <Director>Dave Rogers</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Employee Transfer</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired>2008-10-30</FirstAired>
+  <GuestStars>Amy Ryan</GuestStars>
+  <IMDB_ID>tt1248749</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Pam is embarrassed when she is the only person at corporate wearing a costume on Halloween. Holly and Michael take the long trip to Nashua after they get some shocking news from corporate. Meanwhile, Dwight torments Andy and tries to get under his skin.</Overview>
+  <ProductionCode>505</ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>29</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer>Anthony Farrell</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73244/400456.jpg</filename>
+  <lastupdated>1290341844</lastupdated>
+  <seasonid>35087</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>400457</id>
+  <Combined_episodenumber>6.0</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>6.0</DVD_episodenumber>
+  <DVD_season>5</DVD_season>
+  <Director>Stephen Merchant</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Customer Survey</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired>2008-11-06</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1248750</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Dwight and Jim are shocked when they get the results of the annual customer survey report. Pam and Jim decide they want to spend every minute together using their bluetooth phones. Meanwhile, Angela and Andy pick an unusual location for their wedding.</Overview>
+  <ProductionCode>506</ProductionCode>
+  <Rating>7.8</Rating>
+  <RatingCount>31</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer>Lester Lewis</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73244/400457.jpg</filename>
+  <lastupdated>1290341854</lastupdated>
+  <seasonid>35087</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>400458</id>
+  <Combined_episodenumber>7.0</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>7.0</DVD_episodenumber>
+  <DVD_season>5</DVD_season>
+  <Director>Randall Einhorn</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Business Trip</EpisodeName>
+  <EpisodeNumber>7</EpisodeNumber>
+  <FirstAired>2008-11-13</FirstAired>
+  <GuestStars>Wendi McLendon-Covey</GuestStars>
+  <IMDB_ID>tt1248751</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Michael is thrilled when he learns that David Wallace is sending him to Canada for a business trip, and wants to bring both Andy and Oscar with him. Jim misses Pam and he can't wait until she returns from art school. </Overview>
+  <ProductionCode>507</ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>29</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer>Brent Forrester</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73244/400458.jpg</filename>
+  <lastupdated>1290341863</lastupdated>
+  <seasonid>35087</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>402941</id>
+  <Combined_episodenumber>8.0</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>8.0</DVD_episodenumber>
+  <DVD_season>5</DVD_season>
+  <Director>Jason Reitman</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Frame Toby</EpisodeName>
+  <EpisodeNumber>8</EpisodeNumber>
+  <FirstAired>2008-11-20</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1248752</IMDB_ID>
+  <Language>en</Language>
+  <Overview>A mysterious person in the office has made a huge mess in the microwave and will not clean it up. Meanwhile, Michael has to come to terms with the fact that there have been certain personnel changes in his staff without his knowing.</Overview>
+  <ProductionCode>508</ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>27</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer>Mindy Kaling</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73244/402941.jpg</filename>
+  <lastupdated>1290341877</lastupdated>
+  <seasonid>35087</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>408050</id>
+  <Combined_episodenumber>9.0</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>9.0</DVD_episodenumber>
+  <DVD_season>5</DVD_season>
+  <Director>Paul Feig</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Surplus</EpisodeName>
+  <EpisodeNumber>9</EpisodeNumber>
+  <FirstAired>2008-12-04</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1248753</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Michael has to spend the office surplus by they end of the day, but he can't decide between a copier or new chairs. Dwight plays a dirty trick on Angela as they prepare for Andy and Angela's wedding on the beet farm.</Overview>
+  <ProductionCode>509</ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>27</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer>|Lee Eisenberg|Gene Stupnitsky|</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73244/408050.jpg</filename>
+  <lastupdated>1290342183</lastupdated>
+  <seasonid>35087</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>412089</id>
+  <Combined_episodenumber>10.0</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>10.0</DVD_episodenumber>
+  <DVD_season>5</DVD_season>
+  <Director>Paul Feig</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Moroccan Christmas</EpisodeName>
+  <EpisodeNumber>10</EpisodeNumber>
+  <FirstAired>2008-12-11</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1248733</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Phyllis' Moroccan-themed holiday party goes up in flames when Meredith's hair catches on fire and Michael is forced to deal with the accident. Meanwhile, Dwight corners the market on the hottest toy of the Christmas season.</Overview>
+  <ProductionCode>510</ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>26</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer>Justin Spitzer</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73244/412089.jpg</filename>
+  <lastupdated>1290341937</lastupdated>
+  <seasonid>35087</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>422061</id>
+  <Combined_episodenumber>11.0</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>11.0</DVD_episodenumber>
+  <DVD_season>5</DVD_season>
+  <Director>Dean Holland</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Duel</EpisodeName>
+  <EpisodeNumber>11</EpisodeNumber>
+  <FirstAired>2009-01-15</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1248734</IMDB_ID>
+  <Language>en</Language>
+  <Overview>The office is on eggshells because Andy still hasn't found out about fiancee Angela's affair with Dwight. When Michael spills the beans, Dwight and Andy take matters into their own hands. Meanwhile, Michael is nervous about being called down to corporate for a meeting with Wallace.</Overview>
+  <ProductionCode>511</ProductionCode>
+  <Rating>7.8</Rating>
+  <RatingCount>29</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer>Jennifer Celotta</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73244/422061.jpg</filename>
+  <lastupdated>1290341946</lastupdated>
+  <seasonid>35087</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>422062</id>
+  <Combined_episodenumber>12.0</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>12.0</DVD_episodenumber>
+  <DVD_season>5</DVD_season>
+  <Director>Asaad Kelada</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Prince Family Paper</EpisodeName>
+  <EpisodeNumber>12</EpisodeNumber>
+  <FirstAired>2009-01-22</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1248735</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Michael and Dwight go undercover to do a bit of industrial espionage on a paper company competitor. Meanwhile, the rest of the office holds a debate to settle the question: is Hilary Swank hot?</Overview>
+  <ProductionCode>512</ProductionCode>
+  <Rating>7.4</Rating>
+  <RatingCount>26</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer>B. J. Novak</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73244/422062.jpg</filename>
+  <lastupdated>1290341963</lastupdated>
+  <seasonid>35087</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>422063</id>
+  <Combined_episodenumber>13.0</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>13.0</DVD_episodenumber>
+  <DVD_season>5</DVD_season>
+  <Director>Jeffrey Blitz</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Stress Relief</EpisodeName>
+  <EpisodeNumber>13</EpisodeNumber>
+  <FirstAired>2009-02-01</FirstAired>
+  <GuestStars>|Rick Overton|Jessica Alba|Cloris Leachman|Jack Black|</GuestStars>
+  <IMDB_ID>tt1248736</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Dwight must makes amends with the office after his fire safety seminar goes awry; Michael tries to get his employees to relax; Andy becomes convinced that Pam and Jim are film gurus.</Overview>
+  <ProductionCode>513</ProductionCode>
+  <Rating>8.3</Rating>
+  <RatingCount>28</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer>Paul Lieberstein</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73244/422063.jpg</filename>
+  <lastupdated>1290342202</lastupdated>
+  <seasonid>35087</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>427605</id>
+  <Combined_episodenumber>14.0</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>14.0</DVD_episodenumber>
+  <DVD_season>5</DVD_season>
+  <Director>Ken Kwapis</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Lecture Circuit (1)</EpisodeName>
+  <EpisodeNumber>14</EpisodeNumber>
+  <FirstAired>2009-02-05</FirstAired>
+  <GuestStars>|Rashida Jones|Adam Jamal Craig|Erica Tazel|Brian Patrick Mulligan|</GuestStars>
+  <IMDB_ID>tt1248737</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Michael goes on a speaking tour of the other branches to explain Scranton's relative success, accompanied by his driver, Pam. Back at the office, Dwight and Jim - now heads of the party planning committee - forget a birthday, with severe consequences. Meanwhile, Andy falls for someone he should not.</Overview>
+  <ProductionCode>514</ProductionCode>
+  <Rating>7.8</Rating>
+  <RatingCount>25</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer>Mindy Kaling</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73244/427605.jpg</filename>
+  <lastupdated>1290342216</lastupdated>
+  <seasonid>35087</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>427606</id>
+  <Combined_episodenumber>15.0</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>15.0</DVD_episodenumber>
+  <DVD_season>5</DVD_season>
+  <Director>Ken Kwapis</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Lecture Circuit (2)</EpisodeName>
+  <EpisodeNumber>15</EpisodeNumber>
+  <FirstAired>2009-02-12</FirstAired>
+  <GuestStars>|Rob Huebel|Katie Flynn|Michael McCartney|Mary Wall|</GuestStars>
+  <IMDB_ID>tt1248738</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Michael and Pam continue their tour of the branches with Michael taking a lesson from their visit to Utica. Dwight and Jim struggle to fulfill their new party planning duties with a grumpy staff. Angela's new cat causes a stir.</Overview>
+  <ProductionCode>5-15</ProductionCode>
+  <Rating>7.4</Rating>
+  <RatingCount>20</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer>Mindy Kaling</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73244/427606.jpg</filename>
+  <lastupdated>1290342230</lastupdated>
+  <seasonid>35087</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>427607</id>
+  <Combined_episodenumber>16.0</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>16.0</DVD_episodenumber>
+  <DVD_season>5</DVD_season>
+  <Director>Randall Einhorn</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Blood Drive</EpisodeName>
+  <EpisodeNumber>16</EpisodeNumber>
+  <FirstAired>2009-03-05</FirstAired>
+  <GuestStars>|Bobby Ray Shafer|Lisa K. Wyatt|</GuestStars>
+  <IMDB_ID>tt1248739</IMDB_ID>
+  <Language>en</Language>
+  <Overview>A mystery woman at the office blood drive catches Michael's eye. Dwight and Kevin both find women at the &quot;Lonely Hearts Party,&quot; while Jim and Pam are forced to leave because of PDAs—so they have lunch with Phyllis and Bob.</Overview>
+  <ProductionCode>516</ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>23</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer>Brent Forrester</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73244/427607.jpg</filename>
+  <lastupdated>1290342239</lastupdated>
+  <seasonid>35087</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>438274</id>
+  <Combined_episodenumber>17.0</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>17.0</DVD_episodenumber>
+  <DVD_season>5</DVD_season>
+  <Director>Randall Einhorn</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Golden Ticket</EpisodeName>
+  <EpisodeNumber>17</EpisodeNumber>
+  <FirstAired>2009-03-12</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1248740</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Michael's idea to use &quot;Golden Tickets&quot; for prizes for clients causes a problem in the office. Kevin seeks advice from Andy, Jim, and Pam about dating.</Overview>
+  <ProductionCode>517</ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>25</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer>Mindy Kaling</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73244/438274.jpg</filename>
+  <lastupdated>1290342046</lastupdated>
+  <seasonid>35087</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>442221</id>
+  <Combined_episodenumber>18.0</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>18.0</DVD_episodenumber>
+  <DVD_season>5</DVD_season>
+  <Director>Paul Feig</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>New Boss</EpisodeName>
+  <EpisodeNumber>18</EpisodeNumber>
+  <FirstAired>2009-03-19</FirstAired>
+  <GuestStars>Idris Elba</GuestStars>
+  <IMDB_ID>tt1248741</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Michael has big plans for his 15th anniversary party at Dunder Mifflin, but is in for a shock when the new, no-nonsense Vice President has some ideas of his own. Meanwhile, Jim's prank on Dwight has some unexpected results.</Overview>
+  <ProductionCode>518</ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>26</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer>|Gene Stupnitsky|Lee Eisenberg|</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73244/442221.jpg</filename>
+  <lastupdated>1290342253</lastupdated>
+  <seasonid>35087</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>442222</id>
+  <Combined_episodenumber>19.0</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>19.0</DVD_episodenumber>
+  <DVD_season>5</DVD_season>
+  <Director>Paul Lieberstein</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Two Weeks</EpisodeName>
+  <EpisodeNumber>19</EpisodeNumber>
+  <FirstAired>2009-03-26</FirstAired>
+  <GuestStars>Idris Elba</GuestStars>
+  <IMDB_ID>tt1248742</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Michael's relationship with the new vice president becomes increasingly tense, as Michael finds an excuse to goof off even more than usual. Meanwhile, Pam faces the challenge of a new copier and Kelly develops a crush.</Overview>
+  <ProductionCode>519</ProductionCode>
+  <Rating>7.4</Rating>
+  <RatingCount>23</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer>Aaron Shure</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73244/442222.jpg</filename>
+  <lastupdated>1290342069</lastupdated>
+  <seasonid>35087</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>469411</id>
+  <Combined_episodenumber>20.0</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>20.0</DVD_episodenumber>
+  <DVD_season>5</DVD_season>
+  <Director>Paul Feig</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Dream Team</EpisodeName>
+  <EpisodeNumber>20</EpisodeNumber>
+  <FirstAired>2009-04-09</FirstAired>
+  <GuestStars>Idris Elba</GuestStars>
+  <IMDB_ID>tt1248745</IMDB_ID>
+  <Language>en</Language>
+  <Overview>The situation between Jim and his new boss Charles gets worse when they are competing in a parking lot soccer game. Michael tries to start his new business, but has trouble leaving his house.</Overview>
+  <ProductionCode>520</ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>25</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer>B.J. Novak</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73244/469411.jpg</filename>
+  <lastupdated>1290342080</lastupdated>
+  <seasonid>35087</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>488781</id>
+  <Combined_episodenumber>21.0</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>21.0</DVD_episodenumber>
+  <DVD_season>5</DVD_season>
+  <Director>Gene Stupnitsky</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Michael Scott Paper Company</EpisodeName>
+  <EpisodeNumber>21</EpisodeNumber>
+  <FirstAired>2009-04-09</FirstAired>
+  <GuestStars>Idris Elba</GuestStars>
+  <IMDB_ID>tt1248744</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Tension and disillusionment begin to emerge as Michael, Pam, and Ryan move the Michael Scott Paper Company into a cramped &quot;workspace&quot; at the business park.</Overview>
+  <ProductionCode>521</ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>24</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer>Justin Spitzer</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73244/488781.jpg</filename>
+  <lastupdated>1282570761</lastupdated>
+  <seasonid>35087</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>525301</id>
+  <Combined_episodenumber>22.0</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>22.0</DVD_episodenumber>
+  <DVD_season>5</DVD_season>
+  <Director>Ken Whittingham</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Heavy Competition</EpisodeName>
+  <EpisodeNumber>22</EpisodeNumber>
+  <FirstAired>2009-04-16</FirstAired>
+  <GuestStars>Idris Elba</GuestStars>
+  <IMDB_ID>tt1248746</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Dwight's loyalty to Michael is tested when he finds a new hero in Charles. Meanwhile, Andy tries to provide for all of Jim's emotional needs. </Overview>
+  <ProductionCode>522</ProductionCode>
+  <Rating>7.9</Rating>
+  <RatingCount>24</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer>Ryan Koh</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73244/525301.jpg</filename>
+  <lastupdated>1282570773</lastupdated>
+  <seasonid>35087</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>525311</id>
+  <Combined_episodenumber>23.0</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>23.0</DVD_episodenumber>
+  <DVD_season>5</DVD_season>
+  <Director>Steve Carrell</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Broke</EpisodeName>
+  <EpisodeNumber>23</EpisodeNumber>
+  <FirstAired>2009-04-23</FirstAired>
+  <GuestStars>Idris Elba</GuestStars>
+  <IMDB_ID>tt1268727</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Michael's new company struggles to make early morning deliveries while the office tries to get their expense reports in on time after Angela enforces Dunder Mifflin's policy.</Overview>
+  <ProductionCode>523</ProductionCode>
+  <Rating>8.1</Rating>
+  <RatingCount>29</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer>Charlie Grandy</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73244/525311.jpg</filename>
+  <lastupdated>1282570783</lastupdated>
+  <seasonid>35087</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>525321</id>
+  <Combined_episodenumber>24.0</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>24.0</DVD_episodenumber>
+  <DVD_season>5</DVD_season>
+  <Director>Brent Forrester</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Casual Friday</EpisodeName>
+  <EpisodeNumber>24</EpisodeNumber>
+  <FirstAired>2009-04-30</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1406712</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Michael has to mediate a dispute within his new sales team. Meanwhile, trouble brews in the office when several employees take the term &quot;casual&quot; Fridays too loosely. </Overview>
+  <ProductionCode>524</ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>23</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer>Anthony Farrell</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73244/525321.jpg</filename>
+  <lastupdated>1290342126</lastupdated>
+  <seasonid>35087</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>602751</id>
+  <Combined_episodenumber>25.0</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>25.0</DVD_episodenumber>
+  <DVD_season>5</DVD_season>
+  <Director>Randall Einhorn</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Cafe Disco</EpisodeName>
+  <EpisodeNumber>25</EpisodeNumber>
+  <FirstAired>2009-05-07</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1417507</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Michael decides to open a cafe-disco in his old office. Pam and Jim are planning a secret trip.</Overview>
+  <ProductionCode>525</ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>26</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer>|Warren Lieberstein|Halsted Sullivan|</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73244/602751.jpg</filename>
+  <lastupdated>1290342273</lastupdated>
+  <seasonid>35087</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>602761</id>
+  <Combined_episodenumber>26.0</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>26.0</DVD_episodenumber>
+  <DVD_season>5</DVD_season>
+  <Director>Ken Kwapis</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Company Picnic</EpisodeName>
+  <EpisodeNumber>26</EpisodeNumber>
+  <FirstAired>2009-05-14</FirstAired>
+  <GuestStars>|Amy Ryan|Idris Elba|Rob Huebel|James Urbaniak|</GuestStars>
+  <IMDB_ID>tt1417732</IMDB_ID>
+  <Language>en</Language>
+  <Overview>At the company picnic, Michael and Holly are reunited for the first time since their split. The rest of the staff competes in games, such as the volleyball tournament.</Overview>
+  <ProductionCode>526</ProductionCode>
+  <Rating>7.8</Rating>
+  <RatingCount>24</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer>|Jennifer Celotta|Paul Lieberstein|</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73244/602761.jpg</filename>
+  <lastupdated>1290342292</lastupdated>
+  <seasonid>35087</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>796411</id>
+  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Paul Lieberstein</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Gossip</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2009-09-17</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1467798</IMDB_ID>
+  <Language>en</Language>
+  <Overview>A few interns who stayed at Dunder-Mifflin over the summer end their internship. Michael announces some potentially damaging gossip about an employee to the rest of the office, then starts to spread false rumours about others to cover up what he has unwittingly revealed.</Overview>
+  <ProductionCode>601</ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>31</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer>Paul Lieberstein</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73244/796411.jpg</filename>
+  <lastupdated>1268516503</lastupdated>
+  <seasonid>82981</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>1087261</id>
+  <Combined_episodenumber>2</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Randall Einhorn</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Meeting</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2009-09-24</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1487740</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Michael gets worried after a request from Jim, and Pam's busy with wedding planning. Darryl's worker's compensation claim makes Dwight suspicious.</Overview>
+  <ProductionCode>602</ProductionCode>
+  <Rating>7.4</Rating>
+  <RatingCount>33</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer>Aaron Shure</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73244/1087261.jpg</filename>
+  <lastupdated>1268516462</lastupdated>
+  <seasonid>82981</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>1112611</id>
+  <Combined_episodenumber>3</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Jennifer Celotta</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Promotion</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2009-10-01</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1487741</IMDB_ID>
+  <Language>en</Language>
+  <Overview>David Wallace comes bearing the news that not all the staffers will receive a raise this year. Jim pushes Dwight to the limit and causes him to form office alliances. And Pam decides she wants only cash as a wedding gift. </Overview>
+  <ProductionCode>603</ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>30</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer>Jennifer Celotta</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73244/1112611.jpg</filename>
+  <lastupdated>1268516404</lastupdated>
+  <seasonid>82981</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>1112621</id>
+  <Combined_episodenumber>4</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Paul Feig</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Niagara</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>2009-10-08</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1487742</IMDB_ID>
+  <Language>en</Language>
+  <Overview>The Dunder Mifflin staff head to Niagara Falls for Jim and Pam's wedding, with the understanding that her pregnancy is a forbidden discussion topic, but Jim's slip of the tongue prods Michael to attempt damage control.</Overview>
+  <ProductionCode>604-05</ProductionCode>
+  <Rating>8.2</Rating>
+  <RatingCount>33</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer>Greg Daniels|Mindy Kaling</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73244/1112621.jpg</filename>
+  <lastupdated>1273916951</lastupdated>
+  <seasonid>82981</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>1148281</id>
+  <Combined_episodenumber>5</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Dave Rogers</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Mafia</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired>2009-10-15</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1520196</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Michael meets with an insurance salesman that visits the office and is later convinced by Dwight and Andy that he is part of the mafia. Erin accidentally ruins Pam's painting.  </Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>23</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer>Brent Forrester</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73244/1148281.jpg</filename>
+  <lastupdated>1273916973</lastupdated>
+  <seasonid>82981</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>1160281</id>
+  <Combined_episodenumber>6</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Lee Eisenberg</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Lover</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired>2009-10-22</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1520197</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Jim and Pam return from their honeymoon and learn, to their horror, that Michael is dating Pam's mom. Meanwhile, Dwight gives Jim a &quot;gift&quot;--which actually has a listening device attached to it. </Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>26</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer>Lee Eisenberg | Gene Stupnitsky</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73244/1160281.jpg</filename>
+  <lastupdated>1273916981</lastupdated>
+  <seasonid>82981</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>1181921</id>
+  <Combined_episodenumber>7</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Reggie Hudlin</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Koi Pond</EpisodeName>
+  <EpisodeNumber>7</EpisodeNumber>
+  <FirstAired>2009-10-29</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1524878</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Michael is upset when he becomes the butt of all the office jokes after he falls in a koi pond. Andy and Pam go out together on some cold calls, and everybody mistakes them as a married couple.</Overview>
+  <ProductionCode>608</ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>30</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer>Warren Lieberstein | Halsted Sullivan</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73244/1181921.jpg</filename>
+  <lastupdated>1273916991</lastupdated>
+  <seasonid>82981</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>1190891</id>
+  <Combined_episodenumber>8</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Seth Gordon</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Double Date</EpisodeName>
+  <EpisodeNumber>8</EpisodeNumber>
+  <FirstAired>2009-11-05</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1531589</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Michael sparks more anger from Pam when he breaks up with her mom on her birthday after he finds out she's 58, and Dwight unsuccessfully tries to get everyone in the office to owe him a favor.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.4</Rating>
+  <RatingCount>29</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer>Charley Grandy</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73244/1190891.jpg</filename>
+  <lastupdated>1273917015</lastupdated>
+  <seasonid>82981</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>1271791</id>
+  <Combined_episodenumber>9</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Greg Daniels</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Murder</EpisodeName>
+  <EpisodeNumber>9</EpisodeNumber>
+  <FirstAired>2009-11-12</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1535367</IMDB_ID>
+  <Language>en</Language>
+  <Overview>The entire office is preoccupied about rumors of Dunder Mifflin's bankruptcy. Michael tries to create a distraction by engaging everyone in murder-mystery game, but Jim wonders if that is a good idea.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>29</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer>Danny Chun</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73244/1271791.jpg</filename>
+  <lastupdated>1273917049</lastupdated>
+  <seasonid>82981</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>1271801</id>
+  <Combined_episodenumber>10</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Charles McDougall</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Shareholder Meeting</EpisodeName>
+  <EpisodeNumber>10</EpisodeNumber>
+  <FirstAired>2009-11-19</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1536326</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Michael speaks out of line at the Dunder Mifflin shareholders meeting and creates a big problem for management, while Jim discovers that nobody in the office thinks he's the &quot;real&quot; boss.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>27</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer>Justin Spitzer</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73244/1271801.jpg</filename>
+  <lastupdated>1273917067</lastupdated>
+  <seasonid>82981</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>1319731</id>
+  <Combined_episodenumber>11</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>B. J. Novak</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Scott's Tots</EpisodeName>
+  <EpisodeNumber>11</EpisodeNumber>
+  <FirstAired>2009-12-03</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1544466</IMDB_ID>
+  <Language>en</Language>
+  <Overview>10 years ago, Michael promised a group of 3rd graders he would pay for their college tuition if they graduated. Now comes time to pay, and he can't do it. At the office, Dwight's &quot;Employee of the Month&quot; idea gets Jim in big trouble.
+
+</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.3</Rating>
+  <RatingCount>32</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer>Gene Stupnitsky|Lee Eisenberg</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73244/1319731.jpg</filename>
+  <lastupdated>1273917073</lastupdated>
+  <seasonid>82981</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>1319741</id>
+  <Combined_episodenumber>12</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Randall Einhorn</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Secret Santa</EpisodeName>
+  <EpisodeNumber>12</EpisodeNumber>
+  <FirstAired>2009-12-10</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1548747</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Michael gets upset when Jim promises Phyllis that she can be the office Santa, but the office Christmas party may be overshadowed by some bad news from David Wallace.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>31</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer>Mindy Kaling</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73244/1319741.jpg</filename>
+  <lastupdated>1273917079</lastupdated>
+  <seasonid>82981</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>1511401</id>
+  <Combined_episodenumber>13</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Jeffrey Blitz</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Banker</EpisodeName>
+  <EpisodeNumber>13</EpisodeNumber>
+  <FirstAired>2010-01-21</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1564719</IMDB_ID>
+  <Language>en</Language>
+  <Overview>A banker representing a potential buyer comes to the Scranton branch to interview the H.R. department before the sale goes through.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>6.7</Rating>
+  <RatingCount>27</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer>Jason Kessler</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73244/1511401.jpg</filename>
+  <lastupdated>1273917097</lastupdated>
+  <seasonid>82981</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>1511421</id>
+  <Combined_episodenumber>14</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>John Krasinski</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Sabre</EpisodeName>
+  <EpisodeNumber>14</EpisodeNumber>
+  <FirstAired>2010-02-04</FirstAired>
+  <GuestStars>Kathy Bates</GuestStars>
+  <IMDB_ID>tt1564720</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Michael hates the changes that Dunder Mifflin's new owner is implementing, so he turns to David Wallace for advice. Jim and Pam find the perfect day care center, but Jim's mistake threatens to ruin the interview.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.2</Rating>
+  <RatingCount>31</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer>Jennifer Celotta</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73244/1511421.jpg</filename>
+  <lastupdated>1273917128</lastupdated>
+  <seasonid>82981</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>1602631</id>
+  <Combined_episodenumber>15</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Marc Webb</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Manager and Salesman</EpisodeName>
+  <EpisodeNumber>15</EpisodeNumber>
+  <FirstAired>2010-02-11</FirstAired>
+  <GuestStars>Kathy Bates, Zach Woods</GuestStars>
+  <IMDB_ID>tt1564721</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Sabre's CEO wants the Scranton branch to have one manager, and Michael voluntarily steps down and lets Jim become the boss when he finds out that salespeople make more money. However, he soon comes to regret the decision.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>33</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer>Mindy Kaling</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73244/1602631.jpg</filename>
+  <lastupdated>1273917135</lastupdated>
+  <seasonid>82981</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>1832421</id>
+  <Combined_episodenumber>16</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Seth Gordon</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Delivery (1)</EpisodeName>
+  <EpisodeNumber>16</EpisodeNumber>
+  <FirstAired>2010-03-04</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Pam’s contractions begin but she and Jim are determined to wait it out as long as possible so they can have more time at the hospital. Meanwhile the rest of the office tries to distract Pam from the pain with food and entertainment.</Overview>
+  <ProductionCode>617</ProductionCode>
+  <Rating>7.4</Rating>
+  <RatingCount>25</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer>Daniel Chun</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73244/1832421.jpg</filename>
+  <lastupdated>1270040866</lastupdated>
+  <seasonid>82981</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>1511411</id>
+  <Combined_episodenumber>17</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>|Seth Gordon|Harold Ramis|</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Delivery (2)</EpisodeName>
+  <EpisodeNumber>17</EpisodeNumber>
+  <FirstAired>2010-03-04</FirstAired>
+  <GuestStars>|Linda Purl|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Pam's contractions begin but she and Jim are determined to wait it out as long as possible so they can have more time at the hospital. The rest of the office crew tries to distract Pam from the pain with food and entertainment. Back at the office, Erin makes Andy jealous when she has lunch with Kevin.</Overview>
+  <ProductionCode>618</ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>19</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer>|Daniel Chun|Charlie Grandy|</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73244/1511411.jpg</filename>
+  <lastupdated>1268410345</lastupdated>
+  <seasonid>82981</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>1775891</id>
+  <Combined_episodenumber>18</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Randall Einhorn</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>St. Patrick's Day</EpisodeName>
+  <EpisodeNumber>18</EpisodeNumber>
+  <FirstAired>2010-03-11</FirstAired>
+  <GuestStars>|Kathy Bates|Zach Woods|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Michael thinks he impressed Jo only to discover someone else in the office caught her eye. Meanwhile, Dwight makes trouble on Jim's first day back from paternity leave. Andy and Erin have an interesting first date.</Overview>
+  <ProductionCode>619</ProductionCode>
+  <Rating>7.4</Rating>
+  <RatingCount>34</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer>Jonathan Hughes</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73244/1775891.jpg</filename>
+  <lastupdated>1268410668</lastupdated>
+  <seasonid>82981</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>1692591</id>
+  <Combined_episodenumber>19</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Brent Forrester</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>New Leads</EpisodeName>
+  <EpisodeNumber>19</EpisodeNumber>
+  <FirstAired>2010-03-18</FirstAired>
+  <GuestStars>Zach Woods</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>When the sales staff lets Sabre's new &quot;sales is king&quot; policy get to their heads, Michael hides their new, prized leads.</Overview>
+  <ProductionCode>620</ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>38</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer>Brent Forrester</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73244/1692591.jpg</filename>
+  <lastupdated>1273905336</lastupdated>
+  <seasonid>82981</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>1836991</id>
+  <Combined_episodenumber>20</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Matt Sohn</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Happy Hour</EpisodeName>
+  <EpisodeNumber>20</EpisodeNumber>
+  <FirstAired>2010-03-25</FirstAired>
+  <GuestStars>Amy Pietz</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Michael gets kicked out of the bar when he pulls out all the stops to impress a friend of Jim and Pam's. Meanwhile, Andy and Erin do their best to keep their relationship under wraps. Dwight rethinks his pre-natal contract with Angela. </Overview>
+  <ProductionCode>621</ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>34</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer>B. J. Novak</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73244/1836991.jpg</filename>
+  <lastupdated>1273905345</lastupdated>
+  <seasonid>82981</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>1985551</id>
+  <Combined_episodenumber>21</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Steve Carell</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Secretary's Day</EpisodeName>
+  <EpisodeNumber>21</EpisodeNumber>
+  <FirstAired>2010-04-22</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Andy pulls out all the stops to give Erin a memorable Secretary's Day. Michael reluctantly takes Erin out to lunch and lets slip about Andy's relationship with Angela. Meanwhile, Oscar circulates a video he created that compares Kevin's voice to Sesame Street's Cookie Monster.</Overview>
+  <ProductionCode>622</ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>44</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer>Mindy Kaling</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73244/1985551.jpg</filename>
+  <lastupdated>1273905351</lastupdated>
+  <seasonid>82981</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>2046171</id>
+  <Combined_episodenumber>22</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Mindy Kaling</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Body Language</EpisodeName>
+  <EpisodeNumber>22</EpisodeNumber>
+  <FirstAired>2010-04-29</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Pam and Jim work on their first sales pitch together to Donna, the manager of a local restaurant. But Michael keeps misreading the signals she's putting out. Meanwhile, Dwight encourages Kelly to try out for the minority training program.</Overview>
+  <ProductionCode>623</ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>35</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer>Justin Spitzer</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73244/2046171.jpg</filename>
+  <lastupdated>1273905357</lastupdated>
+  <seasonid>82981</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>2083471</id>
+  <Combined_episodenumber>23</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Rainn Wilson</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Cover-Up</EpisodeName>
+  <EpisodeNumber>23</EpisodeNumber>
+  <FirstAired>2010-05-06</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Michael suspects Donna is cheating on him and puts P.I. Dwight Schrute on the case. Meanwhile, Andy is frustrated when no one takes his customer's complaint seriously.</Overview>
+  <ProductionCode>624</ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>42</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer>Lee Eisenberg|Gene Stupnitsky</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73244/2083471.jpg</filename>
+  <lastupdated>1273905363</lastupdated>
+  <seasonid>82981</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>2121381</id>
+  <Combined_episodenumber>24</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Randall Einhorn</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Chump</EpisodeName>
+  <EpisodeNumber>24</EpisodeNumber>
+  <FirstAired>2010-05-13</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Michael is surprisingly cheerful after learning some bad news about Donna. The new parents, Pam and Jim, have trouble staying awake in the office. Meanwhile, Angela takes matters into her own hands when Dwight refuses to honor their contract. </Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.3</Rating>
+  <RatingCount>37</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer>Aaron Shure</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73244/2121381.jpg</filename>
+  <lastupdated>1273905368</lastupdated>
+  <seasonid>82981</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>2161041</id>
+  <Combined_episodenumber>25</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Paul Lieberstein</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Whistleblower</EpisodeName>
+  <EpisodeNumber>25</EpisodeNumber>
+  <FirstAired>2010-05-20</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>The press finds out that Sabre’s printers catch on fire. Jo shows up to the office in hopes of finding out who the whistleblower is. Everyone suspects Andy, who adamantly denies he leaked the information.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>36</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer>Warren Lieberstein|Halsted Sullivan</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73244/2161041.jpg</filename>
+  <lastupdated>1274590503</lastupdated>
+  <seasonid>82981</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>2545931</id>
+  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_season>7</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Jeffrey Blitz</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Nepotism</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2010-09-23</FirstAired>
+  <GuestStars>|Kathy BatesIEvan Peters|</GuestStars>
+  <IMDB_ID>tt1691733</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Michael refuses to fire the new office assistant after everyone complains about his bad attitude. Andy plays it cool after Erin shows interest in another man. Meanwhile, Pam tries to impress Jim by pulling an office prank of her own.</Overview>
+  <ProductionCode>701</ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>47</RatingCount>
+  <SeasonNumber>7</SeasonNumber>
+  <Writer>Danny Chun</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73244/2545931.jpg</filename>
+  <lastupdated>1296227968</lastupdated>
+  <seasonid>287361</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>2788781</id>
+  <Combined_episodenumber>2</Combined_episodenumber>
+  <Combined_season>7</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Jeffrey Blitz</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Counseling</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2010-09-30</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1707764</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Corporate assigns Michael to counseling with Toby. Dwight vows revenge on the Steamtown Mall after a shop owner snubs him. Meanwhile, Pam conspires to change her job title.</Overview>
+  <ProductionCode>702</ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>37</RatingCount>
+  <SeasonNumber>7</SeasonNumber>
+  <Writer>B.J. Novak</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73244/2788781.jpg</filename>
+  <lastupdated>1296227979</lastupdated>
+  <seasonid>287361</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>2825841</id>
+  <Combined_episodenumber>3</Combined_episodenumber>
+  <Combined_season>7</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Paul Lieberstein</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Andy's Play</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2010-10-07</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1707765</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Andy invites the entire office to his community theater production of Sweeney Todd in hopes that Erin will attend. Michael tries to put his jealousy aside and enjoy the performance while Jim and Pam struggle with their incompetent babysitter.</Overview>
+  <ProductionCode>703</ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>41</RatingCount>
+  <SeasonNumber>7</SeasonNumber>
+  <Writer>Charlie Grandy</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73244/2825841.jpg</filename>
+  <lastupdated>1296227985</lastupdated>
+  <seasonid>287361</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>2878671</id>
+  <Combined_episodenumber>4</Combined_episodenumber>
+  <Combined_season>7</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Paul Lieberstein</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Sex Ed</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>2010-10-14</FirstAired>
+  <GuestStars>|Melora Hardin|Amy Ryan|</GuestStars>
+  <IMDB_ID>tt1707766</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Michael, believing he has herpes, contacts all his ex-girlfriends, including Jan and Holly. Andy tries to play on Erin’s compassionate side by holding a sex education meeting for the office.</Overview>
+  <ProductionCode>704</ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>32</RatingCount>
+  <SeasonNumber>7</SeasonNumber>
+  <Writer>Paul Lieberstein</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73244/2878671.jpg</filename>
+  <lastupdated>1296227991</lastupdated>
+  <seasonid>287361</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>2948651</id>
+  <Combined_episodenumber>5</Combined_episodenumber>
+  <Combined_season>7</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Randall Einhorn</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Sting</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired>2010-10-21</FirstAired>
+  <GuestStars>Timothy Olyphant</GuestStars>
+  <IMDB_ID>tt1725593</IMDB_ID>
+  <Language>en</Language>
+  <Overview>When a competing sales associate steals a Dunder Mifflin client, Michael, Jim and Dwight decide to set up a sting to find out his sales secrets. Andy decides to start a band after finding out a friend from college has a successful music career. </Overview>
+  <ProductionCode>705</ProductionCode>
+  <Rating>7.4</Rating>
+  <RatingCount>39</RatingCount>
+  <SeasonNumber>7</SeasonNumber>
+  <Writer>Mindy Kaling</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73244/2948651.jpg</filename>
+  <lastupdated>1296227997</lastupdated>
+  <seasonid>287361</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>2948661</id>
+  <Combined_episodenumber>6</Combined_episodenumber>
+  <Combined_season>7</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Dean Holland</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Costume Contest</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired>2010-10-28</FirstAired>
+  <GuestStars>Timothy Olyphant</GuestStars>
+  <IMDB_ID>tt1725594</IMDB_ID>
+  <Language>en</Language>
+  <Overview>When Darryl takes an idea to corporate over his head, Michael freaks out. Everyone in the office is in a competitive mood as the Halloween costume contest gets underway. Meanwhile, Pam tries to get the truth out of Danny about their dating history.</Overview>
+  <ProductionCode>706</ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>40</RatingCount>
+  <SeasonNumber>7</SeasonNumber>
+  <Writer>Justin Spitzer</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73244/2948661.jpg</filename>
+  <lastupdated>1296228002</lastupdated>
+  <seasonid>287361</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>3011171</id>
+  <Combined_episodenumber>7</Combined_episodenumber>
+  <Combined_season>7</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Alex Hardcastle</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Christening</EpisodeName>
+  <EpisodeNumber>7</EpisodeNumber>
+  <FirstAired>2010-11-04</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1724495</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Pam and Jim prepare for Cece's baptism. When Cece goes missing, Jim fears Angela has taken her.</Overview>
+  <ProductionCode>707</ProductionCode>
+  <Rating>7.1</Rating>
+  <RatingCount>35</RatingCount>
+  <SeasonNumber>7</SeasonNumber>
+  <Writer>Peter Ocko</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73244/3011171.jpg</filename>
+  <lastupdated>1296228010</lastupdated>
+  <seasonid>287361</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>3019381</id>
+  <Combined_episodenumber>8</Combined_episodenumber>
+  <Combined_season>7</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Ken Whittingham</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Viewing Party</EpisodeName>
+  <EpisodeNumber>8</EpisodeNumber>
+  <FirstAired>2010-11-11</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1752582</IMDB_ID>
+  <Language>en</Language>
+  <Overview>An ostracized Michael does all he can to sabotage Gabe's party while Angela requests sex from Dwight.</Overview>
+  <ProductionCode>708</ProductionCode>
+  <Rating>7.3</Rating>
+  <RatingCount>32</RatingCount>
+  <SeasonNumber>7</SeasonNumber>
+  <Writer>Jon Vitti</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73244/3019381.jpg</filename>
+  <lastupdated>1296228020</lastupdated>
+  <seasonid>287361</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>3134851</id>
+  <Combined_episodenumber>9</Combined_episodenumber>
+  <Combined_season>7</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Danny Leiner</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Wuphf.com</EpisodeName>
+  <EpisodeNumber>9</EpisodeNumber>
+  <FirstAired>2010-11-18</FirstAired>
+  <GuestStars>Jack Coleman</GuestStars>
+  <IMDB_ID>tt1752583</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Michael tries to save Ryan's company by encouraging co-workers to invest. Meanwhile, Dwight has big plans for the office at Thanksgiving.</Overview>
+  <ProductionCode>709</ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>33</RatingCount>
+  <SeasonNumber>7</SeasonNumber>
+  <Writer>Aaron Shure</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73244/3134851.jpg</filename>
+  <lastupdated>1296228026</lastupdated>
+  <seasonid>287361</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>3134861</id>
+  <Combined_episodenumber>10</Combined_episodenumber>
+  <Combined_season>7</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Charles McDougall</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>China</EpisodeName>
+  <EpisodeNumber>10</EpisodeNumber>
+  <FirstAired>2010-12-02</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1752581</IMDB_ID>
+  <Language>en</Language>
+  <Overview>After reading an article about China growing as a global power, Michael decides China must be stopped before they take over the US. Everyone in the office complains about Dwight's building standards and Pam threatens to move Dunder Mifflin to a new building.</Overview>
+  <ProductionCode>710</ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>33</RatingCount>
+  <SeasonNumber>7</SeasonNumber>
+  <Writer>|Halsted Sullivan|Warren Lieberstein|</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73244/3134861.jpg</filename>
+  <lastupdated>1296228036</lastupdated>
+  <seasonid>287361</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>3178271</id>
+  <Combined_episodenumber>11</Combined_episodenumber>
+  <Combined_season>7</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Rainn Wilson</Director>
+  <EpImgFlag>7</EpImgFlag>
+  <EpisodeName>Classy Christmas (1)</EpisodeName>
+  <EpisodeNumber>11</EpisodeNumber>
+  <FirstAired>2010-12-09</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1752584</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Michael could not be happier when Toby has to take a leave of absence and corporate sends Holly Flax to cover for him. Pam is forced to do a second Christmas party after Michael wants the party to be on the day Holly returns to Scranton. Meanwhile, Jim regrets agreeing to a snowball fight with Dwight.</Overview>
+  <ProductionCode>711</ProductionCode>
+  <Rating>8.1</Rating>
+  <RatingCount>37</RatingCount>
+  <SeasonNumber>7</SeasonNumber>
+  <Writer>Mindy Kaling</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73244/3178271.jpg</filename>
+  <lastupdated>1297009604</lastupdated>
+  <seasonid>287361</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>3262101</id>
+  <Combined_episodenumber>12</Combined_episodenumber>
+  <Combined_season>7</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Rainn Wilson</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Classy Christmas (2)</EpisodeName>
+  <EpisodeNumber>12</EpisodeNumber>
+  <FirstAired>2010-12-09</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Michael could not be happier when Toby has to take a leave of absence and corporate sends Holly Flax to cover for him. Pam is forced to do a second Christmas party after Michael wants the party to be on the day Holly returns to Scranton. Meanwhile, Jim regrets agreeing to a snowball fight with Dwight</Overview>
+  <ProductionCode>712</ProductionCode>
+  <Rating>8.4</Rating>
+  <RatingCount>13</RatingCount>
+  <SeasonNumber>7</SeasonNumber>
+  <Writer>Mindy Kaling</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73244/3262101.jpg</filename>
+  <lastupdated>1297009564</lastupdated>
+  <seasonid>287361</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>3178281</id>
+  <Combined_episodenumber>13</Combined_episodenumber>
+  <Combined_season>7</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>David Rogers</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Ultimatum</EpisodeName>
+  <EpisodeNumber>13</EpisodeNumber>
+  <FirstAired>2011-01-20</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1776740</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Michael prepares himself for the good or bad news about Holly and her boyfriend. In an effort to be an &quot;awesome&quot; office manager, Pam decides to put up a resolution board for everyone to post their New Year's resolutions.</Overview>
+  <ProductionCode>713</ProductionCode>
+  <Rating>7.4</Rating>
+  <RatingCount>33</RatingCount>
+  <SeasonNumber>7</SeasonNumber>
+  <Writer>Carrie Kemper</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73244/3178281.jpg</filename>
+  <lastupdated>1297009575</lastupdated>
+  <seasonid>287361</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>3291881</id>
+  <Combined_episodenumber>14</Combined_episodenumber>
+  <Combined_season>7</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>B. J. Novak</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Seminar</EpisodeName>
+  <EpisodeNumber>14</EpisodeNumber>
+  <FirstAired>2011-01-27</FirstAired>
+  <GuestStars>Ricky Gervais</GuestStars>
+  <IMDB_ID>tt1810331</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Holly and Michael turn Andy's business seminar into an improv challenge. Erin and Gabe compete in a board game battle.</Overview>
+  <ProductionCode>714</ProductionCode>
+  <Rating>7.3</Rating>
+  <RatingCount>35</RatingCount>
+  <SeasonNumber>7</SeasonNumber>
+  <Writer>Steve Hely</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73244/3291881.jpg</filename>
+  <lastupdated>1297415229</lastupdated>
+  <seasonid>287361</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>3525961</id>
+  <Combined_episodenumber>15</Combined_episodenumber>
+  <Combined_season>7</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Michael Spiller</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Search</EpisodeName>
+  <EpisodeNumber>15</EpisodeNumber>
+  <FirstAired>2011-02-03</FirstAired>
+  <GuestStars>|Amy Ryan|Linda Purl|</GuestStars>
+  <IMDB_ID>tt1817005</IMDB_ID>
+  <Language>en</Language>
+  <Overview>An emergency call from Helene forces Jim to abandon Michael at a gas station restroom, and Holly, Erin, and Dwight set out to rescue him. Gabe becomes offended at submissions to caption Pam's latest work of art. </Overview>
+  <ProductionCode>715</ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>39</RatingCount>
+  <SeasonNumber>7</SeasonNumber>
+  <Writer>Brent Forrester</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73244/3525961.jpg</filename>
+  <lastupdated>1297415243</lastupdated>
+  <seasonid>287361</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>3525971</id>
+  <Combined_episodenumber>16</Combined_episodenumber>
+  <Combined_season>7</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Greg Daniels</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>PDA</EpisodeName>
+  <EpisodeNumber>16</EpisodeNumber>
+  <FirstAired>2011-02-10</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1817006</IMDB_ID>
+  <Language>en</Language>
+  <Overview>The staff grows increasingly uncomfortable with Michael and Holly's PDAs. Jim and Pam regret a champagne luncheon. Andy horns in on a romantic treasure hunt Gabe arranged for Erin.</Overview>
+  <ProductionCode>716</ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>38</RatingCount>
+  <SeasonNumber>7</SeasonNumber>
+  <Writer>Robert Padnick</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73244/3525971.jpg</filename>
+  <lastupdated>1297415260</lastupdated>
+  <seasonid>287361</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>3525981</id>
+  <Combined_episodenumber>17</Combined_episodenumber>
+  <Combined_season>7</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Tucker Gates</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Threat Level Midnight</EpisodeName>
+  <EpisodeNumber>17</EpisodeNumber>
+  <FirstAired>2011-02-17</FirstAired>
+  <GuestStars>Rashida Jones</GuestStars>
+  <IMDB_ID>tt1817007</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Michael screens his action film Threat Level Midnight to the office after eleven years of writing, shooting, re-shooting, and editing. The film features Michael as Agent Michael Scarn, Dwight as Scarn's sidekick, and Jim as archnemesis &quot;Goldenface,&quot; as well as several people from Michael's past.</Overview>
+  <ProductionCode>717</ProductionCode>
+  <Rating>8.1</Rating>
+  <RatingCount>29</RatingCount>
+  <SeasonNumber>7</SeasonNumber>
+  <Writer>B. J. Novak</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73244/3525981.jpg</filename>
+  <lastupdated>1298161925</lastupdated>
+  <seasonid>287361</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>3650481</id>
+  <Combined_episodenumber>18</Combined_episodenumber>
+  <Combined_season>7</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Randall Einhorn</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Todd Packer</EpisodeName>
+  <EpisodeNumber>18</EpisodeNumber>
+  <FirstAired>2011-02-24</FirstAired>
+  <GuestStars>David Koechner</GuestStars>
+  <IMDB_ID>tt1832204</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Traveling salesman Todd Packer comes to Dunder Mifflin looking for a desk job in the office. However, the office is unsure if they want him to work there due to his previous behavior. After dealing with computer problems, Andy confronts office administrator Pam to get a new computer.</Overview>
+  <ProductionCode>718</ProductionCode>
+  <Rating>7.3</Rating>
+  <RatingCount>33</RatingCount>
+  <SeasonNumber>7</SeasonNumber>
+  <Writer>Amelie Gillette</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73244/3650481.jpg</filename>
+  <lastupdated>1298848275</lastupdated>
+  <seasonid>287361</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>3858701</id>
+  <Combined_episodenumber>19</Combined_episodenumber>
+  <Combined_season>7</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Garage Sale</EpisodeName>
+  <EpisodeNumber>19</EpisodeNumber>
+  <FirstAired>2011-03-24</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>The office holds a garage sale in the warehouse. Michael decides to ask Holly to marry him. </Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>7</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1299695701</lastupdated>
+  <seasonid>287361</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>3941381</id>
+  <Combined_episodenumber>20</Combined_episodenumber>
+  <Combined_season>7</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>TBA</EpisodeName>
+  <EpisodeNumber>20</EpisodeNumber>
+  <FirstAired>2011-04-14</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>7</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1300644567</lastupdated>
+  <seasonid>287361</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>3941391</id>
+  <Combined_episodenumber>21</Combined_episodenumber>
+  <Combined_season>7</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Goodbye, Michael (1) </EpisodeName>
+  <EpisodeNumber>21</EpisodeNumber>
+  <FirstAired>2011-04-21</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>7</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1300644536</lastupdated>
+  <seasonid>287361</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>3941411</id>
+  <Combined_episodenumber>22</Combined_episodenumber>
+  <Combined_season>7</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Goodbye, Michael (2) </EpisodeName>
+  <EpisodeNumber>22</EpisodeNumber>
+  <FirstAired>2011-04-28</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>7</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1300644602</lastupdated>
+  <seasonid>287361</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>3941421</id>
+  <Combined_episodenumber>23</Combined_episodenumber>
+  <Combined_season>7</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName></EpisodeName>
+  <EpisodeNumber>23</EpisodeNumber>
+  <FirstAired>2011-05-05</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>7</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1300644664</lastupdated>
+  <seasonid>287361</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>3941441</id>
+  <Combined_episodenumber>24</Combined_episodenumber>
+  <Combined_season>7</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>TBA</EpisodeName>
+  <EpisodeNumber>24</EpisodeNumber>
+  <FirstAired>2011-05-12</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>7</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1300644797</lastupdated>
+  <seasonid>287361</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>3941471</id>
+  <Combined_episodenumber>25</Combined_episodenumber>
+  <Combined_season>7</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Season Finale (1) </EpisodeName>
+  <EpisodeNumber>25</EpisodeNumber>
+  <FirstAired>2011-05-19</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>7</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1300645196</lastupdated>
+  <seasonid>287361</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+<Episode>
+  <id>3941481</id>
+  <Combined_episodenumber>26</Combined_episodenumber>
+  <Combined_season>7</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Season Finale (2) </EpisodeName>
+  <EpisodeNumber>26</EpisodeNumber>
+  <FirstAired>2011-05-19</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>7</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1300645246</lastupdated>
+  <seasonid>287361</seasonid>
+  <seriesid>73244</seriesid>
+</Episode>
+</Data>

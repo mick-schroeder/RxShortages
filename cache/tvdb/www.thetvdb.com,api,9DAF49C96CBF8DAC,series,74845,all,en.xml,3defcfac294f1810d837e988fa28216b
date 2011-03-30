@@ -1,0 +1,4077 @@
+status: 200
+content-length: 153649
+content-location: http://www.thetvdb.com/api/9DAF49C96CBF8DAC/series/74845/all/en.xml
+expires: Tue, 22 Mar 2011 07:38:40 GMT
+vary: Accept-Encoding
+server: nginx
+last-modified: Mon, 21 Mar 2011 21:11:23 GMT
+connection: keep-alive
+-content-encoding: gzip
+cache-control: max-age=900
+date: Tue, 22 Mar 2011 07:23:40 GMT
+content-type: text/xml
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8" ?>
+<Data><Series>
+  <id>74845</id>
+  <Actors>|Mary-Louise Parker|Elizabeth Perkins|Kevin Nealon|Romany Malco|Tonye Patano|Alexander Gould|Hunter Parrish|Justin Kirk|</Actors>
+  <Airs_DayOfWeek>Monday</Airs_DayOfWeek>
+  <Airs_Time>10:00 PM</Airs_Time>
+  <ContentRating>TV-MA</ContentRating>
+  <FirstAired>2005-08-07</FirstAired>
+  <Genre>|Comedy|Drama|</Genre>
+  <IMDB_ID>tt0439100</IMDB_ID>
+  <Language>en</Language>
+  <Network>Showtime</Network>
+  <NetworkID></NetworkID>
+  <Overview>Weeds is a comedic show about a fictional Los Angeles suburb called Agrestic. This affluent town is home to Nancy Botwin, a single mother who makes ends meet by selling marijuana after the sudden death of her husband. However, we soon learn that Nancy isn't the only person with some dirty laundry, because the pristine lawns and carefully manicured flowers of Agrestic can't hide the dirty little secrets of its residents forever...</Overview>
+  <Rating>8.6</Rating>
+  <RatingCount>161</RatingCount>
+  <Runtime>30</Runtime>
+  <SeriesID>28829</SeriesID>
+  <SeriesName>Weeds</SeriesName>
+  <Status>Continuing</Status>
+  <added></added>
+  <addedBy></addedBy>
+  <banner>graphical/74845-g10.jpg</banner>
+  <fanart>fanart/original/74845-33.jpg</fanart>
+  <lastupdated>1300741758</lastupdated>
+  <poster>posters/74845-5.jpg</poster>
+  <zap2it_id>SH759395</zap2it_id>
+</Series>
+<Episode>
+  <id>715411</id>
+  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid>1</DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>1</EpImgFlag>
+  <EpisodeName>Suburban Shakedown</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2005-08-01</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>An exclusive first look at the upcoming original series &quot;Weeds&quot; starring Mary-Louise Parker as a suburban California mother who is forced to start selling marijuana after the unexpected death of her husband.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename>episodes/74845/715411.jpg</filename>
+  <lastupdated>1300436268</lastupdated>
+  <seasonid>22306</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>562401</id>
+  <Combined_episodenumber>2</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid>1</DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Smokey Snippets</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Cast comments</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>1</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1300436285</lastupdated>
+  <seasonid>22306</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>1512541</id>
+  <Combined_episodenumber>3</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid>1</DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Conrad's Grow Room</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>2</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1300337215</lastupdated>
+  <seasonid>22306</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>1512551</id>
+  <Combined_episodenumber>4</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid>2</DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Cream Of The Crop</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>2</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1300337232</lastupdated>
+  <seasonid>22306</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>1512561</id>
+  <Combined_episodenumber>5</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid>2</DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Jammin' Nation Extended Performance</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>2</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1300337239</lastupdated>
+  <seasonid>22306</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>1512571</id>
+  <Combined_episodenumber>6</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid>1</DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>MILF Gag Reel</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>2</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1300337247</lastupdated>
+  <seasonid>22306</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>1512581</id>
+  <Combined_episodenumber>7</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid>2</DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Slangin' 101</EpisodeName>
+  <EpisodeNumber>7</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>2</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1300337254</lastupdated>
+  <seasonid>22306</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>1512591</id>
+  <Combined_episodenumber>8</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid>2</DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Tools Of The Trade</EpisodeName>
+  <EpisodeNumber>8</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>2</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1300337262</lastupdated>
+  <seasonid>22306</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>1512601</id>
+  <Combined_episodenumber>9</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid>1</DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Season 3 Gag Reel</EpisodeName>
+  <EpisodeNumber>9</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Bloopers from season 3.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>3</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1300337269</lastupdated>
+  <seasonid>22306</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>1512611</id>
+  <Combined_episodenumber>10</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid>2</DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Good Morning Agrestic! E01 (Wake And Bake)</EpisodeName>
+  <EpisodeNumber>10</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>3</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1300337276</lastupdated>
+  <seasonid>22306</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>1512621</id>
+  <Combined_episodenumber>11</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid>2</DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Good Morning Agrestic! E02 (School Saftey)</EpisodeName>
+  <EpisodeNumber>11</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>3</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1300337282</lastupdated>
+  <seasonid>22306</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>1512631</id>
+  <Combined_episodenumber>12</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid>2</DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Good Morning Agrestic! E03 (Too Soon To Be Gay)</EpisodeName>
+  <EpisodeNumber>12</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>3</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1300337290</lastupdated>
+  <seasonid>22306</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>1512641</id>
+  <Combined_episodenumber>13</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid>2</DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Good Morning Agrestic! E04 (Wake And Bake 2)</EpisodeName>
+  <EpisodeNumber>13</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>3</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1300337296</lastupdated>
+  <seasonid>22306</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>1512651</id>
+  <Combined_episodenumber>14</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid>2</DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Good Morning Agrestic! E05 (Our Borders)</EpisodeName>
+  <EpisodeNumber>14</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>3</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1300337303</lastupdated>
+  <seasonid>22306</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>1512661</id>
+  <Combined_episodenumber>15</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid>2</DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Good Morning Agrestic! E06 (Majestic-Gates Of Hell)</EpisodeName>
+  <EpisodeNumber>15</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>3</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1300337310</lastupdated>
+  <seasonid>22306</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>1512671</id>
+  <Combined_episodenumber>16</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid>2</DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Burbs To Beach</EpisodeName>
+  <EpisodeNumber>16</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>4</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1300337316</lastupdated>
+  <seasonid>22306</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>1512681</id>
+  <Combined_episodenumber>17</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid>1</DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>I'm A Big Kid Now</EpisodeName>
+  <EpisodeNumber>17</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>4</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1300337323</lastupdated>
+  <seasonid>22306</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>1512691</id>
+  <Combined_episodenumber>18</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid>1</DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Little Titles: Season 4</EpisodeName>
+  <EpisodeNumber>18</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Episode intro clips for the episodes in season 4.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>4</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1300337330</lastupdated>
+  <seasonid>22306</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>1512701</id>
+  <Combined_episodenumber>19</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid>1</DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Moving Weight</EpisodeName>
+  <EpisodeNumber>19</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>4</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1300337336</lastupdated>
+  <seasonid>22306</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>1512711</id>
+  <Combined_episodenumber>20</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid>2</DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>One Stop Chop Shop</EpisodeName>
+  <EpisodeNumber>20</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>4</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1300337345</lastupdated>
+  <seasonid>22306</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>1512721</id>
+  <Combined_episodenumber>21</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid>2</DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>The Real Hunter Parrish</EpisodeName>
+  <EpisodeNumber>21</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>4</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1300337350</lastupdated>
+  <seasonid>22306</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>1512731</id>
+  <Combined_episodenumber>22</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid>2</DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Tour Of Bubbie's House</EpisodeName>
+  <EpisodeNumber>22</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>4</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1300337356</lastupdated>
+  <seasonid>22306</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>1512741</id>
+  <Combined_episodenumber>23</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid>2</DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>The Weed Wranglers</EpisodeName>
+  <EpisodeNumber>23</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>4</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1300337364</lastupdated>
+  <seasonid>22306</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>1512751</id>
+  <Combined_episodenumber>24</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid>1</DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Season 4 Gag Reel</EpisodeName>
+  <EpisodeNumber>24</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Bloopers from season 4.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>4</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1300337371</lastupdated>
+  <seasonid>22306</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>1537531</id>
+  <Combined_episodenumber>25</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid>2</DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Season 5 Gag Reel</EpisodeName>
+  <EpisodeNumber>25</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Bloopers from season 5.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>5</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1300337377</lastupdated>
+  <seasonid>22306</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>1537541</id>
+  <Combined_episodenumber>26</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid>2</DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Crazy love a guide to the dysfunctional relationships</EpisodeName>
+  <EpisodeNumber>26</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>5</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1300337383</lastupdated>
+  <seasonid>22306</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>1537551</id>
+  <Combined_episodenumber>27</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid>1</DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>History of Weed</EpisodeName>
+  <EpisodeNumber>27</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>5</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1300337389</lastupdated>
+  <seasonid>22306</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>1537561</id>
+  <Combined_episodenumber>28</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid>2</DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Really backstage with Kevin Nealon</EpisodeName>
+  <EpisodeNumber>28</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>5</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1300337396</lastupdated>
+  <seasonid>22306</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>1537571</id>
+  <Combined_episodenumber>29</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid>2</DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>University of Andy: How to Survive a Bear Attack</EpisodeName>
+  <EpisodeNumber>29</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Uncle Andy provides expert advice on the important topics in life.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>5</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1300337404</lastupdated>
+  <seasonid>22306</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>1537581</id>
+  <Combined_episodenumber>30</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid>1</DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Yes we Cannabis</EpisodeName>
+  <EpisodeNumber>30</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>5</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1300337414</lastupdated>
+  <seasonid>22306</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>1657371</id>
+  <Combined_episodenumber>31</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid>1</DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Little Titles: Season 5</EpisodeName>
+  <EpisodeNumber>31</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Episode intro clips for the episodes in season 5.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>5</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1300337430</lastupdated>
+  <seasonid>22306</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>3236111</id>
+  <Combined_episodenumber>32</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid>1</DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>All Too Much/More than a Friend - Music Video</EpisodeName>
+  <EpisodeNumber>32</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>1</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1300337437</lastupdated>
+  <seasonid>22306</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>3236121</id>
+  <Combined_episodenumber>33</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid>1</DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Smoke &amp; Mirrors</EpisodeName>
+  <EpisodeNumber>33</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Interview with Romany Malco</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>1</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1300337444</lastupdated>
+  <seasonid>22306</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>3236131</id>
+  <Combined_episodenumber>34</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid>1</DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Showtime Original Special</EpisodeName>
+  <EpisodeNumber>34</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Weeds: Season 1 Promo</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>1</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1300337451</lastupdated>
+  <seasonid>22306</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>3236141</id>
+  <Combined_episodenumber>35</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid>1</DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Showtime Original Series Shorts Part 1</EpisodeName>
+  <EpisodeNumber>35</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Cast questions answered Part 1</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>1</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1300337457</lastupdated>
+  <seasonid>22306</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>3236251</id>
+  <Combined_episodenumber>36</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid>2</DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Huskeroos Commercials</EpisodeName>
+  <EpisodeNumber>36</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>2</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1300337465</lastupdated>
+  <seasonid>22306</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>3236261</id>
+  <Combined_episodenumber>37</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid>2</DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Little Boxes Montages: Aidan Hawken</EpisodeName>
+  <EpisodeNumber>37</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>2</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1300337475</lastupdated>
+  <seasonid>22306</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>3236271</id>
+  <Combined_episodenumber>38</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid>2</DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Little Boxes Montages: Dengue Fever</EpisodeName>
+  <EpisodeNumber>38</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>2</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1300337482</lastupdated>
+  <seasonid>22306</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>3236281</id>
+  <Combined_episodenumber>39</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid>2</DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Little Boxes Montages: Peggy Honeywell</EpisodeName>
+  <EpisodeNumber>39</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>2</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1300337490</lastupdated>
+  <seasonid>22306</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>3236291</id>
+  <Combined_episodenumber>40</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid>2</DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Little Boxes Montages: Tim DeLaughter of the Polyphonic Spree</EpisodeName>
+  <EpisodeNumber>40</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>2</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1300337497</lastupdated>
+  <seasonid>22306</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>3237731</id>
+  <Combined_episodenumber>41</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid>1</DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Little Boxes Montages: Randy Newman</EpisodeName>
+  <EpisodeNumber>41</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>3</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1300337503</lastupdated>
+  <seasonid>22306</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>3237811</id>
+  <Combined_episodenumber>42</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid>1</DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Little Boxes Montages: Mary-Kate Olsen</EpisodeName>
+  <EpisodeNumber>42</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>3</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1300337510</lastupdated>
+  <seasonid>22306</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>3237821</id>
+  <Combined_episodenumber>43</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid>1</DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Little Boxes Montages</EpisodeName>
+  <EpisodeNumber>43</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>#1 Kinky
+#2 The Individuals
+#3 Man Man
+#4 Persephone's Bees</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>3</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1300337519</lastupdated>
+  <seasonid>22306</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>3241191</id>
+  <Combined_episodenumber>44</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid>2</DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Uncle AWOL</EpisodeName>
+  <EpisodeNumber>44</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>3</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1300337525</lastupdated>
+  <seasonid>22306</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>3242481</id>
+  <Combined_episodenumber>45</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid>2</DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>University of Andy: How to Satisfy a Woman</EpisodeName>
+  <EpisodeNumber>45</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>5</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1300337531</lastupdated>
+  <seasonid>22306</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>3242491</id>
+  <Combined_episodenumber>46</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid>2</DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>University of Andy: How to Start a Band</EpisodeName>
+  <EpisodeNumber>46</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>5</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1300337538</lastupdated>
+  <seasonid>22306</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>3242501</id>
+  <Combined_episodenumber>47</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid>2</DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>University of Andy: Holding Your Liquor</EpisodeName>
+  <EpisodeNumber>47</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>5</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1300337544</lastupdated>
+  <seasonid>22306</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>3245421</id>
+  <Combined_episodenumber>48</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid>2</DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>University of Andy: Surviving the Apocalypse</EpisodeName>
+  <EpisodeNumber>48</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>5</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1300337551</lastupdated>
+  <seasonid>22306</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>3245431</id>
+  <Combined_episodenumber>49</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid>2</DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>University of Andy: Internet Dating</EpisodeName>
+  <EpisodeNumber>49</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>5</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1300395146</lastupdated>
+  <seasonid>22306</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>3245451</id>
+  <Combined_episodenumber>50</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid>2</DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>University of Andy: Dating Foreign Chicks</EpisodeName>
+  <EpisodeNumber>50</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>5</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1300337567</lastupdated>
+  <seasonid>22306</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>3245471</id>
+  <Combined_episodenumber>51</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid>2</DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>University of Andy: How to Make $100</EpisodeName>
+  <EpisodeNumber>51</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>5</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1300337574</lastupdated>
+  <seasonid>22306</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>3245481</id>
+  <Combined_episodenumber>52</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid>2</DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>University of Andy: The Breakup</EpisodeName>
+  <EpisodeNumber>52</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>5</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1300337581</lastupdated>
+  <seasonid>22306</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>3245491</id>
+  <Combined_episodenumber>53</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid>2</DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>University of Andy: Dealing with Bullies</EpisodeName>
+  <EpisodeNumber>53</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>5</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1300337589</lastupdated>
+  <seasonid>22306</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>3245521</id>
+  <Combined_episodenumber>54</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid>2</DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>University of Andy: Avoiding the Crazy</EpisodeName>
+  <EpisodeNumber>54</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>5</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1300337597</lastupdated>
+  <seasonid>22306</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>3245531</id>
+  <Combined_episodenumber>55</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid>2</DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>University of Andy: Manscaping</EpisodeName>
+  <EpisodeNumber>55</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>5</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1300337604</lastupdated>
+  <seasonid>22306</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>3790001</id>
+  <Combined_episodenumber>56</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid>1</DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Showtime Original Series Shorts Part 2</EpisodeName>
+  <EpisodeNumber>56</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Cast questions answered Part 2</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>1</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1300337611</lastupdated>
+  <seasonid>22306</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>3921691</id>
+  <Combined_episodenumber>57</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid>1</DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Kevin Nealon &amp; Justin Kirk: What Do We Have Left To Say?</EpisodeName>
+  <EpisodeNumber>57</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>6</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1300435123</lastupdated>
+  <seasonid>22306</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>3921761</id>
+  <Combined_episodenumber>58</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid>1</DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Season 6 Gag Reel</EpisodeName>
+  <EpisodeNumber>58</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>6</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1300436364</lastupdated>
+  <seasonid>22306</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>3926161</id>
+  <Combined_episodenumber>59</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid>2</DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Bye-Bye Botwins</EpisodeName>
+  <EpisodeNumber>59</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>6</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1300478004</lastupdated>
+  <seasonid>22306</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>3926171</id>
+  <Combined_episodenumber>60</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid>2</DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Fandamonium: Weeds Creators Tell All</EpisodeName>
+  <EpisodeNumber>60</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>6</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1300478076</lastupdated>
+  <seasonid>22306</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>295369</id>
+  <Combined_episodenumber>1.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>1.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>Brian Dannelly</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>You Can't Miss the Bear</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2005-08-07</FirstAired>
+  <GuestStars>|Haley Hudson|Adam Taylor Gordon|</GuestStars>
+  <IMDB_ID>tt0745217</IMDB_ID>
+  <Language>en</Language>
+  <Overview>In the series debut, housewife Nancy Botwin struggles to deal with the sudden death of her husband, while her best friend and neighbour Celia Hodes learns a devastating secret when she tries to catch her daughter in the act with Nancy's son.</Overview>
+  <ProductionCode>1001</ProductionCode>
+  <Rating>7.2</Rating>
+  <RatingCount>32</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Jenji Kohan</Writer>
+  <absolute_number>1</absolute_number>
+  <filename>episodes/74845/295369.jpg</filename>
+  <lastupdated>1297910068</lastupdated>
+  <seasonid>8108</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>295370</id>
+  <Combined_episodenumber>2.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>2.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>Brian Dannelly</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Free Goat</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2005-08-15</FirstAired>
+  <GuestStars>|Jina Song|Paul St. Denis|Jeffrey Dean Morgan|Cindy Lu|Becky Thyre|Shawn Shepps|Tyrone Mitchell|</GuestStars>
+  <IMDB_ID>tt0745210</IMDB_ID>
+  <Language>en</Language>
+  <Overview>As Celia deals with the other woman in her marriage, Nancy contemplates creating an enterprise to solve the cash-only financial issues caused by her drug dealing. Silas has to come to terms with his girlfriend's sudden departure, while Shane tries to come to terms with missing his Dad.</Overview>
+  <ProductionCode>1002</ProductionCode>
+  <Rating>6.9</Rating>
+  <RatingCount>26</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Jenji Kohan</Writer>
+  <absolute_number>2</absolute_number>
+  <filename>episodes/74845/295370.jpg</filename>
+  <lastupdated>1290343634</lastupdated>
+  <seasonid>8108</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>295371</id>
+  <Combined_episodenumber>3.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>3.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>Craig Zisk</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Good Shit Lollipop</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2005-08-22</FirstAired>
+  <GuestStars>|Craig X Rubin|Joey Capone|Devon Gearhart|Joey Gray|Jina Song|Becky Thyre|Shawn Schepps|Jesse Head|Shoshannah Stern|Soledad St. Hilaire|David Pressman|</GuestStars>
+  <IMDB_ID>tt0745211</IMDB_ID>
+  <Language>en</Language>
+  <Overview>A mountain lion is on the prowl in Agrestic, but it's the medical marijuana facility that is causing the most havoc in Nancy's life. Faced with the dilemma of having to compete, Nancy has to get cooking. Silas makes a move on Megan causing him some colourful problems of his own and Celia and Isabel's war over weight issues gets dirty.</Overview>
+  <ProductionCode>1003</ProductionCode>
+  <Rating>7.4</Rating>
+  <RatingCount>26</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Roberto Benabib</Writer>
+  <absolute_number>3</absolute_number>
+  <filename>episodes/74845/295371.jpg</filename>
+  <lastupdated>1297910093</lastupdated>
+  <seasonid>8108</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>296494</id>
+  <Combined_episodenumber>4.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>4.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>Burr Steers</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Fashion of the Christ</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>2005-08-29</FirstAired>
+  <GuestStars>|Indrajit Sarkar|Shoshannah Stern|Jane Lynch|Shawn Schepps|Becky Thyre|David Doty|</GuestStars>
+  <IMDB_ID>tt0745209</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Nancy gets a rude awakening when her brother-in-law Andy comes for a surprise visit. Doug has an idea for a location for the faux bakery, which Nancy may need more than ever with Andy in the way. While Andy wreaks havoc in the Botwins' lives, Nancy is introduced to &quot;The Candy Man&quot; in order to help meet her customers' needs, and Celia drops a bomb.</Overview>
+  <ProductionCode>1004</ProductionCode>
+  <Rating>7.0</Rating>
+  <RatingCount>23</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Jenji Kohan</Writer>
+  <absolute_number>4</absolute_number>
+  <filename>episodes/74845/296494.jpg</filename>
+  <lastupdated>1298024481</lastupdated>
+  <seasonid>8108</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>296495</id>
+  <Combined_episodenumber>5.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>5.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>Lee Rose</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Lude Awakening</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired>2005-09-05</FirstAired>
+  <GuestStars>|Becky Thyre|Shawn Schepps|Joey Gray|David Pressman|Soledad St. Hilaire|Allison Janney|Ayla Kell|Shoshannah Stern|Lochlyn Munro|</GuestStars>
+  <IMDB_ID>tt0745213</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Nancy gets a reality check about what a life of crime can entail. Andy acts like a fool and gets arrested. Celia tries alternative methods to deal with her breast cancer. She also steps out of her box and bonds with children. Shane gets in trouble at school. Again.</Overview>
+  <ProductionCode>1005</ProductionCode>
+  <Rating>7.4</Rating>
+  <RatingCount>23</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Devon K. Shepard</Writer>
+  <absolute_number>5</absolute_number>
+  <filename>episodes/74845/296495.jpg</filename>
+  <lastupdated>1290343757</lastupdated>
+  <seasonid>8108</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>296496</id>
+  <Combined_episodenumber>6.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>6.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>Arlene Sanford</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Dead in the Nethers</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired>2005-09-12</FirstAired>
+  <GuestStars>|Yvonne DeLarosa|Brooke Langton|</GuestStars>
+  <IMDB_ID>tt0745208</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Nancy attempt to play around in an effort to relieve some stress. Nancy, Celia, and Conrad go out to a club where Celia and Conrad &quot;snuggle up.&quot; Meanwhile Andy meets a woman who he lies to like he would anyone else and Lupita starts investigating so as to gain the upper hand in her employee/employer relationship.
+
+</Overview>
+  <ProductionCode>1006</ProductionCode>
+  <Rating>7.0</Rating>
+  <RatingCount>25</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Michael Platt|Barry Safchik</Writer>
+  <absolute_number>6</absolute_number>
+  <filename>episodes/74845/296496.jpg</filename>
+  <lastupdated>1290343788</lastupdated>
+  <seasonid>8108</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>296497</id>
+  <Combined_episodenumber>7.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>7.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>Tucker Gates</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Higher Education</EpisodeName>
+  <EpisodeNumber>7</EpisodeNumber>
+  <FirstAired>2005-09-19</FirstAired>
+  <GuestStars>|Gelbert Coloma|Maulik Pancholy|Clare Carey|</GuestStars>
+  <IMDB_ID>tt0745212</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Nancy hires an employee, and becomes known to a rival in the process. Shane makes a new friend, and Andy gets to know the new friend's mother. Celia's mother comes to visit after Celia's surgery.</Overview>
+  <ProductionCode>1007</ProductionCode>
+  <Rating>7.2</Rating>
+  <RatingCount>24</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Shawn Schepps</Writer>
+  <absolute_number>7</absolute_number>
+  <filename>episodes/74845/296497.jpg</filename>
+  <lastupdated>1290343808</lastupdated>
+  <seasonid>8108</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>296498</id>
+  <Combined_episodenumber>8.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>8.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>Robert Berlinger</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Punishment Light</EpisodeName>
+  <EpisodeNumber>8</EpisodeNumber>
+  <FirstAired>2005-09-26</FirstAired>
+  <GuestStars>|Stephon Fuller|Matt Nolan|Maulik Pancholy|</GuestStars>
+  <IMDB_ID>tt0745215</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Uncle Andy acts foolish at a ceremony for Judah. Shane gets in trouble again. Celia and Dean duke it out. Nancy finds out who it is that has been &quot;delivering&quot; pennies onto her car and fountain and she deals with them. Andy and Doug team up to bring more trouble into Nancy's home while trying to flush out the infestation of a rat. Nancy turns down an interested single father. And Uncle Andy exposes too much of himself yet again.</Overview>
+  <ProductionCode>1008</ProductionCode>
+  <Rating>7.3</Rating>
+  <RatingCount>23</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Rolin Jones</Writer>
+  <absolute_number>8</absolute_number>
+  <filename>episodes/74845/296498.jpg</filename>
+  <lastupdated>1298024603</lastupdated>
+  <seasonid>8108</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>296499</id>
+  <Combined_episodenumber>9.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>9.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>Paul Feig</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Punishment Lighter</EpisodeName>
+  <EpisodeNumber>9</EpisodeNumber>
+  <FirstAired>2005-10-03</FirstAired>
+  <GuestStars>|Stephon Fuller|Matt Nolan|Maulik Pancholy|</GuestStars>
+  <IMDB_ID>tt0745216</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Nancy gets busted and Heylia teaches her about a $14,000 lesson. Doug and Celia make kitchen talk. The kids have daddy problems during diversity week. Bread-sticks and Scones, Nancy's bakery, opens and doesn't start off so well. And Celia retakes the PTA by way of a technicality.</Overview>
+  <ProductionCode>1009</ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>21</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Matthew Salsberg</Writer>
+  <absolute_number>9</absolute_number>
+  <filename>episodes/74845/296499.jpg</filename>
+  <lastupdated>1297910158</lastupdated>
+  <seasonid>8108</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>296500</id>
+  <Combined_episodenumber>10.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>10.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>Lev L. Spiro</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Godmother</EpisodeName>
+  <EpisodeNumber>10</EpisodeNumber>
+  <FirstAired>2005-10-10</FirstAired>
+  <GuestStars>Maulik Pancholy</GuestStars>
+  <IMDB_ID>tt0745214</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Isabelle experiments, Andy gets drafted, Peter may not be who Nancy thinks he is, Silas gets high, and Nancy cuts out the middleman.</Overview>
+  <ProductionCode>1010</ProductionCode>
+  <Rating>8.1</Rating>
+  <RatingCount>21</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Jenji Kohan</Writer>
+  <absolute_number>10</absolute_number>
+  <filename>episodes/74845/296500.jpg</filename>
+  <lastupdated>1290343868</lastupdated>
+  <seasonid>8108</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>307884</id>
+  <Combined_episodenumber>1.0</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>1.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
+  <Director>Craig Zisk</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Corn Snake</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2006-08-14</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt0815016</IMDB_ID>
+  <Language>en</Language>
+  <Overview>After repeatedly having her suggestions ignored by the likes of Doug Wilson and having a eye-opening car accident Celia decides to run for city council. Nancy tries to break things off with Peter because her life is currently too illegal to be dating the DEA. Things gets even more hectic when Sanjay screws up at the bakery. Andy is still trying to get into a Rabbinical school so that he doesn't get shipped off to Iraq.
+</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.4</Rating>
+  <RatingCount>18</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Jenji Kohan</Writer>
+  <absolute_number>11</absolute_number>
+  <filename>episodes/74845/307884.jpg</filename>
+  <lastupdated>1290343913</lastupdated>
+  <seasonid>16332</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>307885</id>
+  <Combined_episodenumber>2.0</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>2.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
+  <Director>Craig Zisk</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Cooking with Jesus</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2006-08-21</FirstAired>
+  <GuestStars>|Vincent Laresca|Chris Williams|Page Kennedy|</GuestStars>
+  <IMDB_ID>tt0823133</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Nancy does her best to cope with the loss of Conrad's help, who runs into some trouble while venturing out on his own. Andy is still trying to get into rabbinical school by writing an essay on what being Jewish means to him. And Silas deals with Megan's acceptance to Princeton in his own unique way.
+</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.8</Rating>
+  <RatingCount>21</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Jenji Kohan</Writer>
+  <absolute_number>12</absolute_number>
+  <filename>episodes/74845/307885.jpg</filename>
+  <lastupdated>1290343932</lastupdated>
+  <seasonid>16332</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>307886</id>
+  <Combined_episodenumber>3.0</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>3.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
+  <Director>Bryan Gordon</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Last Tango in Agrestic</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2006-08-28</FirstAired>
+  <GuestStars>|Ron Canada|Tom Kiesche|Rey Lucas|Indigo|</GuestStars>
+  <IMDB_ID>tt0823134</IMDB_ID>
+  <Language>en</Language>
+  <Overview>While Nancy is trying to figure out what do with Peter, she comes home to problems of plumbing that are related to Shane and his arrival into puberty. Celia enrolls Isabelle in boot camp and ends up getting sucked into it herself. Heylia is interested in a Nation of Islam member and his bean pies.
+</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>20</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Roberto Benabib</Writer>
+  <absolute_number>13</absolute_number>
+  <filename>episodes/74845/307886.jpg</filename>
+  <lastupdated>1290343950</lastupdated>
+  <seasonid>16332</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>307887</id>
+  <Combined_episodenumber>4.0</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>4.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
+  <Director>Lev L. Spiro</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>A.K.A. The Plant</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>2006-09-04</FirstAired>
+  <GuestStars>|Jeanne Chinn|Rhea Kohan|Molly Bryant|Diane Sellers|Marty Ryan|Clint Culp|Franc Ross|Ron Canada|</GuestStars>
+  <IMDB_ID>tt0823136</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Nancy takes on an alias to help Conrad set up the grow house. Isabelle get approached to be a model. Interesting things happen to Celia while she's on the campaign trail. Shane makes an attempt to fit in at his school. Andy takes Shane to a massage parlor. Shane gets a surprise and Silas has one as well.
+</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>20</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Matthew Salsberg</Writer>
+  <absolute_number>14</absolute_number>
+  <filename>episodes/74845/307887.jpg</filename>
+  <lastupdated>1290343978</lastupdated>
+  <seasonid>16332</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>307888</id>
+  <Combined_episodenumber>5.0</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>5.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
+  <Director>Craig Zisk</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Mrs. Botwin's Neighborhood</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired>2006-09-11</FirstAired>
+  <GuestStars>|David Doty|Lynette Romero|Sammy Fine|Cody Klop|Bruce Thomas|Arthur Darbinyan|Kasey Campbell|</GuestStars>
+  <IMDB_ID>tt0823135</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Isabelle is auditioning for the Huskeroo ads afterall. Once Celia sees that Isabelle has an opportunity to go national she may change her mind about Isabelle's involvement. Celia is still campaigning and is starting to wonder what Nancy does during all of her &quot;free time&quot; as a widowed housewife.  Conrad lays out the details of the operations of their Armenian neighbors and Nancy comes up with a plan. Silas may have more to deal with than a baby on the way. Shane finally starts to fit in at school. Heylia prepares for her first date with Joseph.
+</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>20</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Rolin  Jones</Writer>
+  <absolute_number>15</absolute_number>
+  <filename>episodes/74845/307888.jpg</filename>
+  <lastupdated>1290344122</lastupdated>
+  <seasonid>16332</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>307889</id>
+  <Combined_episodenumber>6.0</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>6.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
+  <Director>Tucker Gates</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Crush Girl Love Panic</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired>2006-09-18</FirstAired>
+  <GuestStars>|Ron Canada|Sammy Fine|John Paul Mitchell|David Bardeen|Remy Auberjonois|Thomas Burr|Christine Joaquin|</GuestStars>
+  <IMDB_ID>tt0815017</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Conrad is beginning to grow suspicious of Nancy's actions after the bust on the grow houses. Shane joins the debate team at school. Celia gets in the way when Isabelle goes to shoot her Huskeroos commercial. Isabelle talks to Doug about something she doesn't want her mother to know about. Nancy has a surprise for the men in her life.
+</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>19</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Devon K. Shepard</Writer>
+  <absolute_number>16</absolute_number>
+  <filename>episodes/74845/307889.jpg</filename>
+  <lastupdated>1290344159</lastupdated>
+  <seasonid>16332</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>307890</id>
+  <Combined_episodenumber>7.0</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>7.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
+  <Director>Chris Long</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Must Find Toes</EpisodeName>
+  <EpisodeNumber>7</EpisodeNumber>
+  <FirstAired>2006-09-25</FirstAired>
+  <GuestStars>|Dave Thomas|Daryl Sabara|</GuestStars>
+  <IMDB_ID>tt0815018</IMDB_ID>
+  <Language>en</Language>
+  <Overview>It's election day and the votes are being cast by friend and foe alike. Andy loses some of his toes at the grow house. Nancy tries to make peace with Conrad. She also has to deal with the romance or lack thereof in both of her sons lives. Doug and Celia are having problems in their respective marriages to Dana and Dean.
+</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>17</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>|Michael Platt|Barry Safchik|</Writer>
+  <absolute_number>17</absolute_number>
+  <filename>episodes/74845/307890.jpg</filename>
+  <lastupdated>1290344183</lastupdated>
+  <seasonid>16332</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>308469</id>
+  <Combined_episodenumber>8.0</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>8.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
+  <Director>Craig Zisk</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>MILF Money</EpisodeName>
+  <EpisodeNumber>8</EpisodeNumber>
+  <FirstAired>2006-10-02</FirstAired>
+  <GuestStars>|Snoop Dogg|Martin Donovan|Indigo|Page Kennedy|Andy Milder|David Doty|Cody Klop|Kasey Campbell|Sammy Fine|Telisha Shaw|Avery Kidd Waddell|Josh Fadem|Lily Knight|Becky Thyre|Dan Bucatinsky|</GuestStars>
+  <IMDB_ID>tt0831804</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Conrad and Nancy take their product to be tested in the market. They run into some upscale clients on the way. Celia tries to get Dean to help her with a speech that she must give in front of some kids as the new City Councilwoman. Celia wants to close a dog park. Nancy goes to invest some of her cash in jewelry. Heylia finds out that Nancy and Conrad are working together on their own seperate venture and she lets them know that she knows.
+</Overview>
+  <ProductionCode>2008</ProductionCode>
+  <Rating>7.3</Rating>
+  <RatingCount>18</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Shawn Schepps</Writer>
+  <absolute_number>18</absolute_number>
+  <filename>episodes/74845/308469.jpg</filename>
+  <lastupdated>1290344206</lastupdated>
+  <seasonid>16332</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>308470</id>
+  <Combined_episodenumber>9.0</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>9.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
+  <Director>Christopher Misiano</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Bash</EpisodeName>
+  <EpisodeNumber>9</EpisodeNumber>
+  <FirstAired>2006-10-09</FirstAired>
+  <GuestStars>|David Goldman|Shawn Michael Patrick|Christopher Allen Nelson|Ron Canada|</GuestStars>
+  <IMDB_ID>tt0852431</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Peter makes a visit to Heylia's house with some of his DEA friends. Nancy and Conrad install a safe in the grow house. Doug tries to ruin Celia's new job by showing her up at a City Council meeting. Silas and Shane celebrate their dad's birthday.
+</Overview>
+  <ProductionCode>2009</ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>21</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number>19</absolute_number>
+  <filename>episodes/74845/308470.jpg</filename>
+  <lastupdated>1290344226</lastupdated>
+  <seasonid>16332</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>310032</id>
+  <Combined_episodenumber>10.0</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>10.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
+  <Director>Craig Zisk</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Mile Deep and a Foot Wide</EpisodeName>
+  <EpisodeNumber>10</EpisodeNumber>
+  <FirstAired>2006-10-16</FirstAired>
+  <GuestStars>|Joe Zymblosky|Eric Cadora|Eden Sher|Andy Milder|Bob Rumnock|Jack Stehlin|Martin Donovan|Allie Grant|Zooey Deschanel|</GuestStars>
+  <IMDB_ID>tt0826017</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Heylia treats Nancy like the trash that she thinks she is. Peter's captain looks over his notes on the DEA bust. Celia and Doug's relationship hasn't changed since last week. Andy's ex-girlfriend, Kat, shows up.
+</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.4</Rating>
+  <RatingCount>21</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Rolin  Jones</Writer>
+  <absolute_number>20</absolute_number>
+  <filename>episodes/74845/310032.jpg</filename>
+  <lastupdated>1290344242</lastupdated>
+  <seasonid>16332</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>310033</id>
+  <Combined_episodenumber>11.0</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>11.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
+  <Director>Craig Zisk</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Yeah, Like Tomatoes</EpisodeName>
+  <EpisodeNumber>11</EpisodeNumber>
+  <FirstAired>2006-10-23</FirstAired>
+  <GuestStars>|Martin Donovan|Andy Milder|Eden Sher|Allie Grant|Zooey Deschanel|</GuestStars>
+  <IMDB_ID>tt0840977</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Peter isn't happy about the nickname &quot;Agent Wonderbread&quot; and he lets Nancy and Conrad know so with a convinving threat. Nancy looks to other people in the business for help. Kat's got a secret and Shane's girlfriend doesn't like her. Heylia has a plan.
+</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>22</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>|Matthew Salsberg|Roberto Benabib|</Writer>
+  <absolute_number>21</absolute_number>
+  <filename>episodes/74845/310033.jpg</filename>
+  <lastupdated>1290344262</lastupdated>
+  <seasonid>16332</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>310034</id>
+  <Combined_episodenumber>12.0</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>12.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Pittsburgh</EpisodeName>
+  <EpisodeNumber>12</EpisodeNumber>
+  <FirstAired>2006-10-30</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt0840976</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Nancy is having one of the worst and busiest days of life. One of sons is missing. Shane's graduation and the deal with U-Turn make her feel like she needs to be in two places at once even though she really doesn't feel like being in either of them. Heylia's plan is put into action. Nancy tries to deal with Conrad's kiss, Celia's madness, and Kat's craziness. Everything comes to a head when the deal goes wrong.
+</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.0</Rating>
+  <RatingCount>21</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number>22</absolute_number>
+  <filename>episodes/74845/310034.jpg</filename>
+  <lastupdated>1290344299</lastupdated>
+  <seasonid>16332</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>332082</id>
+  <Combined_episodenumber>1.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>1.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Craig Zisk</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Doing the Backstroke</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2007-08-13</FirstAired>
+  <GuestStars>|Zooey Deschanel|Page Kennedy|</GuestStars>
+  <IMDB_ID>tt1026422</IMDB_ID>
+  <Language>en</Language>
+  <Overview>After being threatened by U-Turn and The Armenians, Nancy goes in search of Silas and her hijacked pot. Meanwhile, Celia has Silas arrested for stealing her &quot;Drug Free Zone&quot; signs. Nancy visits him in jail only to discover that the pot is still in his car - the one that Celia has just driven away in.</Overview>
+  <ProductionCode>3001</ProductionCode>
+  <Rating>7.2</Rating>
+  <RatingCount>21</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Jenji Kohan</Writer>
+  <absolute_number>23</absolute_number>
+  <filename>episodes/74845/332082.jpg</filename>
+  <lastupdated>1296852727</lastupdated>
+  <seasonid>27977</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>332246</id>
+  <Combined_episodenumber>2.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>2.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Craig Zisk</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>A Pool and His Money</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2007-08-20</FirstAired>
+  <GuestStars>Julanne Chidi Hill</GuestStars>
+  <IMDB_ID>tt1014055</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Sanjay has a new experience. Nancy gets bruised. Conrad won't do what U-Turn wants him to. Lupita still won't follow orders. Heylia's out to handle a few things. The Amber Alert is still out on Shane. Andy gets in trouble with a couple who make him for a child molester. Silas gets to talk to Shane. Celia is still having problems with her husband and daughter. Doug begs Celia to forgive him.</Overview>
+  <ProductionCode>3002</ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>18</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Jenji Kohan</Writer>
+  <absolute_number>24</absolute_number>
+  <filename>episodes/74845/332246.jpg</filename>
+  <lastupdated>1290344364</lastupdated>
+  <seasonid>27977</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>332376</id>
+  <Combined_episodenumber>3.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>3.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>|Lev L. Spiro|</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>The Brick Dance</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2007-08-27</FirstAired>
+  <GuestStars>|Page Kennedy|Guillermo Díaz|</GuestStars>
+  <IMDB_ID>tt1014056</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Conrad and Heylia find a new grow house.  Celia attempts to bond with Isabel, while U-Turn forces Nancy to run a dangerous errand.</Overview>
+  <ProductionCode>3003</ProductionCode>
+  <Rating>7.1</Rating>
+  <RatingCount>19</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>|Roberto Benabib|</Writer>
+  <absolute_number>25</absolute_number>
+  <filename>episodes/74845/332376.jpg</filename>
+  <lastupdated>1290344388</lastupdated>
+  <seasonid>27977</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>332999</id>
+  <Combined_episodenumber>4.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>4.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Martha Coolidge</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Shit Highway</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>2007-09-03</FirstAired>
+  <GuestStars>Matthew Modine</GuestStars>
+  <IMDB_ID>tt1014057</IMDB_ID>
+  <Language>en</Language>
+  <Overview>The DEA continues to probe Nancy's life to figure out what happened to Peter. Shane helps Nancy get a job. Someone asks the city council for a favor on behalf of Majestic. Conrad and Heylia set up their new grow house. Silas runs into Pam while performing his community service.</Overview>
+  <ProductionCode>3004</ProductionCode>
+  <Rating>7.2</Rating>
+  <RatingCount>16</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Roberto Benabib</Writer>
+  <absolute_number>26</absolute_number>
+  <filename>episodes/74845/332999.jpg</filename>
+  <lastupdated>1290344408</lastupdated>
+  <seasonid>27977</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>335031</id>
+  <Combined_episodenumber>5.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>5.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Craig Zisk</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Bill Sussman</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired>2007-09-10</FirstAired>
+  <GuestStars>Patricia Harris Smith|Richard Hilton|Sathya Jesudasson|Rick Scarry|Fatso Fasano|Indigo|Wendle Josepher|Page Kennedy|Maulik Pancholy|Steve Tom</GuestStars>
+  <IMDB_ID>tt1014058</IMDB_ID>
+  <Language>en</Language>
+  <Overview>After going AWOL from the military Andy turns up in camouflage. The city council works with Sullivan. Shane goes to summer school in Majestic. Nancy's involvement with U-Turn becomes more entrenched and Silas has business ideas. Sullivan asks Nancy to hold a cocktail party.</Overview>
+  <ProductionCode>3005</ProductionCode>
+  <Rating>7.3</Rating>
+  <RatingCount>18</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Rolin Jones</Writer>
+  <absolute_number>27</absolute_number>
+  <filename>episodes/74845/335031.jpg</filename>
+  <lastupdated>1290344426</lastupdated>
+  <seasonid>27977</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>335345</id>
+  <Combined_episodenumber>6.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>6.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Perry Lang</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Grasshopper</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired>2007-09-17</FirstAired>
+  <GuestStars>Indigo|Fatso Fasano|Page Kennedy|Chris Herrmann|Jeffrey Hutchinson|Don Perry|Kay Panabaker</GuestStars>
+  <IMDB_ID>tt1014059</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Silas makes a new friend, played by the smokin' hot Mary-Kate Olsen; Nancy's conflict with Conrad and Heylia comes to a head; and Nancy finds herself charged with the task of making peace between Agrestic and Majestic.</Overview>
+  <ProductionCode>3006</ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>19</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Devon K. Shepard</Writer>
+  <absolute_number>28</absolute_number>
+  <filename>episodes/74845/335345.jpg</filename>
+  <lastupdated>1290344467</lastupdated>
+  <seasonid>27977</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>335346</id>
+  <Combined_episodenumber>7.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>7.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Paul Feig</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>He Taught Me How to Drive By</EpisodeName>
+  <EpisodeNumber>7</EpisodeNumber>
+  <FirstAired>2007-09-24</FirstAired>
+  <GuestStars>|Julanne Chidi Hill|Guillermo Díaz|</GuestStars>
+  <IMDB_ID>tt1014060</IMDB_ID>
+  <Language>en</Language>
+  <Overview>With U-Turn's timely demise Nancy and Conrad check the status on their debts and then they check in with each other. Someone is pregnant and they are keeping it. Doug continues to try to sabotage Celia and Celia continues to sabotage Nancy. Nancy celebrates something. Silas begins spending more time with Tara.</Overview>
+  <ProductionCode>3007</ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>18</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Matthew Salsberg</Writer>
+  <absolute_number>29</absolute_number>
+  <filename>episodes/74845/335346.jpg</filename>
+  <lastupdated>1290344492</lastupdated>
+  <seasonid>27977</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>336314</id>
+  <Combined_episodenumber>8.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>8.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Craig Zisk</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>The Two Mrs. Scottsons</EpisodeName>
+  <EpisodeNumber>8</EpisodeNumber>
+  <FirstAired>2007-10-01</FirstAired>
+  <GuestStars>|Brooke Smith|Daryl Sabara|Jack Stehlin|</GuestStars>
+  <IMDB_ID>tt1014061</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Celia and Sullivan step up their relationship. Andy gets more involved in a different business. Silas and Tara begin working together. Shane and Isabelle spend time together. Nancy meets Peter's other ex-wife, Valerie.</Overview>
+  <ProductionCode>3008</ProductionCode>
+  <Rating>7.2</Rating>
+  <RatingCount>15</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Rolin Jones</Writer>
+  <absolute_number>30</absolute_number>
+  <filename>episodes/74845/336314.jpg</filename>
+  <lastupdated>1290344513</lastupdated>
+  <seasonid>27977</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>336315</id>
+  <Combined_episodenumber>9.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>9.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Ernest R. Dickerson</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Release the Hounds</EpisodeName>
+  <EpisodeNumber>9</EpisodeNumber>
+  <FirstAired>2007-10-08</FirstAired>
+  <GuestStars>|Brooke Smith|Jack Stehlin|</GuestStars>
+  <IMDB_ID>tt1014062</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Doug and Sullivan fight over a golf membership and Doug get some revenge. Nancy spends time with Valerie, who considers her an “insane stalker person”. Conrad and Silas spend time together. Dean is injured and hospitalized. Tara tries to get deeper into Nancy's business.</Overview>
+  <ProductionCode>3009</ProductionCode>
+  <Rating>7.1</Rating>
+  <RatingCount>17</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Blair Singer</Writer>
+  <absolute_number>31</absolute_number>
+  <filename>episodes/74845/336315.jpg</filename>
+  <lastupdated>1291882414</lastupdated>
+  <seasonid>27977</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>336316</id>
+  <Combined_episodenumber>10.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>10.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Craig Zisk</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Roy Till Called</EpisodeName>
+  <EpisodeNumber>10</EpisodeNumber>
+  <FirstAired>2007-10-15</FirstAired>
+  <GuestStars>|Daryl Sabara|Jack Stehlin|</GuestStars>
+  <IMDB_ID>tt1014054</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Nancy's up and running again until someone betrays her and sends in the DEA. Celia spends more time with Dean. Doug has ethics decisions to make.</Overview>
+  <ProductionCode>3010</ProductionCode>
+  <Rating>7.0</Rating>
+  <RatingCount>18</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Victoria Morrow</Writer>
+  <absolute_number>32</absolute_number>
+  <filename>episodes/74845/336316.jpg</filename>
+  <lastupdated>1291882429</lastupdated>
+  <seasonid>27977</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>336317</id>
+  <Combined_episodenumber>11.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>11.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Julie Ann Robinson</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Cankles</EpisodeName>
+  <EpisodeNumber>11</EpisodeNumber>
+  <FirstAired>2007-10-22</FirstAired>
+  <GuestStars>Tobillos gordos</GuestStars>
+  <IMDB_ID>tt1106488</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Nancy discovers who betrayed her and  finds out she's being trailed. Some people lose their jobs. Silas discovers something about Tara. Shane installs a security system.</Overview>
+  <ProductionCode>3011</ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>20</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Christina Kiang Booth</Writer>
+  <absolute_number>33</absolute_number>
+  <filename>episodes/74845/336317.jpg</filename>
+  <lastupdated>1291882439</lastupdated>
+  <seasonid>27977</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>336318</id>
+  <Combined_episodenumber>12.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>12.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Ernest R. Dickerson</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>The Dark Time</EpisodeName>
+  <EpisodeNumber>12</EpisodeNumber>
+  <FirstAired>2007-10-29</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1106623</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Andy and Dean play murderball. Nancy ponders a new venture while Heylia and Conrad must abandon theirs. Doug sinks to an all-time low.</Overview>
+  <ProductionCode>3012</ProductionCode>
+  <Rating>7.2</Rating>
+  <RatingCount>18</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Victoria Morrow</Writer>
+  <absolute_number>34</absolute_number>
+  <filename>episodes/74845/336318.jpg</filename>
+  <lastupdated>1291882450</lastupdated>
+  <seasonid>27977</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>337940</id>
+  <Combined_episodenumber>13.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>13.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Paul Feig</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Risk</EpisodeName>
+  <EpisodeNumber>13</EpisodeNumber>
+  <FirstAired>2007-11-05</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1110201</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Nancy tries out a new source but it doesn't go so well. Conrad and Nancy are having some good interplay. Heylia and Vaneeta like the new neighborhood. Celia is angry.</Overview>
+  <ProductionCode>3013</ProductionCode>
+  <Rating>7.2</Rating>
+  <RatingCount>20</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>|Rolin Jones|Roberto Benabib|Matthew Salsberg|</Writer>
+  <absolute_number>35</absolute_number>
+  <filename>episodes/74845/337940.jpg</filename>
+  <lastupdated>1292759757</lastupdated>
+  <seasonid>27977</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>337941</id>
+  <Combined_episodenumber>14.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>14.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Randall Zisk</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Protection</EpisodeName>
+  <EpisodeNumber>14</EpisodeNumber>
+  <FirstAired>2007-11-12</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1103083</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Nancy has another full week of trouble to deal with and Doug isn't helping. Heylia teaches Celia.</Overview>
+  <ProductionCode>3014</ProductionCode>
+  <Rating>7.4</Rating>
+  <RatingCount>17</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Roberto Benabib</Writer>
+  <absolute_number>36</absolute_number>
+  <filename>episodes/74845/337941.jpg</filename>
+  <lastupdated>1291882475</lastupdated>
+  <seasonid>27977</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>337942</id>
+  <Combined_episodenumber>15.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>15.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Craig Zisk</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Go</EpisodeName>
+  <EpisodeNumber>15</EpisodeNumber>
+  <FirstAired>2007-11-19</FirstAired>
+  <GuestStars>|Jack Stehlin|Diaz|</GuestStars>
+  <IMDB_ID>tt1137945</IMDB_ID>
+  <Language>en</Language>
+  <Overview>As the wildfire approaches, everyone must evacuate. Nancy tells her family to pack up, while Conrad and Heylia must say goodbye to the growhouse. The authorities question Sullivan and Celia, while Shane continues to ask Nancy about Pittsburgh. As Andy deals at the evacuation center, Silas realizes the truth about Tara.</Overview>
+  <ProductionCode>3015</ProductionCode>
+  <Rating>8.4</Rating>
+  <RatingCount>17</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Jenji Kohan</Writer>
+  <absolute_number>37</absolute_number>
+  <filename>episodes/74845/337942.jpg</filename>
+  <lastupdated>1291882485</lastupdated>
+  <seasonid>27977</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>370304</id>
+  <Combined_episodenumber>1.0</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>1.0</DVD_episodenumber>
+  <DVD_season>4</DVD_season>
+  <Director>Craig Zisk</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Mother Thinks the Birds Are After Her</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2008-06-16</FirstAired>
+  <GuestStars>|Albert Brooks|Joey Wagner Luthman|Andrew Rothenberg|Heather Marie Zagone|</GuestStars>
+  <IMDB_ID>tt1137932</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Nancy has relocated to the border in search of a new life but she soon finds her past to be inescapable. Both problems and people follow her on her journey, but some have finally been left behind.</Overview>
+  <ProductionCode>4001</ProductionCode>
+  <Rating>7.3</Rating>
+  <RatingCount>15</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>Jenji Kohan</Writer>
+  <absolute_number>38</absolute_number>
+  <filename>episodes/74845/370304.jpg</filename>
+  <lastupdated>1296852027</lastupdated>
+  <seasonid>32949</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>371765</id>
+  <Combined_episodenumber>2.0</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>2.0</DVD_episodenumber>
+  <DVD_season>4</DVD_season>
+  <Director>Craig Zisk</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Lady's a Charm</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2008-06-23</FirstAired>
+  <GuestStars>|Albert Brooks|Lisa Arch|Lydia Blanco|Enrique Castillo|JD Cullum|Alejandro Patino|Rigo Sanchez|Jack Stehlin|Ezra Buzzington|Eddie Martinez|Pamela Shaddock|Jo Farkas|Joe Gerety|Travis L. Denham|</GuestStars>
+  <IMDB_ID>tt1137937</IMDB_ID>
+  <Language>en</Language>
+  <Overview>After settling her family in Ren Mar, Nancy turns her attention back to business. Later, Guillermo gives her a much-needed crash course in &quot;running&quot; across the border. Meanwhile, Celia gets further acquainted with life in prison. Lenny leaves Silas and Shane to care for Bubbie while he goes to the track. When Lenny returns, Andy confronts him about some family history.</Overview>
+  <ProductionCode>4002</ProductionCode>
+  <Rating>7.3</Rating>
+  <RatingCount>13</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>Victoria Morrow</Writer>
+  <absolute_number>39</absolute_number>
+  <filename>episodes/74845/371765.jpg</filename>
+  <lastupdated>1296848918</lastupdated>
+  <seasonid>32949</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>373757</id>
+  <Combined_episodenumber>3.0</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>3.0</DVD_episodenumber>
+  <DVD_season>4</DVD_season>
+  <Director>|David Steinberg|Craig Zisk|</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Whole Blah Damn Thing</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2008-06-30</FirstAired>
+  <GuestStars>|Albert Brooks|Maia Madison|Becky Thyre|Lisa Darr|</GuestStars>
+  <IMDB_ID>tt1137938</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Nancy makes her first successful smuggling run across the border with both drugs and human cargo. Meanwhile, Captain Till strikes a deal with Celia to get her out of jail. In return, she must gather evidence to incriminate Nancy and Guillermo. Back in Ren Mar, Andy tries to convince the family, including his father, to put Bubbie out of her misery.</Overview>
+  <ProductionCode>4003</ProductionCode>
+  <Rating>7.2</Rating>
+  <RatingCount>17</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>|Ron Fitzgerald|Victoria Morrow|</Writer>
+  <absolute_number>40</absolute_number>
+  <filename>episodes/74845/373757.jpg</filename>
+  <lastupdated>1296849218</lastupdated>
+  <seasonid>32949</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>374554</id>
+  <Combined_episodenumber>4.0</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>4.0</DVD_episodenumber>
+  <DVD_season>4</DVD_season>
+  <Director>Paris Barclay</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Three Coolers</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>2008-07-07</FirstAired>
+  <GuestStars>|Joey Wagner Luthman|Albert Brooks|Gloria Garayua|</GuestStars>
+  <IMDB_ID>tt1137939</IMDB_ID>
+  <Language>en</Language>
+  <Overview>After Bubbie's death, the entire Botwin family sits shiva (the Jewish period of mourning) for seven days. After shiva, Nancy is sent on a mission and takes Andy along with her. Now that shiva is over and Bubbie is gone, Lenny decides to sell the house. Meanwhile, Celia continues her flirtation with Captain Till, and Doug finds refuge with the Botwins.</Overview>
+  <ProductionCode>4004</ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>18</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>Roberto Benabib</Writer>
+  <absolute_number>41</absolute_number>
+  <filename>episodes/74845/374554.jpg</filename>
+  <lastupdated>1296849384</lastupdated>
+  <seasonid>32949</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>374555</id>
+  <Combined_episodenumber>5.0</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>5.0</DVD_episodenumber>
+  <DVD_season>4</DVD_season>
+  <Director>|Craig Zisk|</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>No Man is Pudding</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired>2008-07-14</FirstAired>
+  <GuestStars>|Paul Alayo|Guillermo Diaz|Gloria Garayua|</GuestStars>
+  <IMDB_ID>tt1137940</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Guillermo gives Nancy a new job and she soon finds working retail isn't as mundane as it appears on the surface. Celia's deal with Captain Till brings her dangerously close to the action. Meanwhile, having been left in the desert by Nancy, Andy finds himself with a pack of immigrants and a very unfriendly Coyote. Back at home, the boys battle an infestation of bees.</Overview>
+  <ProductionCode>4005</ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>18</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>|Rolin Jones|</Writer>
+  <absolute_number>42</absolute_number>
+  <filename>episodes/74845/374555.jpg</filename>
+  <lastupdated>1296849713</lastupdated>
+  <seasonid>32949</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>374556</id>
+  <Combined_episodenumber>6.0</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>6.0</DVD_episodenumber>
+  <DVD_season>4</DVD_season>
+  <Director>|Julie Anne Robinson|</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Excellent Treasures</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired>2008-07-21</FirstAired>
+  <GuestStars>|Onahoua Rodriguez|Ramon Franco|Joey Wagner Luthman|</GuestStars>
+  <IMDB_ID>tt1137941</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Nancy follows the tunnel in the back of the maternity shop and sees something she shouldn't at the other end. Dean takes a new job, leaving Isabelle to live with Celia. Meanwhile, Silas flirts with Lisa, and Doug falls in love with a vision of beauty who washes up on the beach.</Overview>
+  <ProductionCode>4006</ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>18</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>|Jenji Kohan|</Writer>
+  <absolute_number>43</absolute_number>
+  <filename>episodes/74845/374556.jpg</filename>
+  <lastupdated>1296849861</lastupdated>
+  <seasonid>32949</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>374557</id>
+  <Combined_episodenumber>7.0</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>7.0</DVD_episodenumber>
+  <DVD_season>4</DVD_season>
+  <Director>|Scott Ellis|</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Yes I Can</EpisodeName>
+  <EpisodeNumber>7</EpisodeNumber>
+  <FirstAired>2008-07-28</FirstAired>
+  <GuestStars>|Andrew Rothenberg|Lee Majors|Daniel Zacapa|</GuestStars>
+  <IMDB_ID>tt1137942</IMDB_ID>
+  <Language>en</Language>
+  <Overview>When Nancy is denied a share of the incoming pot by Guillermo, she decides to go over his head to Esteban. Celia discovers the cheap medication at Mexican pharmacies. Silas and Lisa get intimate, while Shane discovers some shocking photos. Andy and Doug begin interviewing for their human smuggling operation.</Overview>
+  <ProductionCode>4007</ProductionCode>
+  <Rating>7.4</Rating>
+  <RatingCount>19</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>|Matthew Salsberg|</Writer>
+  <absolute_number>44</absolute_number>
+  <filename>episodes/74845/374557.jpg</filename>
+  <lastupdated>1296850167</lastupdated>
+  <seasonid>32949</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>374558</id>
+  <Combined_episodenumber>8.0</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>8.0</DVD_episodenumber>
+  <DVD_season>4</DVD_season>
+  <Director>|Adam Bernstein|</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>I Am the Table</EpisodeName>
+  <EpisodeNumber>8</EpisodeNumber>
+  <FirstAired>2008-08-04</FirstAired>
+  <GuestStars>|Ivo Nandi|Lee Majors|Hemky Madera|Armando Cosio|Shania Accius|Julie Bowen|Demian Bichir|Emilio Rivera|</GuestStars>
+  <IMDB_ID>tt1137943</IMDB_ID>
+  <Language>en</Language>
+  <Overview>A spontaneous date ends in near-violence for Nancy and Esteban; Silas reveals to Lisa that he grows pot, and she makes him a tempting offer; Andy and Doug smuggle their first customer across the border; Celia develops an addiction.</Overview>
+  <ProductionCode>4008</ProductionCode>
+  <Rating>7.3</Rating>
+  <RatingCount>15</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>|David Holstein|Brendan Kelly|</Writer>
+  <absolute_number>45</absolute_number>
+  <filename>episodes/74845/374558.jpg</filename>
+  <lastupdated>1296850340</lastupdated>
+  <seasonid>32949</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>379723</id>
+  <Combined_episodenumber>9.0</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>9.0</DVD_episodenumber>
+  <DVD_season>4</DVD_season>
+  <Director>Craig Zisk</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Little Boats</EpisodeName>
+  <EpisodeNumber>9</EpisodeNumber>
+  <FirstAired>2008-08-11</FirstAired>
+  <GuestStars>Julie Bowen</GuestStars>
+  <IMDB_ID>tt1137944</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Despite their busy schedules, Nancy and Esteban try to find some time for each other. After finding out about Shane's fantasies and Silas's new and much older girlfriend, Nancy also has to talk to both of her sons. With their relationship going on, Lisa and Silas add some special offerings to her cheese shop.</Overview>
+  <ProductionCode>4009</ProductionCode>
+  <Rating>7.4</Rating>
+  <RatingCount>16</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>Ron Fitzgerald</Writer>
+  <absolute_number>46</absolute_number>
+  <filename>episodes/74845/379723.jpg</filename>
+  <lastupdated>1296850504</lastupdated>
+  <seasonid>32949</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>379724</id>
+  <Combined_episodenumber>10.0</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>10.0</DVD_episodenumber>
+  <DVD_season>4</DVD_season>
+  <Director>|Julie Anne Robinson|</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Love Circle Overlap</EpisodeName>
+  <EpisodeNumber>10</EpisodeNumber>
+  <FirstAired>2008-08-18</FirstAired>
+  <GuestStars>|Guillermo Diaz|Lee Majors|Bob Odenkirk|</GuestStars>
+  <IMDB_ID>tt1137933</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Nancy learns that the tunnel is being used for more than drugs. Esteban puts her fears to rest as well as her nagging headache with a strong remedy. Celia's family stages an intervention in order to force her into rehab. Andy finds Maria and takes her across the border to an awaiting Doug. Silas babysits while Shane explores new territory with his two girlfriends.</Overview>
+  <ProductionCode>4010</ProductionCode>
+  <Rating>6.8</Rating>
+  <RatingCount>17</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>|Victoria Morrow|</Writer>
+  <absolute_number>47</absolute_number>
+  <filename>episodes/74845/379724.jpg</filename>
+  <lastupdated>1296851011</lastupdated>
+  <seasonid>32949</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>383403</id>
+  <Combined_episodenumber>11.0</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>11.0</DVD_episodenumber>
+  <DVD_season>4</DVD_season>
+  <Director>|Craig Zisk|</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Head Cheese</EpisodeName>
+  <EpisodeNumber>11</EpisodeNumber>
+  <FirstAired>2008-08-25</FirstAired>
+  <GuestStars>|Demian Bichir|Julie Bowen|Guillermo Diaz|Bob Odenkirk|Maulik Pancholy|</GuestStars>
+  <IMDB_ID>tt1137934</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Nancy must deal with the aftermath of Shane's exploits, her Ayahuasca trip, and more confrontation with Guillermo. Celia's struggles with her rehab partner, Barry, force her to find a new rehab facility. Doug and Maria's relationship quickly goes south and they both turn to Andy for help. Meanwhile, Silas's &quot;sandwich&quot; business has grown too big, forcing him to turn to Nancy for help.
+</Overview>
+  <ProductionCode>4011</ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>19</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>|Roberto Benabib|Rolin Jones|Matthew Salsberg|</Writer>
+  <absolute_number>48</absolute_number>
+  <filename>episodes/74845/383403.jpg</filename>
+  <lastupdated>1297712155</lastupdated>
+  <seasonid>32949</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>383404</id>
+  <Combined_episodenumber>12.0</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>12.0</DVD_episodenumber>
+  <DVD_season>4</DVD_season>
+  <Director>|Michael Trim|</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Till We Meet Again</EpisodeName>
+  <EpisodeNumber>12</EpisodeNumber>
+  <FirstAired>2008-09-08</FirstAired>
+  <GuestStars>|Onahoua Rodriguez|Hannah Marks|Hemky Madera|</GuestStars>
+  <IMDB_ID>tt1137935</IMDB_ID>
+  <Language>en</Language>
+  <Overview>A fed up Nancy squeals to the DEA to bust the tunnel while she plays it cool with Esteban. Embracing rehab, Celia sets out to make amends with her family. Andy succumbs to Maria's advances, and later comes clean to Doug. Shane impresses his girlfriends with his drug scoring abilities.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>17</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>|Matthew Salsberg|Rolin Jones|Roberto Benabib|</Writer>
+  <absolute_number>49</absolute_number>
+  <filename>episodes/74845/383404.jpg</filename>
+  <lastupdated>1297712163</lastupdated>
+  <seasonid>32949</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>386969</id>
+  <Combined_episodenumber>13.0</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>13.0</DVD_episodenumber>
+  <DVD_season>4</DVD_season>
+  <Director>|Craig Zisk|</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>If You Work for a Living, Then Why Do You Kill Yourself Working?</EpisodeName>
+  <EpisodeNumber>13</EpisodeNumber>
+  <FirstAired>2008-09-15</FirstAired>
+  <GuestStars>|Jillian Rose Reed|Joey Wagner Luthman|John Mese|</GuestStars>
+  <IMDB_ID>tt1137936</IMDB_ID>
+  <Language>en</Language>
+  <Overview>The DEA brings Nancy in for questioning and then she must explain things to Esteban. Celia travels deep into Mexico to make amends with estranged daughter Quinn. Meanwhile, Silas meets Lisa's ex-husband and Doug finds a reason to live. Nancy makes a shocking revelation to Esteban.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.8</Rating>
+  <RatingCount>23</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>|Jenji Kohan|</Writer>
+  <absolute_number>50</absolute_number>
+  <filename>episodes/74845/386969.jpg</filename>
+  <lastupdated>1297712179</lastupdated>
+  <seasonid>32949</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>586651</id>
+  <Combined_episodenumber>1.0</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>1.0</DVD_episodenumber>
+  <DVD_season>5</DVD_season>
+  <Director>Scott Ellis</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Wonderful Wonderful</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2009-06-08</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1407020</IMDB_ID>
+  <Language>en</Language>
+  <Overview>After showing Esteban the proof of her baby, a sonogram picture. Nancy returns to Ren Mar to her family, but still unsure of her fate. Meanwhile, Celia is held hostage in Mexico by her estranged daughter Quinn who tries to ransom her off to all her friends, but they hilariously decline to deliver the cash for her release. Back in Ren Mar, Andy, Silas and Doug discuss plans to grow pot in a national forest.</Overview>
+  <ProductionCode>5001</ProductionCode>
+  <Rating>6.9</Rating>
+  <RatingCount>21</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer>Jenji Kohan</Writer>
+  <absolute_number>51</absolute_number>
+  <filename>episodes/74845/586651.jpg</filename>
+  <lastupdated>1290345327</lastupdated>
+  <seasonid>58091</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>737381</id>
+  <Combined_episodenumber>2.0</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>2.0</DVD_episodenumber>
+  <DVD_season>5</DVD_season>
+  <Director>Michael Pressman</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Machetes Up Top</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2009-06-15</FirstAired>
+  <GuestStars>Jennifer Jason Leigh</GuestStars>
+  <IMDB_ID>tt1431676</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Nancy pays a secret visit to Guillermo in prison; Celia puts her time in the rebel camp to good use by organizing their supplies; Shane decides to visit Nancy's estranged sister (Jennifer Jason Leigh); Silas and Doug second-guess their choice of a pot-growing plot.</Overview>
+  <ProductionCode>5002</ProductionCode>
+  <Rating>7.0</Rating>
+  <RatingCount>21</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer>Victoria Morrow</Writer>
+  <absolute_number>52</absolute_number>
+  <filename>episodes/74845/737381.jpg</filename>
+  <lastupdated>1290345342</lastupdated>
+  <seasonid>58091</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>737391</id>
+  <Combined_episodenumber>3.0</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>3.0</DVD_episodenumber>
+  <DVD_season>5</DVD_season>
+  <Director>|Lesli Linka Glatter|</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Su-Su-Sucio</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2009-06-22</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1444658</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Nancy gets a surprise visit from Jill; Nancy's bodyguard goes missing; Celia's micromanaging gets her sent back to the U.S.; Silas and Doug seek law enforcement approval.</Overview>
+  <ProductionCode>5003</ProductionCode>
+  <Rating>7.0</Rating>
+  <RatingCount>21</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer>|Roberto Benabib|Matthew Salsberg|</Writer>
+  <absolute_number>53</absolute_number>
+  <filename>episodes/74845/737391.jpg</filename>
+  <lastupdated>1290345359</lastupdated>
+  <seasonid>58091</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>816901</id>
+  <Combined_episodenumber>4.0</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>4.0</DVD_episodenumber>
+  <DVD_season>5</DVD_season>
+  <Director>Scott Ellis</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Super Lucky Happy</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>2009-06-29</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1457584</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Nancy is visited by DEA agent Roy Till who has gone rogue and homecomer Celia moves into Nancy's garage. Meanwhile, Andy tries to access his brother's old bank account.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>6.8</Rating>
+  <RatingCount>24</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer>Ron Fitzgerald</Writer>
+  <absolute_number>54</absolute_number>
+  <filename>episodes/74845/816901.jpg</filename>
+  <lastupdated>1290345374</lastupdated>
+  <seasonid>58091</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>816911</id>
+  <Combined_episodenumber>5.0</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>5.0</DVD_episodenumber>
+  <DVD_season>5</DVD_season>
+  <Director>Bethany Rooney</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Van Nuys</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired>2009-07-06</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1457585</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Nancy talks with her obstetrician about ending the pregnancy. After his teacher took his pot, Shane needs some help to get it back. Andy is still trying to get access to his late brother's bank account. Meanwhile, Silas and Doug need to see &quot;The Wizard&quot; to make their pot selling dreams come true.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.2</Rating>
+  <RatingCount>22</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer>Stephan Falk</Writer>
+  <absolute_number>55</absolute_number>
+  <filename>episodes/74845/816911.jpg</filename>
+  <lastupdated>1290345391</lastupdated>
+  <seasonid>58091</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>816921</id>
+  <Combined_episodenumber>6.0</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>6.0</DVD_episodenumber>
+  <DVD_season>5</DVD_season>
+  <Director>Michael Trim</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>A Modest Proposal</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired>2009-07-13</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1457586</IMDB_ID>
+  <Language>en</Language>
+  <Overview>It's six months since we last saw everyone and Nancy is in full bloom. Esteban proposes, and all seems right with the world until Nancy discovers there's another woman in Esteban's life. Andy, meanwhile, has gone on a spending spree and let himself go. Now he must come to terms with the new order of things. Celia, unhappy in her job at the mall, discovers an opportunity in the world of cosmetics. Shane spends an eye-opening day with Ignacio. Silas and Doug's medical marijuana dispensary is in full operation. But Deputy C.P. Jones continues his meddling ways.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.4</Rating>
+  <RatingCount>24</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer>Vanessa Reisen</Writer>
+  <absolute_number>56</absolute_number>
+  <filename>episodes/74845/816921.jpg</filename>
+  <lastupdated>1290345407</lastupdated>
+  <seasonid>58091</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>816931</id>
+  <Combined_episodenumber>7.0</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>7.0</DVD_episodenumber>
+  <DVD_season>5</DVD_season>
+  <Director>|Jeremy Podeswa|</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Where the Sidewalk Ends</EpisodeName>
+  <EpisodeNumber>7</EpisodeNumber>
+  <FirstAired>2009-07-20</FirstAired>
+  <GuestStars>|Demian Bichir|Alanis Morissette|Larry Joe Campbell|</GuestStars>
+  <IMDB_ID>tt1444242</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Nancy learns the identity of the other woman in Esteban's life, as well as his plans for her childbirth delivery. With the help of Andy and Audra, Nancy takes matters into her own hands. Meanwhile, Celia discovers that getting rich quick isn't always so easy. Silas and Doug learn the hard way that Deputy C.P. Jones is more trouble than he's worth as the fate of their medical marijuana dispensary is jeopardized.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.3</Rating>
+  <RatingCount>23</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer>|Roberto Benabib|Matthew Salsberg|</Writer>
+  <absolute_number>57</absolute_number>
+  <filename>episodes/74845/816931.jpg</filename>
+  <lastupdated>1290345427</lastupdated>
+  <seasonid>58091</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>816941</id>
+  <Combined_episodenumber>8.0</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>8.0</DVD_episodenumber>
+  <DVD_season>5</DVD_season>
+  <Director>|Scott Ellis|</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>A Distinctive Horn</EpisodeName>
+  <EpisodeNumber>8</EpisodeNumber>
+  <FirstAired>2009-07-27</FirstAired>
+  <GuestStars>|Demian Bichir|Alanis Morissette|Kate Del Castillo|</GuestStars>
+  <IMDB_ID>tt1457587</IMDB_ID>
+  <Language>en</Language>
+  <Overview>The tension between Nancy and Esteban mounts as Pilar adds to the conflict. Nancy looks to Andy for help, just as hes focused on his relationship with Audra. Dean offers to help Silas and Doug get their dispensary back on track, but Celia sees an opportunity and steps in.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.1</Rating>
+  <RatingCount>21</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer>|Chris Offutt|</Writer>
+  <absolute_number>58</absolute_number>
+  <filename>episodes/74845/816941.jpg</filename>
+  <lastupdated>1290345446</lastupdated>
+  <seasonid>58091</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>816951</id>
+  <Combined_episodenumber>9.0</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>9.0</DVD_episodenumber>
+  <DVD_season>5</DVD_season>
+  <Director>Michael Trim</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Suck 'N' Spit</EpisodeName>
+  <EpisodeNumber>9</EpisodeNumber>
+  <FirstAired>2009-08-03</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1447169</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Nancy and Andy grow closer together while they try to be good parents. In the meantime, Celia and Dean work together to exploit their product surplus.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>26</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer>Brendan Kelly</Writer>
+  <absolute_number>59</absolute_number>
+  <filename>episodes/74845/816951.jpg</filename>
+  <lastupdated>1290345467</lastupdated>
+  <seasonid>58091</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>961991</id>
+  <Combined_episodenumber>10.0</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>10.0</DVD_episodenumber>
+  <DVD_season>5</DVD_season>
+  <Director>Scott Ellis</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Perro Insano</EpisodeName>
+  <EpisodeNumber>10</EpisodeNumber>
+  <FirstAired>2009-08-10</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1447165</IMDB_ID>
+  <Language>en</Language>
+  <Overview>With the arrival of new enemies, Shane and Silas needs Nancy's protection. Meanwhile, Andy plans his future with Audra, while Doug and Dean make a plan to put an end to Celia's marijuana business.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>25</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer>David Holstein</Writer>
+  <absolute_number>60</absolute_number>
+  <filename>episodes/74845/961991.jpg</filename>
+  <lastupdated>1293560802</lastupdated>
+  <seasonid>58091</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>982711</id>
+  <Combined_episodenumber>11.0</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>11.0</DVD_episodenumber>
+  <DVD_season>5</DVD_season>
+  <Director>Matt Shakman</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Ducks and Tigers</EpisodeName>
+  <EpisodeNumber>11</EpisodeNumber>
+  <FirstAired>2009-08-17</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1447166</IMDB_ID>
+  <Language>en</Language>
+  <Overview>A visit from Esteban's daughter comes with new problems for Nancy. In the meantime, Isabelle joins Doug and Dean's scheme of revenge against Celia. </Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.3</Rating>
+  <RatingCount>21</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer>Stephen Falk</Writer>
+  <absolute_number>61</absolute_number>
+  <filename>episodes/74845/982711.jpg</filename>
+  <lastupdated>1293560830</lastupdated>
+  <seasonid>58091</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>990901</id>
+  <Combined_episodenumber>12.0</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>12.0</DVD_episodenumber>
+  <DVD_season>5</DVD_season>
+  <Director>Michael Pressman</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Glue</EpisodeName>
+  <EpisodeNumber>12</EpisodeNumber>
+  <FirstAired>2009-08-24</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1447167</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Nancy, Andy and Cesar team up to look for Esteban when he goes missing. In the meantime, Dean and Doug start their scheme of revenge against Celia, while Silas and Shane develop a need to protect their new stepsister.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>20</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer>Ron Fitzgerald</Writer>
+  <absolute_number>62</absolute_number>
+  <filename>episodes/74845/990901.jpg</filename>
+  <lastupdated>1293560857</lastupdated>
+  <seasonid>58091</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>990911</id>
+  <Combined_episodenumber>13.0</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>13.0</DVD_episodenumber>
+  <DVD_season>5</DVD_season>
+  <Director>Scott Ellis</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>All About My Mom</EpisodeName>
+  <EpisodeNumber>13</EpisodeNumber>
+  <FirstAired>2009-08-31</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1447168</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Nancy learns of Esteban's fate and takes action to preserve her own. Andy makes a big change in his life. Dean, Doug and Celia find common ground. Silas helps Adelita with a disturbing medical issue.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.9</Rating>
+  <RatingCount>24</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer>Jenji Kohan</Writer>
+  <absolute_number>63</absolute_number>
+  <filename>episodes/74845/990911.jpg</filename>
+  <lastupdated>1293560882</lastupdated>
+  <seasonid>58091</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>1953381</id>
+  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Scott Ellis</Director>
+  <EpImgFlag>3</EpImgFlag>
+  <EpisodeName>Thwack</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2010-08-16</FirstAired>
+  <GuestStars>Demian Bichir|Alanis Morissette|Enrique Castillo|Mo Gallini|Matt Peters|Renée Victor</GuestStars>
+  <IMDB_ID>tt1620407</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Faced with the aftermath of Shane having murdered Pilar, Nancy grabs Shane and Silas and they flee the scene. Andy is then met with the decision to split town with his family or stay and fight for Audra's affection.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.3</Rating>
+  <RatingCount>50</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer>Jenji Kohan</Writer>
+  <absolute_number>64</absolute_number>
+  <filename>episodes/74845/1953381.jpg</filename>
+  <lastupdated>1293560927</lastupdated>
+  <seasonid>219481</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>2440751</id>
+  <Combined_episodenumber>2</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Scott Ellis</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Felling and Swamping</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2010-08-23</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1665705</IMDB_ID>
+  <Language>en</Language>
+  <Overview>After hours of aimless driving, Nancy, ignoring Shane's suggestion of hiding out in Pittsburgh, hatches a plan for the family to cross into Canada. Andy is tasked with acquiring fake IDs. Silas must decide if he's willing to live on the lam. Elsewhere, Esteban must answer to authorities regarding Pilar's murder and Nancy's whereabouts.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.4</Rating>
+  <RatingCount>49</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer>Victoria Morrow</Writer>
+  <absolute_number>65</absolute_number>
+  <filename>episodes/74845/2440751.jpg</filename>
+  <lastupdated>1293560960</lastupdated>
+  <seasonid>219481</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>2440761</id>
+  <Combined_episodenumber>3</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Tate Donovan</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>A Yippity Sippity</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2010-08-30</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1664614</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Nancy becomes a scab labor in a Seattle hotel while Shane looks after Stevie and Doug goes back to Ren Mar</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>38</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer>Brendan Kelly</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/74845/2440761.jpg</filename>
+  <lastupdated>1293560990</lastupdated>
+  <seasonid>219481</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>2585261</id>
+  <Combined_episodenumber>4</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Eric Jewett</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Bliss</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>2010-09-13</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1674661</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Nancy makes a deal with the concierge and Shane becomes part of a mommy group. Meanwhile, Doug is questioned by Cesar and Ignacio.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>50</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer>Stephen Falk</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/74845/2585261.jpg</filename>
+  <lastupdated>1293561012</lastupdated>
+  <seasonid>219481</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>2585271</id>
+  <Combined_episodenumber>5</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Scott Ellis</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Boomerang</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired>2010-09-20</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1675136</IMDB_ID>
+  <Language>en</Language>
+  <Overview>The Botwins' flight continues after a parking violation and Doug gets into a hostage situation.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.9</Rating>
+  <RatingCount>53</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer>Stephen Falk</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/74845/2585271.jpg</filename>
+  <lastupdated>1293561037</lastupdated>
+  <seasonid>219481</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>2585281</id>
+  <Combined_episodenumber>6</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Michael Trim</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>A Shoe for a Shoe</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired>2010-09-27</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1675137</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Nancy brings her son back while Andy and Silas wait in a diner.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>54</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer>David Holstein</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/74845/2585281.jpg</filename>
+  <lastupdated>1293561062</lastupdated>
+  <seasonid>219481</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>2845791</id>
+  <Combined_episodenumber>7</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Mike Uppendahl</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Pinwheels and Whirligigs</EpisodeName>
+  <EpisodeNumber>7</EpisodeNumber>
+  <FirstAired>2010-10-04</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1674662</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Nancy decides that her family has seen enough gunslinging for a lifetime, so to lighten things up she takes them to a Montana fair. Andy and Silas enter a butter-eating contest while Doug looks after the baby and makes friends with the carneys. Elsewhere, Nancy escorts Shane on a rollercoaster where they stir up some trouble in line.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>46</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer>Carly Mensch</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/74845/2845791.jpg</filename>
+  <lastupdated>1293561092</lastupdated>
+  <seasonid>219481</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>2845801</id>
+  <Combined_episodenumber>8</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Scott Ellis</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Gentle Puppies</EpisodeName>
+  <EpisodeNumber>8</EpisodeNumber>
+  <FirstAired>2010-10-11</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1673347</IMDB_ID>
+  <Language>en</Language>
+  <Overview>After acquiring an RV, Nancy lets Andy navigate the road and he leads them to Pioneer Town, a former western movie set now turned off-the-grid scab city. While Nancy attempts to get the lay of the land, she instructs the family to set up a mobile hash making shop inside the RV. Andy and Silas work on getting laundry machines while Doug and Shane try to obtain water.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.4</Rating>
+  <RatingCount>48</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer>Victoria Morrow</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/74845/2845801.jpg</filename>
+  <lastupdated>1293561116</lastupdated>
+  <seasonid>219481</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>2845811</id>
+  <Combined_episodenumber>9</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Michael Trim</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>To Moscow, and Quickly</EpisodeName>
+  <EpisodeNumber>9</EpisodeNumber>
+  <FirstAired>2010-10-18</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1681356</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Nancy is met with yet another roadblock when baby Stevie gets sick leaving her and Andy to scramble to find a pediatrician. Meanwhile, Silas, Shane and Doug are tasked with unloading some merchandise at a kiddie concert.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.2</Rating>
+  <RatingCount>50</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer>|Dave Holstein|Carly Mensch|</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/74845/2845811.jpg</filename>
+  <lastupdated>1293561147</lastupdated>
+  <seasonid>219481</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>2845831</id>
+  <Combined_episodenumber>10</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Scott Ellis</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Dearborn-Again</EpisodeName>
+  <EpisodeNumber>10</EpisodeNumber>
+  <FirstAired>2010-10-25</FirstAired>
+  <GuestStars>Richard Dreyfuss</GuestStars>
+  <IMDB_ID>tt1683858</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Nancy, attempting to score some big cash, returns to her hometown where she takes up residence with Warren an old acquaintance. Andy and Doug try to secure information on where to locate fake passports. Meanwhile, Silas and Shane curiously dig into Nancy's past.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.4</Rating>
+  <RatingCount>51</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer>|Roberto Benabib|Matthew Salsberg|</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/74845/2845831.jpg</filename>
+  <lastupdated>1293561177</lastupdated>
+  <seasonid>219481</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>2923211</id>
+  <Combined_episodenumber>11</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Michael Trim</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Viking Pride</EpisodeName>
+  <EpisodeNumber>11</EpisodeNumber>
+  <FirstAired>2010-11-01</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1683377</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Nancy, trying to get she and her family out of the country, is continually faced with unexpected guests from her past. Andy has to get creative in order to secure passports while Doug must find his own means of obtaining one. Meanwhile, Silas deals with the possibility that Lars could be his father. Shane is left to deal with Warren who is becoming unhinged.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.4</Rating>
+  <RatingCount>44</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer>|Brendan Kelly|Tara Herrmann|</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/74845/2923211.jpg</filename>
+  <lastupdated>1293561201</lastupdated>
+  <seasonid>219481</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>3083651</id>
+  <Combined_episodenumber>12</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>David Warren</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Fran Tarkenton</EpisodeName>
+  <EpisodeNumber>12</EpisodeNumber>
+  <FirstAired>2010-11-08</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1686757</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Nancy has a tense, one-on-one, sit-down interview with Vaughn. Andy, Shane and Warren to get more cash plus passports they'll need for the family to enter Europe. Silas continues to wrestle with the fact that Lars may be his father. Meanwhile, returns to Agrestic to locate his passport.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.8</Rating>
+  <RatingCount>43</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer>Stephen Falk</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/74845/3083651.jpg</filename>
+  <lastupdated>1293561277</lastupdated>
+  <seasonid>219481</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>3083661</id>
+  <Combined_episodenumber>13</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Scott Ellis</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Theoretical Love is Not Dead</EpisodeName>
+  <EpisodeNumber>13</EpisodeNumber>
+  <FirstAired>2010-11-15</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1709071</IMDB_ID>
+  <Language>en</Language>
+  <Overview>In the season 6 finale, Nancy must free herself from the grip of Esteban in order to escape the country along with her family. At the airport, Andy attempts to calm the nerves of Shane and Warren. Meanwhile, Silas must decide whether to stay with Lars or leave with the Botwins. </Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.3</Rating>
+  <RatingCount>40</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer>Jenji Kohan</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/74845/3083661.jpg</filename>
+  <lastupdated>1293561311</lastupdated>
+  <seasonid>219481</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+<Episode>
+  <id>3436351</id>
+  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_season>7</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>TBA</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2011-06-27</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>7</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1299077176</lastupdated>
+  <seasonid>390701</seasonid>
+  <seriesid>74845</seriesid>
+</Episode>
+</Data>

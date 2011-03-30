@@ -1,6 +1,5 @@
 var win = Ti.UI.currentWindow;
 win.backgroundColor = '#ffffff';
-
 	
 	var webview = Ti.UI.createWebView({
 		scalePageToFit : true,
@@ -11,14 +10,14 @@ win.backgroundColor = '#ffffff';
 	// Add the webview (the original webpage article), and animate the page into view.
 	win.add(webview);
 	
-	/*
+	
 	if (Titanium.Platform.name == 'iPhone OS')
 	{
 	// add button which links to the original article.
 	var button = Ti.UI.createButton({
 		title:'View Full Article'
 	});
-	win.setToolbar([button]);
+	win.rightNavButton = button;
 
 	button.addEventListener('click', function() {
 		Titanium.Platform.openURL(win.theUrl);
@@ -37,6 +36,5 @@ win.backgroundColor = '#ffffff';
 	    });
 	};
 	}
-	*/
 	
 

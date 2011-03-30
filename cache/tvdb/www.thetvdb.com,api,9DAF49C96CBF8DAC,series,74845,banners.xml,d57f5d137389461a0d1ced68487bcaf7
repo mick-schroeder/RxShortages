@@ -1,0 +1,1116 @@
+status: 200
+content-length: 32813
+content-location: http://www.thetvdb.com/api/9DAF49C96CBF8DAC/series/74845/banners.xml
+expires: Tue, 22 Mar 2011 07:38:43 GMT
+vary: Accept-Encoding
+server: nginx
+last-modified: Mon, 21 Mar 2011 21:11:17 GMT
+connection: keep-alive
+-content-encoding: gzip
+cache-control: max-age=900
+date: Tue, 22 Mar 2011 07:23:43 GMT
+content-type: text/xml
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8" ?>
+<Banners>
+<Banner>
+  <id>536831</id>
+  <BannerPath>fanart/original/74845-33.jpg</BannerPath>
+  <BannerType>fanart</BannerType>
+  <BannerType2>1280x720</BannerType2>
+  <Colors>|231,199,161|255,223,9|119,116,81|</Colors>
+  <Language>en</Language>
+  <Rating>9.0000</Rating>
+  <RatingCount>2</RatingCount>
+  <SeriesName>true</SeriesName>
+  <ThumbnailPath>_cache/fanart/original/74845-33.jpg</ThumbnailPath>
+  <VignettePath>fanart/vignette/74845-33.jpg</VignettePath>
+</Banner>
+<Banner>
+  <id>21462</id>
+  <BannerPath>fanart/original/74845-9.jpg</BannerPath>
+  <BannerType>fanart</BannerType>
+  <BannerType2>1280x720</BannerType2>
+  <Colors></Colors>
+  <Language>en</Language>
+  <Rating>8.5833</Rating>
+  <RatingCount>12</RatingCount>
+  <SeriesName>false</SeriesName>
+  <ThumbnailPath>_cache/fanart/original/74845-9.jpg</ThumbnailPath>
+  <VignettePath>fanart/vignette/74845-9.jpg</VignettePath>
+</Banner>
+<Banner>
+  <id>26626</id>
+  <BannerPath>fanart/original/74845-21.jpg</BannerPath>
+  <BannerType>fanart</BannerType>
+  <BannerType2>1920x1080</BannerType2>
+  <Colors>|249,249,249|19,24,28|208,158,135|</Colors>
+  <Language>en</Language>
+  <Rating>8.0000</Rating>
+  <RatingCount>4</RatingCount>
+  <SeriesName>false</SeriesName>
+  <ThumbnailPath>_cache/fanart/original/74845-21.jpg</ThumbnailPath>
+  <VignettePath>fanart/vignette/74845-21.jpg</VignettePath>
+</Banner>
+<Banner>
+  <id>203871</id>
+  <BannerPath>fanart/original/74845-27.jpg</BannerPath>
+  <BannerType>fanart</BannerType>
+  <BannerType2>1280x720</BannerType2>
+  <Colors>|25,54,34|244,211,194|54,37,27|</Colors>
+  <Language>de</Language>
+  <Rating>8.0000</Rating>
+  <RatingCount>6</RatingCount>
+  <SeriesName>false</SeriesName>
+  <ThumbnailPath>_cache/fanart/original/74845-27.jpg</ThumbnailPath>
+  <VignettePath>fanart/vignette/74845-27.jpg</VignettePath>
+</Banner>
+<Banner>
+  <id>129521</id>
+  <BannerPath>fanart/original/74845-23.jpg</BannerPath>
+  <BannerType>fanart</BannerType>
+  <BannerType2>1920x1080</BannerType2>
+  <Colors></Colors>
+  <Language>en</Language>
+  <Rating>7.7500</Rating>
+  <RatingCount>8</RatingCount>
+  <SeriesName>true</SeriesName>
+  <ThumbnailPath>_cache/fanart/original/74845-23.jpg</ThumbnailPath>
+  <VignettePath>fanart/vignette/74845-23.jpg</VignettePath>
+</Banner>
+<Banner>
+  <id>20867</id>
+  <BannerPath>fanart/original/74845-7.jpg</BannerPath>
+  <BannerType>fanart</BannerType>
+  <BannerType2>1280x720</BannerType2>
+  <Colors>|188,194,218|163,70,26|255,217,43|</Colors>
+  <Language>en</Language>
+  <Rating>7.6667</Rating>
+  <RatingCount>12</RatingCount>
+  <SeriesName>false</SeriesName>
+  <ThumbnailPath>_cache/fanart/original/74845-7.jpg</ThumbnailPath>
+  <VignettePath>fanart/vignette/74845-7.jpg</VignettePath>
+</Banner>
+<Banner>
+  <id>26540</id>
+  <BannerPath>fanart/original/74845-17.jpg</BannerPath>
+  <BannerType>fanart</BannerType>
+  <BannerType2>1920x1080</BannerType2>
+  <Colors>|205,214,147|216,226,163|240,247,195|</Colors>
+  <Language>en</Language>
+  <Rating>7.5714</Rating>
+  <RatingCount>7</RatingCount>
+  <SeriesName>false</SeriesName>
+  <ThumbnailPath>_cache/fanart/original/74845-17.jpg</ThumbnailPath>
+  <VignettePath>fanart/vignette/74845-17.jpg</VignettePath>
+</Banner>
+<Banner>
+  <id>24626</id>
+  <BannerPath>fanart/original/74845-15.jpg</BannerPath>
+  <BannerType>fanart</BannerType>
+  <BannerType2>1920x1080</BannerType2>
+  <Colors>|213,230,150|76,112,22|125,51,6|</Colors>
+  <Language>en</Language>
+  <Rating>7.4000</Rating>
+  <RatingCount>5</RatingCount>
+  <SeriesName>false</SeriesName>
+  <ThumbnailPath>_cache/fanart/original/74845-15.jpg</ThumbnailPath>
+  <VignettePath>fanart/vignette/74845-15.jpg</VignettePath>
+</Banner>
+<Banner>
+  <id>20866</id>
+  <BannerPath>fanart/original/74845-6.jpg</BannerPath>
+  <BannerType>fanart</BannerType>
+  <BannerType2>1280x720</BannerType2>
+  <Colors>|254,235,21|116,20,24|255,199,150|</Colors>
+  <Language>en</Language>
+  <Rating>7.3333</Rating>
+  <RatingCount>3</RatingCount>
+  <SeriesName>false</SeriesName>
+  <ThumbnailPath>_cache/fanart/original/74845-6.jpg</ThumbnailPath>
+  <VignettePath>fanart/vignette/74845-6.jpg</VignettePath>
+</Banner>
+<Banner>
+  <id>26541</id>
+  <BannerPath>fanart/original/74845-18.jpg</BannerPath>
+  <BannerType>fanart</BannerType>
+  <BannerType2>1920x1080</BannerType2>
+  <Colors>|233,86,114|43,21,10|144,133,54|</Colors>
+  <Language>en</Language>
+  <Rating>7.2857</Rating>
+  <RatingCount>7</RatingCount>
+  <SeriesName>false</SeriesName>
+  <ThumbnailPath>_cache/fanart/original/74845-18.jpg</ThumbnailPath>
+  <VignettePath>fanart/vignette/74845-18.jpg</VignettePath>
+</Banner>
+<Banner>
+  <id>26623</id>
+  <BannerPath>fanart/original/74845-19.jpg</BannerPath>
+  <BannerType>fanart</BannerType>
+  <BannerType2>1920x1080</BannerType2>
+  <Colors></Colors>
+  <Language>en</Language>
+  <Rating>7.0000</Rating>
+  <RatingCount>2</RatingCount>
+  <SeriesName>false</SeriesName>
+  <ThumbnailPath>_cache/fanart/original/74845-19.jpg</ThumbnailPath>
+  <VignettePath>fanart/vignette/74845-19.jpg</VignettePath>
+</Banner>
+<Banner>
+  <id>21463</id>
+  <BannerPath>fanart/original/74845-10.jpg</BannerPath>
+  <BannerType>fanart</BannerType>
+  <BannerType2>1280x720</BannerType2>
+  <Colors>|61,32,28|222,160,109|249,218,172|</Colors>
+  <Language>en</Language>
+  <Rating>7.0000</Rating>
+  <RatingCount>5</RatingCount>
+  <SeriesName>false</SeriesName>
+  <ThumbnailPath>_cache/fanart/original/74845-10.jpg</ThumbnailPath>
+  <VignettePath>fanart/vignette/74845-10.jpg</VignettePath>
+</Banner>
+<Banner>
+  <id>24307</id>
+  <BannerPath>fanart/original/74845-14.jpg</BannerPath>
+  <BannerType>fanart</BannerType>
+  <BannerType2>1920x1080</BannerType2>
+  <Colors>|247,195,148|251,206,164|20,9,13|</Colors>
+  <Language>en</Language>
+  <Rating>7.0000</Rating>
+  <RatingCount>1</RatingCount>
+  <SeriesName>false</SeriesName>
+  <ThumbnailPath>_cache/fanart/original/74845-14.jpg</ThumbnailPath>
+  <VignettePath>fanart/vignette/74845-14.jpg</VignettePath>
+</Banner>
+<Banner>
+  <id>26625</id>
+  <BannerPath>fanart/original/74845-20.jpg</BannerPath>
+  <BannerType>fanart</BannerType>
+  <BannerType2>1920x1080</BannerType2>
+  <Colors></Colors>
+  <Language>en</Language>
+  <Rating>6.5000</Rating>
+  <RatingCount>2</RatingCount>
+  <SeriesName>false</SeriesName>
+  <ThumbnailPath>_cache/fanart/original/74845-20.jpg</ThumbnailPath>
+  <VignettePath>fanart/vignette/74845-20.jpg</VignettePath>
+</Banner>
+<Banner>
+  <id>24224</id>
+  <BannerPath>fanart/original/74845-11.jpg</BannerPath>
+  <BannerType>fanart</BannerType>
+  <BannerType2>1920x1080</BannerType2>
+  <Colors></Colors>
+  <Language>en</Language>
+  <Rating>6.5000</Rating>
+  <RatingCount>2</RatingCount>
+  <SeriesName>false</SeriesName>
+  <ThumbnailPath>_cache/fanart/original/74845-11.jpg</ThumbnailPath>
+  <VignettePath>fanart/vignette/74845-11.jpg</VignettePath>
+</Banner>
+<Banner>
+  <id>24225</id>
+  <BannerPath>fanart/original/74845-12.jpg</BannerPath>
+  <BannerType>fanart</BannerType>
+  <BannerType2>1920x1080</BannerType2>
+  <Colors>|242,244,207|82,110,49|188,196,121|</Colors>
+  <Language>en</Language>
+  <Rating>6.4000</Rating>
+  <RatingCount>5</RatingCount>
+  <SeriesName>false</SeriesName>
+  <ThumbnailPath>_cache/fanart/original/74845-12.jpg</ThumbnailPath>
+  <VignettePath>fanart/vignette/74845-12.jpg</VignettePath>
+</Banner>
+<Banner>
+  <id>24865</id>
+  <BannerPath>fanart/original/74845-16.jpg</BannerPath>
+  <BannerType>fanart</BannerType>
+  <BannerType2>1280x720</BannerType2>
+  <Colors>|250,224,201|21,20,25|240,243,222|</Colors>
+  <Language>en</Language>
+  <Rating>6.2500</Rating>
+  <RatingCount>4</RatingCount>
+  <SeriesName>false</SeriesName>
+  <ThumbnailPath>_cache/fanart/original/74845-16.jpg</ThumbnailPath>
+  <VignettePath>fanart/vignette/74845-16.jpg</VignettePath>
+</Banner>
+<Banner>
+  <id>20243</id>
+  <BannerPath>fanart/original/74845-1.jpg</BannerPath>
+  <BannerType>fanart</BannerType>
+  <BannerType2>1280x720</BannerType2>
+  <Colors>|214,188,173|207,179,165|207,179,165|</Colors>
+  <Language>en</Language>
+  <Rating>6.1667</Rating>
+  <RatingCount>6</RatingCount>
+  <SeriesName>false</SeriesName>
+  <ThumbnailPath>_cache/fanart/original/74845-1.jpg</ThumbnailPath>
+  <VignettePath>fanart/vignette/74845-1.jpg</VignettePath>
+</Banner>
+<Banner>
+  <id>24226</id>
+  <BannerPath>fanart/original/74845-13.jpg</BannerPath>
+  <BannerType>fanart</BannerType>
+  <BannerType2>1920x1080</BannerType2>
+  <Colors>|200,221,226|27,20,10|78,102,126|</Colors>
+  <Language>en</Language>
+  <Rating>5.5000</Rating>
+  <RatingCount>2</RatingCount>
+  <SeriesName>false</SeriesName>
+  <ThumbnailPath>_cache/fanart/original/74845-13.jpg</ThumbnailPath>
+  <VignettePath>fanart/vignette/74845-13.jpg</VignettePath>
+</Banner>
+<Banner>
+  <id>20244</id>
+  <BannerPath>fanart/original/74845-2.jpg</BannerPath>
+  <BannerType>fanart</BannerType>
+  <BannerType2>1280x720</BannerType2>
+  <Colors></Colors>
+  <Language>en</Language>
+  <Rating>5.3333</Rating>
+  <RatingCount>3</RatingCount>
+  <SeriesName>false</SeriesName>
+  <ThumbnailPath>_cache/fanart/original/74845-2.jpg</ThumbnailPath>
+  <VignettePath>fanart/vignette/74845-2.jpg</VignettePath>
+</Banner>
+<Banner>
+  <id>165921</id>
+  <BannerPath>fanart/original/74845-26.jpg</BannerPath>
+  <BannerType>fanart</BannerType>
+  <BannerType2>1920x1080</BannerType2>
+  <Colors>|111,135,119|0,0,2|11,65,15|</Colors>
+  <Language>en</Language>
+  <Rating>5.0000</Rating>
+  <RatingCount>3</RatingCount>
+  <SeriesName>false</SeriesName>
+  <ThumbnailPath>_cache/fanart/original/74845-26.jpg</ThumbnailPath>
+  <VignettePath>fanart/vignette/74845-26.jpg</VignettePath>
+</Banner>
+<Banner>
+  <id>20454</id>
+  <BannerPath>fanart/original/74845-4.jpg</BannerPath>
+  <BannerType>fanart</BannerType>
+  <BannerType2>1280x720</BannerType2>
+  <Colors>|193,193,193|56,85,39|182,213,241|</Colors>
+  <Language>en</Language>
+  <Rating>4.5000</Rating>
+  <RatingCount>2</RatingCount>
+  <SeriesName>false</SeriesName>
+  <ThumbnailPath>_cache/fanart/original/74845-4.jpg</ThumbnailPath>
+  <VignettePath>fanart/vignette/74845-4.jpg</VignettePath>
+</Banner>
+<Banner>
+  <id>20319</id>
+  <BannerPath>fanart/original/74845-3.jpg</BannerPath>
+  <BannerType>fanart</BannerType>
+  <BannerType2>1280x720</BannerType2>
+  <Colors>|204,201,212|87,93,23|224,212,172|</Colors>
+  <Language>en</Language>
+  <Rating>4.0000</Rating>
+  <RatingCount>1</RatingCount>
+  <SeriesName>false</SeriesName>
+  <ThumbnailPath>_cache/fanart/original/74845-3.jpg</ThumbnailPath>
+  <VignettePath>fanart/vignette/74845-3.jpg</VignettePath>
+</Banner>
+<Banner>
+  <id>26627</id>
+  <BannerPath>fanart/original/74845-22.jpg</BannerPath>
+  <BannerType>fanart</BannerType>
+  <BannerType2>1920x1080</BannerType2>
+  <Colors></Colors>
+  <Language>en</Language>
+  <Rating>3.0000</Rating>
+  <RatingCount>1</RatingCount>
+  <SeriesName>false</SeriesName>
+  <ThumbnailPath>_cache/fanart/original/74845-22.jpg</ThumbnailPath>
+  <VignettePath>fanart/vignette/74845-22.jpg</VignettePath>
+</Banner>
+<Banner>
+  <id>632971</id>
+  <BannerPath>fanart/original/74845-36.jpg</BannerPath>
+  <BannerType>fanart</BannerType>
+  <BannerType2>1280x720</BannerType2>
+  <Colors>|0,126,0|203,169,132|249,52,69|</Colors>
+  <Language>en</Language>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeriesName>false</SeriesName>
+  <ThumbnailPath>_cache/fanart/original/74845-36.jpg</ThumbnailPath>
+  <VignettePath>fanart/vignette/74845-36.jpg</VignettePath>
+</Banner>
+<Banner>
+  <id>20868</id>
+  <BannerPath>fanart/original/74845-8.jpg</BannerPath>
+  <BannerType>fanart</BannerType>
+  <BannerType2>1280x720</BannerType2>
+  <Colors>|254,254,254|179,39,24|197,211,248|</Colors>
+  <Language>en</Language>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeriesName>false</SeriesName>
+  <ThumbnailPath>_cache/fanart/original/74845-8.jpg</ThumbnailPath>
+  <VignettePath>fanart/vignette/74845-8.jpg</VignettePath>
+</Banner>
+<Banner>
+  <id>158711</id>
+  <BannerPath>fanart/original/74845-24.jpg</BannerPath>
+  <BannerType>fanart</BannerType>
+  <BannerType2>1280x720</BannerType2>
+  <Colors></Colors>
+  <Language>en</Language>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeriesName>true</SeriesName>
+  <ThumbnailPath>_cache/fanart/original/74845-24.jpg</ThumbnailPath>
+  <VignettePath>fanart/vignette/74845-24.jpg</VignettePath>
+</Banner>
+<Banner>
+  <id>266461</id>
+  <BannerPath>fanart/original/74845-30.jpg</BannerPath>
+  <BannerType>fanart</BannerType>
+  <BannerType2>1280x720</BannerType2>
+  <Colors>|248,249,235|62,99,108|164,182,144|</Colors>
+  <Language>en</Language>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeriesName>true</SeriesName>
+  <ThumbnailPath>_cache/fanart/original/74845-30.jpg</ThumbnailPath>
+  <VignettePath>fanart/vignette/74845-30.jpg</VignettePath>
+</Banner>
+<Banner>
+  <id>20524</id>
+  <BannerPath>fanart/original/74845-5.jpg</BannerPath>
+  <BannerType>fanart</BannerType>
+  <BannerType2>1280x720</BannerType2>
+  <Colors>|155,159,168|68,100,51|216,239,255|</Colors>
+  <Language>en</Language>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeriesName>false</SeriesName>
+  <ThumbnailPath>_cache/fanart/original/74845-5.jpg</ThumbnailPath>
+  <VignettePath>fanart/vignette/74845-5.jpg</VignettePath>
+</Banner>
+<Banner>
+  <id>776231</id>
+  <BannerPath>fanart/original/74845-37.jpg</BannerPath>
+  <BannerType>fanart</BannerType>
+  <BannerType2>1920x1080</BannerType2>
+  <Colors></Colors>
+  <Language>en</Language>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeriesName>false</SeriesName>
+  <ThumbnailPath>_cache/fanart/original/74845-37.jpg</ThumbnailPath>
+  <VignettePath>fanart/vignette/74845-37.jpg</VignettePath>
+</Banner>
+<Banner>
+  <id>234321</id>
+  <BannerPath>fanart/original/74845-28.jpg</BannerPath>
+  <BannerType>fanart</BannerType>
+  <BannerType2>1920x1080</BannerType2>
+  <Colors></Colors>
+  <Language>de</Language>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeriesName>false</SeriesName>
+  <ThumbnailPath>_cache/fanart/original/74845-28.jpg</ThumbnailPath>
+  <VignettePath>fanart/vignette/74845-28.jpg</VignettePath>
+</Banner>
+<Banner>
+  <id>580401</id>
+  <BannerPath>fanart/original/74845-34.jpg</BannerPath>
+  <BannerType>fanart</BannerType>
+  <BannerType2>1920x1080</BannerType2>
+  <Colors></Colors>
+  <Language>fr</Language>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeriesName>false</SeriesName>
+  <ThumbnailPath>_cache/fanart/original/74845-34.jpg</ThumbnailPath>
+  <VignettePath>fanart/vignette/74845-34.jpg</VignettePath>
+</Banner>
+<Banner>
+  <id>266431</id>
+  <BannerPath>fanart/original/74845-29.jpg</BannerPath>
+  <BannerType>fanart</BannerType>
+  <BannerType2>1280x720</BannerType2>
+  <Colors>|169,195,194|61,55,69|240,210,137|</Colors>
+  <Language>en</Language>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeriesName>true</SeriesName>
+  <ThumbnailPath>_cache/fanart/original/74845-29.jpg</ThumbnailPath>
+  <VignettePath>fanart/vignette/74845-29.jpg</VignettePath>
+</Banner>
+<Banner>
+  <id>266481</id>
+  <BannerPath>fanart/original/74845-31.jpg</BannerPath>
+  <BannerType>fanart</BannerType>
+  <BannerType2>1280x720</BannerType2>
+  <Colors>|224,237,220|155,116,77|215,187,173|</Colors>
+  <Language>en</Language>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeriesName>true</SeriesName>
+  <ThumbnailPath>_cache/fanart/original/74845-31.jpg</ThumbnailPath>
+  <VignettePath>fanart/vignette/74845-31.jpg</VignettePath>
+</Banner>
+<Banner>
+  <id>536731</id>
+  <BannerPath>fanart/original/74845-32.jpg</BannerPath>
+  <BannerType>fanart</BannerType>
+  <BannerType2>1920x1080</BannerType2>
+  <Colors></Colors>
+  <Language>en</Language>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeriesName>true</SeriesName>
+  <ThumbnailPath>_cache/fanart/original/74845-32.jpg</ThumbnailPath>
+  <VignettePath>fanart/vignette/74845-32.jpg</VignettePath>
+</Banner>
+<Banner>
+  <id>158731</id>
+  <BannerPath>fanart/original/74845-25.jpg</BannerPath>
+  <BannerType>fanart</BannerType>
+  <BannerType2>1280x720</BannerType2>
+  <Colors>|199,173,140|0,8,5|255,255,255|</Colors>
+  <Language>en</Language>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeriesName>true</SeriesName>
+  <ThumbnailPath>_cache/fanart/original/74845-25.jpg</ThumbnailPath>
+  <VignettePath>fanart/vignette/74845-25.jpg</VignettePath>
+</Banner>
+<Banner>
+  <id>632961</id>
+  <BannerPath>fanart/original/74845-35.jpg</BannerPath>
+  <BannerType>fanart</BannerType>
+  <BannerType2>1280x720</BannerType2>
+  <Colors>|96,100,65|137,100,81|53,11,35|</Colors>
+  <Language>en</Language>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeriesName>true</SeriesName>
+  <ThumbnailPath>_cache/fanart/original/74845-35.jpg</ThumbnailPath>
+  <VignettePath>fanart/vignette/74845-35.jpg</VignettePath>
+</Banner>
+<Banner>
+  <id>266411</id>
+  <BannerPath>posters/74845-5.jpg</BannerPath>
+  <BannerType>poster</BannerType>
+  <BannerType2>680x1000</BannerType2>
+  <Language>en</Language>
+  <Rating>9.1250</Rating>
+  <RatingCount>8</RatingCount>
+</Banner>
+<Banner>
+  <id>266421</id>
+  <BannerPath>posters/74845-6.jpg</BannerPath>
+  <BannerType>poster</BannerType>
+  <BannerType2>680x1000</BannerType2>
+  <Language>en</Language>
+  <Rating>7.5000</Rating>
+  <RatingCount>6</RatingCount>
+</Banner>
+<Banner>
+  <id>28884</id>
+  <BannerPath>posters/74845-3.jpg</BannerPath>
+  <BannerType>poster</BannerType>
+  <BannerType2>680x1000</BannerType2>
+  <Language>en</Language>
+  <Rating>7.2857</Rating>
+  <RatingCount>7</RatingCount>
+</Banner>
+<Banner>
+  <id>27806</id>
+  <BannerPath>posters/74845-2.jpg</BannerPath>
+  <BannerType>poster</BannerType>
+  <BannerType2>680x1000</BannerType2>
+  <Language>en</Language>
+  <Rating>7.2222</Rating>
+  <RatingCount>9</RatingCount>
+</Banner>
+<Banner>
+  <id>266401</id>
+  <BannerPath>posters/74845-4.jpg</BannerPath>
+  <BannerType>poster</BannerType>
+  <BannerType2>680x1000</BannerType2>
+  <Language>en</Language>
+  <Rating>6.7500</Rating>
+  <RatingCount>4</RatingCount>
+</Banner>
+<Banner>
+  <id>25866</id>
+  <BannerPath>posters/74845-1.jpg</BannerPath>
+  <BannerType>poster</BannerType>
+  <BannerType2>680x1000</BannerType2>
+  <Language>en</Language>
+  <Rating>5.6667</Rating>
+  <RatingCount>3</RatingCount>
+</Banner>
+<Banner>
+  <id>600391</id>
+  <BannerPath>posters/74845-7.jpg</BannerPath>
+  <BannerType>poster</BannerType>
+  <BannerType2>680x1000</BannerType2>
+  <Language>en</Language>
+  <Rating>5.0000</Rating>
+  <RatingCount>1</RatingCount>
+</Banner>
+<Banner>
+  <id>78311</id>
+  <BannerPath>seasons/74845-4-4.jpg</BannerPath>
+  <BannerType>season</BannerType>
+  <BannerType2>season</BannerType2>
+  <Language>en</Language>
+  <Rating>10.0000</Rating>
+  <RatingCount>1</RatingCount>
+  <Season>4</Season>
+</Banner>
+<Banner>
+  <id>365521</id>
+  <BannerPath>seasons/74845-5-3.jpg</BannerPath>
+  <BannerType>season</BannerType>
+  <BannerType2>season</BannerType2>
+  <Language>en</Language>
+  <Rating>10.0000</Rating>
+  <RatingCount>2</RatingCount>
+  <Season>5</Season>
+</Banner>
+<Banner>
+  <id>208851</id>
+  <BannerPath>seasons/74845-5.jpg</BannerPath>
+  <BannerType>season</BannerType>
+  <BannerType2>season</BannerType2>
+  <Language>en</Language>
+  <Rating>9.6667</Rating>
+  <RatingCount>3</RatingCount>
+  <Season>5</Season>
+</Banner>
+<Banner>
+  <id>701101</id>
+  <BannerPath>seasons/74845-6-4.jpg</BannerPath>
+  <BannerType>season</BannerType>
+  <BannerType2>season</BannerType2>
+  <Language>en</Language>
+  <Rating>9.5000</Rating>
+  <RatingCount>2</RatingCount>
+  <Season>6</Season>
+</Banner>
+<Banner>
+  <id>42941</id>
+  <BannerPath>seasons/74845-2-4.jpg</BannerPath>
+  <BannerType>season</BannerType>
+  <BannerType2>season</BannerType2>
+  <Language>en</Language>
+  <Rating>9.5000</Rating>
+  <RatingCount>2</RatingCount>
+  <Season>2</Season>
+</Banner>
+<Banner>
+  <id>42942</id>
+  <BannerPath>seasons/74845-3-6.jpg</BannerPath>
+  <BannerType>season</BannerType>
+  <BannerType2>season</BannerType2>
+  <Language>en</Language>
+  <Rating>9.5000</Rating>
+  <RatingCount>2</RatingCount>
+  <Season>3</Season>
+</Banner>
+<Banner>
+  <id>20622</id>
+  <BannerPath>seasons/74845-3-4.jpg</BannerPath>
+  <BannerType>season</BannerType>
+  <BannerType2>season</BannerType2>
+  <Language>en</Language>
+  <Rating>8.6667</Rating>
+  <RatingCount>3</RatingCount>
+  <Season>3</Season>
+</Banner>
+<Banner>
+  <id>42940</id>
+  <BannerPath>seasons/74845-1-3.jpg</BannerPath>
+  <BannerType>season</BannerType>
+  <BannerType2>season</BannerType2>
+  <Language>en</Language>
+  <Rating>8.3333</Rating>
+  <RatingCount>3</RatingCount>
+  <Season>1</Season>
+</Banner>
+<Banner>
+  <id>14095</id>
+  <BannerPath>seasons/74845-2-3.jpg</BannerPath>
+  <BannerType>season</BannerType>
+  <BannerType2>season</BannerType2>
+  <Language>en</Language>
+  <Rating>8.0000</Rating>
+  <RatingCount>2</RatingCount>
+  <Season>2</Season>
+</Banner>
+<Banner>
+  <id>524711</id>
+  <BannerPath>seasons/74845-6.jpg</BannerPath>
+  <BannerType>season</BannerType>
+  <BannerType2>season</BannerType2>
+  <Language>en</Language>
+  <Rating>8.0000</Rating>
+  <RatingCount>1</RatingCount>
+  <Season>6</Season>
+</Banner>
+<Banner>
+  <id>695941</id>
+  <BannerPath>seasons/74845-6-3.jpg</BannerPath>
+  <BannerType>season</BannerType>
+  <BannerType2>season</BannerType2>
+  <Language>en</Language>
+  <Rating>8.0000</Rating>
+  <RatingCount>1</RatingCount>
+  <Season>6</Season>
+</Banner>
+<Banner>
+  <id>6617</id>
+  <BannerPath>seasons/28829-1.jpg</BannerPath>
+  <BannerType>season</BannerType>
+  <BannerType2>season</BannerType2>
+  <Language>en</Language>
+  <Rating>7.7500</Rating>
+  <RatingCount>4</RatingCount>
+  <Season>1</Season>
+</Banner>
+<Banner>
+  <id>14094</id>
+  <BannerPath>seasons/74845-1-2.jpg</BannerPath>
+  <BannerType>season</BannerType>
+  <BannerType2>season</BannerType2>
+  <Language>en</Language>
+  <Rating>7.0000</Rating>
+  <RatingCount>4</RatingCount>
+  <Season>1</Season>
+</Banner>
+<Banner>
+  <id>683841</id>
+  <BannerPath>seasons/74845-6-2.jpg</BannerPath>
+  <BannerType>season</BannerType>
+  <BannerType2>season</BannerType2>
+  <Language>fi</Language>
+  <Rating>7.0000</Rating>
+  <RatingCount>1</RatingCount>
+  <Season>6</Season>
+</Banner>
+<Banner>
+  <id>683791</id>
+  <BannerPath>seasons/74845-1-5.jpg</BannerPath>
+  <BannerType>season</BannerType>
+  <BannerType2>season</BannerType2>
+  <Language>fi</Language>
+  <Rating>7.0000</Rating>
+  <RatingCount>1</RatingCount>
+  <Season>1</Season>
+</Banner>
+<Banner>
+  <id>683811</id>
+  <BannerPath>seasons/74845-3-7.jpg</BannerPath>
+  <BannerType>season</BannerType>
+  <BannerType2>season</BannerType2>
+  <Language>fi</Language>
+  <Rating>7.0000</Rating>
+  <RatingCount>1</RatingCount>
+  <Season>3</Season>
+</Banner>
+<Banner>
+  <id>683831</id>
+  <BannerPath>seasons/74845-5-4.jpg</BannerPath>
+  <BannerType>season</BannerType>
+  <BannerType2>season</BannerType2>
+  <Language>fi</Language>
+  <Rating>7.0000</Rating>
+  <RatingCount>1</RatingCount>
+  <Season>5</Season>
+</Banner>
+<Banner>
+  <id>683801</id>
+  <BannerPath>seasons/74845-2-6.jpg</BannerPath>
+  <BannerType>season</BannerType>
+  <BannerType2>season</BannerType2>
+  <Language>fi</Language>
+  <Rating>7.0000</Rating>
+  <RatingCount>1</RatingCount>
+  <Season>2</Season>
+</Banner>
+<Banner>
+  <id>683821</id>
+  <BannerPath>seasons/74845-4-5.jpg</BannerPath>
+  <BannerType>season</BannerType>
+  <BannerType2>season</BannerType2>
+  <Language>fi</Language>
+  <Rating>7.0000</Rating>
+  <RatingCount>1</RatingCount>
+  <Season>4</Season>
+</Banner>
+<Banner>
+  <id>24304</id>
+  <BannerPath>seasons/74845-4.jpg</BannerPath>
+  <BannerType>season</BannerType>
+  <BannerType2>season</BannerType2>
+  <Language>en</Language>
+  <Rating>5.6667</Rating>
+  <RatingCount>3</RatingCount>
+  <Season>4</Season>
+</Banner>
+<Banner>
+  <id>402361</id>
+  <BannerPath>seasons/74845-2-5.jpg</BannerPath>
+  <BannerType>season</BannerType>
+  <BannerType2>season</BannerType2>
+  <Language>es</Language>
+  <Rating>5.5000</Rating>
+  <RatingCount>2</RatingCount>
+  <Season>2</Season>
+</Banner>
+<Banner>
+  <id>402351</id>
+  <BannerPath>seasons/74845-1-4.jpg</BannerPath>
+  <BannerType>season</BannerType>
+  <BannerType2>season</BannerType2>
+  <Language>es</Language>
+  <Rating>5.3333</Rating>
+  <RatingCount>3</RatingCount>
+  <Season>1</Season>
+</Banner>
+<Banner>
+  <id>14073</id>
+  <BannerPath>seasons/74845-1.jpg</BannerPath>
+  <BannerType>season</BannerType>
+  <BannerType2>season</BannerType2>
+  <Language>he</Language>
+  <Rating>1.0000</Rating>
+  <RatingCount>1</RatingCount>
+  <Season>1</Season>
+</Banner>
+<Banner>
+  <id>22586</id>
+  <BannerPath>seasons/74845-3-5.jpg</BannerPath>
+  <BannerType>season</BannerType>
+  <BannerType2>season</BannerType2>
+  <Language>en</Language>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <Season>3</Season>
+</Banner>
+<Banner>
+  <id>14081</id>
+  <BannerPath>seasons/74845-2-2.jpg</BannerPath>
+  <BannerType>season</BannerType>
+  <BannerType2>season</BannerType2>
+  <Language>he</Language>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <Season>2</Season>
+</Banner>
+<Banner>
+  <id>24305</id>
+  <BannerPath>seasons/74845-4-2.jpg</BannerPath>
+  <BannerType>season</BannerType>
+  <BannerType2>season</BannerType2>
+  <Language>en</Language>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <Season>4</Season>
+</Banner>
+<Banner>
+  <id>14783</id>
+  <BannerPath>seasons/74845-3.jpg</BannerPath>
+  <BannerType>season</BannerType>
+  <BannerType2>season</BannerType2>
+  <Language>en</Language>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <Season>3</Season>
+</Banner>
+<Banner>
+  <id>15192</id>
+  <BannerPath>seasons/74845-3-3.jpg</BannerPath>
+  <BannerType>season</BannerType>
+  <BannerType2>season</BannerType2>
+  <Language>en</Language>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <Season>3</Season>
+</Banner>
+<Banner>
+  <id>8884</id>
+  <BannerPath>seasons/28829-2.jpg</BannerPath>
+  <BannerType>season</BannerType>
+  <BannerType2>season</BannerType2>
+  <Language>en</Language>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <Season>2</Season>
+</Banner>
+<Banner>
+  <id>11096</id>
+  <BannerPath>seasons/74845-2.jpg</BannerPath>
+  <BannerType>season</BannerType>
+  <BannerType2>season</BannerType2>
+  <Language>en</Language>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <Season>2</Season>
+</Banner>
+<Banner>
+  <id>24306</id>
+  <BannerPath>seasons/74845-4-3.jpg</BannerPath>
+  <BannerType>season</BannerType>
+  <BannerType2>season</BannerType2>
+  <Language>en</Language>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <Season>4</Season>
+</Banner>
+<Banner>
+  <id>14784</id>
+  <BannerPath>seasons/74845-3-2.jpg</BannerPath>
+  <BannerType>season</BannerType>
+  <BannerType2>season</BannerType2>
+  <Language>en</Language>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <Season>3</Season>
+</Banner>
+<Banner>
+  <id>334461</id>
+  <BannerPath>seasonswide/74845-5-2.jpg</BannerPath>
+  <BannerType>season</BannerType>
+  <BannerType2>seasonwide</BannerType2>
+  <Language>en</Language>
+  <Rating>9.0000</Rating>
+  <RatingCount>1</RatingCount>
+  <Season>5</Season>
+</Banner>
+<Banner>
+  <id>334451</id>
+  <BannerPath>seasonswide/74845-4-2.jpg</BannerPath>
+  <BannerType>season</BannerType>
+  <BannerType2>seasonwide</BannerType2>
+  <Language>en</Language>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <Season>4</Season>
+</Banner>
+<Banner>
+  <id>334441</id>
+  <BannerPath>seasonswide/74845-3-2.jpg</BannerPath>
+  <BannerType>season</BannerType>
+  <BannerType2>seasonwide</BannerType2>
+  <Language>en</Language>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <Season>3</Season>
+</Banner>
+<Banner>
+  <id>333471</id>
+  <BannerPath>seasonswide/74845-2.jpg</BannerPath>
+  <BannerType>season</BannerType>
+  <BannerType2>seasonwide</BannerType2>
+  <Language>fr</Language>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <Season>2</Season>
+</Banner>
+<Banner>
+  <id>333481</id>
+  <BannerPath>seasonswide/74845-3.jpg</BannerPath>
+  <BannerType>season</BannerType>
+  <BannerType2>seasonwide</BannerType2>
+  <Language>fr</Language>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <Season>3</Season>
+</Banner>
+<Banner>
+  <id>333501</id>
+  <BannerPath>seasonswide/74845-4.jpg</BannerPath>
+  <BannerType>season</BannerType>
+  <BannerType2>seasonwide</BannerType2>
+  <Language>fr</Language>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <Season>4</Season>
+</Banner>
+<Banner>
+  <id>333451</id>
+  <BannerPath>seasonswide/74845-1.jpg</BannerPath>
+  <BannerType>season</BannerType>
+  <BannerType2>seasonwide</BannerType2>
+  <Language>fr</Language>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <Season>1</Season>
+</Banner>
+<Banner>
+  <id>333511</id>
+  <BannerPath>seasonswide/74845-5.jpg</BannerPath>
+  <BannerType>season</BannerType>
+  <BannerType2>seasonwide</BannerType2>
+  <Language>fr</Language>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <Season>5</Season>
+</Banner>
+<Banner>
+  <id>334431</id>
+  <BannerPath>seasonswide/74845-2-2.jpg</BannerPath>
+  <BannerType>season</BannerType>
+  <BannerType2>seasonwide</BannerType2>
+  <Language>en</Language>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <Season>2</Season>
+</Banner>
+<Banner>
+  <id>334421</id>
+  <BannerPath>seasonswide/74845-1-2.jpg</BannerPath>
+  <BannerType>season</BannerType>
+  <BannerType2>seasonwide</BannerType2>
+  <Language>en</Language>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <Season>1</Season>
+</Banner>
+<Banner>
+  <id>126511</id>
+  <BannerPath>graphical/74845-g10.jpg</BannerPath>
+  <BannerType>series</BannerType>
+  <BannerType2>graphical</BannerType2>
+  <Language>en</Language>
+  <Rating>8.2000</Rating>
+  <RatingCount>5</RatingCount>
+</Banner>
+<Banner>
+  <id>14769</id>
+  <BannerPath>graphical/74845-g3.jpg</BannerPath>
+  <BannerType>series</BannerType>
+  <BannerType2>graphical</BannerType2>
+  <Language>en</Language>
+  <Rating>6.5714</Rating>
+  <RatingCount>7</RatingCount>
+</Banner>
+<Banner>
+  <id>29818</id>
+  <BannerPath>graphical/74845-g8.jpg</BannerPath>
+  <BannerType>series</BannerType>
+  <BannerType2>graphical</BannerType2>
+  <Language>en</Language>
+  <Rating>6.5000</Rating>
+  <RatingCount>8</RatingCount>
+</Banner>
+<Banner>
+  <id>15051</id>
+  <BannerPath>graphical/74845-g5.jpg</BannerPath>
+  <BannerType>series</BannerType>
+  <BannerType2>graphical</BannerType2>
+  <Language>en</Language>
+  <Rating>6.5000</Rating>
+  <RatingCount>8</RatingCount>
+</Banner>
+<Banner>
+  <id>28863</id>
+  <BannerPath>graphical/74845-g7.jpg</BannerPath>
+  <BannerType>series</BannerType>
+  <BannerType2>graphical</BannerType2>
+  <Language>en</Language>
+  <Rating>6.2857</Rating>
+  <RatingCount>7</RatingCount>
+</Banner>
+<Banner>
+  <id>15050</id>
+  <BannerPath>graphical/74845-g4.jpg</BannerPath>
+  <BannerType>series</BannerType>
+  <BannerType2>graphical</BannerType2>
+  <Language>en</Language>
+  <Rating>6.0000</Rating>
+  <RatingCount>4</RatingCount>
+</Banner>
+<Banner>
+  <id>5400</id>
+  <BannerPath>graphical/28829-g.jpg</BannerPath>
+  <BannerType>series</BannerType>
+  <BannerType2>graphical</BannerType2>
+  <Language>en</Language>
+  <Rating>5.8333</Rating>
+  <RatingCount>6</RatingCount>
+</Banner>
+<Banner>
+  <id>9273</id>
+  <BannerPath>graphical/28829-g2.jpg</BannerPath>
+  <BannerType>series</BannerType>
+  <BannerType2>graphical</BannerType2>
+  <Language>en</Language>
+  <Rating>5.6250</Rating>
+  <RatingCount>8</RatingCount>
+</Banner>
+<Banner>
+  <id>128811</id>
+  <BannerPath>graphical/74845-g11.jpg</BannerPath>
+  <BannerType>series</BannerType>
+  <BannerType2>graphical</BannerType2>
+  <Language>en</Language>
+  <Rating>5.5000</Rating>
+  <RatingCount>2</RatingCount>
+</Banner>
+<Banner>
+  <id>11097</id>
+  <BannerPath>graphical/74845-g.jpg</BannerPath>
+  <BannerType>series</BannerType>
+  <BannerType2>graphical</BannerType2>
+  <Language>en</Language>
+  <Rating>5.5000</Rating>
+  <RatingCount>4</RatingCount>
+</Banner>
+<Banner>
+  <id>24864</id>
+  <BannerPath>graphical/74845-g6.jpg</BannerPath>
+  <BannerType>series</BannerType>
+  <BannerType2>graphical</BannerType2>
+  <Language>en</Language>
+  <Rating>5.0000</Rating>
+  <RatingCount>1</RatingCount>
+</Banner>
+<Banner>
+  <id>83061</id>
+  <BannerPath>graphical/74845-g9.jpg</BannerPath>
+  <BannerType>series</BannerType>
+  <BannerType2>graphical</BannerType2>
+  <Language>en</Language>
+  <Rating>4.6667</Rating>
+  <RatingCount>3</RatingCount>
+</Banner>
+<Banner>
+  <id>14072</id>
+  <BannerPath>graphical/74845-g2.jpg</BannerPath>
+  <BannerType>series</BannerType>
+  <BannerType2>graphical</BannerType2>
+  <Language>he</Language>
+  <Rating>3.0000</Rating>
+  <RatingCount>1</RatingCount>
+</Banner>
+<Banner>
+  <id>12850</id>
+  <BannerPath>blank/74845.jpg</BannerPath>
+  <BannerType>series</BannerType>
+  <BannerType2>blank</BannerType2>
+  <Language>en</Language>
+  <Rating>2.0000</Rating>
+  <RatingCount>1</RatingCount>
+</Banner>
+<Banner>
+  <id>9140</id>
+  <BannerPath>text/28829.jpg</BannerPath>
+  <BannerType>series</BannerType>
+  <BannerType2>text</BannerType2>
+  <Language>en</Language>
+  <Rating>2.0000</Rating>
+  <RatingCount>2</RatingCount>
+</Banner>
+</Banners>
