@@ -12,9 +12,9 @@ if (Ti.Network.online) {
     query,
     siteUrl;
 
-    var tableView = Ti.UI.createTableView({});
-
     activityScreen.show();
+
+    var tableView = Ti.UI.createTableView({});
 
     // YQL query to get feed.
     query = "select title,link,pubDate from rss where url in (\'http://www.ashp.org/rss/shortages/\',\'http://www.ashp.org/rss/resolved/\',\'http://www.ashp.org/rss/notavailable/\') | sort(field=\"pubDate\", descending=\"true\") | truncate(count=25)";
@@ -41,10 +41,9 @@ if (Ti.Network.online) {
                 //for (var i = 0; i < data.item.length; i++)
                 for (var i = 0, j = data.item.length; i < j; i++) {
                     newRow = Ti.UI.createTableViewRow({
-                        path: 'article.js',
                         url: data.item[i].link,
+						pubDate: data.item[i].pubDate,
                         hasChild: true,
-                        theTitle: data.item[i].title,
                         className: 'drug_row',
                         height: 65,
                         backgroundGradient: {
@@ -125,25 +124,22 @@ if (Ti.Network.online) {
 
 
     // When a title is clicked, open a new window and pass the details of the selected posting.
-    tableView.addEventListener('click',
-    function(e) {
-        if (e.rowData.path) {
-            var newWin = Ti.UI.createWindow({
-                url: e.rowData.path,
-                //title : e.rowData.theTitle,
-                barColor: Ti.UI.currentWindow.barColor
-            });
+	tableView.addEventListener('click', function (e) {
+			var newWin = Ti.UI.createWindow({
+				url: 'article.js',
+				//title : e.rowData.theTitle,
+				barColor: Ti.UI.currentWindow.barColor
+			});
 
-            // Add variables for the description and the url.
-            newWin.desc = e.rowData.desc;
-            newWin.theUrl = e.rowData.url;
-        }
+			// Add variables for the description and the url.
+			newWin.theUrl = e.rowData.url;
+			newWin.pubDate = escape(e.rowData.pubDate);
 
-        Ti.UI.currentTab.open(newWin, {
-            animated: true
-        });
+		Ti.UI.currentTab.open(newWin, {
+			animated: true
+		});
 
-    });
+	});
 
 
     // Refresh buttom
@@ -152,17 +148,18 @@ if (Ti.Network.online) {
             systemButton: Titanium.UI.iPhone.SystemButton.REFRESH
         });
         win.rightNavButton = refresh;
-    } else {
+		
+		refresh.addEventListener('click',
+	    function() {
+	        Ti.API.log('refreshing');
+	        activityScreen.show('Refreshing...');
+	        tableView.setData(null);
+	        setTableData();
+	        activityScreen.hide();
+	    });
+    } 
 
-        }
-    refresh.addEventListener('click',
-    function() {
-        Ti.API.log('refreshing');
-        activityScreen.show('Refreshing...');
-        tableView.setData(null);
-        setTableData();
-        activityScreen.hide();
-    });
+    
 
     // Data has been loaded/added, so remove the loading icon.
     activityScreen.hide();

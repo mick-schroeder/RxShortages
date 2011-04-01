@@ -9,7 +9,9 @@ var data, newRow, query, siteUrl;
 
 // Create search bar
 var search = Titanium.UI.createSearchBar({
-	showCancel: true
+    showCancel:true,
+    height:43,
+    top:0,
 });
 
 // Create Tableview
@@ -33,7 +35,7 @@ if (Ti.Network.online) {
 	}
 
 	// YQL query to get feed. 
-	query = "Select link, title from rss where url='" + siteUrl + "'";
+	query = "Select link, pubDate, title from rss where url='" + siteUrl + "'";
 
 	//YQL Feed
 
@@ -57,7 +59,7 @@ if (Ti.Network.online) {
 			for (var i = 0, j = data.item.length; i < j; i++) {
 				newRow = Ti.UI.createTableViewRow({
 					theTitle: data.item[i].title,
-					path: 'article.js',
+					pubDate: data.item[i].pubDate,
 					url: data.item[i].link,
 					hasChild: true,
 					className: 'drug_row'
@@ -67,11 +69,11 @@ if (Ti.Network.online) {
 					text: data.item[i].title,
 					left: 10,
 					right: 30,
+					color: '#000',
 					font: {
 						fontSize: 15,
 						fontWeight: 'bold'
 					}
-
 				});
 				newRow.add(articleTitleLabel);
 				tableData.push(newRow);
@@ -89,17 +91,15 @@ if (Ti.Network.online) {
 
 	// When a title is clicked, open a new window and pass the details of the selected posting.
 	tableView.addEventListener('click', function (e) {
-		if (e.rowData.path) {
 			var newWin = Ti.UI.createWindow({
-				url: e.rowData.path,
+				url: 'article.js',
 				//title : e.rowData.theTitle,
 				barColor: Ti.UI.currentWindow.barColor
 			});
 
 			// Add variables for the description and the url.
-			newWin.desc = e.rowData.desc;
 			newWin.theUrl = e.rowData.url;
-		}
+			newWin.pubDate = escape(e.rowData.pubDate);
 
 		Ti.UI.currentTab.open(newWin, {
 			animated: true

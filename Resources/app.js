@@ -41,7 +41,7 @@ var feedWindow = Ti.UI.createWindow({
 });
 
 var feedTab = Ti.UI.createTab({
-	title: 'Latest Feed',
+	title: 'Feed',
 	icon: 'images/rss_24.png',
 	window: feedWindow
 });

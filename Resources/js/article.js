@@ -3,8 +3,7 @@ win.backgroundColor = '#ffffff';
 	
 	var webview = Ti.UI.createWebView({
 		scalePageToFit : true,
-		bottom: 0,
-		url : 'http://mickschroeder.com/pharmacy/parse/parse.php?Link=' + win.theUrl
+		url : 'http://mickschroeder.com/pharmacy/rxshortages/parse/parse.php?Link=' + win.theUrl + '&pubDate=' + win.pubDate
 	});
 	
 	// Add the webview (the original webpage article), and animate the page into view.
@@ -30,7 +29,6 @@ win.backgroundColor = '#ffffff';
 	activity.onCreateOptionsMenu = function(e) {
 	    var menu = e.menu;
 	    var menuItem = menu.add({ title: "View Full Article" });
-	    //menuItem.setIcon("item1.png");
 	    menuItem.addEventListener("click", function(e) {
 			Titanium.Platform.openURL(win.theUrl);
 	    });

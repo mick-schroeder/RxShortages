@@ -2,6 +2,9 @@
 
 $target_url = $_GET['Link'];
 
+if (!$target_url) {    echo "Error no URL defined";	exit;}
+
+
 //$target_url = "http://www.ashp.org/Import/PRACTICEANDPOLICY/PracticeResourceCenters/DrugShortages/GettingStarted/CurrentShortages/Bulletin.aspx?id=573";
 
 $userAgent = 'Googlebot/2.1 (http://www.googlebot.com/bot.html)';
@@ -39,16 +42,18 @@ $feed = str_replace('Back to Drug Shortage', '', $feed);
 $feed = str_replace('Product Bulletins</p>', '', $feed);
 $feed = str_replace("&#13;", '', $feed);
 ?>
+
 <!DOCTYPE html>
-<html>
 <head>
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"> 
+<meta charset="utf-8">
 	<style type="text/css">
 		body { font-family: sans-serif; }
 		h1 {font-size: 1.5em;}
 	</style>
-	<meta name="viewport" content="width=device-width, minimum-scale=1, maximum-scale=1">
-	<meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320"/>
+  <meta name="viewport" content="width=device-width, target-densitydpi=160dpi, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  
 </head>
 <body> 
 <?php echo $feed; ?>

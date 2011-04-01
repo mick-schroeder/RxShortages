@@ -48,6 +48,7 @@ Ti.Yahoo.yql(query, function(e) {
 			text : data.item[i].title,
 			left : 10,
 			right : 30,
+			color: '#000',
 			font : {fontSize : 15, fontWeight: 'bold'}
 		});
 		
