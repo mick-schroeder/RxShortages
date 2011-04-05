@@ -22,7 +22,7 @@ var actInd = Titanium.UI.createActivityIndicator({
 
 win.add(actInd);
 
-actInd.show();
+
 
 // Create Tableview
 var tableView = Ti.UI.createTableView({});
@@ -75,7 +75,10 @@ if (Ti.Network.online) {
 	Ti.UI.currentWindow.add(tableView);
 
 	// Data has been loaded/added, so remove the loading icon.
-	actInd.hide();
+		if(navActInd){
+		navActInd.hide();
+	}
+	Ti.App.fireEvent("hide_indicator");
 	
 	
 	// When a title is clicked, open a new window and pass the details of the selected posting.
@@ -110,10 +113,13 @@ if (Ti.Network.online) {
 
 	refresh.addEventListener('click', function () {
 		Ti.API.log('refreshing');
-		actInd.show();
+		
 		tableView.setData(null);
 		setTableData();
-		actInd.hide();
+			if(navActInd){
+		navActInd.hide();
+	}
+	Ti.App.fireEvent("hide_indicator");
 	});
 
 } else {
