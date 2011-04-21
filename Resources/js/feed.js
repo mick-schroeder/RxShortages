@@ -43,7 +43,7 @@ refresh.addEventListener('click', function () {
 function setTableData() {
 
 	// YQL query to get feed. 
-	query = "select title,link,pubDate from rss where url in (\'http://www.ashp.org/rss/shortages/\',\'http://www.ashp.org/rss/resolved/\',\'http://www.ashp.org/rss/notavailable/\') | sort(field=\"pubDate\", descending=\"true\") | truncate(count=25)";
+	query = "select title,link,pubDate from rss where url in (\'http://www.ashp.org/rss/shortages/\',\'http://www.ashp.org/rss/resolved/\',\'http://www.ashp.org/rss/notavailable/\') | sort(field=\"pubDate\", descending=\"true\") | truncate(count=99)";
 
 	Ti.Yahoo.yql(query, function (e) {
 		data = e.data;
@@ -66,7 +66,7 @@ function setTableData() {
 						pubDate: data.item[i].pubDate,
 						hasChild: true,
 						className: 'drug_row',
-						height: 65,
+						height: 'auto',
 						backgroundGradient: {
 							type: 'linear',
 							colors: [
@@ -85,9 +85,9 @@ function setTableData() {
 					// Need label in order to change the font size. (sucks)
 					if (data.item[i].link.indexOf('ResolvedShortages') != -1) {
 						flagIcon = 'green';
-					} else if (data.item[i].link.indexOf('DrugsNoLongerAvailable') != -1) {
+					} else if (data.item[i].link.indexOf('NotAvailable') != -1) {
 						flagIcon = 'red';
-					} else if (data.item[i].link.indexOf('CurrentShortages') != -1) {
+					} else if (data.item[i].link.indexOf('Current') != -1) {
 						flagIcon = 'yellow';
 
 					}
@@ -98,7 +98,8 @@ function setTableData() {
 						width: 32,
 						height: 32,
 						left: 10,
-						top: 15
+						top: 15,
+						bottom: 10
 					});
 
 					var date = Ti.UI.createLabel({
@@ -118,7 +119,9 @@ function setTableData() {
 						color: '#444',
 						top: 20,
 						left: 60,
+						bottom: 7,
 						height: 'auto',
+						background: '#000000',
 						width: 225,
 						font: {
 							fontWeight: 'bold',

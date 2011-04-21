@@ -3,7 +3,7 @@ win.backgroundColor = '#ffffff';
 	
 	var webview = Ti.UI.createWebView({
 		scalePageToFit : true,
-		url : 'http://mickschroeder.com/pharmacy/rxshortages/parse/parse.php?Link=' + win.theUrl + '&pubDate=' + win.pubDate
+		url : 'http://mickschroeder.com/pharmacy/parse/parse.php?Link=' + win.theUrl + '&pubDate=' + win.pubDate
 	});
 	
 	// Add the webview (the original webpage article), and animate the page into view.
