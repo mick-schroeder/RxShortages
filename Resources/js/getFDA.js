@@ -1,3 +1,12 @@
+/*!
+ * RxShortages
+ * http://mickschroeder.com/rxshortages
+ *
+ * Copyright 2011, Michael Schroeder
+ * License: GPL Version 3 or later
+ * http://www.gnu.org/licenses/gpl.html
+ */
+
 // Displays a list of the recent articles 
 var win = Ti.UI.currentWindow,
 	query,

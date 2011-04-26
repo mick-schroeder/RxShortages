@@ -1,3 +1,12 @@
+/*!
+ * RxShortages
+ * http://mickschroeder.com/rxshortages
+ *
+ * Copyright 2011, Michael Schroeder
+ * License: GPL Version 3 or later
+ * http://www.gnu.org/licenses/gpl.html
+ */
+
 var win = Ti.UI.currentWindow;
 win.backgroundColor = '#ffffff';
 	

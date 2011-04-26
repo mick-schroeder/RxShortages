@@ -1,3 +1,12 @@
+/*!
+ * RxShortages
+ * http://mickschroeder.com/rxshortages
+ *
+ * Copyright 2011, Michael Schroeder
+ * License: GPL Version 3 or later
+ * http://www.gnu.org/licenses/gpl.html
+ */
+
 // sets the background color
 Ti.UI.setBackgroundColor('#fff');
 var win = Ti.UI.currentWindow;
@@ -8,7 +17,7 @@ var tabGroup = Ti.UI.createTabGroup();
 // Home Tab
 var homeWindow = Ti.UI.createWindow({
 	title: 'RxShortages',
-	url: 'main_windows/blogs.js',
+	url: 'main_windows/main_menu.js',
 	barColor: '#336699'
 });
 

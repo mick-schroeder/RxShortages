@@ -1,3 +1,12 @@
+/*!
+ * RxShortages
+ * http://mickschroeder.com/rxshortages
+ *
+ * Copyright 2011, Michael Schroeder
+ * License: GPL Version 3 or later
+ * http://www.gnu.org/licenses/gpl.html
+ */
+
 var win = Ti.UI.currentWindow;
 
 // Can't find a way to gain access to variables from within an .html webview. Doing it this way for now - but is sloppy. I'm sure there's a smarter/cleaner way. 
