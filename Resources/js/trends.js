@@ -60,7 +60,7 @@ function setTableData() {
                 path: 'article.js',
                 url: data[i][0],
                 hasChild: true,
-                className: 'drug_row'
+                className: 'trend_row'
             });
             // Need label in order to change the font size.
             var articleTitleLabel = Ti.UI.createLabel({

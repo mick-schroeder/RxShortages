@@ -48,7 +48,7 @@ Ti.Yahoo.yql(query, function(e) {
 			desc : data.item[i].description,
 		    hasChild : true,
 			theTitle : data.item[i].title,
-			className : 'drug_row'
+			className : 'fda_row'
 			
 		});
 	

@@ -5,7 +5,7 @@
         <target device="ipad">true</target>
         <target device="android">true</target>
     </deployment-targets>
-<id>com.mickschroeder.RxShortages</id>
+<id>com.mickschroeder.rxshortages</id>
 <name>RxShortages</name>
 <version>2.0</version>
 <publisher>Michael Schroeder</publisher>

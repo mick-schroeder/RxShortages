@@ -52,7 +52,7 @@ refresh.addEventListener('click', function () {
 function setTableData() {
 
 	// YQL query to get feed. 
-	query = "select title,link,pubDate from rss where url in (\'http://www.ashp.org/rss/shortages/\',\'http://www.ashp.org/rss/resolved/\',\'http://www.ashp.org/rss/notavailable/\') | sort(field=\"pubDate\", descending=\"true\") | truncate(count=99)";
+	query = "select title,link,pubDate from rss where url in (\'http://www.ashp.org/rss/shortages/\',\'http://www.ashp.org/rss/resolved/\',\'http://www.ashp.org/rss/notavailable/\') | sort(field=\"pubDate\", descending=\"true\") | truncate(count=30)";
 
 	Ti.Yahoo.yql(query, function (e) {
 		data = e.data;
@@ -74,7 +74,7 @@ function setTableData() {
 						url: data.item[i].link,
 						pubDate: data.item[i].pubDate,
 						hasChild: true,
-						className: 'drug_row',
+						className: 'feed_row',
 						height: 'auto',
 						backgroundGradient: {
 							type: 'linear',
