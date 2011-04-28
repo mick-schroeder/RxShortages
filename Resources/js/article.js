@@ -40,7 +40,7 @@ win.backgroundColor = '#ffffff';
 	    var menuItem = menu.add({ title: "View Full Article" });
 	    menuItem.addEventListener("click", function(e) {
 			Titanium.Platform.openURL(win.theUrl);
-	    });
+	    });    
 	};
 	}
 	

@@ -29,15 +29,31 @@ var tableView = Ti.UI.createTableView({
 // Populate a tableview with the titles
 Ti.UI.currentWindow.add(tableView);
 
-// Refresh buttom
-var refresh = Titanium.UI.createButton({
-    systemButton: Titanium.UI.iPhone.SystemButton.REFRESH
-});
-
-if (Ti.Platform.name == 'iPhone OS') {
-    win.rightNavButton = refresh;
-} else {
-
+// Refresh buttons
+if (Ti.Platform.name === 'iPhone OS') {
+	win.rightNavButton = refresh;
+	var refresh = Titanium.UI.createButton({
+		systemButton: Titanium.UI.iPhone.SystemButton.REFRESH
+	});
+	refresh.addEventListener('click', function () {
+		Ti.App.fireEvent("show_indicator");
+		tableView.setData(null);
+		setTableData();
+		Ti.App.fireEvent("hide_indicator");
+	});
+} 
+else if (Titanium.Platform.name === 'android')
+{
+var activity = Ti.Android.currentActivity;
+activity.onCreateOptionsMenu = function(e) {
+    var menu = e.menu;
+    var menuItem = menu.add({ title: "Refresh" });
+    menuItem.addEventListener("click", function(e) {
+		Ti.App.fireEvent("show_indicator");
+		tableView.setData(null);
+		setTableData();
+		Ti.App.fireEvent("hide_indicator");    });    
+};
 }
 
 
@@ -130,7 +146,7 @@ if (Ti.Platform.name == 'iPhone OS') {
 	    } else if (e.index === 3) {
 	        timeURL = 'quarter';
 	    }
-	    Ti.API.log('refreshing');
+	    
 	    Ti.App.fireEvent("show_indicator");
 	    tableView.setData(null);
 	    setTableData();
@@ -265,13 +281,6 @@ else {
 	
 }
 
-refresh.addEventListener('click', function () {
-    Ti.API.log('refreshing');
-    Ti.App.fireEvent("show_indicator");
-    tableView.setData(null);
-    setTableData();
-    Ti.App.fireEvent("hide_indicator");
-});
 
 
 // Make sure device is connection to the internet
