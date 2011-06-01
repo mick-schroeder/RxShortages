@@ -18,6 +18,9 @@ win.backgroundColor = '#fff';
 // Set variables
 var data, newRow, query, siteUrl;
 
+//Show Ads
+if (Titanium.Platform.name === 'android') { Ti.App.fireEvent("show_ads"); }
+
 // Create search bar
 var search = Titanium.UI.createSearchBar({
 	showCancel:true,
@@ -28,6 +31,7 @@ var search = Titanium.UI.createSearchBar({
 // Create Tableview
 var tableView = Ti.UI.createTableView({
 	search: search,
+	bottom: 48,
 	filterAttribute: 'theTitle'
 });
 
@@ -44,7 +48,6 @@ if (Ti.Platform.name === 'iPhone OS') {
 		Ti.App.fireEvent("show_indicator");
 		tableView.setData(null);
 		setTableData();
-		Ti.App.fireEvent("hide_indicator");
 	});
 } 
 else if (Titanium.Platform.name === 'android')
@@ -57,7 +60,7 @@ activity.onCreateOptionsMenu = function(e) {
 		Ti.App.fireEvent("show_indicator");
 		tableView.setData(null);
 		setTableData();
-		Ti.App.fireEvent("hide_indicator");    });    
+		});    
 };
 }
 
@@ -90,7 +93,6 @@ function setTableData() {
 			}
 			else {
 				var tableData = [];
-
 				// For each item from the total number of postings returned from the query...
 				for (var i = 0, j = data.item.length; i < j; i++) {
 					newRow = Ti.UI.createTableViewRow({
@@ -115,6 +117,10 @@ function setTableData() {
 					tableData.push(newRow);
 					} // end YQL
 					tableView.setData(tableData);
+					
+
+					// Data has been loaded/added, so remove the loading icon.
+					Ti.App.fireEvent("hide_indicator");					
 				}
 			});
 		}
@@ -147,9 +153,6 @@ function setTableData() {
 
 			// Load table
 			setTableData();
-
-			// Data has been loaded/added, so remove the loading icon.
-			Ti.App.fireEvent("hide_indicator");
 
 		} 
 

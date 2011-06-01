@@ -7,7 +7,7 @@
     </deployment-targets>
 <id>com.mickschroeder.rxshortages</id>
 <name>RxShortages</name>
-<version>2.0</version>
+<version>2.1</version>
 <publisher>Michael Schroeder</publisher>
 <url>http://mickschroeder.com/rxshortages</url>
 <description>Rx Shortages is designed to help health care providers access information about drug shortages quickly and easily.</description>

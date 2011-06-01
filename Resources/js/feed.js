@@ -21,8 +21,11 @@ var data, newRow, query, siteUrl, flagIcon;
 
 // Create Tableview
 var tableView = Ti.UI.createTableView({
-	 
+	 bottom: 48
 });
+
+// Show ads
+if (Titanium.Platform.name === 'android') { Ti.App.fireEvent("show_ads"); }
 
 // Refresh buttons
 if (Ti.Platform.name === 'iPhone OS') {
@@ -34,7 +37,7 @@ if (Ti.Platform.name === 'iPhone OS') {
 		Ti.App.fireEvent("show_indicator");
 		tableView.setData(null);
 		setTableData();
-		Ti.App.fireEvent("hide_indicator");
+		//Ti.App.fireEvent("hide_indicator");
 	});
 } 
 else if (Titanium.Platform.name === 'android')
@@ -47,7 +50,8 @@ activity.onCreateOptionsMenu = function(e) {
 		Ti.App.fireEvent("show_indicator");
 		tableView.setData(null);
 		setTableData();
-		Ti.App.fireEvent("hide_indicator");    });    
+		//Ti.App.fireEvent("hide_indicator");    
+		});    
 };
 }
 // Populate a tableview with the titles
@@ -150,6 +154,7 @@ function setTableData() {
 				}
 				// end YQL
 				tableView.setData(tableData);
+				Ti.App.fireEvent("hide_indicator"); 
 			}
 			});
 		}
@@ -183,8 +188,6 @@ function setTableData() {
 			// Load table
 			setTableData();
 
-			// Data has been loaded/added, so remove the loading icon.
-			Ti.App.fireEvent("hide_indicator");
 
 		} 
 

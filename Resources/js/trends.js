@@ -15,6 +15,10 @@
 var win = Ti.UI.currentWindow;
 win.backgroundColor = '#fff';
 
+//Show ads
+if (Titanium.Platform.name === 'android') { Ti.App.fireEvent("show_ads"); }
+
+
 // Set variables
 var data, newRow, siteUrl;
 
@@ -23,7 +27,8 @@ var timeURL = 'day';
 
 // Create Tableview
 var tableView = Ti.UI.createTableView({
-    top: 44
+    top: 44,
+	bottom: 48
 });
 
 // Populate a tableview with the titles
@@ -39,8 +44,7 @@ if (Ti.Platform.name === 'iPhone OS') {
 		Ti.App.fireEvent("show_indicator");
 		tableView.setData(null);
 		setTableData();
-		Ti.App.fireEvent("hide_indicator");
-	});
+			});
 } 
 else if (Titanium.Platform.name === 'android')
 {
@@ -52,7 +56,7 @@ activity.onCreateOptionsMenu = function(e) {
 		Ti.App.fireEvent("show_indicator");
 		tableView.setData(null);
 		setTableData();
-		Ti.App.fireEvent("hide_indicator");    });    
+ });    
 };
 }
 
@@ -95,6 +99,7 @@ function setTableData() {
             tableData.push(newRow);
         }
         tableView.setData(tableData);
+		Ti.App.fireEvent("hide_indicator");
     }
 }
 
@@ -150,8 +155,8 @@ if (Ti.Platform.name == 'iPhone OS') {
 	    Ti.App.fireEvent("show_indicator");
 	    tableView.setData(null);
 	    setTableData();
-	    Ti.App.fireEvent("hide_indicator");
 	});
+	
 	win.add(toolbar2);
 }
 else {
@@ -239,8 +244,7 @@ else {
 		Ti.App.fireEvent("show_indicator");
 		tableView.setData(null);
 		setTableData();
-		Ti.App.fireEvent("hide_indicator");
-	});
+			});
 	tab2.addEventListener('click',function() {
 	    currTab.backgroundColor = '#000';
 	    currTab.children[0].color = '#c0c0c0';
@@ -251,8 +255,7 @@ else {
 		Ti.App.fireEvent("show_indicator");
 		tableView.setData(null);
 		setTableData();
-		Ti.App.fireEvent("hide_indicator");
-	});
+			});
 	tab3.addEventListener('click',function() {
 	    currTab.backgroundColor = '#000';
 	    currTab.children[0].color = '#c0c0c0';
@@ -263,8 +266,7 @@ else {
 		Ti.App.fireEvent("show_indicator");
 		tableView.setData(null);
 		setTableData();
-		Ti.App.fireEvent("hide_indicator");
-	});
+			});
 	tab4.addEventListener('click',function() {
 	    currTab.backgroundColor = '#000';
 	    currTab.children[0].color = '#c0c0c0';
@@ -275,8 +277,7 @@ else {
 		Ti.App.fireEvent("show_indicator");
 		tableView.setData(null);
 		setTableData();
-		Ti.App.fireEvent("hide_indicator");
-	});
+			});
 	
 	
 }
@@ -290,11 +291,7 @@ if (Ti.Network.online) {
     Ti.App.fireEvent("show_indicator");
 
     // Load table
-    setTableData();
-
-    // Data has been loaded/added, so remove the loading icon.
-    Ti.App.fireEvent("hide_indicator");
-
+    setTableData();    
 }
 
 // If not connected, alert the user

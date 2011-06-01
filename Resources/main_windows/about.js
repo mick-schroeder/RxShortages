@@ -10,6 +10,7 @@
 var win = Titanium.UI.currentWindow;
 win.backgroundColor = '#E8E8E8';
 
+
 //win.barColor = '#000';
 win.layout = 'vertical';
 

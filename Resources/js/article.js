@@ -9,17 +9,24 @@
 
 var win = Ti.UI.currentWindow;
 win.backgroundColor = '#ffffff';
-	
+
+//Show Ads
+if (Titanium.Platform.name === 'android') { Ti.App.fireEvent("show_ads"); }
+
 	var webview = Ti.UI.createWebView({
 		scalePageToFit : true,
+		bottom: 48,
 		url : 'http://mickschroeder.com/pharmacy/parse/parse.php?Link=' + win.theUrl + '&pubDate=' + win.pubDate
 	});
 	
 	// Add the webview (the original webpage article), and animate the page into view.
 	win.add(webview);
 	
+	// Show ads
+	if (Titanium.Platform.name === 'android') { Ti.App.fireEvent("show_ads"); }
 	
-	if (Titanium.Platform.name == 'iPhone OS')
+		
+	if (Titanium.Platform.name === 'iPhone OS')
 	{
 	// add button which links to the original article.
 	var button = Ti.UI.createButton({
@@ -32,7 +39,7 @@ win.backgroundColor = '#ffffff';
 	});
 	}
 	
-	if (Titanium.Platform.name == 'android')
+	if (Titanium.Platform.name === 'android')
 	{
 	var activity = Ti.Android.currentActivity;
 	activity.onCreateOptionsMenu = function(e) {
@@ -43,5 +50,4 @@ win.backgroundColor = '#ffffff';
 	    });    
 	};
 	}
-	
 

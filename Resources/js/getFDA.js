@@ -23,6 +23,9 @@ var win = Ti.UI.currentWindow,
 	});
 	win.add(actInd);
 	actInd.show();
+	if (Titanium.Platform.name === 'android') { Ti.App.fireEvent("show_ads"); }
+
+
 if(Ti.Network.online){
 // Add loading icons. Note - needs to be removed after data is loaded, with loadingIcon.hide().
 
@@ -38,6 +41,7 @@ Ti.Yahoo.yql(query, function(e) {
 		newRow;
 	var tableView = Ti.UI.createTableView({
 		search : search,
+		bottom: 48,
 		filterAttribute : 'theTitle'
 			});
 	// For each item from the total number of postings returned from the query...
