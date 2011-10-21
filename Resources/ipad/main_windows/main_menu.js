@@ -12,11 +12,14 @@
 
 var win = Ti.UI.currentWindow;
 
+if (Titanium.Platform.name === 'android') { Ti.App.fireEvent("show_ads"); }
+
+
 var data = [
-    { title : 'Current Shortages', hasChild:true, path : '../js/getFeed.js', header:'ASHP Reported Drug Shortages'},
-	{ title : 'Resolved Shortages', hasChild:true, path : '../js/getFeed.js'},
-	{ title : 'Unavailable Drugs', hasChild:true, path : '../js/getFeed.js'},
-	{ title : 'Reported Shortages', hasChild:true, path : '../js/getFDA.js', header:'FDA Reported Drug Shortages'}
+    { title : 'Current Shortages', hasChild:true, path : '../ipad/js/getFeed.js', header:'ASHP Reported Drug Shortages'},
+	{ title : 'Resolved Shortages', hasChild:true, path : '../ipad/js/getFeed.js'},
+	{ title : 'Unavailable Drugs', hasChild:true, path : '../ipad/js/getFeed.js'},
+	{ title : 'Reported Shortages', hasChild:true, path : '../ipad/js/getFDA.js', header:'FDA Reported Drug Shortages'}
 ];
 
 // Create table and fill it with list

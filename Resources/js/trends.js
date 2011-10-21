@@ -15,10 +15,6 @@
 var win = Ti.UI.currentWindow;
 win.backgroundColor = '#fff';
 
-//Show ads
-if (Titanium.Platform.name === 'android') { Ti.App.fireEvent("show_ads"); }
-
-
 // Set variables
 var data, newRow, siteUrl;
 
@@ -28,7 +24,6 @@ var timeURL = 'day';
 // Create Tableview
 var tableView = Ti.UI.createTableView({
     top: 44,
-	bottom: 48
 });
 
 // Populate a tableview with the titles
@@ -36,10 +31,11 @@ Ti.UI.currentWindow.add(tableView);
 
 // Refresh buttons
 if (Ti.Platform.name === 'iPhone OS') {
-	win.rightNavButton = refresh;
 	var refresh = Titanium.UI.createButton({
 		systemButton: Titanium.UI.iPhone.SystemButton.REFRESH
 	});
+	win.rightNavButton = refresh;
+
 	refresh.addEventListener('click', function () {
 		Ti.App.fireEvent("show_indicator");
 		tableView.setData(null);

@@ -21,38 +21,26 @@ var data, newRow, query, siteUrl, flagIcon;
 
 // Create Tableview
 var tableView = Ti.UI.createTableView({
-	 
+	
 });
 
-
 // Refresh buttons
-if (Ti.Platform.name === 'iPhone OS') {
-	var refresh = Titanium.UI.createButton({
-		systemButton: Titanium.UI.iPhone.SystemButton.REFRESH
-	});
-		win.rightNavButton = refresh;
+var refresh = Titanium.UI.createButton({
+	systemButton: Titanium.UI.iPhone.SystemButton.REFRESH
+});
 
+	win.rightNavButton = refresh;
+	
+	
+	
 	refresh.addEventListener('click', function () {
 		Ti.App.fireEvent("show_indicator");
 		tableView.setData(null);
 		setTableData();
 		//Ti.App.fireEvent("hide_indicator");
 	});
-} 
-else if (Titanium.Platform.name === 'android')
-{
-var activity = Ti.Android.currentActivity;
-activity.onCreateOptionsMenu = function(e) {
-    var menu = e.menu;
-    var menuItem = menu.add({ title: "Refresh" });
-    menuItem.addEventListener("click", function(e) {
-		Ti.App.fireEvent("show_indicator");
-		tableView.setData(null);
-		setTableData();
-		//Ti.App.fireEvent("hide_indicator");    
-		});    
-};
-}
+
+
 // Populate a tableview with the titles
 Ti.UI.currentWindow.add(tableView);
 
@@ -69,7 +57,7 @@ function setTableData() {
 			Ti.App.fireEvent("hide_indicator");
 			Titanium.UI.createAlertDialog({
 				title: 'Error querying YQL',
-				message: 'No data could be retrieved using YQL' }).show();
+				message: 'No data retrieved. Press Refresh to try again.' }).show();
 				return;
 			}
 			else {
@@ -158,24 +146,12 @@ function setTableData() {
 			});
 		}
 
-		// When a title is clicked, open a new window and pass the details of the selected posting.
+		// When a title is clicked, open a fire event and pass the details of the selected posting.
 		tableView.addEventListener('click', function (e) {
-			var newWin = Ti.UI.createWindow({
-				url: 'article.js',
-				//title : e.rowData.theTitle,
-				barColor: Ti.UI.currentWindow.barColor
-			});
 
-			// Add variables for the description and the url.
-			newWin.theUrl = e.rowData.url;
-			newWin.pubDate = escape(e.rowData.pubDate);
-
-			Ti.UI.currentTab.open(newWin, {
-				animated: true
-			});
-
+			Ti.App.fireEvent('detailLoad', {theUrl:e.rowData.url,pubDate:escape(e.rowData.pubDate)});
+		
 		});
-
 
 		// Make sure device is connection to the internet
 

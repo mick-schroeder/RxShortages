@@ -7,6 +7,13 @@
  * http://www.gnu.org/licenses/gpl.html
  */
 
+if (Ti.Platform.osname === 'ipad') {
+Ti.include('ipad/app.js');
+}
+
+else {
+
+
 // sets the background color
 Ti.UI.setBackgroundColor('#fff');
 var win = Ti.UI.currentWindow;
@@ -91,7 +98,6 @@ tabGroup.addTab(aboutTab);
 
 // open tab group
 tabGroup.open({
-    transition: Ti.UI.iPhone.AnimationStyle.CURL_UP
 });
 
 //
@@ -173,98 +179,4 @@ Titanium.App.addEventListener('hide_indicator', function (e) {
     hideIndicator();
 });
 
-// iAds
-    if (Titanium.Platform.name == 'iPhone OS') {
-    	if (parseFloat(Titanium.Platform.version) >= 3.2){
-	
-        function display_Ad_iPhone() {
-            if (adwin) {
-				Ti.API.info("Closed");
-                
-                adwin.remove(iads);
-                adwin.close();
-            }
-            var adwin = Titanium.UI.createWindow({
-                width: '320',
-                height: '48',
-                bottom: 49
-            });
-
-            var iads = Ti.UI.iOS.createAdView({
-               	 width: '320',
-	                height: '48',
-                zIndex: 1,
-                bottom: 0
-            });
-
-            iads.addEventListener('load', function () {
-                Ti.API.info("LOADED");
-            });
-
-            iads.addEventListener('error', function () {
-                Ti.API.info("ERROR LOADING iAd");
-            });
-
-            adwin.add(iads);
-            adwin.open();
-
-        }
-		display_Ad_iPhone();
-    } 
 }
-
-	
-	if (Titanium.Platform.name == 'android') {
-        function display_Ad_Android() {
-            Ti.API.info("ADMOB" + numLoads);
-            var numLoads = 0;
-            if (adWebView) {
-                adwin.remove(adWebView);
-                adwin.close();
-            }
-            var adwin = Titanium.UI.createWindow({
-                width: 'auto',
-                height: 48,
-                backgroundColor: '#000',
-                bottom: 0,
-            });
-
-            //var adUrl = "http://mickschroeder.com/pharmacy/parse/admob";
-            var adUrl = "admob.html";
-
-            var adWebView = Ti.UI.createWebView({
-                url: adUrl,
-                height: 48,
-                zIndex: 1,
-                bottom: 0,
-                left: 0,
-                right: 0
-            });
-
-            adwin.add(adWebView);
-            adwin.open();
-       
-			adWebView.addEventListener('load', function (evt) {
-                numLoads++;
-                if (numLoads > 1) {
-                    var url = evt.url.split('market://').join('http://');
-                    Ti.API.info("clicked ad " + url);
-                    //launch ad url in new browser window.
-                    display_Ad_Android();
-                    Ti.Platform.openURL(url);
-                    //load a new ad.
-                }
-            });
-        }
-        Titanium.App.addEventListener('show_ads', function (e) {
-			if (Ti.Network.online) {
-				Ti.API.info("IN SHOW ADMOB");
-				display_Ad_Android();
-			}
-        });
-
-	}
-
-
-  
-    //if (Titanium.Platform.name === 'android') { Ti.App.fireEvent("show_ads"); }

@@ -1,8 +1,8 @@
-#appname: RxShortages
-#publisher: Mick 
-#url: http://mickschroeder.com
-#image: appicon.png
-#appid: com.mickschroeder.rxshortages
-#desc: undefined
-#type: mobile
-#guid: 28712af0-8441-4d6f-bdaa-6c3576934ec2
+#appname:RxShortages
+#publisher:Michael Schroeder
+#url:http://mickschroeder.com/rxshortages
+#image:appicon.png
+#appid:com.mickschroeder.RxShortages
+#desc:Rx Shortages is designed to help health care providers access information about drug shortages quickly and easily.
+#type:ipad
+#guid:28712af0-8441-4d6f-bdaa-6c3576934ec2

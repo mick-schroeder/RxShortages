@@ -11,10 +11,8 @@
 var win = Ti.UI.currentWindow,
 	query,
 	siteUrl;
-	win.backgroundColor = '#fff';
 
 if(Ti.Network.online){
-// Add loading icons. Note - needs to be removed after data is loaded, with loadingIcon.hide().
 
  // YQL query to get feed. 
 siteUrl = "www.fda.gov/downloads/Drugs/DrugSafety/DrugShortages/UCM163172.xml";
@@ -26,23 +24,27 @@ Ti.Yahoo.yql(query, function(e) {
 	});
 	var data = e.data,
 		newRow;
+	
 	var tableView = Ti.UI.createTableView({
-		search : search,
-		filterAttribute : 'theTitle'
+		search: search,
+		filterAttribute: 'theTitle'
 			});
+Ti.UI.currentWindow.add(tableView);
+	var tableData = [];
+	
 	// For each item from the total number of postings returned from the query...
-	for ( var i = 0; i < data.item.length; i++ ) {
+	for (var i = 0, j = data.item.length; i < j; i++) {
+		
 		newRow = Ti.UI.createTableViewRow({
 			path : 'articleFDA.js', 
 			url : data.item[i].link,
 			desc : data.item[i].description,
 		    hasChild : true,
 			theTitle : data.item[i].title,
-			className : 'fda_row'
-			
+			//className : 'fda_row'
 		});
 	
-		// Need label in order to change the font size. (sucks)
+		// Need label in order to change the font size.
 		var articleTitleLabel = Ti.UI.createLabel({
 			text : data.item[i].title,
 			left : 10,
@@ -52,34 +54,20 @@ Ti.Yahoo.yql(query, function(e) {
 		});
 		
 		newRow.add(articleTitleLabel);
-		tableView.appendRow(newRow);
+		tableData.push(newRow);
 		
 	} // end YQL
-		
+	
+	tableView.setData(tableData);
+	
 	// Populate a tableview with the titles
-	Ti.UI.currentWindow.add(tableView);	
-	
-	// Data has been loaded/added, so remove the loading icon.
-
 
 	
-	// When a title is clicked, open a new window and pass the details of the selected posting.
-	tableView.addEventListener('click', function(e) {
-		if ( e.rowData.path ) {
-			var newWin = Ti.UI.createWindow({
-				url : e.rowData.path,
-				title : 'RxShortages',
-				barColor : Ti.UI.currentWindow.barColor
-			});
-						
-			// Add variables for the description and the url.
-			newWin.desc = e.rowData.desc;
-			newWin.theUrl = e.rowData.url;
-			newWin.theTitle = e.rowData.theTitle;
-		}
+	// When a title is clicked, open a fire event and pass the details of the selected posting.
+	tableView.addEventListener('click', function (e) {
 
-		Ti.UI.currentTab.open( newWin, { animated : true } );
-		
+		Ti.App.fireEvent('detailLoadFDA', {theUrl:e.rowData.url,desc:e.rowData.desc,theTitle:e.rowData.theTitle});
+	
 	});
 	
 });
