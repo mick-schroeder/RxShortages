@@ -9,7 +9,7 @@
     </deployment-targets>
     <id>com.mickschroeder.rxshortages</id>
     <name>RxShortages</name>
-    <version>2.3</version>
+    <version>3</version>
     <publisher>Michael Schroeder</publisher>
     <url>http://mickschroeder.com/rxshortages</url>
     <description>Rx Shortages is designed to help health care providers access information about drug shortages quickly and easily.</description>
@@ -26,6 +26,8 @@
     <iphone>
         <orientations device="iphone">
             <orientation>Ti.UI.PORTRAIT</orientation>
+            <orientation>Ti.UI.LANDSCAPE_LEFT</orientation>
+            <orientation>Ti.UI.LANDSCAPE_RIGHT</orientation>
         </orientations>
         <orientations device="ipad">
             <orientation>Ti.UI.PORTRAIT</orientation>
@@ -34,6 +36,10 @@
             <orientation>Ti.UI.LANDSCAPE_RIGHT</orientation>
         </orientations>
     </iphone>
-    <android xmlns:android="http://schemas.android.com/apk/res/android"/>
+    <android xmlns:android="http://schemas.android.com/apk/res/android">
+        <manifest android:versionCode="7" android:versionName="3"/>
+        		<supports-screens android:anyDensity="false"/>
+
+    </android>
     <modules/>
 </ti:app>

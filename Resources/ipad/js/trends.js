@@ -76,7 +76,7 @@ function setTableData() {
                 right: 30,
 				color: '#000',
                 font: {
-                    fontSize: 15,
+                    fontSize: '15dp',
                     fontWeight: 'bold'
                 }
 

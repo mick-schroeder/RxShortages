@@ -12,11 +12,19 @@
 
 var win = Ti.UI.currentWindow;
 
+win.orientationModes = [
+	Titanium.UI.PORTRAIT,
+	Titanium.UI.LANDSCAPE_LEFT,
+	Titanium.UI.LANDSCAPE_RIGHT
+];
+
 var data = [
-    { title : 'Current Shortages', hasChild:true, path : '../js/getFeed.js', header:'ASHP Reported Drug Shortages'},
-	{ title : 'Resolved Shortages', hasChild:true, path : '../js/getFeed.js'},
-	{ title : 'Unavailable Drugs', hasChild:true, path : '../js/getFeed.js'},
-	{ title : 'Reported Shortages', hasChild:true, path : '../js/getFDA.js', header:'FDA Reported Drug Shortages'}
+    { title : 'Current Shortages', head: 'ASHP - Current', hasChild:true, path : '../js/getFeed.js', header:'ASHP Reported Drug Shortages'},
+	{ title : 'Resolved Shortages', head: 'ASHP - Resolved', hasChild:true, path : '../js/getFeed.js'},
+	{ title : 'Unavailable Drugs', head: 'ASHP - Unavailable', hasChild:true, path : '../js/getFeed.js'},
+	{ title : 'Current Drug Shortages', head: 'FDA - Current', hasChild:true, path : '../js/getFDA.js', header:'FDA Reported Drug Shortages'},
+	{ title : 'Resolved Drug Shortages', head: 'FDA - Resolved', hasChild:true, path : '../js/getFDA.js'},
+	{ title : 'Drugs to be Discontinued', head: 'FDA - Discontinued', hasChild:true, path : '../js/getFDA.js'},
 ];
 
 // Create table and fill it with list
@@ -34,7 +42,8 @@ tableView.addEventListener('click', function(e) {
 	if ( e.rowData.path ) {
 		var newWindow = Titanium.UI.createWindow({
 			url : e.rowData.path,
-			title : e.rowData.title,
+			title : e.rowData.head,
+			backButtonTitle : 'Back',
 			barColor:'#336699'
 	});
 	

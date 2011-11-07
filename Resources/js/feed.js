@@ -13,6 +13,9 @@
 
 // Set properties
 var win = Ti.UI.currentWindow;
+
+
+
 win.backgroundColor = '#fff';
 
 // Set variables
@@ -125,10 +128,11 @@ function setTableData() {
 						top: 3,
 						left: 60,
 						height: 20,
+						right:30,
 						width: 255,
 						font: {
 							fontWeight: 'normal',
-							fontSize: 12
+							fontSize: '12dp'
 						}
 					});
 					var title = Ti.UI.createLabel({
@@ -136,13 +140,14 @@ function setTableData() {
 						color: '#444',
 						top: 20,
 						left: 60,
+						right:30,
 						bottom: 7,
 						height: 'auto',
 						background: '#000000',
 						width: 225,
 						font: {
 							fontWeight: 'bold',
-							fontSize: 15
+							fontSize: '15dp'
 						}
 					});
 					newRow.add(flag);
@@ -163,7 +168,9 @@ function setTableData() {
 			var newWin = Ti.UI.createWindow({
 				url: 'article.js',
 				//title : e.rowData.theTitle,
-				barColor: Ti.UI.currentWindow.barColor
+				barColor: Ti.UI.currentWindow.barColor,
+				backButtonTitle : 'Back'
+
 			});
 
 			// Add variables for the description and the url.

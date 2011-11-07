@@ -67,7 +67,11 @@ var data = [
     { title : 'Current Shortages', hasChild:true, path : './ipad/js/getFeed.js', header:'ASHP Reported Drug Shortages'},
 	{ title : 'Resolved Shortages', hasChild:true, path : './ipad/js/getFeed.js'},
 	{ title : 'Unavailable Drugs', hasChild:true, path : './ipad/js/getFeed.js'},
-	{ title : 'Reported Shortages', hasChild:true, path : './ipad/js/getFDA.js', header:'FDA Reported Drug Shortages'},
+	
+	{ title : 'Current Drug Shortages', head: 'FDA: Current', hasChild:true, path : './ipad/js/getFDA.js', header:'FDA Reported Drug Shortages'},
+	{ title : 'Resolved Drug Shortages', head: 'FDA: Resolved', hasChild:true, path : './ipad/js/getFDA.js'},
+	{ title : 'Drugs to be Discontinued', head: 'FDA: Discontinued', hasChild:true, path : './ipad/js/getFDA.js'},
+	
 	{ title : 'Shortages Feed', hasChild:true, path : './ipad/js/feed.js', header:'Other'},
 	{ title : 'Trends', hasChild:true, path : './ipad/js/trends.js'},
 	{ title : 'Report Shortages', hasChild:true, path : './ipad/main_windows/report.js', header:'Other Views'},

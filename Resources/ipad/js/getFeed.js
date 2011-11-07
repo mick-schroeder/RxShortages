@@ -65,7 +65,7 @@ if (Ti.App.Properties.getString('websiteName') == 'Current Shortages') {
 function setTableData() {
 
 	// YQL query to get feed. 
-	query = "Select link, pubDate, title from rss where url='" + siteUrl + "'";
+	query = "Select link, pubDate, title from rss where url='" + siteUrl + "' | sort(field='title')";
 
 	Ti.Yahoo.yql(query, function (e) {
 		data = e.data;

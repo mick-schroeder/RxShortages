@@ -1,144 +1,23 @@
 Logfile initialized
 [INFO] logfile = /Users/mschroeder/Documents/Projects/RxShortages/build.log
-[DEBUG] /Users/mschroeder/Library/Application Support/Titanium/mobilesdk/osx/1.7.3/android/builder.py distribute RxShortages /Applications/android-sdk-mac_x86 /Users/mschroeder/Documents/Projects/RxShortages com.mickschroeder.rxshortages /Users/mschroeder/Documents/Programming/keystores/android.keystore After1414 rxshortages /Users/mschroeder/Downloads/Chrome 3
-[INFO] Titanium SDK version: 1.7.3 (10/17/11 13:44 dcf4257)
-[INFO] Copying project resources..
-[INFO] Detected tiapp.xml change (or assets deleted), forcing full re-build...
-[TRACE] COPYING CREATED FILE: /Users/mschroeder/Documents/Projects/RxShortages/Resources/android/appicon.png => /Users/mschroeder/Documents/Projects/RxShortages/build/android/bin/assets/Resources/appicon.png
-[TRACE] COPYING CREATED FILE: /Users/mschroeder/Documents/Projects/RxShortages/Resources/android/appicon@2x.png => /Users/mschroeder/Documents/Projects/RxShortages/build/android/bin/assets/Resources/appicon@2x.png
-[TRACE] COPYING CREATED FILE: /Users/mschroeder/Documents/Projects/RxShortages/Resources/android/default.png => /Users/mschroeder/Documents/Projects/RxShortages/build/android/bin/assets/Resources/default.png
-[TRACE] COPYING CREATED FILE: /Users/mschroeder/Documents/Projects/RxShortages/Resources/android/default@2x.png => /Users/mschroeder/Documents/Projects/RxShortages/build/android/bin/assets/Resources/default@2x.png
-[TRACE] COPYING CREATED FILE: /Users/mschroeder/Documents/Projects/RxShortages/Resources/app.js => /Users/mschroeder/Documents/Projects/RxShortages/build/android/bin/assets/Resources/app.js
-[TRACE] COPYING CREATED FILE: /Users/mschroeder/Documents/Projects/RxShortages/Resources/images/arrow_24.png => /Users/mschroeder/Documents/Projects/RxShortages/build/android/bin/assets/Resources/images/arrow_24.png
-[TRACE] COPYING CREATED FILE: /Users/mschroeder/Documents/Projects/RxShortages/Resources/images/arrow_24@2x.png => /Users/mschroeder/Documents/Projects/RxShortages/build/android/bin/assets/Resources/images/arrow_24@2x.png
-[TRACE] COPYING CREATED FILE: /Users/mschroeder/Documents/Projects/RxShortages/Resources/images/green.png => /Users/mschroeder/Documents/Projects/RxShortages/build/android/bin/assets/Resources/images/green.png
-[TRACE] COPYING CREATED FILE: /Users/mschroeder/Documents/Projects/RxShortages/Resources/images/green@2x.png => /Users/mschroeder/Documents/Projects/RxShortages/build/android/bin/assets/Resources/images/green@2x.png
-[TRACE] COPYING CREATED FILE: /Users/mschroeder/Documents/Projects/RxShortages/Resources/images/home_24.png => /Users/mschroeder/Documents/Projects/RxShortages/build/android/bin/assets/Resources/images/home_24.png
-[TRACE] COPYING CREATED FILE: /Users/mschroeder/Documents/Projects/RxShortages/Resources/images/home_24@2x.png => /Users/mschroeder/Documents/Projects/RxShortages/build/android/bin/assets/Resources/images/home_24@2x.png
-[TRACE] COPYING CREATED FILE: /Users/mschroeder/Documents/Projects/RxShortages/Resources/images/info_24.png => /Users/mschroeder/Documents/Projects/RxShortages/build/android/bin/assets/Resources/images/info_24.png
-[TRACE] COPYING CREATED FILE: /Users/mschroeder/Documents/Projects/RxShortages/Resources/images/info_24@2x.png => /Users/mschroeder/Documents/Projects/RxShortages/build/android/bin/assets/Resources/images/info_24@2x.png
-[TRACE] COPYING CREATED FILE: /Users/mschroeder/Documents/Projects/RxShortages/Resources/images/phone_24.png => /Users/mschroeder/Documents/Projects/RxShortages/build/android/bin/assets/Resources/images/phone_24.png
-[TRACE] COPYING CREATED FILE: /Users/mschroeder/Documents/Projects/RxShortages/Resources/images/phone_24@2x.png => /Users/mschroeder/Documents/Projects/RxShortages/build/android/bin/assets/Resources/images/phone_24@2x.png
-[TRACE] COPYING CREATED FILE: /Users/mschroeder/Documents/Projects/RxShortages/Resources/images/red.png => /Users/mschroeder/Documents/Projects/RxShortages/build/android/bin/assets/Resources/images/red.png
-[TRACE] COPYING CREATED FILE: /Users/mschroeder/Documents/Projects/RxShortages/Resources/images/red@2x.png => /Users/mschroeder/Documents/Projects/RxShortages/build/android/bin/assets/Resources/images/red@2x.png
-[TRACE] COPYING CREATED FILE: /Users/mschroeder/Documents/Projects/RxShortages/Resources/images/rss_24.png => /Users/mschroeder/Documents/Projects/RxShortages/build/android/bin/assets/Resources/images/rss_24.png
-[TRACE] COPYING CREATED FILE: /Users/mschroeder/Documents/Projects/RxShortages/Resources/images/rss_24@2x.png => /Users/mschroeder/Documents/Projects/RxShortages/build/android/bin/assets/Resources/images/rss_24@2x.png
-[TRACE] COPYING CREATED FILE: /Users/mschroeder/Documents/Projects/RxShortages/Resources/images/yellow.png => /Users/mschroeder/Documents/Projects/RxShortages/build/android/bin/assets/Resources/images/yellow.png
-[TRACE] COPYING CREATED FILE: /Users/mschroeder/Documents/Projects/RxShortages/Resources/images/yellow@2x.png => /Users/mschroeder/Documents/Projects/RxShortages/build/android/bin/assets/Resources/images/yellow@2x.png
-[TRACE] COPYING CREATED FILE: /Users/mschroeder/Documents/Projects/RxShortages/Resources/ipad/app.js => /Users/mschroeder/Documents/Projects/RxShortages/build/android/bin/assets/Resources/ipad/app.js
-[TRACE] COPYING CREATED FILE: /Users/mschroeder/Documents/Projects/RxShortages/Resources/ipad/images/arrow_24.png => /Users/mschroeder/Documents/Projects/RxShortages/build/android/bin/assets/Resources/ipad/images/arrow_24.png
-[TRACE] COPYING CREATED FILE: /Users/mschroeder/Documents/Projects/RxShortages/Resources/ipad/images/arrow_24@2x.png => /Users/mschroeder/Documents/Projects/RxShortages/build/android/bin/assets/Resources/ipad/images/arrow_24@2x.png
-[TRACE] COPYING CREATED FILE: /Users/mschroeder/Documents/Projects/RxShortages/Resources/ipad/images/green.png => /Users/mschroeder/Documents/Projects/RxShortages/build/android/bin/assets/Resources/ipad/images/green.png
-[TRACE] COPYING CREATED FILE: /Users/mschroeder/Documents/Projects/RxShortages/Resources/ipad/images/green@2x.png => /Users/mschroeder/Documents/Projects/RxShortages/build/android/bin/assets/Resources/ipad/images/green@2x.png
-[TRACE] COPYING CREATED FILE: /Users/mschroeder/Documents/Projects/RxShortages/Resources/ipad/images/home_24.png => /Users/mschroeder/Documents/Projects/RxShortages/build/android/bin/assets/Resources/ipad/images/home_24.png
-[TRACE] COPYING CREATED FILE: /Users/mschroeder/Documents/Projects/RxShortages/Resources/ipad/images/home_24@2x.png => /Users/mschroeder/Documents/Projects/RxShortages/build/android/bin/assets/Resources/ipad/images/home_24@2x.png
-[TRACE] COPYING CREATED FILE: /Users/mschroeder/Documents/Projects/RxShortages/Resources/ipad/images/info_24.png => /Users/mschroeder/Documents/Projects/RxShortages/build/android/bin/assets/Resources/ipad/images/info_24.png
-[TRACE] COPYING CREATED FILE: /Users/mschroeder/Documents/Projects/RxShortages/Resources/ipad/images/info_24@2x.png => /Users/mschroeder/Documents/Projects/RxShortages/build/android/bin/assets/Resources/ipad/images/info_24@2x.png
-[TRACE] COPYING CREATED FILE: /Users/mschroeder/Documents/Projects/RxShortages/Resources/ipad/images/phone_24.png => /Users/mschroeder/Documents/Projects/RxShortages/build/android/bin/assets/Resources/ipad/images/phone_24.png
-[TRACE] COPYING CREATED FILE: /Users/mschroeder/Documents/Projects/RxShortages/Resources/ipad/images/phone_24@2x.png => /Users/mschroeder/Documents/Projects/RxShortages/build/android/bin/assets/Resources/ipad/images/phone_24@2x.png
-[TRACE] COPYING CREATED FILE: /Users/mschroeder/Documents/Projects/RxShortages/Resources/ipad/images/red.png => /Users/mschroeder/Documents/Projects/RxShortages/build/android/bin/assets/Resources/ipad/images/red.png
-[TRACE] COPYING CREATED FILE: /Users/mschroeder/Documents/Projects/RxShortages/Resources/ipad/images/red@2x.png => /Users/mschroeder/Documents/Projects/RxShortages/build/android/bin/assets/Resources/ipad/images/red@2x.png
-[TRACE] COPYING CREATED FILE: /Users/mschroeder/Documents/Projects/RxShortages/Resources/ipad/images/rss_24.png => /Users/mschroeder/Documents/Projects/RxShortages/build/android/bin/assets/Resources/ipad/images/rss_24.png
-[TRACE] COPYING CREATED FILE: /Users/mschroeder/Documents/Projects/RxShortages/Resources/ipad/images/rss_24@2x.png => /Users/mschroeder/Documents/Projects/RxShortages/build/android/bin/assets/Resources/ipad/images/rss_24@2x.png
-[TRACE] COPYING CREATED FILE: /Users/mschroeder/Documents/Projects/RxShortages/Resources/ipad/images/yellow.png => /Users/mschroeder/Documents/Projects/RxShortages/build/android/bin/assets/Resources/ipad/images/yellow.png
-[TRACE] COPYING CREATED FILE: /Users/mschroeder/Documents/Projects/RxShortages/Resources/ipad/images/yellow@2x.png => /Users/mschroeder/Documents/Projects/RxShortages/build/android/bin/assets/Resources/ipad/images/yellow@2x.png
-[TRACE] COPYING CREATED FILE: /Users/mschroeder/Documents/Projects/RxShortages/Resources/ipad/index.html => /Users/mschroeder/Documents/Projects/RxShortages/build/android/bin/assets/Resources/ipad/index.html
-[TRACE] COPYING CREATED FILE: /Users/mschroeder/Documents/Projects/RxShortages/Resources/ipad/js/article.js => /Users/mschroeder/Documents/Projects/RxShortages/build/android/bin/assets/Resources/ipad/js/article.js
-[TRACE] COPYING CREATED FILE: /Users/mschroeder/Documents/Projects/RxShortages/Resources/ipad/js/articleFDA.js => /Users/mschroeder/Documents/Projects/RxShortages/build/android/bin/assets/Resources/ipad/js/articleFDA.js
-[TRACE] COPYING CREATED FILE: /Users/mschroeder/Documents/Projects/RxShortages/Resources/ipad/js/feed.js => /Users/mschroeder/Documents/Projects/RxShortages/build/android/bin/assets/Resources/ipad/js/feed.js
-[TRACE] COPYING CREATED FILE: /Users/mschroeder/Documents/Projects/RxShortages/Resources/ipad/js/getFDA.js => /Users/mschroeder/Documents/Projects/RxShortages/build/android/bin/assets/Resources/ipad/js/getFDA.js
-[TRACE] COPYING CREATED FILE: /Users/mschroeder/Documents/Projects/RxShortages/Resources/ipad/js/getFeed.js => /Users/mschroeder/Documents/Projects/RxShortages/build/android/bin/assets/Resources/ipad/js/getFeed.js
-[TRACE] COPYING CREATED FILE: /Users/mschroeder/Documents/Projects/RxShortages/Resources/ipad/js/trends.js => /Users/mschroeder/Documents/Projects/RxShortages/build/android/bin/assets/Resources/ipad/js/trends.js
-[TRACE] COPYING CREATED FILE: /Users/mschroeder/Documents/Projects/RxShortages/Resources/ipad/main_windows/about.js => /Users/mschroeder/Documents/Projects/RxShortages/build/android/bin/assets/Resources/ipad/main_windows/about.js
-[TRACE] COPYING CREATED FILE: /Users/mschroeder/Documents/Projects/RxShortages/Resources/ipad/main_windows/main_menu.js => /Users/mschroeder/Documents/Projects/RxShortages/build/android/bin/assets/Resources/ipad/main_windows/main_menu.js
-[TRACE] COPYING CREATED FILE: /Users/mschroeder/Documents/Projects/RxShortages/Resources/ipad/main_windows/report.js => /Users/mschroeder/Documents/Projects/RxShortages/build/android/bin/assets/Resources/ipad/main_windows/report.js
-[TRACE] COPYING CREATED FILE: /Users/mschroeder/Documents/Projects/RxShortages/Resources/js/article.js => /Users/mschroeder/Documents/Projects/RxShortages/build/android/bin/assets/Resources/js/article.js
-[TRACE] COPYING CREATED FILE: /Users/mschroeder/Documents/Projects/RxShortages/Resources/js/articleFDA.js => /Users/mschroeder/Documents/Projects/RxShortages/build/android/bin/assets/Resources/js/articleFDA.js
-[TRACE] COPYING CREATED FILE: /Users/mschroeder/Documents/Projects/RxShortages/Resources/js/feed.js => /Users/mschroeder/Documents/Projects/RxShortages/build/android/bin/assets/Resources/js/feed.js
-[TRACE] COPYING CREATED FILE: /Users/mschroeder/Documents/Projects/RxShortages/Resources/js/getFDA.js => /Users/mschroeder/Documents/Projects/RxShortages/build/android/bin/assets/Resources/js/getFDA.js
-[TRACE] COPYING CREATED FILE: /Users/mschroeder/Documents/Projects/RxShortages/Resources/js/getFeed.js => /Users/mschroeder/Documents/Projects/RxShortages/build/android/bin/assets/Resources/js/getFeed.js
-[TRACE] COPYING CREATED FILE: /Users/mschroeder/Documents/Projects/RxShortages/Resources/js/trends.js => /Users/mschroeder/Documents/Projects/RxShortages/build/android/bin/assets/Resources/js/trends.js
-[TRACE] COPYING CREATED FILE: /Users/mschroeder/Documents/Projects/RxShortages/Resources/main_windows/about.js => /Users/mschroeder/Documents/Projects/RxShortages/build/android/bin/assets/Resources/main_windows/about.js
-[TRACE] COPYING CREATED FILE: /Users/mschroeder/Documents/Projects/RxShortages/Resources/main_windows/main_menu.js => /Users/mschroeder/Documents/Projects/RxShortages/build/android/bin/assets/Resources/main_windows/main_menu.js
-[TRACE] COPYING CREATED FILE: /Users/mschroeder/Documents/Projects/RxShortages/Resources/main_windows/report.js => /Users/mschroeder/Documents/Projects/RxShortages/build/android/bin/assets/Resources/main_windows/report.js
-[TRACE] Generating Java Classes
-[DEBUG] Processing Android resource drawables
-[DEBUG] found special platform files dir = /Users/mschroeder/Documents/Projects/RxShortages/platform/android
-[DEBUG] copying app icon: /Users/mschroeder/Documents/Projects/RxShortages/build/android/bin/assets/Resources/appicon.png
-[DEBUG] generating theme.xml
-[DEBUG] found splash screen at /Users/mschroeder/Documents/Projects/RxShortages/build/android/bin/assets/Resources/default.png
-[INFO] Detected custom ApplicationManifest.xml -- no Titanium version migration supported
-[TRACE] Writing out AndroidManifest.xml
-[DEBUG] adding /Users/mschroeder/Documents/Projects/RxShortages/build/android/gen/com/mickschroeder/rxshortages/R.java to javac build list
-[DEBUG] adding /Users/mschroeder/Documents/Projects/RxShortages/build/android/gen/com/mickschroeder/rxshortages/RxshortagesActivity.java to javac build list
-[DEBUG] adding /Users/mschroeder/Documents/Projects/RxShortages/build/android/gen/com/mickschroeder/rxshortages/RxshortagesAppInfo.java to javac build list
-[DEBUG] adding /Users/mschroeder/Documents/Projects/RxShortages/build/android/gen/com/mickschroeder/rxshortages/RxshortagesApplication.java to javac build list
-[DEBUG] Building Java Sources: "/Users/mschroeder/Documents/Projects/RxShortages/build/android/gen/com/mickschroeder/rxshortages/R.java" "/Users/mschroeder/Documents/Projects/RxShortages/build/android/gen/com/mickschroeder/rxshortages/RxshortagesActivity.java" "/Users/mschroeder/Documents/Projects/RxShortages/build/android/gen/com/mickschroeder/rxshortages/RxshortagesAppInfo.java" "/Users/mschroeder/Documents/Projects/RxShortages/build/android/gen/com/mickschroeder/rxshortages/RxshortagesApplication.java"
-[INFO] Compiling Android Resources... This could take some time
-[DEBUG] Android classes.dex built
-[DEBUG] creating unsigned apk: /Users/mschroeder/Documents/Projects/RxShortages/build/android/bin/app-unsigned.apk
-[DEBUG] from resource zip => assets/Resources/images/arrow_24.png
-[DEBUG] from resource zip => assets/Resources/images/arrow_24@2x.png
-[DEBUG] from resource zip => assets/Resources/images/green.png
-[DEBUG] from resource zip => assets/Resources/images/green@2x.png
-[DEBUG] from resource zip => assets/Resources/images/home_24.png
-[DEBUG] from resource zip => assets/Resources/images/home_24@2x.png
-[DEBUG] from resource zip => assets/Resources/images/info_24.png
-[DEBUG] from resource zip => assets/Resources/images/info_24@2x.png
-[DEBUG] from resource zip => assets/Resources/images/phone_24.png
-[DEBUG] from resource zip => assets/Resources/images/phone_24@2x.png
-[DEBUG] from resource zip => assets/Resources/images/red.png
-[DEBUG] from resource zip => assets/Resources/images/red@2x.png
-[DEBUG] from resource zip => assets/Resources/images/rss_24.png
-[DEBUG] from resource zip => assets/Resources/images/rss_24@2x.png
-[DEBUG] from resource zip => assets/Resources/images/yellow.png
-[DEBUG] from resource zip => assets/Resources/images/yellow@2x.png
-[DEBUG] from resource zip => assets/Resources/ipad/images/arrow_24.png
-[DEBUG] from resource zip => assets/Resources/ipad/images/arrow_24@2x.png
-[DEBUG] from resource zip => assets/Resources/ipad/images/green.png
-[DEBUG] from resource zip => assets/Resources/ipad/images/green@2x.png
-[DEBUG] from resource zip => assets/Resources/ipad/images/home_24.png
-[DEBUG] from resource zip => assets/Resources/ipad/images/home_24@2x.png
-[DEBUG] from resource zip => assets/Resources/ipad/images/info_24.png
-[DEBUG] from resource zip => assets/Resources/ipad/images/info_24@2x.png
-[DEBUG] from resource zip => assets/Resources/ipad/images/phone_24.png
-[DEBUG] from resource zip => assets/Resources/ipad/images/phone_24@2x.png
-[DEBUG] from resource zip => assets/Resources/ipad/images/red.png
-[DEBUG] from resource zip => assets/Resources/ipad/images/red@2x.png
-[DEBUG] from resource zip => assets/Resources/ipad/images/rss_24.png
-[DEBUG] from resource zip => assets/Resources/ipad/images/rss_24@2x.png
-[DEBUG] from resource zip => assets/Resources/ipad/images/yellow.png
-[DEBUG] from resource zip => assets/Resources/ipad/images/yellow@2x.png
-[DEBUG] from resource zip => assets/Resources/ipad/index.html
-[DEBUG] from resource zip => assets/Resources/appicon.png
-[DEBUG] from resource zip => assets/Resources/appicon@2x.png
-[DEBUG] from resource zip => assets/Resources/default.png
-[DEBUG] from resource zip => assets/Resources/default@2x.png
-[DEBUG] from resource zip => assets/tiapp.xml
-[DEBUG] from resource zip => res/drawable/appicon.png
-[DEBUG] from resource zip => res/drawable/background.png
-[DEBUG] from resource zip => res/layout/titanium_tabgroup.xml
-[DEBUG] from resource zip => AndroidManifest.xml
-[DEBUG] from resource zip => resources.arsc
-[DEBUG] from JAR /Users/mschroeder/Library/Application Support/Titanium/mobilesdk/osx/1.7.3/android/modules/titanium-yahoo.jar => ti/modules/titanium/yahoo/yahoo.js
-[DEBUG] from JAR /Users/mschroeder/Library/Application Support/Titanium/mobilesdk/osx/1.7.3/android/titanium.jar => org/apache/Commons-NOTICE.txt
-[DEBUG] from JAR /Users/mschroeder/Library/Application Support/Titanium/mobilesdk/osx/1.7.3/android/titanium.jar => org/apache/HttpComponents-NOTICE.txt
-[DEBUG] from JAR /Users/mschroeder/Library/Application Support/Titanium/mobilesdk/osx/1.7.3/android/titanium.jar => org/apache/mime4j-NOTICE.txt
-[DEBUG] from JAR /Users/mschroeder/Library/Application Support/Titanium/mobilesdk/osx/1.7.3/android/titanium.jar => org/appcelerator/titanium/build.properties
-[DEBUG] from JAR /Users/mschroeder/Library/Application Support/Titanium/mobilesdk/osx/1.7.3/android/titanium.jar => org/appcelerator/titanium/res/drawable/background.png
-[DEBUG] from JAR /Users/mschroeder/Library/Application Support/Titanium/mobilesdk/osx/1.7.3/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_check_buttonless_on.png
-[DEBUG] from JAR /Users/mschroeder/Library/Application Support/Titanium/mobilesdk/osx/1.7.3/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_check_buttonless_on_18.png
-[DEBUG] from JAR /Users/mschroeder/Library/Application Support/Titanium/mobilesdk/osx/1.7.3/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_check_buttonless_on_48.png
-[DEBUG] from JAR /Users/mschroeder/Library/Application Support/Titanium/mobilesdk/osx/1.7.3/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_more.png
-[DEBUG] from JAR /Users/mschroeder/Library/Application Support/Titanium/mobilesdk/osx/1.7.3/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_more_18.png
-[DEBUG] from JAR /Users/mschroeder/Library/Application Support/Titanium/mobilesdk/osx/1.7.3/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_more_48.png
-[DEBUG] from JAR /Users/mschroeder/Library/Application Support/Titanium/mobilesdk/osx/1.7.3/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_picker_normal.9.png
-[DEBUG] from JAR /Users/mschroeder/Library/Application Support/Titanium/mobilesdk/osx/1.7.3/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_picker_pressed.9.png
-[DEBUG] from JAR /Users/mschroeder/Library/Application Support/Titanium/mobilesdk/osx/1.7.3/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_picker_selected.9.png
-[DEBUG] from JAR /Users/mschroeder/Library/Application Support/Titanium/mobilesdk/osx/1.7.3/android/titanium.jar => org/appcelerator/titanium/res/drawable/default_icon.png
-[DEBUG] from JAR /Users/mschroeder/Library/Application Support/Titanium/mobilesdk/osx/1.7.3/android/titanium.jar => org/appcelerator/titanium/res/drawable/photoDefault.png
-[DEBUG] from JAR /Users/mschroeder/Library/Application Support/Titanium/mobilesdk/osx/1.7.3/android/modules/titanium-ui.jar => ti/modules/titanium/ui/widget/webview/binding.js
-[DEBUG] from JAR /Users/mschroeder/Library/Application Support/Titanium/mobilesdk/osx/1.7.3/android/modules/titanium-ui.jar => ti/modules/titanium/ui/widget/webview/binding.min.js
-[DEBUG] from JAR /Users/mschroeder/Library/Application Support/Titanium/mobilesdk/osx/1.7.3/android/modules/titanium-ui.jar => ti/modules/titanium/ui/widget/webview/json2.js
-[DEBUG] from JAR /Users/mschroeder/Library/Application Support/Titanium/mobilesdk/osx/1.7.3/android/smalljs.jar => org/mozilla/javascript/resources/Messages.properties
-[DEBUG] from JAR /Users/mschroeder/Library/Application Support/Titanium/mobilesdk/osx/1.7.3/android/smalljs.jar => org/mozilla/javascript/resources/Messages_fr.properties
+[DEBUG] /Users/mschroeder/Library/Application Support/Titanium/mobilesdk/osx/1.7.5/android/builder.py simulator RxShortages /Applications/android-sdk-mac_x86 /Users/mschroeder/Documents/Projects/RxShortages com.mickschroeder.rxshortages 5 WVGA800 
+[INFO] Building RxShortages for Android ... one moment
+[INFO] Titanium SDK version: 1.7.5 (11/02/11 17:00 ab20af7)
+[DEBUG] Waiting for device to be ready ...
+[TRACE] adb devices returned 1 devices/emulators
+[TRACE] adb devices returned 1 devices/emulators
+[TRACE] adb devices returned 1 devices/emulators
+[INFO] Android Emulator has exited
+[TRACE] adb devices returned 0 devices/emulators
+[TRACE] adb devices returned 0 devices/emulators
+[TRACE] adb devices returned 0 devices/emulators
+[TRACE] adb devices returned 0 devices/emulators
+[TRACE] adb devices returned 0 devices/emulators
+[TRACE] adb devices returned 0 devices/emulators
+[TRACE] adb devices returned 0 devices/emulators
+[TRACE] adb devices returned 0 devices/emulators
+[TRACE] adb devices returned 0 devices/emulators
+[TRACE] adb devices returned 0 devices/emulators
+[ERROR] Timed out waiting for emulator to be ready, you may need to close the emulator and try again
+[TRACE] adb devices returned 0 devices/emulators
+[ERROR] Timed out waiting for emulator to be ready, you may need to close the emulator and try again

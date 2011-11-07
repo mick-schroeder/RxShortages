@@ -13,6 +13,9 @@
 
 // Set properties
 var win = Ti.UI.currentWindow;
+
+
+
 win.backgroundColor = '#fff';
 
 // Set variables
@@ -77,7 +80,7 @@ if (Ti.App.Properties.getString('websiteName') == 'Current Shortages') {
 function setTableData() {
 
 	// YQL query to get feed. 
-	query = "Select link, pubDate, title from rss where url='" + siteUrl + "'";
+	query = "Select link, pubDate, title from rss where url='" + siteUrl + "' | sort(field='title')";
 
 	Ti.Yahoo.yql(query, function (e) {
 		data = e.data;
@@ -85,8 +88,8 @@ function setTableData() {
 		{
 			Ti.App.fireEvent("hide_indicator");
 			Titanium.UI.createAlertDialog({
-				title: 'Error querying YQL',
-				message: 'No data could be retrieved using YQL' }).show();
+				title: 'Error',
+				message: 'No data could be retrieved. Please Check your internet connection.' }).show();
 				return;
 			}
 			else {
@@ -107,7 +110,7 @@ function setTableData() {
 						right: 30,
 						color: '#000',
 						font: {
-							fontSize: 15,
+							fontSize: '15dp',
 							fontWeight: 'bold'
 						}
 					});
@@ -128,7 +131,8 @@ function setTableData() {
 			var newWin = Ti.UI.createWindow({
 				url: 'article.js',
 				//title : e.rowData.theTitle,
-				barColor: Ti.UI.currentWindow.barColor
+				barColor: Ti.UI.currentWindow.barColor,
+				backButtonTitle : 'Back'
 			});
 
 			// Add variables for the description and the url.

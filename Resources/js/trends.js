@@ -13,6 +13,8 @@
 
 // Set properties
 var win = Ti.UI.currentWindow;
+
+
 win.backgroundColor = '#fff';
 
 // Set variables
@@ -85,7 +87,7 @@ function setTableData() {
                 right: 30,
 				color: '#000',
                 font: {
-                    fontSize: 15,
+                    fontSize: '15dp',
                     fontWeight: 'bold'
                 }
 
@@ -104,7 +106,9 @@ tableView.addEventListener('click', function (e) {
     var newWin = Ti.UI.createWindow({
         url: 'article.js',
         //title : e.rowData.theTitle,
-        barColor: Ti.UI.currentWindow.barColor
+        barColor: Ti.UI.currentWindow.barColor,
+        backButtonTitle : 'Back'
+
     });
 
     // Add variables for the description and the url.

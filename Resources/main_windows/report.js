@@ -16,7 +16,7 @@ win.layout = 'vertical';
 var fda = Titanium.UI.createLabel({
 	color:'#000',
 	text:'Report to FDA:',
-	top:20,
+	top:10,
 	left:10,
 	width: 'auto',
 	height: 'auto'
@@ -26,8 +26,8 @@ win.add(fda);
 
 var b1 = Titanium.UI.createButton({
 	title:'Email: drugshortages@fda.hhs.gov',
-	height:40,
-	width:280,
+	height: 40,
+	width: '90%',
 	top:10,
 
 });
@@ -37,8 +37,8 @@ win.add(b1);
 
 var b2 = Titanium.UI.createButton({
 	title:'Call: (888) 463-6332',
-	height:40,
-	width:280,
+	height: 40,
+	width: '90%',
 	top:10
 });
 
@@ -57,8 +57,8 @@ win.add(ashp);
 
 var b3 = Titanium.UI.createButton({
 	title:'Drug Shortage Report Form',
-	height:40,
-	width:280,
+	height: 40,
+	width: '90%',
 	top:10
 });
 

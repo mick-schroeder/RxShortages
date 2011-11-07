@@ -8,6 +8,9 @@
  */
 
 var win = Ti.UI.currentWindow;
+
+
+
 win.backgroundColor = '#ffffff';
 
 
@@ -15,7 +18,8 @@ win.backgroundColor = '#ffffff';
 		scalePageToFit : true,
 		url : 'http://mickschroeder.com/pharmacy/parse/parse.php?Link=' + win.theUrl + '&pubDate=' + win.pubDate
 	});
-	
+	    Ti.API.info('http://mickschroeder.com/pharmacy/parse/parse.php?Link=' + win.theUrl + '&pubDate=' + win.pubDate);
+
 	// Add the webview (the original webpage article), and animate the page into view.
 	win.add(webview);
 
