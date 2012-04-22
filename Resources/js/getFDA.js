@@ -101,6 +101,7 @@ function setTableData() {
 					// Label
 					var articleTitleLabel = Ti.UI.createLabel({
 						text: 'Nothing to report',
+						
 						left: 10,
 						right: 30,
 						color: '#000',
@@ -124,6 +125,7 @@ function setTableData() {
 
 					newRow = Ti.UI.createTableViewRow({
 						theTitle: data.item.title,
+						height: Ti.UI.FILL,
 						pubDate: data.item.pubDate,
 						desc : data.item.description,
 						url: data.item.link,
@@ -135,6 +137,7 @@ function setTableData() {
 						text: data.item.title,
 						left: 10,
 						right: 30,
+						height: Ti.UI.FILL,
 						color: '#000',
 						font: {
 							fontSize: '15dp',

@@ -1,4 +1,3 @@
-#Wed Oct 19 22:29:10 EDT 2011
 eclipse.preferences.version=1
 provisioning_profiles/development/5AA4803E-9685-440A-95F2-C234755BDE3E/appid=com.mickschroeder.*
 provisioning_profiles/development/5AA4803E-9685-440A-95F2-C234755BDE3E/filepath=/Users/mschroeder/Downloads/Chrome/Mick_Provisioning.mobileprovision
@@ -12,7 +11,11 @@ provisioning_profiles/development/FB00D5AC-7B8D-4DC3-855C-1F1937145717/appid=com
 provisioning_profiles/development/FB00D5AC-7B8D-4DC3-855C-1F1937145717/filepath=/Users/mschroeder/Downloads/Chrome/Mick_Distribution (1).mobileprovision
 provisioning_profiles/development/FB00D5AC-7B8D-4DC3-855C-1F1937145717/name=Mick Distribution
 provisioning_profiles/development/FB00D5AC-7B8D-4DC3-855C-1F1937145717/uuid=FB00D5AC-7B8D-4DC3-855C-1F1937145717
-provisioning_profiles/distribution/FB00D5AC-7B8D-4DC3-855C-1F1937145717/appid=com.mickschroeder.*
-provisioning_profiles/distribution/FB00D5AC-7B8D-4DC3-855C-1F1937145717/filepath=/Users/mschroeder/Downloads/Chrome/Mick_Distribution (1).mobileprovision
-provisioning_profiles/distribution/FB00D5AC-7B8D-4DC3-855C-1F1937145717/name=Mick Distribution
-provisioning_profiles/distribution/FB00D5AC-7B8D-4DC3-855C-1F1937145717/uuid=FB00D5AC-7B8D-4DC3-855C-1F1937145717
+provisioning_profiles/distribution/0BD8255D-6AC0-4262-9D56-D3F77394D059/appid=*
+provisioning_profiles/distribution/0BD8255D-6AC0-4262-9D56-D3F77394D059/filepath=/Users/mschroeder/Library/MobileDevice/Provisioning Profiles/0BD8255D-6AC0-4262-9D56-D3F77394D059.mobileprovision
+provisioning_profiles/distribution/0BD8255D-6AC0-4262-9D56-D3F77394D059/name=Michael
+provisioning_profiles/distribution/0BD8255D-6AC0-4262-9D56-D3F77394D059/uuid=0BD8255D-6AC0-4262-9D56-D3F77394D059
+provisioning_profiles/distribution/763B40A7-EA68-4922-9366-835E1DE381A6/appid=*
+provisioning_profiles/distribution/763B40A7-EA68-4922-9366-835E1DE381A6/filepath=/Users/mschroeder/Library/MobileDevice/Provisioning Profiles/763B40A7-EA68-4922-9366-835E1DE381A6.mobileprovision
+provisioning_profiles/distribution/763B40A7-EA68-4922-9366-835E1DE381A6/name=iOS Team Provisioning Profile\: *
+provisioning_profiles/distribution/763B40A7-EA68-4922-9366-835E1DE381A6/uuid=763B40A7-EA68-4922-9366-835E1DE381A6

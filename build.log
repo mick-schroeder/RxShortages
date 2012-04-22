@@ -1,23 +1,13 @@
 Logfile initialized
 [INFO] logfile = /Users/mschroeder/Documents/Projects/RxShortages/build.log
-[DEBUG] /Users/mschroeder/Library/Application Support/Titanium/mobilesdk/osx/1.7.5/android/builder.py simulator RxShortages /Applications/android-sdk-mac_x86 /Users/mschroeder/Documents/Projects/RxShortages com.mickschroeder.rxshortages 5 WVGA800 
+[DEBUG] /Users/mschroeder/Library/Application Support/Titanium/mobilesdk/osx/1.8.2/android/builder.py simulator RxShortages /Applications/android-sdk-mac_x86 /Users/mschroeder/Documents/Projects/RxShortages com.mickschroeder.rxshortages 7 WVGA800 
 [INFO] Building RxShortages for Android ... one moment
-[INFO] Titanium SDK version: 1.7.5 (11/02/11 17:00 ab20af7)
+[INFO] Titanium SDK version: 1.8.2 (02/23/12 17:46 59b3a90)
 [DEBUG] Waiting for device to be ready ...
-[TRACE] adb devices returned 1 devices/emulators
-[TRACE] adb devices returned 1 devices/emulators
-[TRACE] adb devices returned 1 devices/emulators
-[INFO] Android Emulator has exited
 [TRACE] adb devices returned 0 devices/emulators
 [TRACE] adb devices returned 0 devices/emulators
 [TRACE] adb devices returned 0 devices/emulators
 [TRACE] adb devices returned 0 devices/emulators
 [TRACE] adb devices returned 0 devices/emulators
-[TRACE] adb devices returned 0 devices/emulators
-[TRACE] adb devices returned 0 devices/emulators
-[TRACE] adb devices returned 0 devices/emulators
-[TRACE] adb devices returned 0 devices/emulators
-[TRACE] adb devices returned 0 devices/emulators
-[ERROR] Timed out waiting for emulator to be ready, you may need to close the emulator and try again
 [TRACE] adb devices returned 0 devices/emulators
 [ERROR] Timed out waiting for emulator to be ready, you may need to close the emulator and try again

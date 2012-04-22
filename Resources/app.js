@@ -13,7 +13,6 @@ Ti.include('ipad/app.js');
 
 else {
 
-
 // sets the background color
 Ti.UI.setBackgroundColor('#fff');
 var win = Ti.UI.currentWindow;
@@ -122,6 +121,10 @@ function showIndicator() {
             borderRadius: 10,
             opacity: 0.8
         });
+        indView.addEventListener('click', function (e) {
+   		Ti.API.info("IN HIDE INDICATOR");
+    	hideIndicator();
+		});
         win.add(indView);
     }
 
@@ -153,7 +156,7 @@ function showIndicator() {
         actInd.message = "Loading";
     }
     actInd.show();
-
+ 
 };
 
 function hideIndicator() {
@@ -172,6 +175,7 @@ function hideIndicator() {
 Titanium.App.addEventListener('show_indicator', function (e) {
     Ti.API.info("IN SHOW INDICATOR");
     showIndicator();
+
 });
 
 Titanium.App.addEventListener('hide_indicator', function (e) {

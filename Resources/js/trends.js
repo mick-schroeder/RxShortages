@@ -77,12 +77,14 @@ function setTableData() {
                 theTitle: data[i][1],
                 path: 'article.js',
                 url: data[i][0],
+                height: Ti.UI.FILL,
                 hasChild: true,
                 className: 'trend_row'
             });
             // Need label in order to change the font size.
             var articleTitleLabel = Ti.UI.createLabel({
                 text: i + 1 + '. ' + data[i][1],
+                height: Ti.UI.FILL,
                 left: 10,
                 right: 30,
 				color: '#000',
@@ -129,7 +131,7 @@ if (Ti.Platform.name == 'iPhone OS') {
 	});
 	var bb2 = Titanium.UI.createTabbedBar({
 	    labels: ['Day', 'Week', 'Month', 'Quarter'],
-	    //backgroundColor:'maroon'
+	    //backgroundColor:'maroon',
 	    index: 1
 	});
 
@@ -277,9 +279,7 @@ else {
 		Ti.App.fireEvent("show_indicator");
 		tableView.setData(null);
 		setTableData();
-			});
-	
-	
+			});	
 }
 
 

@@ -20,6 +20,7 @@ SplitViewNav.detailNav = Ti.UI.iPhone.createNavigationGroup({
 SplitViewNav.splitView = Titanium.UI.iPad.createSplitWindow({
 	masterView:SplitViewNav.masterNav,
 	detailView:SplitViewNav.detailNav,
+	showMasterInPortrait:true
 });
 
 // DETAIL VIEW WEBVIEW
@@ -101,21 +102,17 @@ SplitViewNav.tableView.addEventListener('click', function(e) {
 		SplitViewNav.masterNav.open(w,{animated:true});
 });
 
+
 //
 //  CREATE CUSTOM LOADING INDICATOR
 //
 var win = null;
 var actInd = null;
-var loaderShowing;
 
 function showIndicator() {
-	if (loaderShowing === true) {
-		Ti.API.info("INDICATOR SHOWING");
-	}
-	else {
     if (Ti.Platform.osname != 'android') {
         // window container
-        actWin = Titanium.UI.createWindow({
+        win = Titanium.UI.createWindow({
             height: 150,
             width: 150
         });
@@ -128,7 +125,11 @@ function showIndicator() {
             borderRadius: 10,
             opacity: 0.8
         });
-        actWin.add(indView);
+        indView.addEventListener('click', function (e) {
+   		Ti.API.info("IN HIDE INDICATOR");
+    	hideIndicator();
+		});
+        win.add(indView);
     }
 
     // loading indicator
@@ -139,7 +140,7 @@ function showIndicator() {
     });
 
     if (Ti.Platform.osname != 'android') {
-        actWin.add(actInd);
+        win.add(actInd);
 
         // message
         var message = Titanium.UI.createLabel({
@@ -153,22 +154,19 @@ function showIndicator() {
             },
             bottom: 20
         });
-        actWin.add(message);
-        actWin.open();
+        win.add(message);
+        win.open();
     } else {
         actInd.message = "Loading";
     }
-	loaderShowing = true;
     actInd.show();
-}
+ 
 };
 
 function hideIndicator() {
     actInd.hide();
-	loaderShowing = false;
-
     if (Ti.Platform.osname != 'android') {
-        actWin.close({
+        win.close({
             opacity: 0,
             duration: 500
         });
@@ -179,15 +177,15 @@ function hideIndicator() {
 // Add global event handlers to hide/show custom indicator
 //
 Titanium.App.addEventListener('show_indicator', function (e) {
-	Ti.API.info("IN SHOW INDICATOR");
+    Ti.API.info("IN SHOW INDICATOR");
     showIndicator();
+
 });
 
 Titanium.App.addEventListener('hide_indicator', function (e) {
     Ti.API.info("IN HIDE INDICATOR");
     hideIndicator();
 });
-
 
 // ORIENTATION NAVIGATION BUTTON
 SplitViewNav.open = function()

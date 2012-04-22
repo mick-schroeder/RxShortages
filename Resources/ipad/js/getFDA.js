@@ -123,7 +123,8 @@ function setTableData() {
 						desc : data.item.description,
 						url: data.item.link,
 						hasChild: true,
-						className: 'FDA_row'
+						className: 'FDA_row',
+						height: Ti.UI.FILL,
 					});
 					// Label
 					var articleTitleLabel = Ti.UI.createLabel({
@@ -131,6 +132,7 @@ function setTableData() {
 						left: 10,
 						right: 30,
 						color: '#000',
+						height: Ti.UI.FILL,
 						font: {
 							fontSize: '15dp',
 							fontWeight: 'bold'
@@ -158,6 +160,7 @@ function setTableData() {
 						desc : data.item[i].description,
 						url: data.item[i].link,
 						hasChild: true,
+						height: Ti.UI.FILL,
 						className: 'FDA_row'
 					});
 					// Label
@@ -166,6 +169,7 @@ function setTableData() {
 						left: 10,
 						right: 30,
 						color: '#000',
+						height: Ti.UI.FILL,
 						font: {
 							fontSize: '15dp',
 							fontWeight: 'bold'

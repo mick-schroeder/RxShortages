@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ti:app xmlns:ti="http://ti.appcelerator.org">
+    <sdk-version>2.0.1.GA2</sdk-version>
     <deployment-targets>
         <target device="mobileweb">true</target>
         <target device="blackberry">false</target>
@@ -7,13 +8,13 @@
         <target device="ipad">true</target>
         <target device="android">true</target>
     </deployment-targets>
-    <id>com.mickschroeder.rxshortages</id>
+    <id>com.mickschroeder.RxShortages</id>
     <name>RxShortages</name>
-    <version>3</version>
+    <version>4</version>
     <publisher>Michael Schroeder</publisher>
     <url>http://mickschroeder.com/rxshortages</url>
     <description>Rx Shortages is designed to help health care providers access information about drug shortages quickly and easily.</description>
-    <copyright>2011 Michael Schroeder, Pharm.D.</copyright>
+    <copyright>Michael Schroeder, Pharm.D.</copyright>
     <icon>appicon.png</icon>
     <persistent-wifi>false</persistent-wifi>
     <prerendered-icon>false</prerendered-icon>
@@ -38,8 +39,7 @@
     </iphone>
     <android xmlns:android="http://schemas.android.com/apk/res/android">
         <manifest android:versionCode="7" android:versionName="3"/>
-        		<supports-screens android:anyDensity="false"/>
-
+        <supports-screens android:anyDensity="false"/>
     </android>
     <modules/>
 </ti:app>

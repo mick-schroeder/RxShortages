@@ -67,6 +67,7 @@ function setTableData() {
                 path: 'article.js',
                 url: data[i][0],
                 hasChild: true,
+                height: Ti.UI.FILL,
                 className: 'trend_row'
             });
             // Need label in order to change the font size.
@@ -75,6 +76,7 @@ function setTableData() {
                 left: 10,
                 right: 30,
 				color: '#000',
+				height: Ti.UI.FILL,
                 font: {
                     fontSize: '15dp',
                     fontWeight: 'bold'

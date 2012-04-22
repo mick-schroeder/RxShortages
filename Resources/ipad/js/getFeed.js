@@ -86,6 +86,7 @@ function setTableData() {
 						pubDate: data.item[i].pubDate,
 						url: data.item[i].link,
 						hasChild: true,
+						height: Ti.UI.FILL,
 						className: 'drug_row'
 					});
 					// Label
@@ -94,6 +95,7 @@ function setTableData() {
 						left: 10,
 						right: 30,
 						color: '#000',
+						height: Ti.UI.FILL,
 						font: {
 							fontSize: 15,
 							fontWeight: 'bold'

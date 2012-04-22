@@ -14,8 +14,6 @@
 // Set properties
 var win = Ti.UI.currentWindow;
 
-
-
 win.backgroundColor = '#fff';
 
 // Set variables
@@ -79,7 +77,7 @@ function setTableData() {
 				var tableData = [];
 
 				// For each item from the total number of postings returned from the query...
-				//for (var i = 0; i < data.item.length; i++)
+				// for (var i = 0; i < data.item.length; i++)
 				for (var i = 0, j = data.item.length; i < j; i++) {
 					newRow = Ti.UI.createTableViewRow({
 						url: data.item[i].link,

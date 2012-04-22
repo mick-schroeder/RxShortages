@@ -28,7 +28,7 @@ var l1 = Titanium.UI.createLabel({
 win.add(l1);
 
 var b1 = Titanium.UI.createButton({
-	title:'Email: mschroeder@gmail.com',
+	title:'mschroeder@gmail.com',
 	height: 40,
 	width: '90%',
 	top:10
